@@ -7,25 +7,22 @@ layout: home
 <div class="box box2">
 
 digital hoarder
+
 time you will never get back
+
 pointless ensemble
 
 </div>
 
 {% for c in site.collections %}
 <div class="{{ c.label }} box">
-
-{{ c.label }}
-{{ c.values.description }}
+[{{ c.label }}]({{ c.label }})
 </div>
 {% endfor %}
 
 {% for i in (1..30) %}
 
-<div class="box">
-&nbsp;
-</div>
-
+<div class="box"></div>
 
 {% endfor %}
 
