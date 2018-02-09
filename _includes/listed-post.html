@@ -1,0 +1,21 @@
+<div class="post">
+
+	<div class="meta">
+		<p class="item tags small">
+		{% for tag in post.tags %}<a href="/tag/{{ tag }}" class="tag">{{ tag }}</a>{% endfor %}
+		</p>
+	</div>
+	<div class="breaker"></div>
+	<h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+
+	<info datetime="{{ page.date | date: "%Y-%m-%d" }}">
+	{{ post.date | date: "%b %d, %Y" }}
+	</info>
+
+
+	<div class="body">
+		{{ post.content }}</div>
+	<div class="breaker"></div>
+	<info class="empty after">
+	</info>
+</div>

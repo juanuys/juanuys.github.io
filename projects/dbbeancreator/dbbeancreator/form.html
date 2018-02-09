@@ -1,0 +1,15 @@
+<form action="servlet/dbbeancreator.CreateDBBean">
+	<p>
+	Write sources to page <input type="checkbox" name="writesourcepage" value="true" />, 
+	Create sources as .java files <input type="checkbox" name="createsourcefiles" value="true" /> 
+	(location <input type="text" name="fileslocation" value="/path/to/your/project/src/db" />)</p>
+	<p>Table name: <input type="text" name="table" value="users"/> (all tables <input type="checkbox" name="alltables" value="true" />)</p>
+	<p>Database name: <input type="text" name="dbname" value="your-db-name"/></p>
+	<p>Object name: (class) 
+	Prefix <input type="text" name="objectname_prefix" value=""/>, 
+	Value <input type="text" name="objectname" value="Users"/>, 
+	Postfix <input type="text" name="objectname_postfix" value="Bean"/>
+	</p>
+	<p>Package name: <input type="text" name="stpackage" value="com.your.package.name"/></p>
+	<p><input type="submit"/></p>
+</form>
