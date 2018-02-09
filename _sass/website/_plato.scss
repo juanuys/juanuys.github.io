@@ -1,0 +1,9 @@
+$plato-brand: cbrew('oranges', 7);
+
+
+.posts {
+    background-color: nth($plato-brand, 1) !important;
+}
+.quotes {
+    background-color: nth($plato-brand, 2) !important;
+}
