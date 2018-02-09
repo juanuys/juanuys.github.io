@@ -1,4 +1,6 @@
 $plato-brand: cbrew('oranges', 7);
+$c1: nth($plato-brand, 1);
+$c2: nth($plato-brand, 2);
 
 
 .posts {
