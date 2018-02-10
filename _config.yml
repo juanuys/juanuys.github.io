@@ -14,12 +14,15 @@ kramdown:
 theme: minima
 plugins:
   - jekyll-feed
-collections_dir: content
 collections:
+  photograms:
+    description: photos
+    output: true
+    permalink: /:collection/:path
   quotes:
     description: doth quoth
     output: true
-    permalink: pretty
+    permalink: /:collection/:path
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
