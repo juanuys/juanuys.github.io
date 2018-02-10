@@ -1,6 +1,7 @@
 I'm a contractor programmer. I'm also an artist at heart. 
 
 I fed the programmer but starved the artist.
+date: 2016-10-20
 
 Here's a tab I have open in my browser right now:
 

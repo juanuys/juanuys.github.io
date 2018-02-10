@@ -1,6 +1,7 @@
 ---
 title: "Startup Day #2"
 description: "Startup Day #2"
+date: 2010-09-09
 og_image_url: "http://i.imgur.com/lFPheH6.jpg"
 image: "http://i.imgur.com/lFPheH6.jpg"
 image_content_type: "image/jpeg"

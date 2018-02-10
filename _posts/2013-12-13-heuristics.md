@@ -1,6 +1,7 @@
 ---
 title: "Heuristics"
 description: "One of the most powerful concepts of all time."
+date: 2013-12-13
 layout: post
 tags: tech
 category: blog

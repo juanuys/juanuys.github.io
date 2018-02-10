@@ -1,6 +1,7 @@
 ---
 title: "I made my daughter a book for her first birthday."
 description: "Heavily cribbed and borrowed from the Interwebs. But, it still counts! And it's about cats."
+date: 2014-04-17
 og_image_url: "http://distilleryimage10.ak.instagram.com/da482076c5eb11e3aaef0002c9db4c12_8.jpg"
 image: "http://distilleryimage10.ak.instagram.com/da482076c5eb11e3aaef0002c9db4c12_8.jpg"
 image_content_type: "image/jpeg"

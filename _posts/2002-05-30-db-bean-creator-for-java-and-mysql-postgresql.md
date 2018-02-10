@@ -1,6 +1,7 @@
 ---
 title: "DB Bean Creator for Java and MySQL/PostgresQL"
 description: "DB Bean Creator for Java and MySQL/PostgresQL"
+date: 2002-05-30
 og_image_url: "http://interhacker.files.wordpress.com/2011/12/dukewave1.png"
 image: "http://interhacker.files.wordpress.com/2011/12/dukewave1.png"
 image_content_type: "image/png"

@@ -1,6 +1,7 @@
 ---
 title: "A tale of two money transfers"
 description: "TransferWise and Barclays"
+date: 2015-06-14
 layout: post
 tags: [life]
 category: blog

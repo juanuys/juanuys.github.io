@@ -1,6 +1,7 @@
 ---
 title: "AngularJS and Internet Explorer woes"
 description: "Aka endless clicking on crossbrowsertesting.com and why I love being a backend programmer."
+date: 2013-11-01
 og_image_url: "http://distilleryimage7.ak.instagram.com/3955ae5e433711e395a822000ae90d43_8.jpg"
 image: "http://distilleryimage7.ak.instagram.com/3955ae5e433711e395a822000ae90d43_8.jpg"
 image_content_type: "image/jpeg"

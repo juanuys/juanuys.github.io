@@ -1,6 +1,7 @@
 ---
 title: "Semantic Web — exciting times!"
 description: "Semantic Web"
+date: 2009-07-10
 og_image_url: "http://www.w3.org/DesignIssues/diagrams/loop.gif"
 image: "http://www.w3.org/DesignIssues/diagrams/loop.gif"
 image_content_type: "image/gif"

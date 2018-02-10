@@ -1,6 +1,7 @@
 ---
 title: "Startup Day #6 — Doubts and hamsters"
 description: "Startup Day #6 — Doubts and hamsters"
+date: 2010-09-13
 og_image_url: "http://i.imgur.com/qOxPxX5.jpg"
 image: "http://i.imgur.com/qOxPxX5.jpg"
 image_content_type: "image/jpeg"

@@ -1,6 +1,7 @@
 ---
 title: "Semantic Web Deep Dive"
 description: "Semantic Web Deep Dive"
+date: 2012-07-31
 og_image_url: "http://www.w3.org/DesignIssues/diagrams/loop.gif"
 image: "http://www.w3.org/DesignIssues/diagrams/loop.gif"
 image_content_type: "image/gif"

@@ -1,6 +1,7 @@
 ---
 title: "Read Receipts for the rest of us"
 description: "Read Receipts for the rest of us"
+date: 2012-01-25
 og_image_url: "http://i.imgur.com/t6oOMxg.jpg"
 image: "http://i.imgur.com/t6oOMxg.jpg"
 image_content_type: "image/jpeg"

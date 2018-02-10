@@ -1,6 +1,7 @@
 ---
 title: "Dell XPS 13 LE"
 description: "The final nail in the coffin for Apple products at Grumble Abode."
+date: 2013-11-02
 og_image_url: "http://25.media.tumblr.com/ee240ba31d3f2f3d04985380a78a7cb3/tumblr_mvmkbyrTe01ri2z5io1_1280.jpg"
 image: "http://25.media.tumblr.com/ee240ba31d3f2f3d04985380a78a7cb3/tumblr_mvmkbyrTe01ri2z5io1_1280.jpg"
 image_content_type: "image/jpeg"

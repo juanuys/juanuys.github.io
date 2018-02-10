@@ -1,6 +1,7 @@
 ---
 title: "Breadcrumbs with Javascript"
 description: "Breadcrumbs with Javascript"
+date: 2005-10-19
 og_image_url: "http://1.bp.blogspot.com/-rIALnuq4xME/TtGDgnD3siI/AAAAAAAABwk/IP-rYCMzxZs/s400/Hansel+Gretel+Wilkin.jpg"
 image: "http://1.bp.blogspot.com/-rIALnuq4xME/TtGDgnD3siI/AAAAAAAABwk/IP-rYCMzxZs/s400/Hansel+Gretel+Wilkin.jpg"
 image_content_type: "image/jpeg"

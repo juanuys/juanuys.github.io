@@ -1,6 +1,7 @@
 ---
 title: "Pollarize architecture at a glance"
 description: "Pollarize architecture at a glance"
+date: 2012-11-20
 og_image_url: "http://i.imgur.com/bd1Bh.png"
 image: "http://i.imgur.com/bd1Bh.png"
 image_content_type: "image/png"

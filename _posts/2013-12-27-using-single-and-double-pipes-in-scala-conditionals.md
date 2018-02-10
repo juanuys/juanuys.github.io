@@ -1,6 +1,7 @@
 ---
 title: "Using single and double pipes in Scala conditionals"
 description: "Using single and double pipes in Scala conditionals"
+date: 2013-12-27
 layout: post
 tags: scala
 category: blog

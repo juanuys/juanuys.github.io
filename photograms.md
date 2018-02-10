@@ -18,7 +18,7 @@ not in the moment
 {% for item in site.photograms %}
 <div class="box altbox">
 [{{item.title | truncatewords: 7 }}]({{ item.url }})
-<small>{{item.date}}</small>
+<small>{{item.date | date: "%Y-%m-%d"}}</small>
 </div>
 {% endfor %}
 

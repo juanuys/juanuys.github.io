@@ -1,6 +1,7 @@
 ---
 title: "Twenty Fifteen"
 description: "My uninformed thoughts on the year, again."
+date: 2015-12-30
 layout: post
 tags: [tech, life]
 category: blog

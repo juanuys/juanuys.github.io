@@ -1,6 +1,7 @@
 ---
 title: "A webwords Chef cookbook"
 description: "A webwords Chef cookbook"
+date: 2013-11-10
 og_image_url: "http://www.gravatar.com/avatar/c22bbf2aac2a3841d80f5363d73e3ebe.png?s=512"
 image: "http://www.gravatar.com/avatar/c22bbf2aac2a3841d80f5363d73e3ebe.png?s=512"
 image_content_type: "image/jpeg"

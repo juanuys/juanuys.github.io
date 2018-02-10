@@ -1,6 +1,7 @@
 ---
 title: "Adding SMS functionality with Twilio"
 description: "Adding SMS functionality with Twilio"
+date: 2012-10-15
 og_image_url: "http://www.twilio.com/packages/company/img/logos_downloadable_round.png"
 image: "http://www.twilio.com/packages/company/img/logos_downloadable_round.png"
 image_content_type: "image/png"

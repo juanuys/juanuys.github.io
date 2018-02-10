@@ -1,6 +1,7 @@
 ---
 title: "More jq fun"
 description: "More jq fun"
+date: 2014-01-29
 og_image_url: ""
 image: ""
 image_content_type: "image/png"
