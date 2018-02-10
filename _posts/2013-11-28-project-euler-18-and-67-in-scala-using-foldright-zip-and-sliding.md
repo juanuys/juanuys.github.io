@@ -10,7 +10,7 @@ tags: scala
 category: blog
 ---
 
-<img src="http://distilleryimage6.ak.instagram.com/267f6626581311e3986c12b308e0cf9c_8.jpg" width="50%" align="right"> I've recently applied to [Toptal](http://www.toptal.com/?ref=14568) and sucked miserably at the entry exam. My algo chops were blunt and I thought I'd rectify it by revisiting [Project Euler](http://projecteuler.net/). With the startup last year and the baby this year I just haven't been able to find the time for programming challenges, but that has to change.
+I've recently applied to [Toptal](http://www.toptal.com/?ref=14568) and sucked miserably at the entry exam. My algo chops were blunt and I thought I'd rectify it by revisiting [Project Euler](http://projecteuler.net/). With the startup last year and the baby this year I just haven't been able to find the time for programming challenges, but that has to change.
 
 Looking at my Project Euler source directory, I saw that I left it at [problem 17](http://projecteuler.net/problem=17), so next up will be [18](http://projecteuler.net/problem=18). The problem description, however, mentions that the [problem repeats itselt as 67](http://projecteuler.net/problem=67), but with a bigger input that will run 20 billion years if you go the brute force route.
 
@@ -51,3 +51,5 @@ The easiest way was to just seed the foldRight with a list of zeros one element 
 
 
 No mutable state; no recursion; simple to understand. As [Erik Meijer](http://www.applied-duality.com) would say: "baby code".
+
+![algorithming](/photograms/2013-11-28-i-sometimes-dream-about-programming--then-i-come-up-with-solutions-like-these-.jpg)

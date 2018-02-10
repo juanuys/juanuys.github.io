@@ -12,7 +12,7 @@ category: blog
 
 # Java on Ubuntu
 
-<img src="http://distilleryimage2.ak.instagram.com/02f13c2a0c5a11e3bc6522000ae91414_7.jpg" width="50%" align="right">This article is for Java developers who use Ubuntu as a development platform who wants to install Sun’s range of tools manually, instead of installing it with Synaptic/aptitude/apt-get. The commands in this article was tested on Ubuntu 8.04 “Hardy Heron” and assumes knowledge of the [Debian alternatives system](http://www.debian.org/doc/FAQ/ch-customizing.en.html#s-diverse).
+This article is for Java developers who use Ubuntu as a development platform who wants to install Sun’s range of tools manually, instead of installing it with Synaptic/aptitude/apt-get. The commands in this article was tested on Ubuntu 8.04 “Hardy Heron” and assumes knowledge of the [Debian alternatives system](http://www.debian.org/doc/FAQ/ch-customizing.en.html#s-diverse).
 
 The benefits of installing it manually are:
 
@@ -48,3 +48,5 @@ And a quick test:
 <a href="https://gist.github.com/opyate/6325468#version-check">https://gist.github.com/opyate/6325468#version-check</a>
 
 The same can now be done for your other tools, like Ant and Maven.
+
+![java on ubuntu](/photograms/2013-08-24-the-inclusion-of-jpda-was-a-fond-memory-.jpg)

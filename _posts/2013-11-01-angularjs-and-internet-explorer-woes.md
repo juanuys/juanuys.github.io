@@ -12,7 +12,7 @@ category: blog
 
 _Aka endless clicking on crossbrowsertesting.com and why I love being a backend programmer._
 
-<img src="http://distilleryimage7.ak.instagram.com/3955ae5e433711e395a822000ae90d43_8.jpg" width="50%" align="right" alt="AngularJS and Internet Exporer woes"> A few weeks ago, one of my clients tasked me with building a public-facing single page app for their credit monitoring business. They've heard good things about [AngularJS](http://angularjs.org/) and said they wouldn't mind if I learned it on the job. (I love those kinds of clients!)
+A few weeks ago, one of my clients tasked me with building a public-facing single page app for their credit monitoring business. They've heard good things about [AngularJS](http://angularjs.org/) and said they wouldn't mind if I learned it on the job. (I love those kinds of clients!)
 
 At this point we've already solidified the backend API ([Scala](http://scala-lang.org/) + [Play! 2.1.3](http://www.playframework.com/documentation/2.1.x/ScalaHome)) and felt like getting my hands dirty with our good friend Javascript. 
 
@@ -37,3 +37,5 @@ I explain via two examples [over here](/projects/angularjs-internet-explorer). I
 Something to do with <code>target.appendChild(elem);</code> on line 6,050 of the [latest version of jQuery at the time of writing](http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js).
 
 In the mean time, I hanker after my beloved Scala backend servers, where I get to choose exactly which platform and which flavour of VM I run on.
+
+![AngularJS and Internet Exporer woes](/photograms/2013-11-01-the-most-fun-i-had-all-week---.jpg)
