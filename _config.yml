@@ -15,12 +15,13 @@ theme: minima
 plugins:
   - jekyll-feed
 collections:
+  posts:
+    output: true
+    permalink: /:collection/:path
   photograms:
-    description: photos
     output: true
     permalink: /:collection/:path
   quotes:
-    description: doth quoth
     output: true
     permalink: /:collection/:path
 # Exclude from processing.
