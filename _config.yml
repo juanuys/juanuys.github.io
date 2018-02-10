@@ -14,7 +14,6 @@ kramdown:
 theme: minima
 plugins:
   - jekyll-feed
-
 collections_dir: content
 collections:
   quotes:

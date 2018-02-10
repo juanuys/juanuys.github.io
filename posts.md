@@ -20,5 +20,4 @@ yet another blog
 </div>
 {% endfor %}
 
-
 </div>
