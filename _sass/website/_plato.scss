@@ -1,5 +1,4 @@
 $plato-brand: cbrew('oranges', 4);
-$paired: cbrew('paired', 12);
 
 .posts {
     background-color: nth($plato-brand, 1) !important;
@@ -14,6 +13,7 @@ $paired: cbrew('paired', 12);
     background-color: nth($plato-brand, 4) !important;
 }
 
+$paired: cbrew('paired', 12);
 .altbox:nth-child(12n) { background-color: nth($paired, 1); }
 .altbox:nth-child(12n+1) { background-color: nth($paired, 2); }
 .altbox:nth-child(12n+2) { background-color: nth($paired, 3); }
@@ -26,3 +26,16 @@ $paired: cbrew('paired', 12);
 .altbox:nth-child(12n+9) { background-color: nth($paired, 10); }
 .altbox:nth-child(12n+10) { background-color: nth($paired, 11); }
 .altbox:nth-child(12n+11) { background-color: nth($paired, 12); }
+
+.box a {
+    background-color: white;
+    padding: 2px;
+}
+
+// things inside boxes
+.altbox:nth-child(12n+10) small {
+    color: black;
+}
+.box small {
+    color: white;
+}

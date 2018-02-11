@@ -1,9 +1,13 @@
+
+$posts-brand: cbrew('ylgn', 4);
+
 body {
     margin: 40px;
 }
 
 .box {
-    background-color: $yellowlight;
+    position: relative;
+    background-color: nth($posts-brand, 1);
     color: $text-color;
     padding: 20px;
     height: 140px;
@@ -22,5 +26,4 @@ body {
     z-index: 10;
     background-color: white;
 }
-
 

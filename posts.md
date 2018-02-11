@@ -15,7 +15,7 @@ yet another blog
 </div>
 
 {% for item in site.posts %}
-<div class="box">
+<div class="box altbox">
 [{{ item.title }}]({{ item.url }})
 
 <small>{{item.date | date: "%Y-%m-%d"}}</small>
