@@ -1,12 +1,12 @@
 ---
 title: "Before we forget..."
-description: "We renovated our first hometagpitstopa..."
+description: "We renovated our first home..."
 layout: post
 tags: plato-long pits-to-palace
 category: blog
 ---
 
-We [renovated our first home](/tag/pits-to-palace/) back in 2011/2012 and always meant to write that final blog post showing the finished result.
+We renovated our first home back in 2011/2012 and always meant to write that final blog post showing the finished result.
 
 We bought it for £250K, spent about £100K on it (£80K of that accounted for) and [sold it](http://www.rightmove.co.uk/property-for-sale/property-34967835.html) for £535K, so a profit just shy of £200K. It can be done, children!
 

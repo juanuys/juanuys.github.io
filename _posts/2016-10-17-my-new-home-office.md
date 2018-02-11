@@ -12,7 +12,7 @@ Quotes came in around the £7K to £10K mark, and my first thought was that I di
 
 My second thought was "Surely I can do this myself for less". 
 
-And so I did! Besides - [I'm no stranger to a spot of DIY](/tag/pits-to-palace/).
+And so I did! Besides - I'm no stranger to a spot of DIY.
 
 Initial prep work was done by myself, a door put in by [Mister Constructor](http://www.mister-constructor.co.uk/), and finally the redecorating done by myself and our friend's dad Colin.
 

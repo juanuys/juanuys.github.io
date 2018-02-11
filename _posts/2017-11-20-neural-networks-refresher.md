@@ -24,4 +24,4 @@ What follows is a list of resources I've assembled to pour over during the in-be
 - [Deep Learning Specialisation](https://www.deeplearning.ai/)
 - http://www.fast.ai/
 
-There'll be a lot of overlap, and I'll be starting on Prof. Ng's course, so please [follow along](/tag/deeplearning/).
+There'll be a lot of overlap, and I'll be starting on Prof. Ng's course~~, so please [follow along](/tag/deeplearning/)~~.
