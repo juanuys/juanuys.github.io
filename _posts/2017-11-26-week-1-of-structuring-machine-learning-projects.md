@@ -1,3 +1,4 @@
+---
 title: "Week 1 of Structuring Machine Learning Projects"
 description: " Introduction to ML Strategy..."
 layout: post

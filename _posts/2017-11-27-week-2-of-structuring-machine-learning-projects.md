@@ -1,3 +1,4 @@
+---
 title: "Week 2 of Structuring Machine Learning Projects"
 description: "The objectives for this week are:..."
 layout: post

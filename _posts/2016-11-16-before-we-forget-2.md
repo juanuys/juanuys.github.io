@@ -1,3 +1,4 @@
+---
 title: "Before we forget..."
 description: "We renovated our first hometagpitstopa..."
 layout: post

@@ -1,3 +1,4 @@
+---
 title: "Note to self - HP PhotoSmart on Arch Linux"
 description: " Note to self..."
 layout: post

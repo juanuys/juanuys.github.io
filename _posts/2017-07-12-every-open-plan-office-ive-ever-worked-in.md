@@ -1,3 +1,4 @@
+---
 title: "Every open plan office I've ever worked in"
 description: "every open plan office I've ever worked in..."
 layout: post

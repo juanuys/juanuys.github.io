@@ -1,3 +1,4 @@
+---
 title: "Mistakephobia"
 description: " I believe that our society's mistakephobia..."
 layout: post

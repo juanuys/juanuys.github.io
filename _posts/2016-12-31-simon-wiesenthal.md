@@ -1,3 +1,4 @@
+---
 title: "The combination of hatred and technology is the greatest danger threatening mankind"
 description: "..."
 layout: post

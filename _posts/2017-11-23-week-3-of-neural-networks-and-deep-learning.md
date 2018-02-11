@@ -1,3 +1,4 @@
+---
 title: "Week 3 of Neural Networks and Deep Learning"
 description: " Shallow Neural Networks..."
 layout: post

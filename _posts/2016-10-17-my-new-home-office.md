@@ -1,3 +1,4 @@
+---
 title: "My new home office"
 description: "Due to a growing family, I got kicked out of ..."
 layout: post

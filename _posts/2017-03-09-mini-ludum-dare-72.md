@@ -1,3 +1,4 @@
+---
 title: "Mini Ludum Dare 72"
 description: "I participated..."
 layout: post

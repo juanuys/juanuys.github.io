@@ -1,3 +1,4 @@
+---
 title: "Mini Ludum Dare 69"
 description: "I started hacking on my miniLD 69 entry..."
 layout: post

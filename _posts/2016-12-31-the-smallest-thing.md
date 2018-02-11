@@ -1,3 +1,4 @@
+---
 title: "The smallest thing"
 description: "..."
 layout: post

@@ -1,3 +1,4 @@
+---
 title: "Week 1 of Neural Networks and Deep Learning"
 description: " Introduction to Deep Learning..."
 layout: post

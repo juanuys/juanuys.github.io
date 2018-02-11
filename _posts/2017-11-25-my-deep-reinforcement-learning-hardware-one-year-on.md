@@ -1,3 +1,4 @@
+---
 title: "My deep reinforcement learning hardware, one year on"
 description: "Behold, my deep reinforcement learning hardwa..."
 layout: post

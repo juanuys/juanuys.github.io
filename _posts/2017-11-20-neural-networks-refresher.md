@@ -1,3 +1,4 @@
+---
 title: "Neural Networks refresher"
 description: "I did a course..."
 layout: post

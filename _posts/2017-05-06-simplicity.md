@@ -1,3 +1,4 @@
+---
 title: "Simplicity"
 description: "..."
 layout: post

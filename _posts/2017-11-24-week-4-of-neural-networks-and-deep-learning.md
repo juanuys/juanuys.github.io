@@ -1,3 +1,4 @@
+---
 title: "Week 4 of Neural Networks and Deep Learning"
 description: " Deep Neural Network..."
 layout: post
