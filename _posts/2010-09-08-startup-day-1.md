@@ -14,7 +14,7 @@ category: blog
 
 # Inspiration
 
-<img src="http://newsimg.bbc.co.uk/media/images/47975000/jpg/_47975992_jex_710030_de27.jpg" width="50%" align="right">
+<img src="http://newsimg.bbc.co.uk/media/images/47975000/jpg/_47975992_jex_710030_de27.jpg" >
 
 You already know the deal here. We’ve all had years and years of exposure to the Web and have seen many ideas come to fruition and many more fail. I present a list of inspirational things I’ve encountered up and until this point:
 
@@ -28,7 +28,7 @@ With Tim’s book behind me (and frankly, already almost mostly forgotten thanks
 
 Here are a few short tips to get started with:
 
-<img src="http://funkshional.files.wordpress.com/2010/09/eye_on_the_ball1.png" width="50%" align="right">
+<img src="http://funkshional.files.wordpress.com/2010/09/eye_on_the_ball1.png" >
 
 * **Don’t get side-tracked.** Stay consistently productive. Ask yourself “Is what I’m doing right now beneficial to a task/goal?”. Keep you eye on the ball.
 * **Take notes and document.** Extract useful bits from everything you read and encounter and discard the rest. If your new venture has a recurring theme, a repeating process, make an effort to document the steps. Imagine your clone has to step in and take over – the documentation needs to be readily available.

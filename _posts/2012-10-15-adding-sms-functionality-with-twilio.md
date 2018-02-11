@@ -89,5 +89,3 @@ This was a fun little addition. Next up is voting via SMS.
 MongoDB allowed me to store the entire SMS payload and worry about the contents later. I didn’t create a model for the SMS payload, because it isn’t core to my domain. Also, the 10 second window seemed like a safe trade-off in light of being in the dark (huh?) with regards to mobile network SLAs. We’ll measure and adjust accordingly, of course.
 
 Twilio was easy to integrate with, and it all just works. Now I feel like SMS-enabling all my apps.
-
-<img width="50%" src="http://cdn.memegenerator.net/instances/400x/28084623.jpg" alt="SMS-enable all the things">

@@ -16,7 +16,7 @@ category: blog
 
 Pollarize was [bourne](http://thenextweb.com/uk/2012/03/26/the-winner-of-startup-weekend-london-is-pollarize-me/) out of a 54 hour hacking stint at Startup Weekend in March 2012. The Thursday night before that weekend, I thought about the various tech I knew and wanted to have a good idea how to kickstart our hack before putting pen to paper on the Friday night.
 
-<img src="http://media.tumblr.com/tumblr_mdsg3ecowA1ryyv9k.png" width="50%" align="right">
+<img src="http://media.tumblr.com/tumblr_mdsg3ecowA1ryyv9k.png" >
 
 The decision was made: Pollarize was going to be a Spring MVC web app running on an Amazon EC2 instance. I was going to worry about the database later, and maybe get away with using an in-memory map or something for the data.
 

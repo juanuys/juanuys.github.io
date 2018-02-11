@@ -28,7 +28,7 @@ I’m easily distracted, and a good idea can occupy my brain for hours, but I ru
 
 * **Confuse matters.** Solve a problem and solve it simply, but solve it well: Coat hangers was a good idea, and so was Monopoly™. Monopoly™-themed coat hangers? A hanger for your game once you’re done playing? I don’t think so. Developers: Don’t add any unnecessary features just because it’s cool.
 
-<img src="http://funkshional.files.wordpress.com/2010/09/hamster.jpg" width="50%" align="right" alt="Hamsters are fragile. Trust me; I know.">
+<img src="http://funkshional.files.wordpress.com/2010/09/hamster.jpg" alt="Hamsters are fragile. Trust me; I know.">
 
 * **Doing something you’re not an expert at.** OK, so “hamster burial kits”, right? Genius! Every kid has a hamster, and all hamsters eventually… have accidents. You can get little [willow urns in bulk from Alibaba](http://www.alibaba.com/product-gs/337771124/willow_urn.html), bundle it with a softly worded eulogy and even throw in a little bio-degradable gravestone. Actually, I’m supposed to play devil’s advocate on this one and say something like “but, I’m no hamster expert”. I can’t. This idea reigns supreme.
 

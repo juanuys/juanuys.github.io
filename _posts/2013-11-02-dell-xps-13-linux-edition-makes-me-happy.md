@@ -10,7 +10,9 @@ tags: tech
 category: blog
 ---
 
-<img src="http://25.media.tumblr.com/ee240ba31d3f2f3d04985380a78a7cb3/tumblr_mvmkbyrTe01ri2z5io1_1280.jpg" width="50%" align="right" alt="The portal to my livelihood."> *TL;DR* If you're a laptop-toting *nix user, then this is the laptop for you. Also, upgrade the kernel before you do anything else, for the best experience.
+<img src="http://25.media.tumblr.com/ee240ba31d3f2f3d04985380a78a7cb3/tumblr_mvmkbyrTe01ri2z5io1_1280.jpg"  alt="The portal to my livelihood.">
+
+*TL;DR* If you're a laptop-toting *nix user, then this is the laptop for you. Also, upgrade the kernel before you do anything else, for the best experience.
 
 This advice is highly unqualified, though. The last time I ran *nix on a laptop was when I ran some flavour of Gentoo on an old Centrino-loaded HP in 2005. I've been a Mac user ever since those darned iPhones came out.
 

@@ -10,7 +10,9 @@ tags: [tech, life]
 category: blog
 ---
 
-<img src="http://25.media.tumblr.com/650a566e7ccb9b0f292ce9c016206c14/tumblr_mygpxoJUpY1ri2z5io1_1280.jpg" width="50%" align="right"> I saw the #code2013 hashtag on Twitter last night and [joined in](https://twitter.com/opyate/status/417785250308444160). It got me thinking about the stuff around the programming languages I use, and my professional skillset in general.
+<img src="http://25.media.tumblr.com/650a566e7ccb9b0f292ce9c016206c14/tumblr_mygpxoJUpY1ri2z5io1_1280.jpg" >
+
+I saw the #code2013 hashtag on Twitter last night and [joined in](https://twitter.com/opyate/status/417785250308444160). It got me thinking about the stuff around the programming languages I use, and my professional skillset in general.
 
 I'll briefly touch on how a few major events in my life forced me to cut the fat and become more focused.
 
@@ -56,10 +58,10 @@ I've always used Capistrano and Chef for my provisioning and configuration needs
 
 2013 was a bumpy ride. We had a beautiful daughter in June, and I quit my job soon after to freelance from home and be 2 flights of stairs away from her. To be able to learn a few new skills and do 4 courses, I had to make some changes. There are the 5AM starts, the [highly-condensed exercise routine in the morning](http://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout), diligently deleting anything which doesn't contribute to the plan I have for our life (this includes articles, emails, etc), and just generally getting things done.
 
-<img src="http://24.media.tumblr.com/abbc16af261cffe6a867bfbcb4f380e2/tumblr_myfbtyAEiW1ri2z5io1_1280.jpg" width="50%" align="left" alt="The Polar Bear who might have eaten Xmas"> The game I mentioned seems like a distraction, but I feel it's important that I do it. I've been in love with doodling since I was a kid, and really took it up this year. I'm an able musician, and since I can code I thought I'd bring these ingredients together and make something nice. (Those umpteen characters and storylines in my head will finally be unleashed!).
+The game I mentioned seems like a distraction, but I feel it's important that I do it. I've been in love with doodling since I was a kid, and really took it up this year. I'm an able musician, and since I can code I thought I'd bring these ingredients together and make something nice. (Those umpteen characters and storylines in my head will finally be unleashed!).
 
 Thanks for reading this far. May you have a great 2014.
 
 *I leave you with a doodle I made a few days ago entitled "The Polar Bear who might have eaten Xmas". (Don't worry &mdash; this isn't one of my games ideas ;-)*
 
-
+<img src="http://24.media.tumblr.com/abbc16af261cffe6a867bfbcb4f380e2/tumblr_myfbtyAEiW1ri2z5io1_1280.jpg" alt="The Polar Bear who might have eaten Xmas">
