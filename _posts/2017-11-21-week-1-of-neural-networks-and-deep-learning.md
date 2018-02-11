@@ -28,59 +28,17 @@ Input house size can be expanded to many more features like ZIP code, number of 
 [Video #3](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks) talks about Supervised Learning.
 It discusses different applications, and which type of NN is best suited, e.g.
 
-<table>
-<thead>
-<tr>
-<td>Input (x)</td>
-<td>Output (y)</td>
-<td>Application</td>
-<td>Type</td>
-<td>Data</td>
-</tr>
-</thead>
-<tr>
-<td>Home features</td>
-<td>Price</td>
-<td>Real estate</td>
-<td>Standard NN</td>
-<td>Structured (e.g. CSV)</td>
-</tr>
-<tr>
-<td>Ad, user info</td>
-<td>Click? (0/1)</td>
-<td>Online ads</td>
-<td>Standard NN</td>
-<td>Structured |
-</tr>
-<tr>
-<td>Image</td>
-<td>Classification</td>
-<td>Photo tagging</td>
-<td>CNN</td>
-<td>Unstructured |
-</tr>
-<tr>
-<td>Audio</td>
-<td>Text transcript</td>
-<td>Speech recog</td>
-<td>RNN (because it's 1-dimensional time-series)</td>
-<td>Unstructured |
-</tr>
-<tr>
-<td>English</td>
-<td>Chinese</td>
-<td>Machine translation</td>
-<td>RNN (also sequence data)</td>
-<td>Unstructured |
-</tr>
-<tr>
-<td>Image, Radar</td>
-<td>Position of other cars</td>
-<td>Autonomous driving</td>
-<td>Custom/Hybrid</td>
-<td>Unstructured |
-</tr>
-</table>
+
+
+| Input (x)	  | Output (y)	| Application	| Type	| Data |
+| ----------- | ----------- | ------------- | ----- | ---- |
+|Home features	|Price	|Real estate	|Standard NN	|Structured (e.g. CSV)|
+|Ad, user info	|Click? (0/1)  |	Online ads	|Standard NN	|Structured |
+|Image	|Classification	|Photo tagging	|CNN	|Unstructured |
+|Audio	|Text transcript	|Speech recog	|RNN (because it's 1-dimensional time-series)	|Unstructured |
+|English	|Chinese	|Machine translation	|RNN (also sequence data)	|Unstructured |
+|Image, Radar	|Position of other cars	|Autonomous driving	|Custom/Hybrid	|Unstructured |
+
 
 ## Why is Deep Learning taking off?
 
