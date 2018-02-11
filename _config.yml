@@ -15,6 +15,9 @@ theme: minima
 plugins:
   - jekyll-feed
 collections:
+  made:
+    output: true
+    permalink: /:collection/:path
   chirps:
     output: false
   posts:

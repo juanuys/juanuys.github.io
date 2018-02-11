@@ -12,6 +12,8 @@ category: blog
 
 <em>Made? Yes, made -- not wrote. See below.</em>
 
+*TL;DR* [here it is](http://cdn.opyate.com/books/AnnabellesEnCATlopediaVolume1CatsonTV.pdf)
+
 My day is a grab-bag of abstract concepts, data as shapes moving from system to system on pathways built with tools I love dearly. However, every now and then I want to inject some characters and narrative into my life.
 
 A previous, on-ice-yet-ongoing foray into Story Land is when we learnt we were pregnant. My world was shaken, and in a nervous panic I wanted to surround myself with things that will cleanse my mind, prepare my heart, and re-awaken the child in me. All in preparation for the Little Being that was to join us in June 2013.

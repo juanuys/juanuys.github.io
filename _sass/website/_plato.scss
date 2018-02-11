@@ -1,4 +1,4 @@
-$plato-brand: cbrew('oranges', 4);
+$plato-brand: cbrew('oranges', 5);
 
 .posts {
     background-color: nth($plato-brand, 1) !important;
@@ -11,6 +11,9 @@ $plato-brand: cbrew('oranges', 4);
 }
 .chirps {
     background-color: nth($plato-brand, 4) !important;
+}
+.made {
+    background-color: nth($plato-brand, 5) !important;
 }
 
 $paired: cbrew('paired', 12);
