@@ -1,0 +1,24 @@
+title: "Truths"
+description: "Minor commandments and truths."
+layout: post
+tags: creed
+category: blog
+---
+
+- Alan Kay is almost definitely always right.
+- Simpler is better, but no simpler.
+- Show, don't tell.
+- Build upon what came before.
+- [S-expressions](https://en.wikipedia.org/wiki/S-expression) is the good way to program.
+- Don't use [silos](https://en.wikipedia.org/wiki/Information_silo), unless it's your own silo.
+- Invest in a good bed, good shoes and merino whool shirts without scratchy labels.
+- Get a tailored mix of micro-nutrients.
+- Move as often as possible. Movement through space is good, like jogging.
+- Read varied good books often.
+- Do no harm.
+- Delete your social media accounts. People who matter and value you will bubble to the top anyway.
+- Have something to do? Go offline.
+- Edit ruthlessly. Don't hoard.
+- Check email once in the morning, and once in the evening.
+- Put your phone on the side-table. If it's important, someone will ring.
+
