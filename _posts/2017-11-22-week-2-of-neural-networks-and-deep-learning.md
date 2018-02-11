@@ -17,7 +17,7 @@ These are my notes on week #2 of the [Introduction to Deep Learning](https://www
 
 [Video #2](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/LoKih/logistic-regression) shows how Logistic Regression trumps Linear Regression in the sense that the latter will output values in the range negative to very large (>1), which is not what we want for binary classification. Instead, Logistic regression "clamps" the output to **0 <= y^ <= 1** using a sigmoid function. "y hat", i.e. *y^* will be the prediction of *y*, the "ground truth".
 
-![screenshot](assets/logisticregression.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/logisticregression.png)
 
 
 ## Logistic regression cost function
@@ -27,7 +27,7 @@ Square error doesn't work well as a loss (or error) function, because no global 
 
 The cost function measures how well you're doing over the entire training set. 
 
-![screenshot](assets/logisticregression-costfunction.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/logisticregression-costfunction.png)
 
 ## Gradient descent
 
@@ -35,7 +35,7 @@ The cost function measures how well you're doing over the entire training set.
 
 Gradient descent is your "ball rolling to the bottom of the basin", or final a local optimum for *w*. It shows how taking the derivative (or the slope) of the curve finds the optimum where the slope is 0 (a flat line underneath the curve). For the multi-dimensional case where we're finding *w* AND *b*, it would be the plane under the basin.
 
-![screenshot](assets/gradient-descent.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/gradient-descent.png)
 
 
 The latter part of the video makes a brief note of calculus where you can use *d* for the derivative of a single-variable function, or *squiggly-d* as the partial derivative of a multi-variable function, or the cost function, in our case: *J(w,b)*
@@ -56,13 +56,13 @@ During this course, you're not expected to derive the derivatives - all the ones
 
 [Video #7](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/0VSHe/derivatives-with-a-computation-graph) goes further with more examples, like computing the derivate of *J* with respect to *v*, or *J* with respect to *a* in this graph:
 
-![screenshot](assets/computation-graph-derivaties-example1.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/computation-graph-derivaties-example1.png)
 
 If *v* or *a* nudges by a little bit (0.001), then *J* nudges by 3 times as much.
 
 Ng further shows that nudging *b* by 0.001 nudges *J* by 6 times as much, and *c* 9 times as much.
 
-![screenshot](assets/computation-graph-derivaties-example2.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/computation-graph-derivaties-example2.png)
 
 I like how this video uses a decimal (0.001) change to show how *J*'s decimal changes, and all-in-all building up good "number sense" for derivatives and forward- and back-propagation.
 
@@ -74,11 +74,11 @@ Also, in Python code, the variable representing "the derivative in terms of VAR"
 
 Recap logistic regression:
 
-![screenshot](assets/logistic-regression-recap.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/logistic-regression-recap.png)
 
 The example using the computation graph shows how to get the derivatives of the weights and the learning rate, with which to update the weights and learning rate:
 
-![screenshot](assets/logistic-regression-gradient-descent.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/logistic-regression-gradient-descent.png)
 
 ## Gradient descent on m examples
 
@@ -86,7 +86,7 @@ The example using the computation graph shows how to get the derivatives of the 
 
 Ng scribbles down some pseudo-code (for two features: *dw1* and *dw2*) and makes a note about using for loops with large data sets, and how the expensiveness of it can be circumvented by vectorisation, which is discussed in the next video.
 
-![screenshot](assets/pseudocode-gradient-descent-m-examples.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/pseudocode-gradient-descent-m-examples.png)
 
 ## Vectorisation
 
@@ -94,7 +94,7 @@ Ng scribbles down some pseudo-code (for two features: *dw1* and *dw2*) and makes
 
 A quick Jupyter example shows the speed-up:
 
-![screenshot](assets/vectorisation-jupyter.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/vectorisation-jupyter.png)
 
 [Video #11](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/ZPlX9/more-vectorization-examples) elaborates with more Python examples. Numpy will have element-wise functions for each of *exp*, *log*, *abs*, etc so you'll never need to loop.
 
@@ -112,7 +112,7 @@ Z = np.dot(w.T, x) + b
 
 And doing the same for *A* using some implementation of sigma.
 
-![screenshot](assets/vectorising-logistic-regression.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/vectorising-logistic-regression.png)
 
 # Vectorising logistic regression's gradient computation
 
@@ -138,7 +138,7 @@ Then he wraps it with a `range(1000)` outer loop, and I guess it will become mor
 
 E.g. here you want to add 100 to the 4x1 column vector, but numpy will "broadcast" 100 into a 4x1 vector of 100s.
 
-![screenshot](assets/broadcasting-example1.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/broadcasting-example1.png)
 
 Ng refers to the [numpy docs on broadcasting](https://docs.scipy.org/doc/numpy/user/basics.broadcasting.html).
 
@@ -154,7 +154,7 @@ Ng refers to the [numpy docs on broadcasting](https://docs.scipy.org/doc/numpy/u
 
 [Video #17](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/SmIbQ/explanation-of-logistic-regression-cost-function-optional) quickly explains why we like to use the cost function that we do for the logistic regression. Ng recaps the formulas for binary classification, and gets to using "maximum likelihood estimation" from statistics to derive our cost function.
 
-![screenshot](assets/cost-function-explanation.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/cost-function-explanation.png)
 
 And that's a wrap for week 2.
 
@@ -180,7 +180,7 @@ Common steps for pre-processing a new dataset are:
 
 The oval "neuron" in this diagram computes a linearity (Wx + b) and then an activation (sigmoid, tanh, ReLU) which is the prediction.
 
-![screenshot](assets/neural-net-one-example.png)
+![screenshot](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/neural-net-one-example.png)
 
 ### Key steps to building a model
 
@@ -210,9 +210,9 @@ Different learning rates give different costs and thus different predictions res
 
 An example of good/bad learning rates are illustrated below: good rate converges, and a bad rate diverges. (Images: Adam Harley)
 
-![sgd](assets/sgd.gif)
+![sgd](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/sgd.gif)
 
-![sgd_bad](assets/sgd_bad.gif)
+![sgd_bad](/assets/posts/2017-11-22-week-2-of-neural-networks-and-deep-learning/sgd_bad.gif)
 
 
 If the learning rate is too large, the cost may oscillate up and down, or diverge completely. 

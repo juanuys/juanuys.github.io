@@ -15,7 +15,7 @@ category: blog
 
 [Video #2](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/MijzH/forward-propagation-in-a-deep-network) shows what forward prop looks like in a deep net. Ng notes that a foor-loop would be necessary when applying **Z = WA + b** for each layer, so vectorisation can't be applied here.
 
-![deep net forward prop](assets/deep-net-forward-prop.png)
+![deep net forward prop](/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/deep-net-forward-prop.png)
 
 ## Getting your matrix dimensions right
 
@@ -27,14 +27,14 @@ The derivatives of *w* and *b* would have the same dimensions.
 
 For **Z = WX + b**  we have: `(n1, 1) = (n1, n0) . (n0, 1) + (n1, 1)`
 
-![dimensions](assets/dimensions.png)
+![dimensions](/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/dimensions.png)
 
 And vectorised:
 
 
 For **Z = WX + b**  we have: `(n1, m) = (n1, n0) . (n0, m) + (n1, 1)` and then the *b* vector becomes `(n1,m)` thanks to Python broadcasting.
 
-![vectorised dimensions](assets/vectorised-dimensions.png)
+![vectorised dimensions](/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/vectorised-dimensions.png)
 
 ## Why deep representations?
 
@@ -44,7 +44,7 @@ Going from left to right through the hidden layers, the left layer would detect 
 
 (as an aside, this is where Capsule Networks make networks better in the sense that an eye a nose in a certain configuration can vote about what the surrounding face is, whereas currently a neural net would still classify a face as a face if you swap a face's nose and mouth, for instance.)
 
-![building blocks](assets/building-blocks.png)
+![building blocks](/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/building-blocks.png)
 
 Ng also mentions a result from circuit theory, but he doesn't find the result very useful for intuiting about the usefulness of deep VS shallow nets, so I won't note it here.
 
@@ -52,7 +52,7 @@ Ng also mentions a result from circuit theory, but he doesn't find the result ve
 
 [Video #5](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/uGCun/building-blocks-of-deep-neural-networks) shows the building blocks, which is basically the single layer stuff from the previous week, but extrapolated out over l1, l2, ..., ln.
 
-![forward and backward functions](assets/forward-and-backward-functions.png)
+![forward and backward functions](/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/forward-and-backward-functions.png)
 
 ## Forward and backward propagation
 
@@ -62,17 +62,17 @@ Again, it's the formulas from the previous week, but extrapolated over layers l1
 
 ### Forward
 
-![forward](assets/forward.png)
+![forward](/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/forward.png)
 
 ### Backward
 
-![backward](assets/backward.png)
+![backward](/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/backward.png)
 
 ### Summary
 
 As *X* is the input for forward, what is the input for backward? This would be the derivative of the loss, `L(yhat, y)`, which can be shown to be `dal = -y/a + (1-y)/(1-a)` but for the vectorised version `dAl`.
 
-![combined](assets/combined.png)
+![combined](/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/combined.png)
 
 ## Parameters VS Hyperparameters
 

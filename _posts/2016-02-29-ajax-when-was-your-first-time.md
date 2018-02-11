@@ -9,5 +9,5 @@ I reminisced with some friends about technology firsts the other day, like our f
 
 _So, I'll just email myself this Ajax magic so I can use it in my other projects..._
 
-![Ajax magic](assets/ajax.png)
+![Ajax magic](/assets/posts/2016-02-29-ajax-when-was-your-first-time/ajax.png)
 

@@ -31,5 +31,5 @@ Thanks to [Eugene Fidelin](https://github.com/eugef) for [Github Leaderboard](ht
 
 It turns out I had a good week.
 
-![Github Leaderboard](assets/gl.png)
+![Github Leaderboard](/assets/posts/2016-03-10-docker-this-docker-that/gl.png)
 

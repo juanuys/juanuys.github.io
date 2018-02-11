@@ -55,6 +55,6 @@ Playtesting! I could scale the difficulty a bit better. Perhaps calibrating the 
 
 # Screenshots
 
-![Splash](assets/splash.png)
+![Splash](/assets/posts/2016-07-26-mini-ludum-dare-69/splash.png)
 
-![Game](assets/game.png)
+![Game](/assets/posts/2016-07-26-mini-ludum-dare-69/game.png)

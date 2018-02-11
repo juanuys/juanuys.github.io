@@ -11,7 +11,7 @@ category: blog
 
 [Video #1](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/qg83v/neural-networks-overview) says superscript square brackets refers to the layer, as opposed to superscript round brackets which refers to an input sample.
 
-![screenshot](assets/overview.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/overview.png)
 
 ## Neural network representation
 
@@ -19,31 +19,31 @@ category: blog
 
 Note for *a[1]* the weights are *w[1]* of dimension (4,3) and the bias is *b[1]* with dimension (4,1). The output node has *w[2]* of (1,4) and *b[2]* of (1,1).
 
-![screenshot](assets/representation.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/representation.png)
 
 ## Computing a neural network's output
 
 [Video #3](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/GyW9e/neural-network-representation) says that our new representation of a neural net's hidden layer contains more than one of the single-node logistic regression node we studied in week 2.
 
-![screenshot](assets/hidden.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/hidden.png)
 
 Again, the trick is to not for-loop over the 1+ new nodes, but to vectorise a solution.
 
 To compute this 2-layer network, you need these 4 formulas:
 
-![screenshot](assets/4formulas.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/4formulas.png)
 
 ## Vectorising across multiple examples
 
 [Video #4](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/ZCcMM/vectorizing-across-multiple-examples) is like before, but vectorising across many training examples.
 
-![screenshot](assets/vectorising-with-forloop.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/vectorising-with-forloop.png)
 
 Vectorising the for-loop. A[1]'s first column refers to the first training example, and the first row of the first column refers to the activation in the first hidden node. The next row refers to the activation of the first training example in the second hidden node.
 
 Similarly, *A[1]*'s second column refers to the second training example, and the first row of the second column refers to the activation of the second training example in the first hidden node, and so forth.
 
-![screenshot](assets/vectorising-without-forloop.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/vectorising-without-forloop.png)
 
 ## Explanation for vectorised implementation
 
@@ -61,7 +61,7 @@ Which brings us to *ReLU*. The derivative is 0 when *z* is negative, and for pos
 
 There's also "leaky ReLU" which has a slight slope for negative *z*
 
-![screenshot](assets/actvation-function-summary.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/actvation-function-summary.png)
 
 Ng ends with a note that we're spoilt for choice when it comes to which hyperparameters, activations, loss, etc to use, and you have to "try them all" to see which suits your application the best. Time to get a second GPU, then.
 
@@ -79,17 +79,17 @@ However, if your output is a real number (not a classification), e.g. like predi
 
 Sigmoid slopes at high and low are 0, and the slope at z=0 is 1/4.
 
-![screenshot](assets/sigmoid-slope.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/sigmoid-slope.png)
 
 Tanh slope is 0 at high and low, and 1 at z=0.
 
-![screenshot](assets/tanh-slope.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/tanh-slope.png)
 
 ReLU has slope 0 for z<0 and 1 for z>=0.
 
 Leaky ReLU has slope 0.01 for z<0 and 1 for z>=0.
 
-![screenshot](assets/relu-slope.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/relu-slope.png)
 
 ## Gradient descent for neural networks
 
@@ -103,13 +103,13 @@ For a network with the first layer size nx = n0, the hidden layer size n1, and t
 - W2 = (n2, n1)
 - b2 = (n2, 1)
 
-![screenshot](assets/cribsheet-onehidden-nn.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/cribsheet-onehidden-nn.png)
 
 ## Backpropagation intuition (optional)
 
 [Video #10](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/6dDj7/backpropagation-intuition-optional) explains the cribsheet from the previous video. Worth a watch.
 
-![screenshot](assets/summary-gradient-descent.png)
+![screenshot](/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/summary-gradient-descent.png)
 
 And with that Ng notes that we've just seen the most difficult part of neural networks: deriving these functions.
 

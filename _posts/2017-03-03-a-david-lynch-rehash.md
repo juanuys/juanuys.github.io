@@ -15,7 +15,7 @@ I thought that perhaps this could be an easy mechanism for Lazy Me to pollute th
 
 For starters, I'll practice with Herr Lynch's idea by copying his template with empty speech bubbles.
 
-![empty speech bubbles](assets/main.png)
+![empty speech bubbles](/assets/posts/2017-03-03-a-david-lynch-rehash/main.png)
 
 Then I'll hook this [Blitline](https://www.blitline.com/) script up to [Zapier](https://zapier.com) so I can email my snippets of dialogue to a personalised Cartoon Bot.
 
@@ -135,6 +135,6 @@ And this is what it poops out after sending the following email:
 >
 > \# Hey, wanna go to IKEA later?
 
-![writing comedy is not my forté](assets/example2.jpg)
+![writing comedy is not my forté](/assets/posts/2017-03-03-a-david-lynch-rehash/example2.jpg)
 
 Stay tuned for more Interweb trivialities.

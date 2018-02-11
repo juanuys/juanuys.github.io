@@ -92,7 +92,7 @@ In this case, "running time" is satisficing, and "accuracy" is optimising.
 
 You'll have one optimising metric, and one or more satisficing metrics.
 
-![Satisficing and Optimising metric](assets/optimising-satisficing.png)
+![Satisficing and Optimising metric](/assets/posts/2017-11-26-week-1-of-structuring-machine-learning-projects/optimising-satisficing.png)
 
 ## Train/dev/test set distributions
 
@@ -148,7 +148,7 @@ The difference between human/Bayes error and the training error is called the **
 
 The difference between training error and dev error is the **variance**.
 
-![screenshot](assets/avoidable-bias.png)
+![screenshot](/assets/posts/2017-11-26-week-1-of-structuring-machine-learning-projects/avoidable-bias.png)
 
 ## Understanding human-level performance
 
@@ -156,7 +156,7 @@ The difference between training error and dev error is the **variance**.
 
 Depending on the context, the answer could be to go with the Bayes proxy, i.e. with the lowest error if you want to diagnose correctly. Or the context could be to have a low-level "see a specialist" recommender which could fare as well as a typical doctor.
 
-![screenshot](assets/which-human-level.png)
+![screenshot](/assets/posts/2017-11-26-week-1-of-structuring-machine-learning-projects/which-human-level.png)
 
 Ng applies this "choice" of humans to the bias/variance decision, e.g. whichever human level you choose, if the training error is far off, focus on avoidable bias.
 
@@ -175,7 +175,7 @@ Ng applies this "choice" of humans to the bias/variance decision, e.g. whichever
 
 This session pulls it together into a set of guidelines:
 
-![guidelines](assets/guidelines.png)
+![guidelines](/assets/posts/2017-11-26-week-1-of-structuring-machine-learning-projects/guidelines.png)
 
 
 This week's Heroes of Deep Learning [video](https://www.coursera.org/learn/machine-learning-projects/lecture/Ggkxn/andrej-karpathy-interview) features [Andrej Karpathy](http://karpathy.github.io/).

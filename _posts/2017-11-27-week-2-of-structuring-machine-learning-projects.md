@@ -62,7 +62,7 @@ You could now have training 1%, training-dev 1.5% and dev 10% errors, and you ca
 
 The principles are:
 
-![principles](assets/principles.png)
+![principles](/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/principles.png)
 
 ## Addressing data mismatch
 
@@ -90,7 +90,7 @@ Transfer learning works well if you **have a lot of data for the problem you are
 
 It doesn't work well if your *root stock* had an equal amount or fewer samples that your target samples.
 
-![transfer learning summary](assets/transfer-learning-summary.png)
+![transfer learning summary](/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/transfer-learning-summary.png)
 
 ## Multi-task learning
 
@@ -109,7 +109,7 @@ Where previously Y was a `(1,m)` matrix, it is now a `(4,m)` matrix.
 
 Using this image as an input sample, you can see there's 2 of the 4 features visible: stop sign and car.
 
-![multi-task input sample](assets/multi-task-input-sample.png)
+![multi-task input sample](/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/multi-task-input-sample.png)
 
 You now train a NN to predict these values of Y. Yhat is now a 4 dimensional value for Y. Four output nodes.
 
@@ -119,9 +119,9 @@ You *could* train 4 networks to predict these 4 things individually, but the bas
 
 For incomplete/unlabelled samples (e.g. you have training data where they didn't bother to label whether there's a car in the photo or not) you can just omit this term from the summation when calculating the loss.
 
-![multi-task architecture](assets/multi-task-architecture.png)
+![multi-task architecture](/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/multi-task-architecture.png)
 
-![when multi-task makes sense](assets/when-multi-task-makes-sense.png)
+![when multi-task makes sense](/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/when-multi-task-makes-sense.png)
 
 # End-to-end deep learning
 
@@ -143,13 +143,13 @@ So, this is better because
     - there are a lot of photos labelled with WHERE a face is in the photo
     - there are a lot of photos of faces, and you can add your own labelled as "employee" 
 
-![face recognition](assets/face-recognition.png)
+![face recognition](/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/face-recognition.png)
 
 ## Whether to use end-to-end deep learning
 
 [Video #10](https://www.coursera.org/learn/machine-learning-projects/lecture/H56eb/whether-to-use-end-to-end-deep-learning) discusses what to weight up when deciding whether to use end-to-end or not.
 
-![pros and cons](assets/pros-and-cons-of-end-to-end.png)
+![pros and cons](/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/pros-and-cons-of-end-to-end.png)
 
 Key question: **do you have sufficient data to learn a function of the complexity needed to map x to y?**
 

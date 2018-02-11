@@ -12,7 +12,7 @@ IKEA sells a cheap adjustable desk called [LINNMON/FINNVARD](http://www.ikea.com
 ## The mods
 
 All those websites promising cut-to-size timber sounded promising, but the quotes are always bumped too high by shipping costs.
-![quote for cut-to-size wood](assets/quote-for-cut-to-size-timber.png)
+![quote for cut-to-size wood](/assets/posts/2016-11-20-my-new-85-standing-desk/quote-for-cut-to-size-timber.png)
 
 
 47 quid is a bit steep, so I saw [this](http://www.diy.com/departments/timber-smooth-t19mm-w89mm-l2400mm/249687_BQ.prd) at my local B&Q for a tenner.
@@ -25,12 +25,12 @@ The timber I bought was not exactly 20mm X 55mm, but the IKEA trestles offer som
 
 Here's the difference between the old adjusters and mine.
 
-![comparison](assets/comparison-of-extensions.jpg)
+![comparison](/assets/posts/2016-11-20-my-new-85-standing-desk/comparison-of-extensions.jpg)
 
 Also, due to the sloping floor in my garage, I go a notch lower on the left side to keep the table level.
 
-![level](assets/compensating-for-slope.jpg)
+![level](/assets/posts/2016-11-20-my-new-85-standing-desk/compensating-for-slope.jpg)
 
 There we have it: a nice spacious quasi- draughtsman's desk for £85.
 
-![et voila](assets/complete.jpg)
+![et voila](/assets/posts/2016-11-20-my-new-85-standing-desk/complete.jpg)

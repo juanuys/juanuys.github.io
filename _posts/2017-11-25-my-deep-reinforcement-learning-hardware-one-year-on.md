@@ -9,4 +9,4 @@ Behold, my deep reinforcement learning hardware, one year on.
 
 Happy birthday, sweetheart x
 
-![v2](assets/deep-reinforcement-learning-hardware-1080.jpg)
+![v2](/assets/posts/2017-11-25-my-deep-reinforcement-learning-hardware-one-year-on/deep-reinforcement-learning-hardware-1080.jpg)

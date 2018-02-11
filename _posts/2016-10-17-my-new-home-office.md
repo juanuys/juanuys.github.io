@@ -17,13 +17,13 @@ Initial prep work was done by myself, a door put in by [Mister Constructor](http
 
 ## It starts with junk
 
-![full of crap](assets/1garage-full-of-crap.jpg)
+![full of crap](/assets/posts/2016-10-17-my-new-home-office/1garage-full-of-crap.jpg)
 
 The first step is to clear the clutter. The doll's house is going into the shed because I am fixing it up for my daughter before the end of the year. The tools also stay.
 
 ## Access
 
-![how to get in](assets/2garage-left-wall-door.jpg)
+![how to get in](/assets/posts/2016-10-17-my-new-home-office/2garage-left-wall-door.jpg)
 
 The wall on the left will be where the new backdoor is put in. Note the window on the right - I wanted to take it out and re-use the lintel for a narrow door, but building regulations needed a wider lintel. 
 
@@ -31,7 +31,7 @@ After discussions with Mister Constructor, re-installing a bigger lintel would h
 
 ## Preparations
 
-![seal all the things](assets/3garage-floor-and-wall-sealed.jpg)
+![seal all the things](/assets/posts/2016-10-17-my-new-home-office/3garage-floor-and-wall-sealed.jpg)
 
 Firstly, I had to do a few initial preparation tasks, which included
 
@@ -43,59 +43,59 @@ In retrospect, this is the stage at which I should've painted the walls. The ini
 
 ## Access part II
 
-![now one can get in from the side](assets/4garage-new-doorway-is-cut-out.jpg)
+![now one can get in from the side](/assets/posts/2016-10-17-my-new-home-office/4garage-new-doorway-is-cut-out.jpg)
 
 For the side-access door, we installed a new regulation-compliant lintel and then cut out doorway using a big loud circular saw. 
 
-![and the actual door](assets/5garage-new-door-is-in.jpg)
+![and the actual door](/assets/posts/2016-10-17-my-new-home-office/5garage-new-door-is-in.jpg)
 
 And here is the actual door. I bought all-glass to maximise light.
 
 ## The redecorating starts
 
-![the first ceiling panel goes up](assets/6garage-the-first-ceiling-panel-goes-up.jpg)
+![the first ceiling panel goes up](/assets/posts/2016-10-17-my-new-home-office/6garage-the-first-ceiling-panel-goes-up.jpg)
 
 With all the preparations done and the door put in, Colin can start. The first ceiling panel goes in!
 
-![ceiling done](assets/7garage-ceiling-done.jpg)
+![ceiling done](/assets/posts/2016-10-17-my-new-home-office/7garage-ceiling-done.jpg)
 
 Cue a montage where Colin and I drink lots of tea and whiz through loads of plasterboard to finish off the ceiling. In real time, this took us a few days. A few times we also confused our lefts with our rights and our ups with our downs - note the unusual patterns ;-)
 
 ## The floor
 
-![the marine ply floor goes in](assets/8garage-marine-ply-floor-going-in.jpg)
+![the marine ply floor goes in](/assets/posts/2016-10-17-my-new-home-office/8garage-marine-ply-floor-going-in.jpg)
 
 The marine ply floor goes in. Another thing I wish I had done earlier was level the floor. When I sealed the floor, I noticed that it sloped toward the chimney breast as all the liquid collected on one side.
 
 The downside is that one side of the room is an inch lower, and my chair has wheels. Also, I'm yet to do some standing-up work along the length of the space, and the imbalance might do something to my back.
 
-![ceiling gets a coat of white](assets/9garage-while-the-floor-settles-I-paint-the-ceiling.jpg)
+![ceiling gets a coat of white](/assets/posts/2016-10-17-my-new-home-office/9garage-while-the-floor-settles-I-paint-the-ceiling.jpg)
 
 While the floor settles down, I paint the ceiling white.
 
 ## Garage door no more
 
-![we're sealing off the garage door](assets/10garage-sealing-off-garage-door.jpg)
+![we're sealing off the garage door](/assets/posts/2016-10-17-my-new-home-office/10garage-sealing-off-garage-door.jpg)
 
 We seal off the garage door with marine ply and stuff it with Rockwool down the back.
 
 ## Warm walls
 
-![sealing off the single-skin walls](assets/11garage-insulating-single-skin-walls.jpg)
+![sealing off the single-skin walls](/assets/posts/2016-10-17-my-new-home-office/11garage-insulating-single-skin-walls.jpg)
 
 We also seal off the single-skin walls to keep the office toasty over winter.
 
 ## Paint all the things
 
-![painting the walls to seal in brick dust](assets/12-walls-painted-so-less-dust.jpg)
+![painting the walls to seal in brick dust](/assets/posts/2016-10-17-my-new-home-office/12-walls-painted-so-less-dust.jpg)
 
 The brick walls get a few coats of white paint. As alluded to earlier, this is the bit I wish I had done at the start.
 
 And, as you can see, the result is a comfortable little man-cave. Some stuff needs organising. I'm waiting for another IKEA desk and made-to-order mods to raise the trestles so I can stand when I draw. 
 
-![finished product mark I](assets/13finished1.jpg)
+![finished product mark I](/assets/posts/2016-10-17-my-new-home-office/13finished1.jpg)
 
-![finished product mark II](assets/14finished1.jpg)
+![finished product mark II](/assets/posts/2016-10-17-my-new-home-office/14finished1.jpg)
 
 # Costs
 
@@ -213,12 +213,12 @@ I also relish the thought of not having to put my art equipment away when wrap u
 
 **UPDATE** A few more snaps following the [new desk](/2016/11/20/my-new-85-standing-desk/) and a litte tidying.
 
-![window side](assets/complete-1.jpg)
-![window up](assets/window-above.jpg)
-![window down](assets/window-below.jpg)
-![garage door up](assets/sealed-above.jpg)
-![garage door down](assets/sealed-below.jpg)
-![middle looking up](assets/middle.jpg)
+![window side](/assets/posts/2016-10-17-my-new-home-office/complete-1.jpg)
+![window up](/assets/posts/2016-10-17-my-new-home-office/window-above.jpg)
+![window down](/assets/posts/2016-10-17-my-new-home-office/window-below.jpg)
+![garage door up](/assets/posts/2016-10-17-my-new-home-office/sealed-above.jpg)
+![garage door down](/assets/posts/2016-10-17-my-new-home-office/sealed-below.jpg)
+![middle looking up](/assets/posts/2016-10-17-my-new-home-office/middle.jpg)
 
 
 
