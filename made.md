@@ -16,8 +16,45 @@ here for all to see
 
 <div class="box altbox">
 [pdfcrunch](https://pdfcrun.ch)
+
+Turn PDFs into data
+
 <small>2018-01-25</small>
 </div>
+
+<div class="box altbox">
+[comicbot](https://comicbot.co/)
+
+automate the comic artist within
+
+<small>2017-09-10</small>
+</div>
+
+<div class="box altbox">
+[Flask-Pushrod](https://github.com/UYSio/Flask-Pushrod)
+
+content negotiation for Flask
+
+<small>inherited 2015-07</small>
+</div>
+
+<div class="box altbox">
+[Flask-Sandboy (fork)](https://github.com/UYSio/flask_sandboy)
+
+REST your DB
+
+<small>forked 2015-07</small>
+</div>
+
+
+<div class="box altbox">
+[taximeter](https://github.com/opyate/taximeter)
+
+Taxi meter API built to TFL spec
+
+<small>2014-01-30</small>
+</div>
+
 
 {% for item in site.made %}
 <div class="box altbox">
