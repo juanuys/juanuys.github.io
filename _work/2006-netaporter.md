@@ -1,9 +1,11 @@
 ---
-layout: page
-title: Net-A-Porter.com
+title: "Net-A-Porter.com"
+description: "My work with Net-A-Porter.com"
+layout: post
+tags: career
+category: blog
+date: 2006-01-01
 ---
-
-# My work with Net-A-Porter.com
 
 I worked at Net-A-Porter.com for almost 7 years, and some of my achievements include implementing our first shared payment service, our first API and our first translations system. I have led teams, and I've also won a hack day with an iOS app.
 
@@ -34,18 +36,6 @@ The company is not far off 5,000 employees strong, and our HQ is quite a sizeabl
 Net-A-Porter has become a very integrated part of my life. I remember shopping for a new TV on Tottenham Court Road one Saturday morning, when I got a call from ops saying the payment service is throwing a wobbly, and could I take a look. I'd whip the laptop out there and then, make the connection, troubleshoot, re-compile and deploy right there. Needless to say, it's 2013 now, and I've only recently got a TV and a license for one.
 
 I've also made many wonderful friends at NAP throughout the years. I've gone to my colleagues' house warmings, weddings, birthday parties and BBQs. They are truly a great bunch.
-
-[![NAP tech circa 2007](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc1/222537_8125517399_1278_n.jpg)](https://www.facebook.com/chiselwright/media_set?set=a.8125327399.23525.516677399&type=3)
-
-That's me on the right with the long hair.
-
-![NAP Xmas 2008](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/1594_527795514264_5912_n.jpg)
-
-Spot Mr. Longhair again.
-
-![Enjoying drinks at the local, 2009](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/6460_218711365084_468042_n.jpg)
-
-That's your good self on the very left.
 
 # Technology
 
@@ -91,5 +81,3 @@ Everything implemented in Java using Spring/Hibernate unless otherwise specified
   year-on-year growth for weeks 1-9, to 65% growth for weeks 10 (launch) - 18;
   new promotions engine which can be configured by customer, email, price,
   season, designer, customer list, per-item, per-basket, etc;
-
-

@@ -20,4 +20,6 @@ This being rushed, there are a few issues:
 
 The glitch makes for good high scores, though ;-)
 
+<div class="videowrapper">
 <iframe width="1665" height="764" src="https://www.youtube.com/embed/d_tSSeSFgbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

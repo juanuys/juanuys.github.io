@@ -1,9 +1,13 @@
 ---
-layout: page
-title: The Light Agency
+title: "The Light AgencyFreelance"
+description: "My work with The Light Agency"
+layout: post
+tags: career
+category: blog
+date: 2004-01-01
 ---
 
-# My work with  [Mobilize Systems](http://www.mobilize-systems.com/) (previously The Light Agency)
+This is a post about my work with  [Mobilize Systems](http://www.mobilize-systems.com/) (previously The Light Agency)
 
 The Light Agency was spearheaded by [Marc Lewis](http://www.linkedin.com/profile/view?id=4761107) &mdash; a tour de force of creation. I remember being in the interview when Marc came into the boardroom on his Segway, with his signature pyjama bottoms. I saw Marc again later when he was a Wayra mentor (when I did pollarize.me). I was an absolute honour to have Marc as our visionary leader. He's a great guy, and you'd be privileged to meet him some time.
 
@@ -20,4 +24,3 @@ As always, a bulleted list of stuff implemented at The Light Agency. Everything 
   Nokia S60, SE, Motorola, etc; book store in partnership with Bango
 * Misc: XSLT which parses the WURFL (http://wurfl.sourceforge.net/) and imports
   the data into a PostgresQL database
-

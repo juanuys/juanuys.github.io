@@ -46,7 +46,9 @@ I needed GIMP for something last night, and when I installed it and launched it 
 
 So, I purged GIMP and re-did it for your viewing pleasure:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/Gt0H4_QUvzE" frameborder="0" allowfullscreen></iframe>
+<div class="videowrapper">
+<iframe width="1665" height="764" src="https://www.youtube.com/embed/Gt0H4_QUvzE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 Apart from this, I'm running about multiple Java server apps (for this thing I'm working on), plus a couple of VMs, plus some Python scripts that are running some numbers. My software does make efficient use of all the available cores, and CPU hasn't been a problem for me in a while.
 

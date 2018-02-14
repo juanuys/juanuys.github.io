@@ -46,7 +46,7 @@ The contractor I targeted rejected me, but a contractor called ‘K’ took the 
 
 However, after a few email to-and-fros it turns out that ‘K’ is really interested in developing a mobile application for me. I revised everything: $8 is sufficient for what should not take more than 10 minutes to do; my job wording was clear; my requirements weren’t too steep (e.g. 4 out of 5 star rating and basic English required). Have a look for yourself:
 
-<img src="http://funkshional.files.wordpress.com/2010/09/odesk.png" width="100%" alt="Result of posting a job on ODesk">	
+<img src="http://funkshional.files.wordpress.com/2010/09/odesk.png" width="100%" alt="Result of posting a job on ODesk">
 
 I also posted a job on **Craigslist**‘s UK site. It’s similarly worded and the fixed price is £5. No replies thus far.
 
@@ -62,7 +62,10 @@ With my invisible human bots churning away at my survey, I have to start thinkin
 
 As a geek who have been programming computers since ’92 and hacking at electronics even earlier, I have never had the business inkling. Bill Hicks makes taking sides even easier:
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/gDW_Hj2K0wo?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+<div class="videowrapper">
+<iframe width="1665" height="764" src="https://www.youtube.com/embed/Tvp97SMZc6M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 This is all new ground to me. I put “marketing” and “marketing 101″ into Google and scanned the first few sites. I read the reviews for 5 or so top hits on Amazon. I learnt about the 4 Ps (product, promotion, price, placement). [Maslow’s Hierarchy of Needs](http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs) popped up once or twice. A lot of information. Mastering marketing will be an ongoing journey, but for now I’ll do the following 2 things:
 

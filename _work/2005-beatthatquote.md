@@ -1,9 +1,11 @@
 ---
-layout: page
-title: BeatThatQuote.com
+title: "BeatThatQuote.com"
+description: "My work with BeatThatQuote.com"
+layout: post
+tags: career
+category: blog
+date: 2005-01-01
 ---
-
-# My work with BeatThatQuote.com
 
 [BeatThatQuote](http://www.beatthatquote.com/) (also trading as [Finance Leads Online](http://financeleadsonline.co.uk)) was the UK's fastest growing start-up in 2005 and won the HSBC regional award for best start-up in the London region. The company’s core business is generating and selling financial leads. As employee #5 (and the second techie!) I was resposible for implementing backends in Java, and customer self-service front-ends in RoR. BeatThatQuote has since been acquired by Google.
 
@@ -11,9 +13,11 @@ title: BeatThatQuote.com
 
 I delivered features the moment I joined. From the get-go, John Newby (my manager) and I had fun competing for lines of code, then less lines of code (because less is more), and number of tickets, delivering as many features possible in a day.
 
-Our office was a single room, and we shared it with loads of other creative and digital teams next to Highgate Studios. Our boss, John Paleomilytes, made a pretty penny with his previous venture, JCB, which he sold to Sun for a few million. Working with an exprienced entrepreneur was a great privilege. John was very driven and very demanding, and I wouldn't have it any other way. I like a founder with a clear vision.
+Our office was a single room, and we shared it with loads of other creative and digital teams next to Highgate Studios. Our boss, John Paleomilytes, made a pretty penny with his previous venture, [JCP](https://www.youtube.com/watch?v=zbboTICo-lY), which he sold to Sun for a few million. Working with an exprienced entrepreneur was a great privilege. John was very driven and very demanding, and I wouldn't have it any other way. I like a founder with a clear vision.
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/z6dUl2RkQZc?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<div class="videowrapper">
+<iframe width="1665" height="764" src="https://www.youtube.com/embed/mpgJNp471kg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 # Growth
 
@@ -36,6 +40,3 @@ As always, a bulleted list of a few things I built at BeatThatQuote.com.
   out underwriter stage
 * IFA self-service system (Java, Struts, Velocity)
 * Misc: Ad-hoc reports (Perl); new test framework (Ruby, Watir, Selenium)
-
-
-

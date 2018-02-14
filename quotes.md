@@ -22,4 +22,10 @@ the quotable quote
 </div>
 {% endfor %}
 
+{% for i in (1..30) %}
+
+<div class="box"></div>
+
+{% endfor %}
+
 </div>

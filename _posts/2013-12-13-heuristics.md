@@ -10,7 +10,9 @@ category: blog
 
 I recently saw a talk by Jack Dorsey where he iterates a list of commandments for this life, and number three is "drink only lemon water and red wine".
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/wEQawgkCMOU?feature=player_detailpage&start=1220" frameborder="0" allowfullscreen></iframe>
+<div class="videowrapper">
+<iframe width="1665" height="764" src="https://www.youtube.com/embed/wEQawgkCMOU?start=1220" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 I love red wine, and was intrigued by this lemon water idea. I investigated and it led me to [an article](http://www.lifehack.org/articles/lifestyle/11-benefits-lemon-water-you-didnt-know-about.html) which asks how much lemon water is needed. They quote a heuristic:
 
