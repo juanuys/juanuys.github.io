@@ -12,6 +12,8 @@
 del {
     color: $grey-color-light;
 }
+
+// https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
 .videowrapper {
 	  position: relative;
 	  padding-bottom: 56.25%; /* 16:9 */

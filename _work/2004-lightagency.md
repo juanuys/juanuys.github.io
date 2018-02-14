@@ -1,5 +1,5 @@
 ---
-title: "The Light AgencyFreelance"
+title: "The Light Agency"
 description: "My work with The Light Agency"
 layout: post
 tags: career
