@@ -14,7 +14,7 @@ pointless ensemble
 
 </div>
 
-{% for c in site.collections %}
+{% for c in site.collections reversed %}
 <div class="{{ c.label }} box">
 [{{ c.label }}]({{ c.label }})
 </div>
