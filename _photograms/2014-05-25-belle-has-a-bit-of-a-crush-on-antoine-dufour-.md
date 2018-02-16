@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-05-25-belle-has-a-bit-of-a-crush-on-antoine-dufour-.jpg
 layout: home
 title: "Belle has a bit of a crush on Antoine Dufour."
 date: 2014-05-25T15:59:31Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-05-15-not-knowing-what-the-hell-i-was-going-for--volume-xii-.jpg
 layout: home
 title: "Not knowing what the hell I was going for, Volume XII."
 date: 2013-05-15T19:33:33Z

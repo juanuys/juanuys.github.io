@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-04-05-that-raisin-s-thinking--crapcrapcrap--.jpg
 layout: home
 title: "That raisin's thinking \"crapcrapcrap\"."
 date: 2014-04-05T09:43:22Z

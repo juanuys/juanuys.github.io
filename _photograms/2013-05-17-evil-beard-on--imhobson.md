@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-05-17-evil-beard-on--imhobson.jpg
 layout: home
 title: "Evil Beard on @imhobson"
 date: 2013-05-17T06:42:28Z

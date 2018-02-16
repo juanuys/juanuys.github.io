@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-06-11-fun-since-5am-.jpg
 layout: home
 title: "Fun since 5AM."
 date: 2013-06-11T07:15:59Z

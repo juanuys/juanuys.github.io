@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-02-08-baby-crisps--ever-so-slightly-flavoured-air-.jpg
 layout: home
 title: "Baby crisps: ever-so-slightly flavoured air."
 date: 2014-02-08T12:27:40Z

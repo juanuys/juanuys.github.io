@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-02-08-finger-food-.jpg
 layout: home
 title: "Finger food."
 date: 2014-02-08T16:07:16Z

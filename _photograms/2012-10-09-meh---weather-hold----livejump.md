@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-09-meh---weather-hold----livejump.jpg
 layout: home
 title: "Meh. \"Weather hold\". #livejump"
 date: 2012-10-09T12:25:33Z

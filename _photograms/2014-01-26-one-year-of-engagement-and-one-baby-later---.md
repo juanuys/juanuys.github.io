@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-01-26-one-year-of-engagement-and-one-baby-later---.jpg
 layout: home
 title: "One year of engagement and one baby later..."
 date: 2014-01-26T15:23:04Z

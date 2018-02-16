@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-05-19-handy-bookshelf-above-the-top-staircase--hacking-my-house-.jpg
 layout: home
 title: "Handy bookshelf above the top staircase. Hacking my house."
 date: 2013-05-19T18:49:36Z

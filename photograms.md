@@ -15,8 +15,8 @@ not in the moment
 </div>
 
 
-{% for item in site.photograms %}
-<div class="box altbox">
+{% for item in site.photograms reversed %}
+<div class="box altbox" style="background-image: url({{item.thumbnail}});">
 [{{item.title | truncatewords: 7 }}]({{ item.url }})
 <small>{{item.date | date: "%Y-%m-%d"}}</small>
 </div>

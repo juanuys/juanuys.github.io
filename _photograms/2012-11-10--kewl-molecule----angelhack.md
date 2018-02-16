@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-11-10--kewl-molecule----angelhack.jpg
 layout: home
 title: "\"Kewl molecule!\" #angelhack"
 date: 2012-11-10T13:12:44Z

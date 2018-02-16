@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-12-26-the-polar-bear-who-might-have-eaten-christmas---thanks-j-for-the-new-fountain-pen-xmas-pressie-.jpg
 layout: home
 title: "The Polar Bear who might have eaten Christmas. (thanks J for the new fountain pen Xmas pressie)"
 date: 2013-12-26T16:50:21Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-01-27--description-.jpg
 layout: home
 title: "<description>"
 date: 2013-01-27T11:42:10Z

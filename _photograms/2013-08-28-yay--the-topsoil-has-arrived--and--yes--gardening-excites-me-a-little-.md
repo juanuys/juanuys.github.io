@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-08-28-yay--the-topsoil-has-arrived--and--yes--gardening-excites-me-a-little-.jpg
 layout: home
 title: "Yay, the topsoil has arrived. And, yes: gardening excites me a little."
 date: 2013-08-28T11:18:54Z

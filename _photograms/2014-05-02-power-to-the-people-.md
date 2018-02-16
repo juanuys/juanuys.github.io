@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-05-02-power-to-the-people-.jpg
 layout: home
 title: "Power to the people."
 date: 2014-05-02T19:49:10Z

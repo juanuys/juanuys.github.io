@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-09-16--we-have-to-have-a-baby-so-we-can-get-one-of-these---said-the-missus-this-morning-.jpg
 layout: home
 title: "\"We have to have a baby so we can get one of these!\" said the missus this morning."
 date: 2012-09-16T09:06:36Z

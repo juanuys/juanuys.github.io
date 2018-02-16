@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-08-20-luckily-my-daughter-is-still-quite-content-with-the-drink-on-the-left-.jpg
 layout: home
 title: "Luckily my daughter is still quite content with the drink on the left."
 date: 2013-08-20T19:43:22Z

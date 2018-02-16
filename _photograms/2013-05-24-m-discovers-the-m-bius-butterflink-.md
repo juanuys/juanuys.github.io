@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-05-24-m-discovers-the-m-bius-butterflink-.jpg
 layout: home
 title: "M discovers the Mœbius butterflink."
 date: 2013-05-24T07:22:30Z

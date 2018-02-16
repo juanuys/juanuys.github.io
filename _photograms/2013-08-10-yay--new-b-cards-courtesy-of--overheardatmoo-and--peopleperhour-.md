@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-08-10-yay--new-b-cards-courtesy-of--overheardatmoo-and--peopleperhour-.jpg
 layout: home
 title: "Yay, new b cards courtesy of @overheardatmoo and @peopleperhour."
 date: 2013-08-10T09:38:24Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-05-03-belle-goes-global---see-what-i-did-there--.jpg
 layout: home
 title: "Belle goes global. (see what I did there?)"
 date: 2014-05-03T09:19:07Z

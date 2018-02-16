@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-08-12-one-of-the-many-things-we-buy-in-bulk-now-.jpg
 layout: home
 title: "One of the many things we buy in bulk now."
 date: 2013-08-12T09:09:09Z

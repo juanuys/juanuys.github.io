@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-11-19-this-goes-on-the-wall-in-the-kitchen-when-i-m-done-with-it-.jpg
 layout: home
 title: "This goes on the wall in the kitchen when I'm done with it."
 date: 2013-11-19T15:16:25Z

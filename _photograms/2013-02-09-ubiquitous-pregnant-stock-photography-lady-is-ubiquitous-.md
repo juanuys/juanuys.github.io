@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-02-09-ubiquitous-pregnant-stock-photography-lady-is-ubiquitous-.jpg
 layout: home
 title: "Ubiquitous Pregnant Stock Photography Lady is ubiquitous."
 date: 2013-02-09T21:43:32Z

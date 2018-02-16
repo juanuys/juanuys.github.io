@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-06-21-which-one-is-your-favourite-.jpg
 layout: home
 title: "Which one is your favourite?"
 date: 2013-06-21T07:35:24Z

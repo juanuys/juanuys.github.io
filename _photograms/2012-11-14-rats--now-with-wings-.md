@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-11-14-rats--now-with-wings-.jpg
 layout: home
 title: "Rats. Now with wings."
 date: 2012-11-14T09:18:58Z

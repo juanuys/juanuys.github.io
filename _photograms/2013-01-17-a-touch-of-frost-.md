@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-01-17-a-touch-of-frost-.jpg
 layout: home
 title: "A touch of frost."
 date: 2013-01-17T08:32:31Z

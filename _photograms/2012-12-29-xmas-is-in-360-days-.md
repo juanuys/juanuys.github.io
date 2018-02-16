@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-12-29-xmas-is-in-360-days-.jpg
 layout: home
 title: "Xmas is in 360 days."
 date: 2012-12-29T22:09:29Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-08-05-hack-weekends-at-wayra-shall-be-a-healthy-affair-.jpg
 layout: home
 title: "Hack weekends at Wayra shall be a healthy affair."
 date: 2012-08-05T10:57:09Z

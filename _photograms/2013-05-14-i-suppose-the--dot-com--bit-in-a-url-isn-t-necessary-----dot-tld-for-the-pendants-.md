@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-05-14-i-suppose-the--dot-com--bit-in-a-url-isn-t-necessary-----dot-tld-for-the-pendants-.jpg
 layout: home
 title: "I suppose the \"dot com\" bit in a URL isn't necessary... (dot TLD for the pendants)"
 date: 2013-05-14T16:49:24Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-03-08-playing-on-the-carpet-.jpg
 layout: home
 title: "Playing on the carpet."
 date: 2014-03-08T17:12:20Z

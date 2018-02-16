@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-05-01-the-start-of-something-a-bit-sinister-.jpg
 layout: home
 title: "The start of something a bit sinister."
 date: 2013-05-01T20:29:34Z

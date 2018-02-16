@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-03-24--do-you-want-to-help-me-find-little-holes-that-need-doing----twss.jpg
 layout: home
 title: "\"Do you want to help me find little holes that need doing?\" #TWSS"
 date: 2013-03-24T11:30:56Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-11-28-i-sometimes-dream-about-programming--then-i-come-up-with-solutions-like-these-.jpg
 layout: home
 title: "I sometimes dream about programming. Then I come up with solutions like these."
 date: 2013-11-28T09:47:06Z

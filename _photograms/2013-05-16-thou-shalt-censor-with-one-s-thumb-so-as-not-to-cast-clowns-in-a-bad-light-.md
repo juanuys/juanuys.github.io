@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-05-16-thou-shalt-censor-with-one-s-thumb-so-as-not-to-cast-clowns-in-a-bad-light-.jpg
 layout: home
 title: "Thou shalt censor with one's thumb so as not to cast clowns in a bad light."
 date: 2013-05-16T06:18:10Z

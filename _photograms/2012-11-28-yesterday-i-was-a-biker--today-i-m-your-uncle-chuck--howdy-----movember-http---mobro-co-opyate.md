@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-11-28-yesterday-i-was-a-biker--today-i-m-your-uncle-chuck--howdy-----movember-http---mobro-co-opyate.jpg
 layout: home
 title: "Yesterday I was a biker. Today I'm your uncle Chuck. Howdy ;) #Movember http://MoBro.co/opyate"
 date: 2012-11-28T09:10:16Z

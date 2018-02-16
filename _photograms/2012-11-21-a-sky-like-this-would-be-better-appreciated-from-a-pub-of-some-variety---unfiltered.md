@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-11-21-a-sky-like-this-would-be-better-appreciated-from-a-pub-of-some-variety---unfiltered.jpg
 layout: home
 title: "A sky like this would be better appreciated from a pub of some variety. #unfiltered"
 date: 2012-11-21T15:59:49Z

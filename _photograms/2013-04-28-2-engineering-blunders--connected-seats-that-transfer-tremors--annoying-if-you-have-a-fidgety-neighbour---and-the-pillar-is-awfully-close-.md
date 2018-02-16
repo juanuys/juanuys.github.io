@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-04-28-2-engineering-blunders--connected-seats-that-transfer-tremors--annoying-if-you-have-a-fidgety-neighbour---and-the-pillar-is-awfully-close-.jpg
 layout: home
 title: "2 engineering blunders: connected seats that transfer tremors (annoying if you have a fidgety neighbour), and the pillar is awfully close."
 date: 2013-04-28T08:36:42Z

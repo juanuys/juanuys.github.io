@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-03-03-will-a-beet-make-for-red-mash-.jpg
 layout: home
 title: "Will a beet make for red mash?"
 date: 2013-03-03T19:58:54Z

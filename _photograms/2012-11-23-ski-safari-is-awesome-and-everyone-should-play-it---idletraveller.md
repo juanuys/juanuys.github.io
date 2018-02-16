@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-11-23-ski-safari-is-awesome-and-everyone-should-play-it---idletraveller.jpg
 layout: home
 title: "Ski Safari is awesome and everyone should play it. #IdleTraveller"
 date: 2012-11-23T21:52:00Z

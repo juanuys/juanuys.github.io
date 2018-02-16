@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-06-21-hmmm--that-new-lamy-ink-is-water-soluble--then--nananananana---.jpg
 layout: home
 title: "Hmmm, that new LAMY ink is water soluble, then. Nananananana..."
 date: 2013-06-21T06:19:22Z

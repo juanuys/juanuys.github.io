@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-07-22-curtains-and-poles-and-stuff-finally-going-up-.jpg
 layout: home
 title: "Curtains and poles and stuff finally going up."
 date: 2012-07-22T18:16:16Z

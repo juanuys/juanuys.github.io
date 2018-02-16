@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-27-helen-s-birthday-luncheon-.jpg
 layout: home
 title: "Helen's birthday luncheon."
 date: 2012-10-27T14:17:36Z

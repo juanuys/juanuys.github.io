@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-05-15-octoracer-hates-losing-.jpg
 layout: home
 title: "Octoracer hates losing."
 date: 2013-05-15T07:19:23Z

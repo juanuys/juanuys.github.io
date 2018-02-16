@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-08-24-art-hack--1-at-mozilla-hq-2012-.jpg
 layout: home
 title: "Art hack #1 at Mozilla HQ 2012."
 date: 2013-08-24T07:41:56Z

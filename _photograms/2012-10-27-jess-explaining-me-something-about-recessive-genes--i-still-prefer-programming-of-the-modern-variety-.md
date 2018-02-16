@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-27-jess-explaining-me-something-about-recessive-genes--i-still-prefer-programming-of-the-modern-variety-.jpg
 layout: home
 title: "Jess explaining me something about recessive genes. I still prefer programming of the modern variety."
 date: 2012-10-27T08:06:10Z

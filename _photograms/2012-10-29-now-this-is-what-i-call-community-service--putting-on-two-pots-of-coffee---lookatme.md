@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-29-now-this-is-what-i-call-community-service--putting-on-two-pots-of-coffee---lookatme.jpg
 layout: home
 title: "Now this is what I call community service: putting on two pots of coffee. #lookatme"
 date: 2012-10-29T10:19:14Z

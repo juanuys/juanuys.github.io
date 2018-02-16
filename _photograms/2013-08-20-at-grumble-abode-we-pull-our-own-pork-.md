@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-08-20-at-grumble-abode-we-pull-our-own-pork-.jpg
 layout: home
 title: "At Grumble Abode we pull our own pork."
 date: 2013-08-20T19:45:02Z

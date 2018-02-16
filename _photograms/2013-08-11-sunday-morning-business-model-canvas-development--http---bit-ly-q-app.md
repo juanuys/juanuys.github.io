@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-08-11-sunday-morning-business-model-canvas-development--http---bit-ly-q-app.jpg
 layout: home
 title: "Sunday morning business model canvas development. http://bit.ly/q-app"
 date: 2013-08-11T07:03:37Z

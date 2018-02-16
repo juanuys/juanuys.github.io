@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-06-wedding-bus-.jpg
 layout: home
 title: "Wedding bus."
 date: 2012-10-06T10:59:13Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-06-12-inspired-by-a-bit-of-m-bius-.jpg
 layout: home
 title: "Inspired by a bit of Mœbius."
 date: 2013-06-12T20:58:53Z

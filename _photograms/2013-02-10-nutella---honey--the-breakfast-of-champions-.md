@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-02-10-nutella---honey--the-breakfast-of-champions-.jpg
 layout: home
 title: "Nutella + honey. The breakfast of champions."
 date: 2013-02-10T09:30:40Z

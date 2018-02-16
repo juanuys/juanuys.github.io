@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-12-26-best-little-xmas-pressie-ever-.jpg
 layout: home
 title: "Best little Xmas pressie ever."
 date: 2012-12-26T13:16:00Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-10-16-yum--friday-frittata-.jpg
 layout: home
 title: "Yum, Friday Frittata."
 date: 2013-10-16T11:17:18Z

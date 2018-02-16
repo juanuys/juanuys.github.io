@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-04-19-i-shouldn-t-make-a-habit-out-of-having-these-waffles-for-breakfast--so-good-with-black-coffee--though-.jpg
 layout: home
 title: "I shouldn't make a habit out of having these waffles for breakfast. So good with black coffee, though."
 date: 2014-04-19T07:44:39Z

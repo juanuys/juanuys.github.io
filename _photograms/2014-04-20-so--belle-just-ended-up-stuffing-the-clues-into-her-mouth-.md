@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-04-20-so--belle-just-ended-up-stuffing-the-clues-into-her-mouth-.jpg
 layout: home
 title: "So, Belle just ended up stuffing the clues into her mouth."
 date: 2014-04-20T06:21:44Z

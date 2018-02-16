@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-11-20-i-m-starting-a-death-metal-band-for-coffee-lovers-called-children-of-bodum---cc--cobhc.jpg
 layout: home
 title: "I'm starting a death metal band for coffee lovers called Children Of Bodum. /cc @cobhc"
 date: 2013-11-20T11:06:33Z

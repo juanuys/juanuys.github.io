@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-11-01-team--pollarizeme-sans-the-lovely-couple--wehtam-having-dins-at-grumble-abode-.jpg
 layout: home
 title: "Team @PollarizeMe sans the lovely couple @wehtam having dins at Grumble Abode."
 date: 2012-11-01T21:21:43Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-16-interesting-architecture--sunken-hotel-lounge--websummit.jpg
 layout: home
 title: "Interesting architecture; sunken hotel lounge #websummit"
 date: 2012-10-16T15:27:16Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-05-15-skeptical-skateboard-sam-is-skeptical-of-diets-.jpg
 layout: home
 title: "Skeptical Skateboard Sam is skeptical of diets."
 date: 2013-05-15T06:50:00Z

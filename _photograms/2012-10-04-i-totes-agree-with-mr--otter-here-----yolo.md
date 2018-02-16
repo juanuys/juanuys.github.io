@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-04-i-totes-agree-with-mr--otter-here-----yolo.jpg
 layout: home
 title: "I totes agree with Mr. Otter here... #yolo"
 date: 2012-10-04T22:07:19Z

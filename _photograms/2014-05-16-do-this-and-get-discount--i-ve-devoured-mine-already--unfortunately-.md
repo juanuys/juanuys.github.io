@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-05-16-do-this-and-get-discount--i-ve-devoured-mine-already--unfortunately-.jpg
 layout: home
 title: "Do this and get discount. I've devoured mine already, unfortunately."
 date: 2014-05-16T12:07:53Z

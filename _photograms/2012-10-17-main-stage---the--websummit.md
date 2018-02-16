@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-17-main-stage---the--websummit.jpg
 layout: home
 title: "Main stage @ the #websummit"
 date: 2012-10-17T09:20:21Z

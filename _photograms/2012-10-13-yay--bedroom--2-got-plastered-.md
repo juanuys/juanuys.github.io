@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-13-yay--bedroom--2-got-plastered-.jpg
 layout: home
 title: "Yay, bedroom #2 got plastered."
 date: 2012-10-13T15:38:14Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-06-11-redefine-thyself-.jpg
 layout: home
 title: "Redefine thyself."
 date: 2013-06-11T18:27:59Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2014-05-25-someone-got-a-new-monster-truck-.jpg
 layout: home
 title: "Someone got a new Monster Truck."
 date: 2014-05-25T16:01:33Z

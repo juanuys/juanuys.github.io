@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-02-25-giant-astronaut--just-hanging-there-.jpg
 layout: home
 title: "Giant astronaut, just hanging there."
 date: 2013-02-25T13:46:52Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-10-02-our-3-month-old-pink-sausage-.jpg
 layout: home
 title: "Our 3 month old pink sausage."
 date: 2013-10-02T11:01:22Z

@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2012-10-29-me-accidentally-taking-a-photo-of-the-floor--it-s-interesting--so-i-m-keeping-it-.jpg
 layout: home
 title: "Me accidentally taking a photo of the floor. It's interesting, so I'm keeping it."
 date: 2012-10-29T10:12:59Z

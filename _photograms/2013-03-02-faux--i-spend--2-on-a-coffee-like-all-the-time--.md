@@ -1,4 +1,5 @@
 ---
+thumbnail: /assets/photograms/thumbs/2013-03-02-faux--i-spend--2-on-a-coffee-like-all-the-time--.jpg
 layout: home
 title: "Faux \"I spend £2 on a coffee like all the time\"."
 date: 2013-03-02T07:52:48Z
