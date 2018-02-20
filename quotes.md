@@ -15,7 +15,7 @@ the quotable quote
 </div>
 
 
-{% for item in site.quotes %}
+{% for item in site.quotes reversed %}
 <div class="box altbox">
 [{{item.title | truncatewords: 7 }}]({{ item.url }})
 <small>{{item.date | date: "%Y-%m-%d"}}</small>

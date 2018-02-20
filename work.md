@@ -14,7 +14,7 @@ as long as it's fun
 
 </div>
 
-{% for item in site.work %}
+{% for item in site.work reversed %}
 <div class="box altbox">
 [{{ item.title }}]({{ item.url }})
 
