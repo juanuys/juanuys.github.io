@@ -1,4 +1,4 @@
-$plato-brand: cbrew('pubu', 6);
+$plato-brand: cbrew('pubu', 7);
 
 .posts {
     background-color: nth($plato-brand, 1) !important;
@@ -17,6 +17,9 @@ $plato-brand: cbrew('pubu', 6);
 }
 .work {
     background-color: nth($plato-brand, 6) !important;
+}
+.ml {
+    background-color: nth($plato-brand, 7) !important;
 }
 
 $paired: cbrew('paired', 12);
