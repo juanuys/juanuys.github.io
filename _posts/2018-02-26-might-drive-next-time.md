@@ -6,7 +6,7 @@ tags: plato-long life
 category: blog
 ---
 
-You walk to the train station. You squint as the graupel taunts your exposed face. On the road, one car follows another. Walking was once the healthy choice, but you have second thougths as the fumes feels heavy on your lungs.
+You walk to the train station. You squint as the graupel taunts your exposed face. On the road, car follows car follows car. Walking was once the healthy choice, but you have second thougths as the fumes feels heavy on your lungs.
 
 You decide that you might drive next time.
 
