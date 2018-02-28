@@ -6,7 +6,7 @@ tags: [plato-long,life]
 category: blog
 ---
 
-My 24-hour day as a [parallel port](https://en.wikipedia.org/wiki/Parallel_port).
+My 24-hour day as a broken [parallel port](https://en.wikipedia.org/wiki/Parallel_port) with only a single pin active at any given time.
 
 <pre>
                       ____
