@@ -6,11 +6,11 @@ permalink: /doodles/index.html
 
 <div class="box box2">
 
-TODO
+dip pens and pencils
 
-doodle hokku
+gliding over the Moleskine
 
-naturally
+to reveal not much
 
 </div>
 
