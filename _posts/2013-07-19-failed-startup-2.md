@@ -16,7 +16,7 @@ This article is a retrospective.
 
 ## Startup weekend
 
-[![Startup weekend final photo](http://farm8.staticflickr.com/7256/7021256699_cf4c66b390_b.jpg)](http://www.flickr.com/photos/didscatterbrain/sets/72157629680707765/with/7021256699/)
+[![Startup weekend final photo](/assets/posts/2013-07-19-failed-startup-2/sw2012.jpg)](http://www.flickr.com/photos/didscatterbrain/sets/72157629680707765/with/7021256699/)
 
 *That's me in front behind the HP bag.*
 
@@ -56,7 +56,7 @@ I won't re-tell the story of *pollarize's* beginnings, so I copy Mat's post from
 
 ## Wayra Academy
 
-[![W is for Wayra](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/543441_483970661623402_1985125126_n.jpg)](https://www.facebook.com/PollarizeMe)
+![W is for Wayra](/assets/posts/2013-07-19-failed-startup-2/team-wayra.jpg)
 
 Mat's post above already aluded to Wayra Academy. I'll fill in some more blanks.
 
@@ -68,13 +68,13 @@ We were going for the Big Bang, one-in-a-million, "get lucky" exit &mdash; somet
 
 ## Dublin Web Summit
 
-[!['Stout' in Afrikaans means 'Naughty'](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/404671_481933535160448_515453169_n.jpg)](https://www.facebook.com/PollarizeMe)
+!['Stout' in Afrikaans means 'Naughty'](/assets/posts/2013-07-19-failed-startup-2/team-web-summit.jpg)
 
 Mike won 2 Web Summit tickets, and Wayra sponsored another 2, so we were all able to attend. We implemented and refined about double the amount of features from the previous 6 months at the Web Summit weekend.
 
 We had a successful iPhone app launch, got some good PR going, and met with more angels and investors you can shake an executive summary at.
 
-[![App Store, here we come!](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/561795_479200655433736_1131174673_n.jpg)](https://itunes.apple.com/gb/app/pollarize/id564203002).
+![App Store, here we come!](/assets/posts/2013-07-19-failed-startup-2/app-store-submission-for-approval.jpg)
 
 We spoke, we demo'd, we networked with other startups and got the buzz going. This was the best times of our respective professional lives.
 
@@ -94,3 +94,4 @@ Now, I just have to wait for the guys to become slightly more available again so
 
 Thanks for reading.
 
+![screenshot of home page before pulling the plug](/assets/posts/2013-07-19-failed-startup-2/homepage.png)
