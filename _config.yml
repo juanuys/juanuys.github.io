@@ -15,6 +15,9 @@ theme: minima
 plugins:
   - jekyll-feed
 collections:
+  doodles:
+    output: true
+    permalink: /:collection/:path
   ml:
     output: true
     permalink: /:collection/:path
