@@ -21,9 +21,9 @@ collections:
   ml:
     output: true
     permalink: /:collection/:path
-  made:
-    output: true
-    permalink: /:collection/:path
+  # made:
+  #   output: true
+  #   permalink: /:collection/:path
   chirps:
     output: false
   posts:
