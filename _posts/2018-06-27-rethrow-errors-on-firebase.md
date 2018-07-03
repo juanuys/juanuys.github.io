@@ -87,5 +87,3 @@ Given a forced failure, this is what we see in the logs:
 # Conclusion
 
 If an error happens in your Firebase trigger business logic, and you `catch` at any point in your Promise chain, you must either recover from the error, or re-throw the error so that Firebase can exit with the error status.
-
-This will help your frontend clients get the correct signals and take the user down the appropriate recovery paths.
