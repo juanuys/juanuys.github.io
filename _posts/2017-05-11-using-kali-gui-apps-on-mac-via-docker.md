@@ -12,7 +12,7 @@ Let's get the slow thing out of the way first. In a terminal:
 
 Next, install [XQuartz](https://www.xquartz.org/) (version 2.7.11 at the time of writing).
 
-    
+
 Log out and back in, otherwise running `xhost` will complain with `xhost:  unable to open display ""`.
 
 In a terminal:

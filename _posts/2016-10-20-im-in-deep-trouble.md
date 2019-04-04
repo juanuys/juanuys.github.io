@@ -7,13 +7,13 @@ category: blog
 ---
 
 
-I'm a contractor programmer. I'm also an artist at heart. 
+I'm a contractor programmer. I'm also an artist at heart.
 
 I fed the programmer but starved the artist.
 
 Here's a tab I have open in my browser right now:
 
-==My first Angular 2 app.==
+<span class="highlight">My first Angular 2 app.</span>
 
 Some client wants me to implement their app-that-doesn't-really-matter using the new hotness.
 

@@ -12,7 +12,7 @@ We bought it for £250K, spent about £100K on it (£80K of that accounted for) 
 
 Just in case the *rightmove* link above permanently expires, here are the final photos.
 
-Oh, and before you scroll down, [here's a reminder](/2011/06/15/the-first-viewing-on-22nd-of-march-2011-as-you/) so you can ==see what a piece of crap this house was before we shook our respective magic wands at it==.
+Oh, and before you scroll down, [here's a reminder](/2011/06/15/the-first-viewing-on-22nd-of-march-2011-as-you/) so you can <span class="highlight">see what a piece of crap this house was before we shook our respective magic wands at it</span>.
 
 ![front of the house, and look at this pretty hanging baskets!](/assets/posts/2016-11-16-before-we-forget-2/36308_HAR150316_IMG_00_0000_max_656x437.JPG)
 ![the back garden](/assets/posts/2016-11-16-before-we-forget-2/36308_HAR150316_IMG_01_0000_max_656x437.JPG)

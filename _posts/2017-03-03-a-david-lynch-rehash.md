@@ -8,9 +8,9 @@ category: blog
 
 [Source](http://www.davidlynch.de/angry.html):
 
-> The David Lynch cartoon 'The Angriest Dog in The World'  was published in local papers such as the L.A. Reader, Creative Loafing, New York Press and Westworld since 1983 until 1992. 
-> 
-> ==The images always stay the same==, at least, they were meant to. But somehow a cartoonist chose to include an increasing number of bones.
+> The David Lynch cartoon 'The Angriest Dog in The World'  was published in local papers such as the L.A. Reader, Creative Loafing, New York Press and Westworld since 1983 until 1992.
+>
+> <span class="highlight">The images always stay the same</span>, at least, they were meant to. But somehow a cartoonist chose to include an increasing number of bones.
 
 I thought that perhaps this could be an easy mechanism for Lazy Me to pollute the Internet with more of the empty little nothings that pop into my head every now and then.
 
