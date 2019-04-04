@@ -1,14 +1,14 @@
 PORT=${PORT:-80}
 
-# if jekyll3.6 below is now available, try with
+# first step
+false && docker run --rm --label=jekyll --name www.opyate.com --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:$PORT:4000 ruby:2.3 /bin/bash
+# then run the commands in .gitlab-ci.yml
 
-false && docker run --rm --label=jekyll --name www.opyate.com --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:$PORT:4000 jekyll/jekyll:3.6 jekyll serve
+# step 2, in another terminal (with the above container running) run this command to get it back:
+false && docker commit www.opyate.com opyate.com-jekyll:latest
 
-# then (with the above container running) run this command to get it back:
-false && docker commit www.opyate.com opyatejekyll3.6:latest
-
-
-docker run --rm --label=jekyll --name www.opyate.com --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:$PORT:4000 opyatejekyll3.6 jekyll serve
+# step 3, run
+docker run --rm --label=jekyll --name www.opyate.com --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:$PORT:4000 opyate.com-jekyll jekyll serve -s /srv/jekyll/ -H 0.0.0.0
 
 
 # Why? The hub image installs gems on each run, and the new image has them all (and starts up quicker)
