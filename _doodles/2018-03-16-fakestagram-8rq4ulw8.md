@@ -10,4 +10,4 @@ Uploaded by [Fakestagram](https://github.com/opyate/fakestagram).
 
 <small>2018-03-16T20:43:37Z</small>
 
-![Uploaded by Fakestagram](2018-03-16-fakestagram-8rq4ulw8.jpeg)
+![Uploaded by Fakestagram](/assets/doodles/original/2018-03-16-fakestagram-8rq4ulw8.jpeg)
