@@ -10,4 +10,4 @@ Last holiday together as a twosome.
 
 <small>2013-04-16T07:55:27Z</small>
 
-![Last holiday together as a twosome.](2013-04-16-last-holiday-together-as-a-twosome-.jpg)
+![Last holiday together as a twosome.](/assets/photograms/original/2013-04-16-last-holiday-together-as-a-twosome-.jpg)

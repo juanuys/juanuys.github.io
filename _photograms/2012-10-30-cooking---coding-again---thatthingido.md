@@ -10,4 +10,4 @@ Cooking & Coding again. #ThatThingIDo
 
 <small>2012-10-30T20:51:38Z</small>
 
-![Cooking & Coding again. #ThatThingIDo](2012-10-30-cooking---coding-again---thatthingido.jpg)
+![Cooking & Coding again. #ThatThingIDo](/assets/photograms/original/2012-10-30-cooking---coding-again---thatthingido.jpg)

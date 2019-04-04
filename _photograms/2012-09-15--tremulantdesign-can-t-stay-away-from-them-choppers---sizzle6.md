@@ -10,4 +10,4 @@ img: 2012-09-15--tremulantdesign-can-t-stay-away-from-them-choppers---sizzle6.jp
 
 <small>2012-09-15T20:04:43Z</small>
 
-![@TremulantDesign can't stay away from them choppers. #sizzle6](2012-09-15--tremulantdesign-can-t-stay-away-from-them-choppers---sizzle6.jpg)
+![@TremulantDesign can't stay away from them choppers. #sizzle6](/assets/photograms/original/2012-09-15--tremulantdesign-can-t-stay-away-from-them-choppers---sizzle6.jpg)

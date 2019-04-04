@@ -10,4 +10,4 @@ Hmmm, thirsty.
 
 <small>2012-08-31T19:32:37Z</small>
 
-![Hmmm, thirsty.](2012-08-31-hmmm--thirsty-.jpg)
+![Hmmm, thirsty.](/assets/photograms/original/2012-08-31-hmmm--thirsty-.jpg)

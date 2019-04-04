@@ -10,4 +10,4 @@ Having fun copying Mattias Adolfsson's sketches.
 
 <small>2013-04-20T10:23:28Z</small>
 
-![Having fun copying Mattias Adolfsson's sketches.](2013-04-20-having-fun-copying-mattias-adolfsson-s-sketches-.jpg)
+![Having fun copying Mattias Adolfsson's sketches.](/assets/photograms/original/2013-04-20-having-fun-copying-mattias-adolfsson-s-sketches-.jpg)

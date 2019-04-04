@@ -10,4 +10,4 @@ Rats. Now with wings.
 
 <small>2012-11-14T09:18:58Z</small>
 
-![Rats. Now with wings.](2012-11-14-rats--now-with-wings-.jpg)
+![Rats. Now with wings.](/assets/photograms/original/2012-11-14-rats--now-with-wings-.jpg)

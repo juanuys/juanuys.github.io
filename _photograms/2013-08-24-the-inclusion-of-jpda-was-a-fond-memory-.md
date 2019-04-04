@@ -10,4 +10,4 @@ The inclusion of JPDA was a fond memory.
 
 <small>2013-08-24T01:10:48Z</small>
 
-![The inclusion of JPDA was a fond memory.](2013-08-24-the-inclusion-of-jpda-was-a-fond-memory-.jpg)
+![The inclusion of JPDA was a fond memory.](/assets/photograms/original/2013-08-24-the-inclusion-of-jpda-was-a-fond-memory-.jpg)

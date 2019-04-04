@@ -10,4 +10,4 @@ Football brass.
 
 <small>2014-06-11T15:57:01Z</small>
 
-![Football brass.](2014-06-11-football-brass-.jpg)
+![Football brass.](/assets/photograms/original/2014-06-11-football-brass-.jpg)

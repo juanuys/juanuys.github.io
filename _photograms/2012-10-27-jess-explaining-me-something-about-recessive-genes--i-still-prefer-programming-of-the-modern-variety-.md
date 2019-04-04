@@ -10,4 +10,4 @@ Jess explaining me something about recessive genes. I still prefer programming o
 
 <small>2012-10-27T08:06:10Z</small>
 
-![Jess explaining me something about recessive genes. I still prefer programming of the modern variety.](2012-10-27-jess-explaining-me-something-about-recessive-genes--i-still-prefer-programming-of-the-modern-variety-.jpg)
+![Jess explaining me something about recessive genes. I still prefer programming of the modern variety.](/assets/photograms/original/2012-10-27-jess-explaining-me-something-about-recessive-genes--i-still-prefer-programming-of-the-modern-variety-.jpg)

@@ -10,4 +10,4 @@ Thirsty Thursdays
 
 <small>2012-08-02T17:14:37Z</small>
 
-![Thirsty Thursdays](2012-08-02-thirsty-thursdays.jpg)
+![Thirsty Thursdays](/assets/photograms/original/2012-08-02-thirsty-thursdays.jpg)

@@ -10,4 +10,4 @@ We've been brushing since Tooth #1
 
 <small>2014-04-21T08:21:19Z</small>
 
-![We've been brushing since Tooth #1](2014-04-21-we-ve-been-brushing-since-tooth--1.jpg)
+![We've been brushing since Tooth #1](/assets/photograms/original/2014-04-21-we-ve-been-brushing-since-tooth--1.jpg)

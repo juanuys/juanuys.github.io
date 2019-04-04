@@ -10,4 +10,4 @@ Project Euler 18 and 67; the noodling through of.
 
 <small>2013-11-28T09:55:02Z</small>
 
-![Project Euler 18 and 67; the noodling through of.](2013-11-28-project-euler-18-and-67--the-noodling-through-of-.jpg)
+![Project Euler 18 and 67; the noodling through of.](/assets/photograms/original/2013-11-28-project-euler-18-and-67--the-noodling-through-of-.jpg)

@@ -10,4 +10,4 @@ Lovely Easter Friday in Stroud. #nofilter
 
 <small>2013-03-30T16:41:59Z</small>
 
-![Lovely Easter Friday in Stroud. #nofilter](2013-03-30-lovely-easter-friday-in-stroud---nofilter.jpg)
+![Lovely Easter Friday in Stroud. #nofilter](/assets/photograms/original/2013-03-30-lovely-easter-friday-in-stroud---nofilter.jpg)

@@ -10,4 +10,4 @@ Sun diffused.
 
 <small>2012-09-09T09:56:18Z</small>
 
-![Sun diffused.](2012-09-09-sun-diffused-.jpg)
+![Sun diffused.](/assets/photograms/original/2012-09-09-sun-diffused-.jpg)

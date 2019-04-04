@@ -10,4 +10,4 @@ Mouse spotted near my snacks.
 
 <small>2013-05-02T16:30:59Z</small>
 
-![Mouse spotted near my snacks.](2013-05-02-mouse-spotted-near-my-snacks-.jpg)
+![Mouse spotted near my snacks.](/assets/photograms/original/2013-05-02-mouse-spotted-near-my-snacks-.jpg)

@@ -10,4 +10,4 @@ img: 2014-01-21--i-traded-me-eyes-for-this-tasty-cheese--.jpg
 
 <small>2014-01-21T09:29:54Z</small>
 
-!["I traded me eyes for this tasty cheese!"](2014-01-21--i-traded-me-eyes-for-this-tasty-cheese--.jpg)
+!["I traded me eyes for this tasty cheese!"](/assets/photograms/original/2014-01-21--i-traded-me-eyes-for-this-tasty-cheese--.jpg)

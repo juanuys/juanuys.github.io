@@ -10,4 +10,4 @@ Ferran Adriá doing a talk at the @Wayra academy.
 
 <small>2012-10-25T17:39:59Z</small>
 
-![Ferran Adriá doing a talk at the @Wayra academy.](2012-10-25-ferran-adri--doing-a-talk-at-the--wayra-academy-.jpg)
+![Ferran Adriá doing a talk at the @Wayra academy.](/assets/photograms/original/2012-10-25-ferran-adri--doing-a-talk-at-the--wayra-academy-.jpg)

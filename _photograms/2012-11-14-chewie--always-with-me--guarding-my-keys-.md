@@ -10,4 +10,4 @@ Chewie. Always with me, guarding my keys.
 
 <small>2012-11-14T09:03:57Z</small>
 
-![Chewie. Always with me, guarding my keys.](2012-11-14-chewie--always-with-me--guarding-my-keys-.jpg)
+![Chewie. Always with me, guarding my keys.](/assets/photograms/original/2012-11-14-chewie--always-with-me--guarding-my-keys-.jpg)

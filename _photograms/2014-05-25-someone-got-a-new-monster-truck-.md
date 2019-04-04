@@ -10,4 +10,4 @@ Someone got a new Monster Truck.
 
 <small>2014-05-25T16:01:33Z</small>
 
-![Someone got a new Monster Truck.](2014-05-25-someone-got-a-new-monster-truck-.jpg)
+![Someone got a new Monster Truck.](/assets/photograms/original/2014-05-25-someone-got-a-new-monster-truck-.jpg)

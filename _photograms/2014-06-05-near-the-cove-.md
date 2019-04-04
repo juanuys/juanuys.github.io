@@ -10,4 +10,4 @@ Near the Cove.
 
 <small>2014-06-05T06:51:42Z</small>
 
-![Near the Cove.](2014-06-05-near-the-cove-.jpg)
+![Near the Cove.](/assets/photograms/original/2014-06-05-near-the-cove-.jpg)

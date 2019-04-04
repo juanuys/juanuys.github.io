@@ -10,4 +10,4 @@ Fishing for dinner today.
 
 <small>2014-06-05T06:52:41Z</small>
 
-![Fishing for dinner today.](2014-06-05-fishing-for-dinner-today-.jpg)
+![Fishing for dinner today.](/assets/photograms/original/2014-06-05-fishing-for-dinner-today-.jpg)

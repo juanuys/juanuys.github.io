@@ -10,4 +10,4 @@ Finger food.
 
 <small>2014-02-08T16:07:16Z</small>
 
-![Finger food.](2014-02-08-finger-food-.jpg)
+![Finger food.](/assets/photograms/original/2014-02-08-finger-food-.jpg)

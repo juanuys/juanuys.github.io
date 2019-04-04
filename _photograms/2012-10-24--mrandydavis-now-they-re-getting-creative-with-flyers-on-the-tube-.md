@@ -10,4 +10,4 @@ img: 2012-10-24--mrandydavis-now-they-re-getting-creative-with-flyers-on-the-tub
 
 <small>2012-10-24T09:02:14Z</small>
 
-![@MrAndyDavis Now they're getting creative with flyers on the Tube.](2012-10-24--mrandydavis-now-they-re-getting-creative-with-flyers-on-the-tube-.jpg)
+![@MrAndyDavis Now they're getting creative with flyers on the Tube.](/assets/photograms/original/2012-10-24--mrandydavis-now-they-re-getting-creative-with-flyers-on-the-tube-.jpg)

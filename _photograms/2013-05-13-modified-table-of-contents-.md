@@ -10,4 +10,4 @@ Modified table of contents.
 
 <small>2013-05-13T07:15:17Z</small>
 
-![Modified table of contents.](2013-05-13-modified-table-of-contents-.jpg)
+![Modified table of contents.](/assets/photograms/original/2013-05-13-modified-table-of-contents-.jpg)

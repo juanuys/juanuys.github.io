@@ -10,4 +10,4 @@ img: 2014-04-17-----you-don-t-have-to-memorize-the-speech-twice--once-for-readin
 
 <small>2014-04-17T12:59:26Z</small>
 
-!["...you don't have to memorize the speech twice, once for reading and once for writing."](2014-04-17-----you-don-t-have-to-memorize-the-speech-twice--once-for-reading-and-once-for-writing--.jpg)
+!["...you don't have to memorize the speech twice, once for reading and once for writing."](/assets/photograms/original/2014-04-17-----you-don-t-have-to-memorize-the-speech-twice--once-for-reading-and-once-for-writing--.jpg)

@@ -10,4 +10,4 @@ Shroom, Iberico, and chervil + chives from the garden. More eggs on Easter.
 
 <small>2014-04-20T09:13:28Z</small>
 
-![Shroom, Iberico, and chervil + chives from the garden. More eggs on Easter.](2014-04-20-shroom--iberico--and-chervil---chives-from-the-garden--more-eggs-on-easter-.jpg)
+![Shroom, Iberico, and chervil + chives from the garden. More eggs on Easter.](/assets/photograms/original/2014-04-20-shroom--iberico--and-chervil---chives-from-the-garden--more-eggs-on-easter-.jpg)

@@ -10,4 +10,4 @@ Ysbeertjie photo-bombing my Uysbeertjie.
 
 <small>2013-10-05T09:25:07Z</small>
 
-![Ysbeertjie photo-bombing my Uysbeertjie.](2013-10-05-ysbeertjie-photo-bombing-my-uysbeertjie-.jpg)
+![Ysbeertjie photo-bombing my Uysbeertjie.](/assets/photograms/original/2013-10-05-ysbeertjie-photo-bombing-my-uysbeertjie-.jpg)

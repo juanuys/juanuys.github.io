@@ -10,4 +10,4 @@ Yay, new b cards courtesy of @overheardatmoo and @peopleperhour.
 
 <small>2013-08-10T09:38:24Z</small>
 
-![Yay, new b cards courtesy of @overheardatmoo and @peopleperhour.](2013-08-10-yay--new-b-cards-courtesy-of--overheardatmoo-and--peopleperhour-.jpg)
+![Yay, new b cards courtesy of @overheardatmoo and @peopleperhour.](/assets/photograms/original/2013-08-10-yay--new-b-cards-courtesy-of--overheardatmoo-and--peopleperhour-.jpg)

@@ -10,4 +10,4 @@ Redefine thyself.
 
 <small>2013-06-11T18:27:59Z</small>
 
-![Redefine thyself.](2013-06-11-redefine-thyself-.jpg)
+![Redefine thyself.](/assets/photograms/original/2013-06-11-redefine-thyself-.jpg)

@@ -10,4 +10,4 @@ Rumour has it they're all here for the opening act: a juggling monkey on a unicy
 
 <small>2012-11-06T13:00:06Z</small>
 
-![Rumour has it they're all here for the opening act: a juggling monkey on a unicycle.](2012-11-06-rumour-has-it-they-re-all-here-for-the-opening-act--a-juggling-monkey-on-a-unicycle-.jpg)
+![Rumour has it they're all here for the opening act: a juggling monkey on a unicycle.](/assets/photograms/original/2012-11-06-rumour-has-it-they-re-all-here-for-the-opening-act--a-juggling-monkey-on-a-unicycle-.jpg)

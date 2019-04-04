@@ -10,4 +10,4 @@ The site foreman.
 
 <small>2014-04-21T12:55:55Z</small>
 
-![The site foreman.](2014-04-21-the-site-foreman-.jpg)
+![The site foreman.](/assets/photograms/original/2014-04-21-the-site-foreman-.jpg)

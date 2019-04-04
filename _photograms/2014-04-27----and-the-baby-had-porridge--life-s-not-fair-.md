@@ -10,4 +10,4 @@ img: 2014-04-27----and-the-baby-had-porridge--life-s-not-fair-.jpg
 
 <small>2014-04-27T08:55:58Z</small>
 
-![...and the baby had porridge. Life's not fair.](2014-04-27----and-the-baby-had-porridge--life-s-not-fair-.jpg)
+![...and the baby had porridge. Life's not fair.](/assets/photograms/original/2014-04-27----and-the-baby-had-porridge--life-s-not-fair-.jpg)

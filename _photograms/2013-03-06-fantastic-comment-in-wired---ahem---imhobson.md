@@ -10,4 +10,4 @@ Fantastic comment in Wired. *ahem* @imhobson
 
 <small>2013-03-06T09:29:15Z</small>
 
-![Fantastic comment in Wired. *ahem* @imhobson](2013-03-06-fantastic-comment-in-wired---ahem---imhobson.jpg)
+![Fantastic comment in Wired. *ahem* @imhobson](/assets/photograms/original/2013-03-06-fantastic-comment-in-wired---ahem---imhobson.jpg)

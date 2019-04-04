@@ -10,4 +10,4 @@ I love hotels with posh, chunky cushions.
 
 <small>2012-10-06T14:35:14Z</small>
 
-![I love hotels with posh, chunky cushions.](2012-10-06-i-love-hotels-with-posh--chunky-cushions-.jpg)
+![I love hotels with posh, chunky cushions.](/assets/photograms/original/2012-10-06-i-love-hotels-with-posh--chunky-cushions-.jpg)

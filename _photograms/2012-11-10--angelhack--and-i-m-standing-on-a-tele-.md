@@ -10,4 +10,4 @@ img: 2012-11-10--angelhack--and-i-m-standing-on-a-tele-.jpg
 
 <small>2012-11-10T10:36:08Z</small>
 
-![#angelhack, and I'm standing on a tele.](2012-11-10--angelhack--and-i-m-standing-on-a-tele-.jpg)
+![#angelhack, and I'm standing on a tele.](/assets/photograms/original/2012-11-10--angelhack--and-i-m-standing-on-a-tele-.jpg)

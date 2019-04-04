@@ -10,4 +10,4 @@ Rated B (for Baby) and needing a lullaby to paralyse so mummy and daddy can snoo
 
 <small>2013-07-26T11:40:01Z</small>
 
-![Rated B (for Baby) and needing a lullaby to paralyse so mummy and daddy can snooze! /cc @imhobson @rubyannem](2013-07-26-rated-b--for-baby--and-needing-a-lullaby-to-paralyse-so-mummy-and-daddy-can-snooze---cc--imhobson--rubyannem.jpg)
+![Rated B (for Baby) and needing a lullaby to paralyse so mummy and daddy can snooze! /cc @imhobson @rubyannem](/assets/photograms/original/2013-07-26-rated-b--for-baby--and-needing-a-lullaby-to-paralyse-so-mummy-and-daddy-can-snooze---cc--imhobson--rubyannem.jpg)

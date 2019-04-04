@@ -10,4 +10,4 @@ Dum dum, tsh!
 
 <small>2013-05-28T22:09:25Z</small>
 
-![Dum dum, tsh!](2013-05-28-dum-dum--tsh-.jpg)
+![Dum dum, tsh!](/assets/photograms/original/2013-05-28-dum-dum--tsh-.jpg)

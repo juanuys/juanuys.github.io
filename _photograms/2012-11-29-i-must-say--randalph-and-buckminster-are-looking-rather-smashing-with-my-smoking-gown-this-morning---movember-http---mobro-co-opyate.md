@@ -10,4 +10,4 @@ I must say, Randalph and Buckminster are looking rather smashing with my smoking
 
 <small>2012-11-29T08:00:37Z</small>
 
-![I must say, Randalph and Buckminster are looking rather smashing with my smoking gown this morning. #Movember http://MoBro.co/opyate](2012-11-29-i-must-say--randalph-and-buckminster-are-looking-rather-smashing-with-my-smoking-gown-this-morning---movember-http---mobro-co-opyate.jpg)
+![I must say, Randalph and Buckminster are looking rather smashing with my smoking gown this morning. #Movember http://MoBro.co/opyate](/assets/photograms/original/2012-11-29-i-must-say--randalph-and-buckminster-are-looking-rather-smashing-with-my-smoking-gown-this-morning---movember-http---mobro-co-opyate.jpg)

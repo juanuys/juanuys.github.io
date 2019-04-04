@@ -10,4 +10,4 @@ Elcombe fields.
 
 <small>2012-09-29T16:15:45Z</small>
 
-![Elcombe fields.](2012-09-29-elcombe-fields-.jpg)
+![Elcombe fields.](/assets/photograms/original/2012-09-29-elcombe-fields-.jpg)

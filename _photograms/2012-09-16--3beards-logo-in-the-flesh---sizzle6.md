@@ -10,4 +10,4 @@ img: 2012-09-16--3beards-logo-in-the-flesh---sizzle6.jpg
 
 <small>2012-09-16T09:53:12Z</small>
 
-![@3beards logo in the flesh. #sizzle6](2012-09-16--3beards-logo-in-the-flesh---sizzle6.jpg)
+![@3beards logo in the flesh. #sizzle6](/assets/photograms/original/2012-09-16--3beards-logo-in-the-flesh---sizzle6.jpg)

@@ -10,4 +10,4 @@ img: 2013-01-27--description-.jpg
 
 <small>2013-01-27T11:42:10Z</small>
 
-![<description>](2013-01-27--description-.jpg)
+![<description>](/assets/photograms/original/2013-01-27--description-.jpg)

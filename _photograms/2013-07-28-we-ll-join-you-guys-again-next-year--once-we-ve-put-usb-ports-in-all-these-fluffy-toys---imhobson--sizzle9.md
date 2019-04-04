@@ -10,4 +10,4 @@ We'll join you guys again next year, once we've put USB ports in all these fluff
 
 <small>2013-07-28T09:48:46Z</small>
 
-![We'll join you guys again next year, once we've put USB ports in all these fluffy toys. @imhobson #sizzle9](2013-07-28-we-ll-join-you-guys-again-next-year--once-we-ve-put-usb-ports-in-all-these-fluffy-toys---imhobson--sizzle9.jpg)
+![We'll join you guys again next year, once we've put USB ports in all these fluffy toys. @imhobson #sizzle9](/assets/photograms/original/2013-07-28-we-ll-join-you-guys-again-next-year--once-we-ve-put-usb-ports-in-all-these-fluffy-toys---imhobson--sizzle9.jpg)

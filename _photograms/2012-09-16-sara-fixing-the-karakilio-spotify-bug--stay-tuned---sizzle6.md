@@ -10,4 +10,4 @@ Sara fixing the Karakilio spotify bug? Stay tuned. #sizzle6
 
 <small>2012-09-16T17:34:50Z</small>
 
-![Sara fixing the Karakilio spotify bug? Stay tuned. #sizzle6](2012-09-16-sara-fixing-the-karakilio-spotify-bug--stay-tuned---sizzle6.jpg)
+![Sara fixing the Karakilio spotify bug? Stay tuned. #sizzle6](/assets/photograms/original/2012-09-16-sara-fixing-the-karakilio-spotify-bug--stay-tuned---sizzle6.jpg)

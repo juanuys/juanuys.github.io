@@ -10,4 +10,4 @@ That hair reminds me of DragonBall Z.
 
 <small>2014-04-26T08:56:38Z</small>
 
-![That hair reminds me of DragonBall Z.](2014-04-26-that-hair-reminds-me-of-dragonball-z-.jpg)
+![That hair reminds me of DragonBall Z.](/assets/photograms/original/2014-04-26-that-hair-reminds-me-of-dragonball-z-.jpg)

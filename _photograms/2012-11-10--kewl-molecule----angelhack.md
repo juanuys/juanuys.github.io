@@ -10,4 +10,4 @@ img: 2012-11-10--kewl-molecule----angelhack.jpg
 
 <small>2012-11-10T13:12:44Z</small>
 
-!["Kewl molecule!" #angelhack](2012-11-10--kewl-molecule----angelhack.jpg)
+!["Kewl molecule!" #angelhack](/assets/photograms/original/2012-11-10--kewl-molecule----angelhack.jpg)

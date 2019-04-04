@@ -10,4 +10,4 @@ img: 2013-04-23--draw-somethng-random---i-thought---snow-pushchair---i-thought-.
 
 <small>2013-04-23T12:58:07Z</small>
 
-!['Draw somethng random', I thought. 'Snow pushchair', I thought.](2013-04-23--draw-somethng-random---i-thought---snow-pushchair---i-thought-.jpg)
+!['Draw somethng random', I thought. 'Snow pushchair', I thought.](/assets/photograms/original/2013-04-23--draw-somethng-random---i-thought---snow-pushchair---i-thought-.jpg)
