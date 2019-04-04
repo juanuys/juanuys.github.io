@@ -46,3 +46,20 @@ body {
         grid-row: 3 / 3;
     }
 }
+
+.previousnext {
+    width: 100%;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr 1fr;
+}
+.pnbox {
+    background-color: nth($plato-brand, 1);
+    padding: 40px;
+    font-size: 150%;
+    width: 90%;
+}
+.pnbox.next {
+    margin-left:auto;
+    margin-right:0;
+}
