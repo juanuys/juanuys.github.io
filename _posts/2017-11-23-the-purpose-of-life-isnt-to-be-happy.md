@@ -12,4 +12,6 @@ are ​necessary ​for ​a ​good ​life. ​Without ​them, ​we ​don�
 **Lesson:** The ​real ​purpose ​of ​life ​is ​to ​create ​a ​story ​in ​which ​you ​can ​constantly ​define ​what
 it ​means ​to ​be ​better ​tomorrow ​than ​you ​are ​today. ​That’s ​what ​we ​are ​programmed ​for.
 
-From https://www.designluck.com/
+> From https://www.designluck.com/
+
+![A life of purpose](/assets/posts/2017-11-23-the-purpose-of-life-isnt-to-be-happy/porpoise.jpg)
