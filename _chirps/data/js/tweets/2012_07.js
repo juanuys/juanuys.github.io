@@ -1,4 +1,4 @@
-Grailbird.data.tweets_2012_07 = 
+Grailbird.data.tweets_2012_07 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
@@ -742,7 +742,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : { },
   "id_str" : "226798386316201985",
   "in_reply_to_user_id" : 56368220,
-  "text" : "@rubyannem Jess said that Poppet is the one! You'll know what she meant, apparently :)",
+  "text" : "@rubyannem DW said that Poppet is the one! You'll know what she meant, apparently :)",
   "id" : 226798386316201985,
   "created_at" : "2012-07-21 21:58:43 +0000",
   "in_reply_to_screen_name" : "rubyannem",
