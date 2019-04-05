@@ -14,6 +14,13 @@ here for all to see
 
 </div>
 
+{% for item in site.made reversed %}
+<div class="box altbox">
+[{{item.title | truncatewords: 7 }}]({{ item.url }})
+<small>{{item.date | date: "%Y-%m-%d"}}</small>
+</div>
+{% endfor %}
+
 <div class="box altbox">
 [pdfcrunch](https://pdfcrun.ch)
 
@@ -22,13 +29,13 @@ Turn PDFs into data
 <small>2018-01-25</small>
 </div>
 
-<!-- <div class="box altbox">
-[comicbot](https://comicbot.co/)
+<div class="box altbox">
+<a>domain expired; coming soon</a>
 
 automate the comic artist within
 
 <small>2017-09-10</small>
-</div> -->
+</div>
 
 <div class="box altbox">
 [Flask-Pushrod](https://github.com/UYSio/Flask-Pushrod)
@@ -54,14 +61,6 @@ Taxi meter API built to TFL spec
 
 <small>2014-01-30</small>
 </div>
-
-
-{% for item in site.made %}
-<div class="box altbox">
-[{{item.title | truncatewords: 7 }}]({{ item.url }})
-<small>{{item.date | date: "%Y-%m-%d"}}</small>
-</div>
-{% endfor %}
 
 <div class="box altbox">
 [bits and pieces](https://github.com/opyate)

@@ -14,7 +14,7 @@ NEW=_posts/${DATE}-${KEBAB%?}.md
 cp _drafts/template.md $NEW
 
 read -p "A comma-delimited list of tags:" TAGS
-TAGS=${TAGS:-plato-long,life}
+TAGS=${TAGS:-life}
 
 read -p "Category (default: blog):" CATEGORY
 CATEGORY=${CATEGORY:-blog}
