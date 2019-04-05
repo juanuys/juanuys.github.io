@@ -18,12 +18,19 @@ This site is mostly for me, as I'm a digital hoarder.
 
 If this messy mind does appeal to you, feel free to reach out.
 
-Quick chronology
+## Quick chronology
 
 - born in the seventies
 - the 80s is a blur of playing LEGO and watching "Karate films" on VHS
 - start programming in early nineties
 - experience mid-life crises in late nineties, write an exegesis on the world, but sell the computer it's on
+
+Yes, it was a tricky time. In fact, I looked a bit like an African David Foster Wallace back then:
+
+![I'm an African David Foster Wallace](https://cdn.opyate.com/photos/juancubs.jpg)
+
+Let's continue...
+
 - briefly join a few bands and make "interesting" alternative music whilst burning through a small lump sum
 - hop over to Europe from Africa in the early 2000s with a view expand mind
 - said mind increasingly runs in circles thinking of different things, like a terrible polyglot
