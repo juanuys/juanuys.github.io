@@ -14,6 +14,10 @@ pointless ensemble
 
 </div>
 
+<div class="about box">
+[about me](about)
+</div>
+
 <div class="portfolio box">
 [portfolio](https://uys.io/portfolio/)
 </div>

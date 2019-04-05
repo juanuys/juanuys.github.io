@@ -22,13 +22,13 @@ Turn PDFs into data
 <small>2018-01-25</small>
 </div>
 
-<div class="box altbox">
+<!-- <div class="box altbox">
 [comicbot](https://comicbot.co/)
 
 automate the comic artist within
 
 <small>2017-09-10</small>
-</div>
+</div> -->
 
 <div class="box altbox">
 [Flask-Pushrod](https://github.com/UYSio/Flask-Pushrod)
