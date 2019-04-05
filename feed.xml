@@ -9,7 +9,7 @@
     <name>Juan Uys</name>
     <email>opyate@gmail.com</email>
   </author>
-  
+
   <entry>
     <title>More jq fun</title>
     <link href="http://opyate.com/2014/01/29/more-jq-fun.html"/>
@@ -30,7 +30,7 @@
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
   <entry>
     <title>2103 &mdash; the year's code and tooling in review</title>
     <link href="http://opyate.com/2013/12/31/code-and-tools-the-year-in-review.html"/>
@@ -94,7 +94,7 @@
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
   <entry>
     <title>Using single and double pipes in Scala conditionals</title>
     <link href="http://opyate.com/2013/12/27/using-single-and-double-pipes-in-scala-conditionals.html"/>
@@ -130,7 +130,7 @@ true
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
   <entry>
     <title>Heuristics</title>
     <link href="http://opyate.com/2013/12/13/heuristics.html"/>
@@ -159,7 +159,7 @@ true
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
   <entry>
     <title>Project Euler 18 and 67 in Scala using foldRight, zip and sliding</title>
     <link href="http://opyate.com/2013/11/28/project-euler-18-and-67-in-scala-using-foldright-zip-and-sliding.html"/>
@@ -214,7 +214,7 @@ true
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
   <entry>
     <title>A webwords Chef cookbook</title>
     <link href="http://opyate.com/2013/11/10/the-quickest-way-to-get-started-with-dev-vms.html"/>
@@ -239,7 +239,7 @@ The original blog post was going to be a guide to getting webwords cookbook work
 Remove these two lines from the newly-generated Vagrantfile:
 
   config.ssh.max_tries = 40
-  config.ssh.timeout   = 120 
+  config.ssh.timeout   = 120
 
 These switches have been deprecated.
 
@@ -279,7 +279,7 @@ Welcome to Ubuntu 12.04.3 LTS (GNU/Linux 3.2.0-55-generic x86_64)
 0 packages can be updated.
 0 updates are security updates.
 
-vagrant@chef-server:~$ 
+vagrant@chef-server:~$
 
 &lt;/code&gt;
 
@@ -317,7 +317,7 @@ vagrant@chef-server:~$ sudo cp /etc/chef-server/admin.pem /vagrant/
 Then back in the cloned directory (the directory containing Vagrantfile):
 
 &lt;code&gt;
-mv admin.pem chef-validator.pem ~/.chef  
+mv admin.pem chef-validator.pem ~/.chef
 &lt;/code&gt;
 
 Add the following to the /etc/hosts:
@@ -333,19 +333,19 @@ Output should look like the following:
 &lt;pre&gt;
 ~/V/chef-client ❯❯❯ knife configure -i
 WARNING: No knife configuration file found
-Where should I put the config file? [/home/opyate/.chef/knife.rb] 
-Please enter the chef server URL: [https://annabelle:443] https://chef-server:443
-Please enter a name for the new user: [opyate] 
-Please enter the existing admin name: [admin] 
+Where should I put the config file? [/home/opyate/.chef/knife.rb]
+Please enter the chef server URL: [https://chef-server:443] https://chef-server:443
+Please enter a name for the new user: [opyate]
+Please enter the existing admin name: [admin]
 Please enter the location of the existing admin&#39;s private key: [/etc/chef-server/admin.pem] ~/.chef/admin.pem
-Please enter the validation clientname: [chef-validator] 
+Please enter the validation clientname: [chef-validator]
 Please enter the location of the validation key: [/etc/chef-server/chef-validator.pem] ~/.chef/chef-validator.pem
-Please enter the path to a chef repository (or leave blank): 
+Please enter the path to a chef repository (or leave blank):
 Creating initial API user...
-Please enter a password for the new user: 
+Please enter a password for the new user:
 Created user[opyate]
 Configuration file written to /home/opyate/.chef/knife.rb
-~/V/chef-client ❯❯❯ 
+~/V/chef-client ❯❯❯
 
 &lt;/pre&gt;
 
@@ -383,7 +383,7 @@ Also, instead of downloading Java7&#39;s dependencies (i.e. java and apt), Berks
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
   <entry>
     <title>Pretty-print JSON in vim</title>
     <link href="http://opyate.com/2013/11/05/my-new-favourite-way-to-pretty-print-json-in-vim.html"/>
@@ -409,7 +409,7 @@ Also, instead of downloading Java7&#39;s dependencies (i.e. java and apt), Berks
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
   <entry>
     <title>Dell XPS 13 LE</title>
     <link href="http://opyate.com/2013/11/02/dell-xps-13-linux-edition-makes-me-happy.html"/>
@@ -486,7 +486,7 @@ Also, instead of downloading Java7&#39;s dependencies (i.e. java and apt), Berks
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
   <entry>
     <title>AngularJS and Internet Explorer woes</title>
     <link href="http://opyate.com/2013/11/01/angularjs-and-internet-explorer-woes.html"/>
@@ -526,7 +526,7 @@ Also, instead of downloading Java7&#39;s dependencies (i.e. java and apt), Berks
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
   <entry>
     <title>Failed startup #2</title>
     <link href="http://opyate.com/2013/07/19/failed-startup-2.html"/>
@@ -624,5 +624,5 @@ Also, instead of downloading Java7&#39;s dependencies (i.e. java and apt), Berks
       <uri>http://opyate.com/about/</uri>
     </author>
   </entry>
-  
+
 </feed>

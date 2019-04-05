@@ -1,4 +1,4 @@
-Grailbird.data.tweets_2014_04 = 
+Grailbird.data.tweets_2014_04 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2014_04 =
   },
   "geo" : { },
   "id_str" : "460474736825626624",
-  "text" : "Belle rocking tap guitar and piano simultaneously, like a boss. http:\/\/t.co\/uQZWvcC1i6",
+  "text" : "DD1 rocking tap guitar and piano simultaneously, like a boss. http:\/\/t.co\/uQZWvcC1i6",
   "id" : 460474736825626624,
   "created_at" : "2014-04-27 17:45:07 +0000",
   "user" : {
@@ -2125,7 +2125,7 @@ Grailbird.data.tweets_2014_04 =
   },
   "geo" : { },
   "id_str" : "457766045118644224",
-  "text" : "So, Belle just ended up stuffing the clues into her mouth. http:\/\/t.co\/rMU3RDy9DV",
+  "text" : "So, DD1 just ended up stuffing the clues into her mouth. http:\/\/t.co\/rMU3RDy9DV",
   "id" : 457766045118644224,
   "created_at" : "2014-04-20 06:21:44 +0000",
   "user" : {
@@ -2676,7 +2676,7 @@ Grailbird.data.tweets_2014_04 =
   },
   "geo" : { },
   "id_str" : "456656299107704832",
-  "text" : "The cat. Belle's first positive ID circa age 6 months. http:\/\/t.co\/N17ohzOYfQ",
+  "text" : "The cat. DD1's first positive ID circa age 6 months. http:\/\/t.co\/N17ohzOYfQ",
   "id" : 456656299107704832,
   "created_at" : "2014-04-17 04:52:00 +0000",
   "user" : {

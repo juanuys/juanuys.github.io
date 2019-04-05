@@ -30,7 +30,7 @@ The original blog post was going to be a guide to getting webwords cookbook work
 Remove these two lines from the newly-generated Vagrantfile:
 
   config.ssh.max_tries = 40
-  config.ssh.timeout   = 120 
+  config.ssh.timeout   = 120
 
 These switches have been deprecated.
 
@@ -70,7 +70,7 @@ Welcome to Ubuntu 12.04.3 LTS (GNU/Linux 3.2.0-55-generic x86_64)
 0 packages can be updated.
 0 updates are security updates.
 
-vagrant@chef-server:~$ 
+vagrant@chef-server:~$
 
 </code>
 
@@ -108,7 +108,7 @@ vagrant@chef-server:~$ sudo cp /etc/chef-server/admin.pem /vagrant/
 Then back in the cloned directory (the directory containing Vagrantfile):
 
 <code>
-mv admin.pem chef-validator.pem ~/.chef  
+mv admin.pem chef-validator.pem ~/.chef
 </code>
 
 Add the following to the /etc/hosts:
@@ -124,19 +124,19 @@ Output should look like the following:
 <pre>
 ~/V/chef-client ❯❯❯ knife configure -i
 WARNING: No knife configuration file found
-Where should I put the config file? [/home/opyate/.chef/knife.rb] 
-Please enter the chef server URL: [https://annabelle:443] https://chef-server:443
-Please enter a name for the new user: [opyate] 
-Please enter the existing admin name: [admin] 
+Where should I put the config file? [/home/opyate/.chef/knife.rb]
+Please enter the chef server URL: [https://chef-server:443] https://chef-server:443
+Please enter a name for the new user: [opyate]
+Please enter the existing admin name: [admin]
 Please enter the location of the existing admin's private key: [/etc/chef-server/admin.pem] ~/.chef/admin.pem
-Please enter the validation clientname: [chef-validator] 
+Please enter the validation clientname: [chef-validator]
 Please enter the location of the validation key: [/etc/chef-server/chef-validator.pem] ~/.chef/chef-validator.pem
-Please enter the path to a chef repository (or leave blank): 
+Please enter the path to a chef repository (or leave blank):
 Creating initial API user...
-Please enter a password for the new user: 
+Please enter a password for the new user:
 Created user[opyate]
 Configuration file written to /home/opyate/.chef/knife.rb
-~/V/chef-client ❯❯❯ 
+~/V/chef-client ❯❯❯
 
 </pre>
 

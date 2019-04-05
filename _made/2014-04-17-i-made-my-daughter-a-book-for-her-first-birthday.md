@@ -12,7 +12,7 @@ category: blog
 
 <em>Made? Yes, made -- not wrote. See below.</em>
 
-*TL;DR* [here it is](http://cdn.opyate.com/books/AnnabellesEnCATlopediaVolume1CatsonTV.pdf)
+*TL;DR* [here it is](http://cdn.opyate.com/books/EnCATlopediaVolume1CatsonTV.pdf) (with names redacted to respect privacy).
 
 My day is a grab-bag of abstract concepts, data as shapes moving from system to system on pathways built with tools I love dearly. However, every now and then I want to inject some characters and narrative into my life.
 
@@ -26,10 +26,7 @@ Meanwhile, Little One was born. Slow and considered sketches were soon replaced 
 
 A few months ago it dawned on me that she'll turn one soon. I started to think of her first ever gift. The picture book was still months away from being completed. All along our Little Beloved pointed at "C for Cat" on her alphabet toy, and a light bulb appeared above my head: a cat book!
 
-The birthday is now imminent, and something needed to be sent to the print shop pronto. Inspired by "famous cats" from a [pub quiz](http://www.quizmasters.biz/DB/Pic/Famous_Cats/Famous_Cats.html), I went on to [create this](http://cdn.opyate.com/books/AnnabellesEnCATlopediaVolume1CatsonTV.pdf). Heavily cribbed and everything stolen from far flung corners of the Interwebs, but hey -- it's not like I'll be making money off it!
+The birthday is now imminent, and something needed to be sent to the print shop pronto. Inspired by "famous cats" from a [pub quiz](http://www.quizmasters.biz/DB/Pic/Famous_Cats/Famous_Cats.html), I went on to [create this](http://cdn.opyate.com/books/EnCATlopediaVolume1CatsonTV.pdf). Heavily cribbed and everything stolen from far flung corners of the Interwebs, but hey -- it's not like I'll be making money off it!
 
 Fun was had, and Father Time once again looks down favourably on my poem-inspired work of art which will soon sit alongside our Little One's other precious things.
 
-<div class="videowrapper">
-<iframe width="1665" height="764" src="https://www.youtube.com/embed/ZATqOT5IzEw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>

@@ -1,4 +1,4 @@
-Grailbird.data.tweets_2014_05 = 
+Grailbird.data.tweets_2014_05 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
   "entities" : {
@@ -2687,7 +2687,7 @@ Grailbird.data.tweets_2014_05 =
   },
   "geo" : { },
   "id_str" : "467938191207448577",
-  "text" : "Belle can't say \"ornithology\" yet. http:\/\/t.co\/SsYl1TiR9I",
+  "text" : "DD1 can't say \"ornithology\" yet. http:\/\/t.co\/SsYl1TiR9I",
   "id" : 467938191207448577,
   "created_at" : "2014-05-18 08:02:13 +0000",
   "user" : {
