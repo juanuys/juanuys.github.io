@@ -8,7 +8,7 @@ false && docker run --rm --label=jekyll --name www.opyate.com --volume=$(pwd):/s
 false && docker commit www.opyate.com opyate.com-jekyll:latest
 
 # step 3, run
-docker run --rm --label=jekyll --name www.opyate.com --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:$PORT:4000 opyate.com-jekyll jekyll serve -s /srv/jekyll/ -H 0.0.0.0
+docker run --rm --label=jekyll --name www.opyate.com --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:$PORT:4000 opyate.com-jekyll jekyll serve -s /srv/jekyll/ -H 0.0.0.0 --incremental --profile
 
 
 # Why? The hub image installs gems on each run, and the new image has them all (and starts up quicker)

@@ -48,18 +48,26 @@ body {
 }
 
 .previousnext {
-    width: 100%;
     display: grid;
-    grid-gap: 20px;
+    grid-gap: 0;
     grid-template-columns: 1fr 1fr;
 }
 .pnbox {
-    background-color: nth($plato-brand, 1);
+    display: block;
     padding: 40px;
     font-size: 150%;
-    width: 90%;
+}
+.pnbox.prev {
+    background-color: nth($plato-brand, 1);
 }
 .pnbox.next {
-    margin-left:auto;
-    margin-right:0;
+    background-color: nth($plato-brand, 2);
+}
+
+@media (max-width:800px)  {
+    .previousnext {
+        display: grid;
+        grid-gap: 0;
+        grid-template-columns: 1fr;
+    }
 }

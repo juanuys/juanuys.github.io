@@ -34,12 +34,15 @@ layout: default
   {% endif %}
 
   <div class="previousnext">
+
     {% if page.previous.url %}
-    <a class="pnbox prev" href="{{site.baseurl}}{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      <a class="pnbox prev" href="{{site.baseurl}}{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
     {% endif %}
+
     {% if page.next.url %}
-    <a class="pnbox next" href="{{site.baseurl}}{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      <a class="pnbox next" href="{{site.baseurl}}{{page.next.url}}">{{page.next.title}} &raquo;</a>
     {% endif %}
+
   </div>
 
   </div>
