@@ -24,7 +24,7 @@ I went back to the first idea, and lo and behold - it's a recruitment drive!
 
 Bit underwhelming. <span class="highlight">I fully expected a chopper to land outside in the garden the moment my Python script finished running.</span> A lady clad in black would kick my door down, run over to me, and say in a forceful yet husky voice "The Queen needs you."
 
-Spoilter: Here's the code, but please do try it yourself and experience your own Bond moment (yes, I know he's MI6...):
+Spoiler: Here's the code, but please do try it yourself and experience your own Bond moment (yes, I know he's MI6...):
 
 ## main.py
 
