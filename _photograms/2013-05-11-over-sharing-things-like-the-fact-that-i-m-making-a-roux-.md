@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-05-11-over-sharing-things-like-the-fact-that-i-m-making-a-roux-.jpg
+thumbnail: /assets/photograms/thumbs/2013-05-11-over-sharing-things-like-the-fact-that-i-m-making-a-roux-.png
 layout: home
 title: "Over-sharing things like the fact that I'm making a roux."
 date: 2013-05-11T19:20:04Z

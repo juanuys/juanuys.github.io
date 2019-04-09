@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-16-how-do-you-like-them-apples-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-16-how-do-you-like-them-apples-.png
 layout: home
 title: "How do you like them apples?"
 date: 2012-10-16T19:55:35Z

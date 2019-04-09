@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-07-24-candle-on-mantle.jpg
+thumbnail: /assets/photograms/thumbs/2012-07-24-candle-on-mantle.png
 layout: home
 title: "Candle on mantle"
 date: 2012-07-24T21:06:23Z

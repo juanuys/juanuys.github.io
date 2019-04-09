@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-03-18-65-quid-later-and-i-thought-i-d-preempt-the-next-breakage-with-a-big-of--sugru.jpg
+thumbnail: /assets/photograms/thumbs/2013-03-18-65-quid-later-and-i-thought-i-d-preempt-the-next-breakage-with-a-big-of--sugru.png
 layout: home
 title: "65 quid later and I thought I'd preempt the next breakage with a big of @sugru"
 date: 2013-03-18T20:23:38Z

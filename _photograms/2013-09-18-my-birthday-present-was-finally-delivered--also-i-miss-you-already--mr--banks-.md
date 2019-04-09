@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-09-18-my-birthday-present-was-finally-delivered--also-i-miss-you-already--mr--banks-.jpg
+thumbnail: /assets/photograms/thumbs/2013-09-18-my-birthday-present-was-finally-delivered--also-i-miss-you-already--mr--banks-.png
 layout: home
 title: "My birthday present was finally delivered. Also—I miss you already, Mr. Banks."
 date: 2013-09-18T14:31:10Z

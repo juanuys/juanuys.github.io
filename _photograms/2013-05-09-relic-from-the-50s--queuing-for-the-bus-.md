@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-05-09-relic-from-the-50s--queuing-for-the-bus-.jpg
+thumbnail: /assets/photograms/thumbs/2013-05-09-relic-from-the-50s--queuing-for-the-bus-.png
 layout: home
 title: "Relic from the 50s: queuing for the bus."
 date: 2013-05-09T13:14:52Z

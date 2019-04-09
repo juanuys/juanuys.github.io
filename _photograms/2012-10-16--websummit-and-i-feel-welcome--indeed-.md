@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-16--websummit-and-i-feel-welcome--indeed-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-16--websummit-and-i-feel-welcome--indeed-.png
 layout: home
 title: "#websummit and I feel welcome, indeed."
 date: 2012-10-16T17:59:33Z

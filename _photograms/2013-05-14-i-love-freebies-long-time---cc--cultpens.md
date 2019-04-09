@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-05-14-i-love-freebies-long-time---cc--cultpens.jpg
+thumbnail: /assets/photograms/thumbs/2013-05-14-i-love-freebies-long-time---cc--cultpens.png
 layout: home
 title: "I love freebies long time. /cc @cultpens"
 date: 2013-05-14T18:17:49Z

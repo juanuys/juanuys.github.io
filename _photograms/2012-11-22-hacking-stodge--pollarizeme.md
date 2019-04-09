@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-11-22-hacking-stodge--pollarizeme.jpg
+thumbnail: /assets/photograms/thumbs/2012-11-22-hacking-stodge--pollarizeme.png
 layout: home
 title: "Hacking stodge @PollarizeMe"
 date: 2012-11-22T19:17:41Z

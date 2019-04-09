@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-03-30-lovely-easter-friday-in-stroud---nofilter.jpg
+thumbnail: /assets/photograms/thumbs/2013-03-30-lovely-easter-friday-in-stroud---nofilter.png
 layout: home
 title: "Lovely Easter Friday in Stroud. #nofilter"
 date: 2013-03-30T16:41:59Z

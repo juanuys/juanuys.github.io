@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-05-03-our-butterfly-.jpg
+thumbnail: /assets/photograms/thumbs/2014-05-03-our-butterfly-.png
 layout: home
 title: "Our butterfly."
 date: 2014-05-03T14:17:26Z

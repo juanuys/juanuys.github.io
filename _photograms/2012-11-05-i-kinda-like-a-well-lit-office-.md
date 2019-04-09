@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-11-05-i-kinda-like-a-well-lit-office-.jpg
+thumbnail: /assets/photograms/thumbs/2012-11-05-i-kinda-like-a-well-lit-office-.png
 layout: home
 title: "I kinda like a well lit office."
 date: 2012-11-05T15:02:31Z

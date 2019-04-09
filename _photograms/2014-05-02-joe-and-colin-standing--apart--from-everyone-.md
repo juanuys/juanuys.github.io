@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-05-02-joe-and-colin-standing--apart--from-everyone-.jpg
+thumbnail: /assets/photograms/thumbs/2014-05-02-joe-and-colin-standing--apart--from-everyone-.png
 layout: home
 title: "Joe and Colin standing \"apart\" from everyone."
 date: 2014-05-02T19:16:33Z

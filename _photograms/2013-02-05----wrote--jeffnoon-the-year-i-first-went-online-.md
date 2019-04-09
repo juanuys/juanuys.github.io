@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-02-05----wrote--jeffnoon-the-year-i-first-went-online-.jpg
+thumbnail: /assets/photograms/thumbs/2013-02-05----wrote--jeffnoon-the-year-i-first-went-online-.png
 layout: home
 title: "...wrote @jeffnoon the year I first went online."
 date: 2013-02-05T15:25:03Z

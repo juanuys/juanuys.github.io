@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-08-24-the-inclusion-of-jpda-was-a-fond-memory-.jpg
+thumbnail: /assets/photograms/thumbs/2013-08-24-the-inclusion-of-jpda-was-a-fond-memory-.png
 layout: home
 title: "The inclusion of JPDA was a fond memory."
 date: 2013-08-24T01:10:48Z

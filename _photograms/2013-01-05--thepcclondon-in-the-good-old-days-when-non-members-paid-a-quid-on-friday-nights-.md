@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-01-05--thepcclondon-in-the-good-old-days-when-non-members-paid-a-quid-on-friday-nights-.jpg
+thumbnail: /assets/photograms/thumbs/2013-01-05--thepcclondon-in-the-good-old-days-when-non-members-paid-a-quid-on-friday-nights-.png
 layout: home
 title: "@ThePCCLondon in the good old days when non-members paid a quid on Friday nights."
 date: 2013-01-05T15:57:11Z

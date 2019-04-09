@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-02-10-yes--that-s-a-das-keyboard-with-blank-keys-.jpg
+thumbnail: /assets/photograms/thumbs/2014-02-10-yes--that-s-a-das-keyboard-with-blank-keys-.png
 layout: home
 title: "Yes, that's a DAS Keyboard with blank keys."
 date: 2014-02-10T12:04:27Z

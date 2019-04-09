@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-02-07-fooling-google-hangout-with-a-postit-note---cc--imhobson--philip-cole.jpg
+thumbnail: /assets/photograms/thumbs/2013-02-07-fooling-google-hangout-with-a-postit-note---cc--imhobson--philip-cole.png
 layout: home
 title: "Fooling Google Hangout with a PostIt note. /cc @imhobson @philip_cole"
 date: 2013-02-07T18:50:32Z

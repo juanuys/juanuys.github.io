@@ -13,6 +13,10 @@ body {
     height: 140px;
 }
 
+.darkbox {
+    background-color: $grey-color-dark;
+}
+
 .boxes {
     width: 100%;
     display: grid;

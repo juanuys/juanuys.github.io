@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-04-23--draw-somethng-random---i-thought---snow-pushchair---i-thought-.jpg
+thumbnail: /assets/photograms/thumbs/2013-04-23--draw-somethng-random---i-thought---snow-pushchair---i-thought-.png
 layout: home
 title: "'Draw somethng random', I thought. 'Snow pushchair', I thought."
 date: 2013-04-23T12:58:07Z

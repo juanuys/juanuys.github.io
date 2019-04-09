@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-04-27-dd1-rocking-tap-guitar-and-piano-simultaneously--like-a-boss-.jpg
+thumbnail: /assets/photograms/thumbs/2014-04-27-dd1-rocking-tap-guitar-and-piano-simultaneously--like-a-boss-.png
 layout: home
 title: "DD1 rocking tap guitar and piano simultaneously, like a boss."
 date: 2014-04-27T17:44:45Z

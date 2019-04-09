@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-05-23-apparently-our-back-yard-turned-into-a-hitchcock-film-.jpg
+thumbnail: /assets/photograms/thumbs/2014-05-23-apparently-our-back-yard-turned-into-a-hitchcock-film-.png
 layout: home
 title: "Apparently our back yard turned into a Hitchcock film."
 date: 2014-05-23T13:20:10Z

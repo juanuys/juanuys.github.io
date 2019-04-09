@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-07-01-june-28th--2013----the-best-day-of-my-life-.jpg
+thumbnail: /assets/photograms/thumbs/2013-07-01-june-28th--2013----the-best-day-of-my-life-.png
 layout: home
 title: "June 28th, 2013 -- the best day of my life."
 date: 2013-07-01T18:42:04Z

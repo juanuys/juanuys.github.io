@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-03-06-apple-s-beautifully-designed-screen-of-death--right-after-i-ve-painstakingly-crafted-a-300-line-config-file-.jpg
+thumbnail: /assets/photograms/thumbs/2013-03-06-apple-s-beautifully-designed-screen-of-death--right-after-i-ve-painstakingly-crafted-a-300-line-config-file-.png
 layout: home
 title: "Apple's beautifully designed screen of death, right after I've painstakingly crafted a 300 line config file."
 date: 2013-03-06T11:16:53Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-04-20-heavily-censored-grimm-.jpg
+thumbnail: /assets/photograms/thumbs/2014-04-20-heavily-censored-grimm-.png
 layout: home
 title: "Heavily censored Grimm."
 date: 2014-04-20T18:41:53Z

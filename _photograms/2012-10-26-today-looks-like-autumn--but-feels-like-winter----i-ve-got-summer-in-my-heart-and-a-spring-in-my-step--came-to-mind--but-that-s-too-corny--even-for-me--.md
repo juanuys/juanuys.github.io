@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-26-today-looks-like-autumn--but-feels-like-winter----i-ve-got-summer-in-my-heart-and-a-spring-in-my-step--came-to-mind--but-that-s-too-corny--even-for-me--.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-26-today-looks-like-autumn--but-feels-like-winter----i-ve-got-summer-in-my-heart-and-a-spring-in-my-step--came-to-mind--but-that-s-too-corny--even-for-me--.png
 layout: home
 title: "Today looks like autumn, but feels like winter. (\"I've got summer in my heart and a spring in my step\" came to mind, but that's too corny, even for me.)"
 date: 2012-10-26T08:02:20Z

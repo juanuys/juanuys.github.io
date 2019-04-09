@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-02-19-gotta-love-new-b-cards---.jpg
+thumbnail: /assets/photograms/thumbs/2013-02-19-gotta-love-new-b-cards---.png
 layout: home
 title: "Gotta love new b-cards..."
 date: 2013-02-19T20:21:35Z

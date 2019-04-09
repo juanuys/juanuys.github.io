@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-06-05-near-the-cove-.jpg
+thumbnail: /assets/photograms/thumbs/2014-06-05-near-the-cove-.png
 layout: home
 title: "Near the Cove."
 date: 2014-06-05T06:51:42Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-25-ferran-adri--doing-a-talk-at-the--wayra-academy-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-25-ferran-adri--doing-a-talk-at-the--wayra-academy-.png
 layout: home
 title: "Ferran Adriá doing a talk at the @Wayra academy."
 date: 2012-10-25T17:39:59Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-04-21-bank-holi-diy-.jpg
+thumbnail: /assets/photograms/thumbs/2014-04-21-bank-holi-diy-.png
 layout: home
 title: "Bank Holi-diy."
 date: 2014-04-21T12:45:45Z

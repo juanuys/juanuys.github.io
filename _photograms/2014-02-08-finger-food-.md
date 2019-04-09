@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-02-08-finger-food-.jpg
+thumbnail: /assets/photograms/thumbs/2014-02-08-finger-food-.png
 layout: home
 title: "Finger food."
 date: 2014-02-08T16:07:16Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-25-ferran-adri---wayrauk--and-this-time-i-got-the-accent-right-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-25-ferran-adri---wayrauk--and-this-time-i-got-the-accent-right-.png
 layout: home
 title: "Ferran Adrià @WayraUK (and this time I got the accent right)"
 date: 2012-10-25T17:48:15Z

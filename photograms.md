@@ -17,15 +17,13 @@ not in the moment
 
 {% for item in site.photograms reversed %}
 
-{% comment %}
-<div class="box altbox" style="background-image: url({{item.thumbnail}}); background-repeat: no-repeat;">
+<div class="box darkbox" style="background-image: url({{item.thumbnail}}); background-repeat: no-repeat;">
 [{{item.title | truncatewords: 7 }}]({{ item.url }})
 <small>{{item.date | date: "%Y-%m-%d"}}</small>
 </div>
-{% endcomment %}
-
+{% comment %}
 [![]({{item.thumbnail}})]({{item.url}})
-
+{% endcomment %}
 {% endfor %}
 
 </div>

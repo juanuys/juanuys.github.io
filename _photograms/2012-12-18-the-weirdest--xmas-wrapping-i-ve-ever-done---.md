@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-12-18-the-weirdest--xmas-wrapping-i-ve-ever-done---.jpg
+thumbnail: /assets/photograms/thumbs/2012-12-18-the-weirdest--xmas-wrapping-i-ve-ever-done---.png
 layout: home
 title: "The weirdest #Xmas wrapping I've ever done..."
 date: 2012-12-18T20:29:34Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-06-10-yeah--so-much-more-fun-than-pencils-and-a-make-up-brush-.jpg
+thumbnail: /assets/photograms/thumbs/2013-06-10-yeah--so-much-more-fun-than-pencils-and-a-make-up-brush-.png
 layout: home
 title: "Yeah, so much more fun than pencils and a make-up brush."
 date: 2013-06-10T19:57:07Z

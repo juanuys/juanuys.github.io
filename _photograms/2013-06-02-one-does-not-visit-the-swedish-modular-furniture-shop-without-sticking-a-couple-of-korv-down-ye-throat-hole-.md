@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-06-02-one-does-not-visit-the-swedish-modular-furniture-shop-without-sticking-a-couple-of-korv-down-ye-throat-hole-.jpg
+thumbnail: /assets/photograms/thumbs/2013-06-02-one-does-not-visit-the-swedish-modular-furniture-shop-without-sticking-a-couple-of-korv-down-ye-throat-hole-.png
 layout: home
 title: "One does not visit the Swedish modular furniture shop without sticking a couple of korv down ye throat hole."
 date: 2013-06-02T15:31:22Z

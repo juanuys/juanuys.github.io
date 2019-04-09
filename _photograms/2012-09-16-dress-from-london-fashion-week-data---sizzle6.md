@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-09-16-dress-from-london-fashion-week-data---sizzle6.jpg
+thumbnail: /assets/photograms/thumbs/2012-09-16-dress-from-london-fashion-week-data---sizzle6.png
 layout: home
 title: "Dress from London Fashion week data. #sizzle6"
 date: 2012-09-16T16:43:25Z

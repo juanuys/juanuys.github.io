@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-05-24-dw-and-i-celebrating-doubling-our-investment-in-the-house-after-2-years-.jpg
+thumbnail: /assets/photograms/thumbs/2013-05-24-dw-and-i-celebrating-doubling-our-investment-in-the-house-after-2-years-.png
 layout: home
 title: "DW and I celebrating doubling our investment in the house after 2 years."
 date: 2013-05-24T21:01:03Z

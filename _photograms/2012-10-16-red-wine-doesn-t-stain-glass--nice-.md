@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-16-red-wine-doesn-t-stain-glass--nice-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-16-red-wine-doesn-t-stain-glass--nice-.png
 layout: home
 title: "Red wine doesn't stain glass. Nice."
 date: 2012-10-16T18:02:49Z

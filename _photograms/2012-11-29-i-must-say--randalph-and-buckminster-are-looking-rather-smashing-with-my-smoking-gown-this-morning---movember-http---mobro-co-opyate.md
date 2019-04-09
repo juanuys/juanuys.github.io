@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-11-29-i-must-say--randalph-and-buckminster-are-looking-rather-smashing-with-my-smoking-gown-this-morning---movember-http---mobro-co-opyate.jpg
+thumbnail: /assets/photograms/thumbs/2012-11-29-i-must-say--randalph-and-buckminster-are-looking-rather-smashing-with-my-smoking-gown-this-morning---movember-http---mobro-co-opyate.png
 layout: home
 title: "I must say, Randalph and Buckminster are looking rather smashing with my smoking gown this morning. #Movember http://MoBro.co/opyate"
 date: 2012-11-29T08:00:37Z

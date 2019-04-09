@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-06-08-one-megabyte-of-portable-memory--i-love-technology-.jpg
+thumbnail: /assets/photograms/thumbs/2013-06-08-one-megabyte-of-portable-memory--i-love-technology-.png
 layout: home
 title: "One megabyte of portable memory. I love technology."
 date: 2013-06-08T16:59:33Z

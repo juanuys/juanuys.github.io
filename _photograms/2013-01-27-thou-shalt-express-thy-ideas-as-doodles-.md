@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-01-27-thou-shalt-express-thy-ideas-as-doodles-.jpg
+thumbnail: /assets/photograms/thumbs/2013-01-27-thou-shalt-express-thy-ideas-as-doodles-.png
 layout: home
 title: "Thou shalt express thy ideas as doodles."
 date: 2013-01-27T11:54:11Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-04-20-butterfly--crutch--buttercrutch--hmmm--butterscotch-.jpg
+thumbnail: /assets/photograms/thumbs/2013-04-20-butterfly--crutch--buttercrutch--hmmm--butterscotch-.png
 layout: home
 title: "Butterfly; crutch; buttercrutch. Hmmm, butterscotch."
 date: 2013-04-20T19:04:15Z

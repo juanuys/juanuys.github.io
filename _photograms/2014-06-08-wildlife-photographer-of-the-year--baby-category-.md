@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-06-08-wildlife-photographer-of-the-year--baby-category-.jpg
+thumbnail: /assets/photograms/thumbs/2014-06-08-wildlife-photographer-of-the-year--baby-category-.png
 layout: home
 title: "Wildlife photographer of the year, baby category."
 date: 2014-06-08T08:28:40Z

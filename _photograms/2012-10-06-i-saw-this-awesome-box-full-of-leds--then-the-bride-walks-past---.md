@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-06-i-saw-this-awesome-box-full-of-leds--then-the-bride-walks-past---.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-06-i-saw-this-awesome-box-full-of-leds--then-the-bride-walks-past---.png
 layout: home
 title: "I saw this awesome box full of LEDs, then the bride walks past..."
 date: 2012-10-06T20:20:45Z

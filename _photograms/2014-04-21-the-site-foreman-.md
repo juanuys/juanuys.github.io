@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-04-21-the-site-foreman-.jpg
+thumbnail: /assets/photograms/thumbs/2014-04-21-the-site-foreman-.png
 layout: home
 title: "The site foreman."
 date: 2014-04-21T12:55:55Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-03-24-well-deserved-after-scouring-the--carpet-cluster--in-holloway---springyeahright.jpg
+thumbnail: /assets/photograms/thumbs/2013-03-24-well-deserved-after-scouring-the--carpet-cluster--in-holloway---springyeahright.png
 layout: home
 title: "Well deserved after scouring the \"carpet cluster\" in Holloway. #SpringYeahRight"
 date: 2013-03-24T14:58:18Z

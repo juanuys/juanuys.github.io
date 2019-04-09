@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-04-15-this-noisy-little-dufus-was-stuck-in-our-back-garden-all-morning-.jpg
+thumbnail: /assets/photograms/thumbs/2014-04-15-this-noisy-little-dufus-was-stuck-in-our-back-garden-all-morning-.png
 layout: home
 title: "This noisy little dufus was stuck in our back garden all morning."
 date: 2014-04-15T05:59:41Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-27-my-new-car-goes-really-well-with-my-new-kicks-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-27-my-new-car-goes-really-well-with-my-new-kicks-.png
 layout: home
 title: "My new car goes really well with my new kicks."
 date: 2012-10-27T16:23:08Z

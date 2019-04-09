@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-02-04-my-commute-for-the-next-month-.jpg
+thumbnail: /assets/photograms/thumbs/2014-02-04-my-commute-for-the-next-month-.png
 layout: home
 title: "My commute for the next month."
 date: 2014-02-04T09:50:11Z

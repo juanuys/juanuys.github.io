@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-19-i-ll-take-a-10p-savings-on-chilli-sauce-any-day---ahem-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-19-i-ll-take-a-10p-savings-on-chilli-sauce-any-day---ahem-.png
 layout: home
 title: "I'll take a 10p savings on chilli sauce any day. *ahem*"
 date: 2012-10-19T18:41:26Z

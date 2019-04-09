@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-02-14-killer-bug-shall-be-killed-.jpg
+thumbnail: /assets/photograms/thumbs/2013-02-14-killer-bug-shall-be-killed-.png
 layout: home
 title: "Killer bug shall be killed."
 date: 2013-02-14T16:37:28Z

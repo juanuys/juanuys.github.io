@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-07-29-i-love-lamp-.jpg
+thumbnail: /assets/photograms/thumbs/2012-07-29-i-love-lamp-.png
 layout: home
 title: "I love lamp."
 date: 2012-07-29T17:35:48Z

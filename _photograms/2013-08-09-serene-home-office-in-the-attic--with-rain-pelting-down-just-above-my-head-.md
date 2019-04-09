@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-08-09-serene-home-office-in-the-attic--with-rain-pelting-down-just-above-my-head-.jpg
+thumbnail: /assets/photograms/thumbs/2013-08-09-serene-home-office-in-the-attic--with-rain-pelting-down-just-above-my-head-.png
 layout: home
 title: "Serene home office in the attic, with rain pelting down just above my head."
 date: 2013-08-09T09:19:57Z

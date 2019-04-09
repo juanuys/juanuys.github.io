@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-05-03-home-away-from-home-.jpg
+thumbnail: /assets/photograms/thumbs/2014-05-03-home-away-from-home-.png
 layout: home
 title: "Home away from home."
 date: 2014-05-03T19:26:06Z

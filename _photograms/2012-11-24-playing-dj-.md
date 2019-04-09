@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-11-24-playing-dj-.jpg
+thumbnail: /assets/photograms/thumbs/2012-11-24-playing-dj-.png
 layout: home
 title: "Playing DJ."
 date: 2012-11-24T17:10:37Z

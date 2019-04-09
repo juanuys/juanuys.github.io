@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-04-08-oh--madam----you-seem-to-have-had-a-wardrobe-malfunction-.jpg
+thumbnail: /assets/photograms/thumbs/2014-04-08-oh--madam----you-seem-to-have-had-a-wardrobe-malfunction-.png
 layout: home
 title: "Oh, madam... You seem to have had a wardrobe malfunction."
 date: 2014-04-08T12:43:27Z

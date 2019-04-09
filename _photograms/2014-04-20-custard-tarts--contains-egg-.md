@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-04-20-custard-tarts--contains-egg-.jpg
+thumbnail: /assets/photograms/thumbs/2014-04-20-custard-tarts--contains-egg-.png
 layout: home
 title: "Custard tarts. Contains egg!"
 date: 2014-04-20T09:15:07Z

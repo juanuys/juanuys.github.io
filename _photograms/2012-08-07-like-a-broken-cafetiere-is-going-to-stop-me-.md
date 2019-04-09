@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-08-07-like-a-broken-cafetiere-is-going-to-stop-me-.jpg
+thumbnail: /assets/photograms/thumbs/2012-08-07-like-a-broken-cafetiere-is-going-to-stop-me-.png
 layout: home
 title: "Like a broken cafetiere is going to stop me."
 date: 2012-08-07T07:28:22Z

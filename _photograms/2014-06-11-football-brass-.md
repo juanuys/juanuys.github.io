@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-06-11-football-brass-.jpg
+thumbnail: /assets/photograms/thumbs/2014-06-11-football-brass-.png
 layout: home
 title: "Football brass."
 date: 2014-06-11T15:57:01Z

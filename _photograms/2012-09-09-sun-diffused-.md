@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-09-09-sun-diffused-.jpg
+thumbnail: /assets/photograms/thumbs/2012-09-09-sun-diffused-.png
 layout: home
 title: "Sun diffused."
 date: 2012-09-09T09:56:18Z

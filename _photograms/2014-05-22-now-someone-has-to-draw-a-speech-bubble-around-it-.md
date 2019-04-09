@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-05-22-now-someone-has-to-draw-a-speech-bubble-around-it-.jpg
+thumbnail: /assets/photograms/thumbs/2014-05-22-now-someone-has-to-draw-a-speech-bubble-around-it-.png
 layout: home
 title: "Now someone has to draw a speech bubble around it."
 date: 2014-05-22T08:19:06Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-01-09-is-that-a-sachet-of--sugru-in-your-wallet--or-are-you-just-happy-to-see-me-.jpg
+thumbnail: /assets/photograms/thumbs/2014-01-09-is-that-a-sachet-of--sugru-in-your-wallet--or-are-you-just-happy-to-see-me-.png
 layout: home
 title: "Is that a sachet of @Sugru in your wallet, or are you just happy to see me?"
 date: 2014-01-09T09:08:59Z

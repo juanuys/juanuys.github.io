@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-12-18-don-t-touch-the-flap-jacks---sellthatinstergram.jpg
+thumbnail: /assets/photograms/thumbs/2012-12-18-don-t-touch-the-flap-jacks---sellthatinstergram.png
 layout: home
 title: "Don't touch the flap jacks. #SellThatInstergram"
 date: 2012-12-18T21:43:11Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-05-wedding-hair---hair-mine--wedding-not--.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-05-wedding-hair---hair-mine--wedding-not--.png
 layout: home
 title: "Wedding hair. (Hair mine, wedding not)."
 date: 2012-10-05T18:10:38Z

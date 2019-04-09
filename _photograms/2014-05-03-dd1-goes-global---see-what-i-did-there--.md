@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-05-03-dd1-goes-global---see-what-i-did-there--.jpg
+thumbnail: /assets/photograms/thumbs/2014-05-03-dd1-goes-global---see-what-i-did-there--.png
 layout: home
 title: "DD1 goes global. (see what I did there?)"
 date: 2014-05-03T09:19:07Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-27-dw-explaining-me-something-about-recessive-genes--i-still-prefer-programming-of-the-modern-variety-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-27-dw-explaining-me-something-about-recessive-genes--i-still-prefer-programming-of-the-modern-variety-.png
 layout: home
 title: "DW explaining me something about recessive genes. I still prefer programming of the modern variety."
 date: 2012-10-27T08:06:10Z

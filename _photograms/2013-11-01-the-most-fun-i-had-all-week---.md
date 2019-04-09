@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-11-01-the-most-fun-i-had-all-week---.jpg
+thumbnail: /assets/photograms/thumbs/2013-11-01-the-most-fun-i-had-all-week---.png
 layout: home
 title: "The most fun I had all week..."
 date: 2013-11-01T20:50:21Z

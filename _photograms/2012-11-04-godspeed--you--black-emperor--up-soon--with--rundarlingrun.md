@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-11-04-godspeed--you--black-emperor--up-soon--with--rundarlingrun.jpg
+thumbnail: /assets/photograms/thumbs/2012-11-04-godspeed--you--black-emperor--up-soon--with--rundarlingrun.png
 layout: home
 title: "Godspeed, You! Black Emperor. Up soon. With @rundarlingrun"
 date: 2012-11-04T19:58:18Z

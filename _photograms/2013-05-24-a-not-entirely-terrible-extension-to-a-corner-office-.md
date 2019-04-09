@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-05-24-a-not-entirely-terrible-extension-to-a-corner-office-.jpg
+thumbnail: /assets/photograms/thumbs/2013-05-24-a-not-entirely-terrible-extension-to-a-corner-office-.png
 layout: home
 title: "A not entirely terrible extension to a corner office."
 date: 2013-05-24T16:13:36Z

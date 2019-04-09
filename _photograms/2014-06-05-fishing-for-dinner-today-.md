@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-06-05-fishing-for-dinner-today-.jpg
+thumbnail: /assets/photograms/thumbs/2014-06-05-fishing-for-dinner-today-.png
 layout: home
 title: "Fishing for dinner today."
 date: 2014-06-05T06:52:41Z

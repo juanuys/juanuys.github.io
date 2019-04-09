@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-05-25-and-so-it-starts-.jpg
+thumbnail: /assets/photograms/thumbs/2013-05-25-and-so-it-starts-.png
 layout: home
 title: "And so it starts."
 date: 2013-05-25T05:26:34Z

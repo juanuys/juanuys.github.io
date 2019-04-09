@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-03-29-gaaah---cowers-in-corner-.jpg
+thumbnail: /assets/photograms/thumbs/2014-03-29-gaaah---cowers-in-corner-.png
 layout: home
 title: "Gaaah! (cowers in corner)"
 date: 2014-03-29T19:40:02Z

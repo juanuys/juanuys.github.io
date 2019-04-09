@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-09-29-elcombe-fields-.jpg
+thumbnail: /assets/photograms/thumbs/2012-09-29-elcombe-fields-.png
 layout: home
 title: "Elcombe fields."
 date: 2012-09-29T16:15:45Z

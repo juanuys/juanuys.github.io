@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-05-tabasco-and-cholula-chili-garlic-sauce--because-your-tongue-only-lives-once-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-05-tabasco-and-cholula-chili-garlic-sauce--because-your-tongue-only-lives-once-.png
 layout: home
 title: "Tabasco AND Cholula chili&garlic sauce. Because your tongue only lives once."
 date: 2012-10-05T19:00:05Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-07-29-jennie-and-dave-s-wedding-.jpg
+thumbnail: /assets/photograms/thumbs/2012-07-29-jennie-and-dave-s-wedding-.png
 layout: home
 title: "Jennie and Dave's wedding."
 date: 2012-07-29T17:38:05Z

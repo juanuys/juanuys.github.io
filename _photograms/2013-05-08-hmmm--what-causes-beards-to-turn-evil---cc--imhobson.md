@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-05-08-hmmm--what-causes-beards-to-turn-evil---cc--imhobson.jpg
+thumbnail: /assets/photograms/thumbs/2013-05-08-hmmm--what-causes-beards-to-turn-evil---cc--imhobson.png
 layout: home
 title: "Hmmm, what causes beards to turn evil? /cc @imhobson"
 date: 2013-05-08T11:16:34Z

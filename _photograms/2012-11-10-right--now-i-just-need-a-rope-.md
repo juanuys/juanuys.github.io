@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-11-10-right--now-i-just-need-a-rope-.jpg
+thumbnail: /assets/photograms/thumbs/2012-11-10-right--now-i-just-need-a-rope-.png
 layout: home
 title: "Right, now I just need a rope."
 date: 2012-11-10T13:52:30Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-11-22-it-s-never-too-early-in-the-day-for-artery-clogging-goodness---thanksgiving--seconds.jpg
+thumbnail: /assets/photograms/thumbs/2012-11-22-it-s-never-too-early-in-the-day-for-artery-clogging-goodness---thanksgiving--seconds.png
 layout: home
 title: "It's never too early in the day for artery-clogging goodness. #thanksgiving #seconds"
 date: 2012-11-22T11:34:28Z

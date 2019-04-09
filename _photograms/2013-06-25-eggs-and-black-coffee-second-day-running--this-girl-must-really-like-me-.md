@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-06-25-eggs-and-black-coffee-second-day-running--this-girl-must-really-like-me-.jpg
+thumbnail: /assets/photograms/thumbs/2013-06-25-eggs-and-black-coffee-second-day-running--this-girl-must-really-like-me-.png
 layout: home
 title: "Eggs and black coffee second day running. This girl must really like me."
 date: 2013-06-25T07:14:22Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-05-24-trying-raja-barak-from-indonesia-.jpg
+thumbnail: /assets/photograms/thumbs/2014-05-24-trying-raja-barak-from-indonesia-.png
 layout: home
 title: "Trying Raja Barak from Indonesia."
 date: 2014-05-24T07:23:22Z

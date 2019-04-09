@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-09-14-hack-a-thon-ing-at-chateaux-firefox-.jpg
+thumbnail: /assets/photograms/thumbs/2012-09-14-hack-a-thon-ing-at-chateaux-firefox-.png
 layout: home
 title: "Hack-a-thon'ing at Chateaux Firefox."
 date: 2012-09-14T20:40:08Z

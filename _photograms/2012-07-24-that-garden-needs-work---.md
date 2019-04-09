@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-07-24-that-garden-needs-work---.jpg
+thumbnail: /assets/photograms/thumbs/2012-07-24-that-garden-needs-work---.png
 layout: home
 title: "That garden needs work..."
 date: 2012-07-24T05:12:33Z

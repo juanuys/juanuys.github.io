@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-06-23-understanding-yggdrasil-.jpg
+thumbnail: /assets/photograms/thumbs/2013-06-23-understanding-yggdrasil-.png
 layout: home
 title: "Understanding Yggdrasil."
 date: 2013-06-23T07:01:53Z

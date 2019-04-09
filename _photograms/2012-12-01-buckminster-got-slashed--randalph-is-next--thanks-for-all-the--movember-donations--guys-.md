@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-12-01-buckminster-got-slashed--randalph-is-next--thanks-for-all-the--movember-donations--guys-.jpg
+thumbnail: /assets/photograms/thumbs/2012-12-01-buckminster-got-slashed--randalph-is-next--thanks-for-all-the--movember-donations--guys-.png
 layout: home
 title: "Buckminster got slashed. Randalph is next. Thanks for all the #Movember donations, guys!"
 date: 2012-12-01T10:54:34Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-11-06-rumour-has-it-they-re-all-here-for-the-opening-act--a-juggling-monkey-on-a-unicycle-.jpg
+thumbnail: /assets/photograms/thumbs/2012-11-06-rumour-has-it-they-re-all-here-for-the-opening-act--a-juggling-monkey-on-a-unicycle-.png
 layout: home
 title: "Rumour has it they're all here for the opening act: a juggling monkey on a unicycle."
 date: 2012-11-06T13:00:06Z

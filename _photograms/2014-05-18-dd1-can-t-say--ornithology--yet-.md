@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2014-05-18-dd1-can-t-say--ornithology--yet-.jpg
+thumbnail: /assets/photograms/thumbs/2014-05-18-dd1-can-t-say--ornithology--yet-.png
 layout: home
 title: "DD1 can't say \"ornithology\" yet."
 date: 2014-05-18T08:02:12Z

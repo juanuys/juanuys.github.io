@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-06-05-none-of-my-friends-put-their-pencils-behind-their-ears-.jpg
+thumbnail: /assets/photograms/thumbs/2013-06-05-none-of-my-friends-put-their-pencils-behind-their-ears-.png
 layout: home
 title: "None of my friends put their pencils behind their ears."
 date: 2013-06-05T18:18:39Z

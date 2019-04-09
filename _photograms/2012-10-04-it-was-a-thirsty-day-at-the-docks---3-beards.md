@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-04-it-was-a-thirsty-day-at-the-docks---3-beards.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-04-it-was-a-thirsty-day-at-the-docks---3-beards.png
 layout: home
 title: "It was a thirsty day at the docks. @3_beards"
 date: 2012-10-04T22:49:26Z

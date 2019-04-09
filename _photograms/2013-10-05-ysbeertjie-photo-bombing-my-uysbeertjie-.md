@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-10-05-ysbeertjie-photo-bombing-my-uysbeertjie-.jpg
+thumbnail: /assets/photograms/thumbs/2013-10-05-ysbeertjie-photo-bombing-my-uysbeertjie-.png
 layout: home
 title: "Ysbeertjie photo-bombing my Uysbeertjie."
 date: 2013-10-05T09:25:07Z

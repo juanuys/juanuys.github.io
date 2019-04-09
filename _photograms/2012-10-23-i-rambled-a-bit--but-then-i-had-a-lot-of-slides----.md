@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-23-i-rambled-a-bit--but-then-i-had-a-lot-of-slides----.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-23-i-rambled-a-bit--but-then-i-had-a-lot-of-slides----.png
 layout: home
 title: "I rambled a bit, but then I had a lot of slides ;-)"
 date: 2012-10-23T18:32:19Z

@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-06-dancing-is-the-best-cure-for-everything-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-06-dancing-is-the-best-cure-for-everything-.png
 layout: home
 title: "Dancing is the best cure for everything."
 date: 2012-10-06T21:19:35Z

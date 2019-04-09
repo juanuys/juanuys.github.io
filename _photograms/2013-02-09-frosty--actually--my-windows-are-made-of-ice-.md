@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-02-09-frosty--actually--my-windows-are-made-of-ice-.jpg
+thumbnail: /assets/photograms/thumbs/2013-02-09-frosty--actually--my-windows-are-made-of-ice-.png
 layout: home
 title: "Frosty. Actually, my windows are made of ice."
 date: 2013-02-09T10:19:23Z

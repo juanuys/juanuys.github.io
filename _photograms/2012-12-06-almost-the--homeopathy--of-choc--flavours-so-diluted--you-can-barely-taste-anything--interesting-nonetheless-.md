@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-12-06-almost-the--homeopathy--of-choc--flavours-so-diluted--you-can-barely-taste-anything--interesting-nonetheless-.jpg
+thumbnail: /assets/photograms/thumbs/2012-12-06-almost-the--homeopathy--of-choc--flavours-so-diluted--you-can-barely-taste-anything--interesting-nonetheless-.png
 layout: home
 title: "Almost the \"homeopathy\" of choc: flavours so diluted, you can barely taste anything. Interesting nonetheless."
 date: 2012-12-06T23:20:16Z

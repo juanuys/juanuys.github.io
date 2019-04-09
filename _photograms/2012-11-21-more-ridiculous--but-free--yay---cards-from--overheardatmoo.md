@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-11-21-more-ridiculous--but-free--yay---cards-from--overheardatmoo.jpg
+thumbnail: /assets/photograms/thumbs/2012-11-21-more-ridiculous--but-free--yay---cards-from--overheardatmoo.png
 layout: home
 title: "More ridiculous, but free (yay!) cards from @overheardatmoo"
 date: 2012-11-21T14:07:20Z

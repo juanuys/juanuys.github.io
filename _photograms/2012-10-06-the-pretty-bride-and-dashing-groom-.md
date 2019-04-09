@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2012-10-06-the-pretty-bride-and-dashing-groom-.jpg
+thumbnail: /assets/photograms/thumbs/2012-10-06-the-pretty-bride-and-dashing-groom-.png
 layout: home
 title: "The pretty bride and dashing groom."
 date: 2012-10-06T13:00:38Z

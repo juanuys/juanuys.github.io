@@ -1,5 +1,5 @@
 ---
-thumbnail: /assets/photograms/thumbs/2013-05-13-modified-table-of-contents-.jpg
+thumbnail: /assets/photograms/thumbs/2013-05-13-modified-table-of-contents-.png
 layout: home
 title: "Modified table of contents."
 date: 2013-05-13T07:15:17Z
