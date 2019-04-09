@@ -14,12 +14,10 @@ to reveal not much
 
 </div>
 
-
 {% for item in site.doodles reversed %}
-<div class="box altbox" style="background-image: url({{item.thumbnail}}); background-repeat: no-repeat;">
-[{{item.title | truncatewords: 7 }}]({{ item.url }})
-<small>{{item.date | date: "%Y-%m-%d"}}</small>
-</div>
+
+[![]({{item.thumbnail}})]({{item.url}})
+
 {% endfor %}
 
 </div>

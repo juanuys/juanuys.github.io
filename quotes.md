@@ -16,10 +16,12 @@ the quotable quote
 
 
 {% for item in site.quotes reversed %}
-<div class="box altbox">
-[{{item.title | truncatewords: 7 }}]({{ item.url }})
-<small>{{item.date | date: "%Y-%m-%d"}}</small>
-</div>
+  {% if item.redacted %}
+  {% else %}
+  <div class="box altbox">
+  [{{item.title | truncatewords: 7 }}]({{ item.url }})
+  </div>
+  {% endif %}
 {% endfor %}
 
 {% for i in (1..30) %}
