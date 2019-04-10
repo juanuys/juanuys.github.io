@@ -22,6 +22,10 @@ pointless ensemble
 [portfolio](https://uys.io/portfolio/)
 </div>
 
+<div class="box megabox">
+![Me and my favourite tool](/assets/home/laptopping.png)
+</div>
+
 {% for c in site.collections reversed %}
 <div class="{{ c.label }} box">
 [{{ c.label }}]({{ c.label }})
