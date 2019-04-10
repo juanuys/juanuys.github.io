@@ -2,42 +2,17 @@
 layout: home
 ---
 
-<div class="boxes">
 
-<div class="box box2">
+{% for c in site.collections reversed %} * [{{ c.label }}]({{ c.label }}) {% endfor %} * [about me](about) * [portfolio](https://uys.io/portfolio/)
 
+![Latest doodle.](/assets/doodles/original/adameve.png)
+
+<pre>
 digital hoarder
 
 time you will never get back
 
 pointless ensemble
-
-</div>
-
-<div class="about box">
-[about me](about)
-</div>
-
-<div class="portfolio box">
-[portfolio](https://uys.io/portfolio/)
-</div>
-
-<div class="box megabox">
-![Me and my favourite tool](/assets/home/laptopping.png)
-</div>
+</pre>
 
 
-
-{% for c in site.collections reversed %}
-<div class="{{ c.label }} box">
-[{{ c.label }}]({{ c.label }})
-</div>
-{% endfor %}
-
-{% for i in (1..30) %}
-
-<div class="box"></div>
-
-{% endfor %}
-
-</div>
