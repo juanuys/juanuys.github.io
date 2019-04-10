@@ -3,12 +3,13 @@ layout: home
 permalink: /about/index.html
 ---
 
-I
+Hi, I'm Juan (pronounced like the French Jean) and this my online attic. War-time mentality slash "I might need it again" reigns supreme. Here you'll find all my [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)-licensed bits and pieces.
+
+A few things about me. I
 - have the mind of a child
 - like pretty pictures
 - love silly jokes
 - seem to be the mindless bureaucrat of my own paperwork
-- am called Juan (pronounced like the French Jean) Uys (like saying Ace but cupping your tongue and sticking it out a bit further). Further instructions await you when you meet me.
 
 My loved ones are known as [DW, DD1, and DD2](https://www.mumsnet.com/info/acronyms) for the sake of their privacy.
 

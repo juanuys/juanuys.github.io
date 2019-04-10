@@ -23,13 +23,13 @@ Our IT team could once fit on a large sofa, but today we're just shy of 200. Ove
 
 Through-out the growing pains we've kept to a single theme: get the job done. Get it done well.
 
-![NAP Translations team doing it agile!](/res/nap-agile.jpg)
+![NAP Translations team doing it agile!](/assets/work/2006-netaporter/nap-agile.jpg)
 
-![NAP Translations launch in German, French and Chinese](/res/nap-translations-launch.jpg)
+![NAP Translations launch in German, French and Chinese](/assets/work/2006-netaporter/nap-translations-launch.jpg)
 
 The company is not far off 5,000 employees strong, and our HQ is quite a sizeable hole in the side of the Westfield shopping centre, with a recent expansion up to BBC HQ's way. I can tell you one thing: you might think it looks a bit Gattaca, but these guys know how to put an office together.
 
-![NAP Office, the 'Hangar'](/res/nap-massive-office.jpg)
+![NAP Office, the 'Hangar'](/assets/work/2006-netaporter/nap-massive-office.jpg)
 
 # Life
 
