@@ -10,6 +10,7 @@ A few things about me. I
 - like pretty pictures
 - love silly jokes
 - seem to be the mindless bureaucrat of my own paperwork
+- am one part opsimath, one part flâneur, with a pinch of angry 6 year old
 
 My loved ones are known as [DW, DD1, and DD2](https://www.mumsnet.com/info/acronyms) for the sake of their privacy.
 
