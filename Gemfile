@@ -23,4 +23,5 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.9.2"
   gem "jekyll-paginate", "~> 1.1.0"
+  gem "jekyll-sitemap", "~> 1.2.0"
 end
