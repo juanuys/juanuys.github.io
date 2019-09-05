@@ -60,6 +60,13 @@ div.body > * {
 	line-height: 2em;
 }
 
+// fix PRE
+pre {
+	font-family: Consolas,monospace !important;
+	font-size: 1em !important;
+	line-height: 1em !important;
+}
+
 div.body > h1 {
 	font-family: $base-font-family;
 	font-size: 2.3em;
