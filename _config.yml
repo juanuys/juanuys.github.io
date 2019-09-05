@@ -16,26 +16,15 @@ plugins:
   - jekyll-sitemap
 collections:
   doodles:
-    output: true
-    permalink: /:collection/:path
-  ml:
+    name: illustration
     output: true
     permalink: /:collection/:path
   made:
+    name: misc
     output: true
     permalink: /:collection/:path
-  chirps:
-    output: false
   posts:
-    output: true
-    permalink: /:collection/:path
-  photograms:
-    output: true
-    permalink: /:collection/:path
-  quotes:
-    output: true
-    permalink: /:collection/:path
-  work:
+    name: blog
     output: true
     permalink: /:collection/:path
 # Exclude from processing.

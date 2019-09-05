@@ -6,7 +6,7 @@ tags: [picturebook,illustration,polly]
 category: blog
 ---
 
-Over the past 8 weeks I spent some time on the Polly picture book illustrations. (Amongst other things - I managed to run 18 miles on the North Norfolk coastal path completely by accident, but that's a story for when you buy me a drink.)
+Over the past 8 weeks I spent some time on the Polly picture book illustrations.
 
 I've done about 14 pages, with about 18 more to go. Here is the first page:
 
