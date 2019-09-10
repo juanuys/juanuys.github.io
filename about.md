@@ -3,17 +3,17 @@ layout: home
 permalink: /about/index.html
 ---
 
-Hi, I'm Juan (pronounced like the French *Jean*).
+Hi, I'm Juan <span style="color: gray;">(pronounced like the French *Jean*)</span> and I live in North London.
 
-I'm a [coder](https://uys.io/cv/), [illustrator](/doodles/) and writer from North London.
+I [help companies](https://uys.io/cv/) with web technologies by day, and get up to all sorts of mischief by night, like [making stuff](https://uys.io/portfolio/), [drawing pictures](/doodles/), and writing short stories whilst dabbing my teary eyes with my wonderful collection of rejection letters.
 
-When I'm not dabbing at my teary eyes using my pile of rejection letters, I like to see my hobbies come together in the form of computer games or art installations.
-
-That said, I love to collaborate on creative technical work. If you like what you see [here](/made/) and maybe [here](https://uys.io/portfolio/), please reach out at [opyate@gmail.com](mailto:opyate@gmail.com?subject=collaboration).
+That said, I love to collaborate on creative technical work. Please reach out at [opyate@gmail.com](mailto:opyate@gmail.com?subject=collaboration).
 
 PS I also have an [online attic](https://opyate.com/). At your own peril, and all that.
 
 <span class="highlight">This website doesn't use Javascript and won't track you.</span>
+
+Get notified via [RSS](/feed.xml) or [Twitter](https://twitter.com/algaerithmic) whenever this butterfly flaps his tiny wings.
 
 <div class="boxes">
 
