@@ -25,4 +25,4 @@ In vim, open your unformatted JSON file, then: <code>:%!jq '.'</code>.
 
 There you go, ladies and gents &mdash; a command so short, you don't even need to put it in your vimrc!
 
-![jq to the res-q.](/photograms/2013-11-05-another-photo-for-my-blog--apologies-if-i-bore-my-instagram-followers----.jpg)
+![jq to the res-q.](https://opyate.com/assets/photograms/original/2013-11-05-another-photo-for-my-blog--apologies-if-i-bore-my-instagram-followers----.jpg)

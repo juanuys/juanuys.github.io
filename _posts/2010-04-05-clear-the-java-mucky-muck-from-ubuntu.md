@@ -49,4 +49,4 @@ And a quick test:
 
 The same can now be done for your other tools, like Ant and Maven.
 
-![java on ubuntu](/photograms/2013-08-24-the-inclusion-of-jpda-was-a-fond-memory-.jpg)
+![java on ubuntu](https://opyate.com/assets/photograms/original/2013-08-24-the-inclusion-of-jpda-was-a-fond-memory-.jpg)

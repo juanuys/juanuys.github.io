@@ -6,7 +6,7 @@ og_image_url: "http://distilleryimage6.ak.instagram.com/267f6626581311e3986c12b3
 image: "http://distilleryimage6.ak.instagram.com/267f6626581311e3986c12b308e0cf9c_8.jpg"
 image_content_type: "image/jpeg"
 layout: post
-tags: scala
+tags: scala tech
 category: blog
 ---
 
@@ -52,4 +52,4 @@ The easiest way was to just seed the foldRight with a list of zeros one element 
 
 No mutable state; no recursion; simple to understand. As [Erik Meijer](http://www.applied-duality.com) would say: "baby code".
 
-![algorithming](/photograms/2013-11-28-i-sometimes-dream-about-programming--then-i-come-up-with-solutions-like-these-.jpg)
+![algorithming](https://opyate.com/assets/photograms/original/2013-11-28-i-sometimes-dream-about-programming--then-i-come-up-with-solutions-like-these-.jpg)
