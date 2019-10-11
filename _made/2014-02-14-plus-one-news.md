@@ -2,7 +2,7 @@
 title: "+1 News"
 description: "Natural language parsing, and news generation by way of Markov chains"
 layout: post
-tags: plato-long tech markovchains
+tags: tech markovchains
 category: blog
 ---
 

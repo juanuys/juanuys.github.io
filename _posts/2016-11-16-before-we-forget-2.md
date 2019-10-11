@@ -2,7 +2,7 @@
 title: "Before we forget..."
 description: "We renovated our first home..."
 layout: post
-tags: plato-long pits-to-palace
+tags: pits-to-palace
 category: blog
 ---
 

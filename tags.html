@@ -31,6 +31,7 @@ title: Posts by tag
 </div>
 
 <script type="text/javascript">
+var parent = document.getElementById('tags_container');
 
 function getTag() {
 	var parts = document.URL.split('#');
@@ -40,13 +41,20 @@ function getTag() {
 var tag = getTag();
 
 if (tag !== null) {
-  var children = document.getElementById('tags_container').children
+  var children = parent.children
   for (var i=0; i < children.length; i++) {
     var child = children[i];
     if (child.id !== tag) {
       child.style = 'display: none;'
     }
   }
+
+  // also offer the opportunity to see all tags
+  var seeAll = document.createElement('a');
+  seeAll.href = '/tags';
+  seeAll.title = seeAll.text = 'See all tags.';
+  seeAll.className = 'see_all_tags';
+  parent.prepend(seeAll);
 }
 </script>
 

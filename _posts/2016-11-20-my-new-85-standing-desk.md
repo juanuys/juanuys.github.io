@@ -2,7 +2,7 @@
 title: "My new £85 standing desk"
 description: "I recently converted a new home office201..."
 layout: post
-tags: plato-long diy homeoffice
+tags: diy homeoffice
 category: blog
 ---
 

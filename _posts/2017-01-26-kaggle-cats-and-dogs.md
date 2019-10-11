@@ -2,7 +2,7 @@
 title: "Kaggle Cats and Dogs"
 description: "..."
 layout: post
-tags: plato-short kaggle machinelearning neuralnets tech
+tags: kaggle machinelearning neuralnets tech
 category: blog
 ---
 

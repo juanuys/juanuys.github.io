@@ -2,7 +2,7 @@
 title: "Week 4 of Neural Networks and Deep Learning"
 description: " Deep Neural Network..."
 layout: post
-tags: plato-long nn coursera deeplearning
+tags: nn coursera deeplearning
 category: blog
 ---
 

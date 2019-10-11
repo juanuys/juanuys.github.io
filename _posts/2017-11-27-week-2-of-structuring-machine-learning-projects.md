@@ -2,7 +2,7 @@
 title: "Week 2 of Structuring Machine Learning Projects"
 description: "The objectives for this week are:..."
 layout: post
-tags: plato-long nn coursera deeplearning
+tags: nn coursera deeplearning
 category: blog
 ---
 

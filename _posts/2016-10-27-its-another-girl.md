@@ -2,7 +2,7 @@
 title: "It's (another) girl"
 description: "After much anticipation..."
 layout: post
-tags: plato-photo life
+tags: life
 category: blog
 ---
 

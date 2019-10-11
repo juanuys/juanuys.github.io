@@ -2,7 +2,7 @@
 title: "A David Lynch rehash"
 description: "Source..."
 layout: post
-tags: plato-long davidlynch cartoon webcomic angrydog noise art blitline zapier
+tags: davidlynch cartoon webcomic angrydog noise art blitline zapier
 category: blog
 ---
 

@@ -2,7 +2,7 @@
 title: "Green is the colour of mould"
 description: "Some thoughts on the so-called Greenfield project"
 layout: post
-tags: plato-long tech
+tags: tech
 category: blog
 ---
 

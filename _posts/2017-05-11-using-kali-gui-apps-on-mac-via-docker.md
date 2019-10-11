@@ -2,7 +2,7 @@
 title: "Using Kali GUI apps on Mac via Docker"
 description: "Let's get the slow thing out of the way first..."
 layout: post
-tags: plato-long security kali tech
+tags: security kali tech
 category: blog
 ---
 

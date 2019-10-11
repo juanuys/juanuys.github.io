@@ -2,7 +2,7 @@
 title: "Well remembered!"
 description: "..."
 layout: post
-tags: plato-image funny
+tags: funny
 category: blog
 ---
 

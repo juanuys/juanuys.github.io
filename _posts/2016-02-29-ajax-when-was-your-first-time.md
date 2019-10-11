@@ -2,7 +2,7 @@
 title: "Ajax: when was your first time? ™"
 description: "I reminisced with some friends about technolo..."
 layout: post
-tags: plato-long tech ajax dinosaur
+tags: tech ajax dinosaur
 category: blog
 ---
 

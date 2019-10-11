@@ -2,7 +2,7 @@
 title: "Dishoom It Yourself"
 description: "..."
 layout: post
-tags: plato-photo dishoom food
+tags: dishoom food
 category: blog
 ---
 

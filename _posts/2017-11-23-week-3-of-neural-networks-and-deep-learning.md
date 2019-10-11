@@ -2,7 +2,7 @@
 title: "Week 3 of Neural Networks and Deep Learning"
 description: " Shallow Neural Networks..."
 layout: post
-tags: plato-long nn coursera deeplearning
+tags: nn coursera deeplearning
 category: blog
 ---
 

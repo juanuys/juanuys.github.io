@@ -2,7 +2,7 @@
 title: "Note to self - HP PhotoSmart on Arch Linux"
 description: " Note to self..."
 layout: post
-tags: plato-long tech archlinux
+tags: tech archlinux
 category: blog
 ---
 

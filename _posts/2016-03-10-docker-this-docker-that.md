@@ -2,7 +2,7 @@
 title: "Docker this, Docker that."
 description: "Ever since Ben Firshman..."
 layout: post
-tags: plato-long tech docker unity3d android
+tags: tech docker unity3d android
 category: blog
 ---
 

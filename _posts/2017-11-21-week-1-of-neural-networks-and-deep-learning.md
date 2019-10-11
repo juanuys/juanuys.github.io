@@ -2,7 +2,7 @@
 title: "Week 1 of Neural Networks and Deep Learning"
 description: " Introduction to Deep Learning..."
 layout: post
-tags: plato-long nn coursera deeplearning
+tags: nn coursera deeplearning
 category: blog
 ---
 

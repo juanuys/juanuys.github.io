@@ -2,7 +2,7 @@
 title: "Laptopping"
 description: "..."
 layout: post
-tags: plato-image drawing
+tags: drawing
 category: blog
 ---
 

@@ -2,7 +2,7 @@
 title: "Neural Networks refresher"
 description: "I did a course..."
 layout: post
-tags: plato-long nn coursera deeplearning
+tags: nn coursera deeplearning
 category: blog
 ---
 

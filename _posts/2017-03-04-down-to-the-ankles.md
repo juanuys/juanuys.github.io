@@ -2,7 +2,7 @@
 title: "Down to the ankles"
 description: "..."
 layout: post
-tags: plato-image webcomic angrydog
+tags: webcomic angrydog
 category: blog
 ---
 

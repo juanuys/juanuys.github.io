@@ -2,7 +2,7 @@
 title: "Might drive next time."
 description: "The healthy choice."
 layout: post
-tags: plato-long life
+tags: life
 category: blog
 ---
 

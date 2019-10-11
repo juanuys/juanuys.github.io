@@ -2,7 +2,7 @@
 title: "The Mexican fisherman"
 description: "..."
 layout: post
-tags: plato-long life
+tags: life
 category: blog
 ---
 

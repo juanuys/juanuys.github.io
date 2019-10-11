@@ -2,7 +2,7 @@
 title: "More irony"
 description: "..."
 layout: post
-tags: plato-long irony
+tags: irony
 category: blog
 ---
 

@@ -2,7 +2,7 @@
 title: "The purpose of life isn't to be happy"
 description: "Idea: Happiness, as associated with p..."
 layout: post
-tags: plato-long life
+tags: life
 category: blog
 ---
 

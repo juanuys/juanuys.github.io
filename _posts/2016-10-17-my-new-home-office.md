@@ -2,7 +2,7 @@
 title: "My new home office"
 description: "Due to a growing family, I got kicked out of ..."
 layout: post
-tags: plato-long homeoffice diy
+tags: homeoffice diy
 category: blog
 ---
 

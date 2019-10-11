@@ -2,7 +2,7 @@
 title: "Week 1 of Structuring Machine Learning Projects"
 description: " Introduction to ML Strategy..."
 layout: post
-tags: plato-long nn coursera deeplearning
+tags: nn coursera deeplearning
 category: blog
 ---
 
