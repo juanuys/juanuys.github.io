@@ -6,83 +6,97 @@ tags: [code,art,genart]
 category: blog
 ---
 
-<canvas id="canvas_sines" width="2560" height="1440" style="width:100%; height: 100%"></canvas>
+<canvas id="canvas" style="width:100%; height: 100%"></canvas>
 
 <script>
-'use strict';
+var canvas = document.getElementById('canvas');
+canvas.height = window.innerHeight;
+canvas.width = window.innerWidth;
+var ctx = canvas.getContext('2d');
 
-function _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } else { return Array.from(arr); } }
+var animate = null;
 
-var sineCanvas = document.getElementById('canvas_sines');
-var sineCtx = sineCanvas.getContext('2d');
-// sineCtx.globalCompositeOperation = 'xor';
-
-var spacing = 20;
-var numOfLines = sineCanvas.height / spacing;
-
-var startOffset = spacing / 2;
-var quarter = (sineCanvas.width - spacing) / 4;
-var yRange = [].concat(_toConsumableArray(Array(numOfLines).keys()));
-
-sineCtx.lineWidth = 10;
-var startTime = new Date().getTime();
-var counter = 0;
-var hue1 = 180; // cyan
-var hue2 = 300; // magenta
-var hue3 = 60; // yellow
-var alpha = 0.2;
-
-var isInViewport = function isInViewport(elem) {
-  var bounding = elem.getBoundingClientRect();
-  //  If the bottom is in view but the top isn't then it's visible
-  return bounding.bottom >= 0 && bounding.bottom <= (window.innerHeight || document.documentElement.clientHeight) || bounding.top >= 0 && bounding.top <= (window.innerHeight || document.documentElement.clientHeight);
-};
-
-function line(diff, n, hue) {
-  yRange.forEach(function (y) {
-    var yDiv = y / numOfLines;
-
-    var firstYShift = Math.sin(yDiv * Math.PI * 6) * (Math.sin(diff * n) * 31);
-    var secondYShift = Math.sin(yDiv * Math.PI * 5) * (Math.sin(diff / 873) * 37);
-    var thirdYShift = Math.sin(yDiv * Math.PI * 4) * (Math.sin(diff / 999) * 43);
-
-    var firstXShift = Math.sin(yDiv * Math.PI * 3) * (Math.sin(diff / 1213) * 77);
-    var secondXShift = Math.sin(yDiv * Math.PI * 2) * (Math.sin(diff / 1303) * 91);
-    var thirdXShift = Math.sin(yDiv * Math.PI * 1) * (Math.sin(diff / 1400) * 101);
-
-    hue += 2;
-    sineCtx.strokeStyle = 'hsla(' + hue + ', 100%, 50%, ' + alpha + ')';
-    sineCtx.beginPath();
-    sineCtx.moveTo(startOffset, y * spacing + startOffset);
-    sineCtx.lineTo(startOffset + quarter + firstXShift, y * spacing + startOffset - firstYShift);
-    sineCtx.lineTo(startOffset + quarter * 2 + secondXShift, y * spacing + startOffset + secondYShift);
-    sineCtx.lineTo(startOffset + quarter * 3 + thirdXShift, y * spacing + startOffset + thirdYShift);
-    sineCtx.lineTo(sineCanvas.width - startOffset, y * spacing + startOffset);
-    sineCtx.stroke();
-  });
+function stop() {
+  animate = false;
 }
 
-var startSine = function () {
-  setInterval(function () {
-    if (!isInViewport(sineCanvas)) return;
-    sineCtx.clearRect(0, 0, sineCanvas.width, sineCanvas.height);
+function start() {
+  animate = true;
 
-    var diff = new Date().getTime() - startTime;
+  var spacing = 20;
+  var numOfLines = canvas.height / spacing;
 
-    line(diff, 0.0001, hue1);
+  var startOffset = spacing / 2;
+  var quarter = (canvas.width - spacing) / 4;
 
-    diff += counter + 123;
-    line(diff, 0.001, hue2);
+  ctx.lineWidth = 10;
 
-    // sineCtx.strokeStyle = 'hsla(' + hue3 + ', 100%, 50%, ' + alpha + ')';
-    // diff += counter;
-    // line(diff, 0.00001);
+  var isInViewport = function isInViewport(elem) {
+    var bounding = elem.getBoundingClientRect();
+    //  If the bottom is in view but the top isn't then it's visible
+    return bounding.bottom >= 0 && bounding.bottom <= (window.innerHeight || document.documentElement.clientHeight) || bounding.top >= 0 && bounding.top <= (window.innerHeight || document.documentElement.clientHeight);
+  };
 
-    hue1 += 0.947;
-    hue2 += 0.823;
-    hue3 += 0.123;
-    counter += 1;
-  }, 1000/60);
+  function line(diff, n, hue) {
+
+    var p = Math.random() * 100
+
+    for (let y = 0; y < numOfLines; y++) {
+
+      // yDiv will be a value between 0 and 1 (from first row to last)
+      var yDiv = y / numOfLines;
+
+      // Math.sin((Math.PI / 180) * degrees) => 0,0 90,1 180,0 270,-1, 360,0
+      // so we get a value which fluctuates between 1 and -1
+
+      var firstYShift = Math.sin(yDiv * Math.PI * 6) * (Math.sin(diff * n * 2) * 31);
+      var secondYShift = Math.sin(yDiv * Math.PI * 5) * (Math.sin(diff * n * 4) * 37);
+      var thirdYShift = Math.sin(yDiv * Math.PI * 4) * (Math.sin(diff * n * 6) * 43);
+      var firstXShift = Math.sin(yDiv * Math.PI * 3) * (Math.sin(diff * n * 8) * 77);
+      var secondXShift = Math.sin(yDiv * Math.PI * 2) * (Math.sin(diff * n * 10) * 91);
+      var thirdXShift = Math.sin(yDiv * Math.PI) * (Math.sin(diff * n * 12) * 101);
+
+      ctx.strokeStyle = 'hsla(' + hue + ', 100%, 50%, 0.4)';
+      ctx.beginPath();
+      ctx.moveTo(startOffset, y * spacing + startOffset);
+      ctx.lineTo(startOffset + quarter + firstXShift, y * spacing + startOffset + firstYShift);
+      ctx.lineTo(startOffset + quarter * 2 + secondXShift, y * spacing + startOffset + secondYShift);
+      ctx.lineTo(startOffset + quarter * 3 + thirdXShift, y * spacing + startOffset + thirdYShift);
+      ctx.lineTo(canvas.width - startOffset, y * spacing + startOffset);
+      ctx.stroke();
+    }
+  }
+
+  var counter = 0;
+  var hue1 = 0;
+  var hue2 = 0;
+
+  function step() {
+    if (!animate) return;
+    if (!isInViewport(canvas)) return;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    counter++;
+
+    line(counter, 0.001, hue1);
+
+    line(counter * 2, 0.0001, hue2);
+
+    hue1 += 1;
+    hue2 += 0.1;
+
+    window.requestAnimationFrame(step);
+  }
+
+  window.requestAnimationFrame(step);
 };
-startSine();
+
+window.addEventListener('resize', function () {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  stop();
+  start();
+});
+
+start();
 </script>
