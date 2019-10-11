@@ -88,3 +88,21 @@ div.body img {
 .highlight {
 	background-color: nth($posts-brand, 1);
 }
+
+.tags > ul {
+	list-style: none;
+	margin-left: 0px;
+}
+.tags > ul > li {
+	display: inline;
+}
+
+.tags > ul > li:not(:last-child)::after {
+	content: ',';
+}
+.tags > ul > li:first-child::before {
+	content: '[';
+}
+.tags > ul > li:last-child::after {
+	content: ']';
+}
