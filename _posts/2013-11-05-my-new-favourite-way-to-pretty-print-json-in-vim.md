@@ -2,8 +2,8 @@
 title: "Pretty-print JSON in vim"
 description: "My new favourite way to pretty-print JSON in vim"
 date: 2013-11-05
-og_image_url: "http://distilleryimage10.ak.instagram.com/09fde780461511e3924b22000aaa05e0_8.jpg"
-image: "http://distilleryimage10.ak.instagram.com/09fde780461511e3924b22000aaa05e0_8.jpg"
+og_image_url: "https://juanuys.com/assets/doodles/original/2019-09-04-selfportrait.png"
+image: "https://juanuys.com/assets/doodles/original/2019-09-04-selfportrait.png"
 image_content_type: "image/jpeg"
 layout: post
 tags: tech
