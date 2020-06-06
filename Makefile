@@ -6,7 +6,9 @@ new:
 	@./new.sh
 
 run:
-	@./run.sh
+	#@./run.sh
+	# bundle install
+	bundle exec jekyll serve
 
 publish:
 	@./publish.sh

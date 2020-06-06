@@ -100,95 +100,22 @@ And, as you can see, the result is a comfortable little man-cave. Some stuff nee
 
 # Costs
 
+| supplier | material | date | GBP |
+| -------- | -------- | ---- | --- |
+| B&Q | misc | 2016-09-14 | 63.31 |
+| B&Q | door | 2016-09-14 | 180 |
+| [contractor](https://www.mister-constructor.co.uk/) | door install; lintel | 2016-09-15 | 570 |
+| Builder Depot | marine ply; plasterboard | 2016-09-21 | 532.43 |
+| B&Q | misc | 2016-09-28 | 62.64 |
+| B&Q | misc | 2016-09-29 | 23.94 |
+| B&Q | misc | 2016-09-30 | 30.75 |
+| Builder Depot | duplex | 2016-10-01 | 169.74 |
+| B&Q | misc | 2016-10-04 | 26.59 |
+| [PerspexSheet.uk](https://www.perspexsheet.uk/) | perspex window | 2016-10-04 | 11.19 |
+| Colin | DIY | | 760 |
+| Travis Perkins | paint; masking tape | 2016-10-10 | 50.38 |
+| Total | | | 2480.97 |
 
-<table class="table table-bordered table-hover table-condensed">
-<thead>
-<tr>
-<th>supplier</th>
-<th>material</th>
-<th>date</th>
-<th align="right">GBP</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>B&amp;Q</td>
-<td>misc</td>
-<td>2016-09-14</td>
-<td align="right">63.31</td>
-</tr>
-<tr>
-<td>B&amp;Q</td>
-<td>door</td>
-<td>2016-09-14</td>
-<td align="right">180</td>
-</tr>
-<tr>
-<td><a href="http://www.mister-constructor.co.uk/">Mister Constructor</a></td>
-<td>door install; lintel</td>
-<td>2016-09-15</td>
-<td align="right">570</td>
-</tr>
-<tr>
-<td>Builder Depot</td>
-<td>marine ply; plasterboard</td>
-<td>2016-09-21</td>
-<td align="right">532.43</td>
-</tr>
-<tr>
-<td>B&amp;Q</td>
-<td>misc</td>
-<td>2016-09-28</td>
-<td align="right">62.64</td>
-</tr>
-<tr>
-<td>B&amp;Q</td>
-<td>misc</td>
-<td>2016-09-29</td>
-<td align="right">23.94</td>
-</tr>
-<tr>
-<td>B&amp;Q</td>
-<td>misc</td>
-<td>2016-09-30</td>
-<td align="right">30.75</td>
-</tr>
-<tr>
-<td>Builder Depot</td>
-<td>duplex</td>
-<td>2016-10-01</td>
-<td align="right">169.74</td>
-</tr>
-<tr>
-<td>B&amp;Q</td>
-<td>misc</td>
-<td>2016-10-04</td>
-<td align="right">26.59</td>
-</tr>
-<tr>
-<td><a href="http://www.perspexsheet.uk/">PerspexSheet.uk</a></td>
-<td>perspex window</td>
-<td>2016-10-04</td>
-<td align="right">11.19</td>
-</tr>
-<tr>
-<td>Colin</td>
-<td>DIY</td>
-<td> </td>
-<td align="right">760</td>
-</tr>
-<tr>
-<td>Travis Perkins</td>
-<td>paint; masking tape</td>
-<td>2016-10-10</td>
-<td align="right">50.38</td>
-</tr>
-</tbody>
-<tfoot>
-<tr>
-<td colspan="3"><strong>Total</strong></td>
-<td align="right"><strong>2480.97</strong></td>
-</table>
 
 The miscellaneous items in the above table include things like
 
