@@ -3,9 +3,9 @@ layout: home
 ---
 
 
-\* [about](about) {% for c in site.collections reversed %} \* [{{ c.name }}]({{ c.label }}) {% endfor %} *
+\* [about](about) \* [games](games) \* [twitter](https://twitter.com/opyate) \* [linkedin](https://www.linkedin.com/in/juan-m-uys/) \* [soundcloud](https://soundcloud.com/opyate) \* [itch.io](https://opyate.itch.io/) {% for c in site.collections reversed %} \* [{{ c.name }}]({{ c.label }}) {% endfor %} *
 
-![Latest doodle.](/assets/doodles/original/2019-09-04-selfportrait.png)
+![Serenity.](/assets/index/trees.jpg)
 
 
 <pre>
