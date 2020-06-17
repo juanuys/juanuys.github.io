@@ -16,7 +16,7 @@ plugins:
   - jekyll-sitemap
 collections:
   doodles:
-    name: illustration
+    name: doodles
     output: true
     permalink: /:collection/:path
   made:
