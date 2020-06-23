@@ -6,6 +6,8 @@ tags: imadeathing code art genart
 category: blog
 ---
 
+Video talk-through available [here](https://www.youtube.com/watch?v=wsC0j5DH7QQ).
+
 <canvas id="canvas" style="width:100%; height: 100%"></canvas>
 
 <script>
