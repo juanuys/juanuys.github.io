@@ -58,3 +58,18 @@ $paired: cbrew('paired', 12);
     color: black;
     background-color: white;
 }
+
+
+
+.date {
+    color: $grey-color;
+}
+
+.tag-header {
+    background-color: nth($paired, 11);
+	padding: 5px;
+}
+
+#tags_container li {
+	list-style-type: none;
+}
