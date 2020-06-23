@@ -1,4 +1,12 @@
-Drawing on the Right Side of the Brain
+---
+title: "Drawing on the Right Side of the Brain"
+description: "A few notes."
+layout: post
+tags: doodling notes drawing
+category: blog
+---
+
+Some starter notes on [Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain).
 
 The book will gradually cover the five perceptual skills of drawing: the perception of
 

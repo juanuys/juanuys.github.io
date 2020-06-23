@@ -2,7 +2,7 @@
 title: "Laptopping"
 description: "..."
 layout: post
-tags: drawing
+tags: drawing doodling
 category: blog
 ---
 
