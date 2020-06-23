@@ -23,6 +23,14 @@ collections:
     name: write things
     output: true
     permalink: /:collection/:path
+  quotes:
+    name: collect quotes
+    output: true
+    permalink: /:collection/:path
+  made:
+    name: make non-game things
+    output: true
+    permalink: /:collection/:path
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
