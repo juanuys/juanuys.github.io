@@ -28,6 +28,8 @@ Unleash Your Server is a new endeavour, but I've started this one on my own. The
 
 Apart from finding new problems to solve and organically building businesses around them, I've had the immense privilege of starting my new journey with GOV.UK on the [transformation](https://gds.blog.gov.uk/2014/01/29/200-days-of-transformation-200-days-to-go/) project.
 
+![UYS](/assets/posts/2018-02-14-freelance/uys.png)
+
 ## pdfcrun.ch
 
 [pdfcrunch](https://pdfcrun.ch) turns PDFs into data. It's been quite computer vision -heavy, and I've been spending a lot of time in iPython notebooks tweaking algorithms.
