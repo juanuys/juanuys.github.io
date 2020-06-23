@@ -16,15 +16,11 @@ plugins:
   - jekyll-sitemap
 collections:
   doodles:
-    name: doodles
-    output: true
-    permalink: /:collection/:path
-  made:
-    name: misc
+    name: draw things
     output: true
     permalink: /:collection/:path
   posts:
-    name: blog
+    name: write things
     output: true
     permalink: /:collection/:path
 # Exclude from processing.

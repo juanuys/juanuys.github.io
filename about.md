@@ -13,7 +13,7 @@ PS I also have an [online attic](https://opyate.com/). At your own peril, and al
 
 <span class="highlight">This website doesn't use Javascript and won't track you.</span>
 
-Get notified via [RSS](/feed.xml) or [Twitter](https://twitter.com/opyate) whenever this butterfly flaps his tiny wings.
+Get notified via [RSS](/feed.xml) or elsewhere (see below) whenever this butterfly flaps his tiny wings.
 
 <div class="boxes">
 
@@ -26,6 +26,25 @@ a stranger in a strange land
 keen like a puppy
 
 </div>
+
+
+
+<div class="box altbox" style="background-image: url('/assets/about/twitter.png');">
+<a href="https://twitter.com/opyate" style="position: absolute; bottom: 10px; right: 10px;">Twitter</a>
+</div>
+
+<div class="box altbox" style="background-image: url('/assets/about/soundcloud.png');">
+<a href="https://soundcloud.com/opyate" style="position: absolute; bottom: 10px; right: 10px;">SoundCloud</a>
+</div>
+
+<div class="box altbox" style="background-image: url('/assets/about/itchio.png');">
+<a href="https://opyate.itch.io/" style="position: absolute; bottom: 10px; right: 10px;">itch.io</a>
+</div>
+
+<div class="box altbox" style="background-image: url('/assets/about/linkedin.png');">
+<a href="https://www.linkedin.com/in/juan-m-uys/" style="position: absolute; bottom: 10px; right: 10px;">LinkedIn</a>
+</div>
+
 
 {% for i in (1..30) %}
 

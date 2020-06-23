@@ -2,7 +2,7 @@
 title: "Mini Ludum Dare 72"
 description: "I participated..."
 layout: post
-tags: gamedev quil processing webaudio clojurescript minild
+tags: imadeathing gamedev quil processing webaudio clojurescript minild
 category: blog
 ---
 

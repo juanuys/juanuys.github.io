@@ -6,7 +6,7 @@ og_image_url: "https://juanuys.com/assets/doodles/original/2019-09-04-selfportra
 image: "https://juanuys.com/assets/doodles/original/2019-09-04-selfportrait.png"
 image_content_type: "image/jpeg"
 layout: post
-tags: [book, fatherhood]
+tags: imadeathing book fatherhood
 category: blog
 ---
 

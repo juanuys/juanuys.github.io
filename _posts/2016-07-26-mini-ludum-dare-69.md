@@ -2,7 +2,7 @@
 title: "Mini Ludum Dare 69"
 description: "I started hacking on my miniLD 69 entry..."
 layout: post
-tags: tech games threejs webgl gamedev
+tags: imadeathing tech games threejs webgl gamedev
 category: blog
 ---
 

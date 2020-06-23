@@ -2,7 +2,7 @@
 layout: post
 title: "A code doodle."
 description: "A code doodle."
-tags: [code,art,genart]
+tags: imadeathing code art genart
 category: blog
 ---
 
