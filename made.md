@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /made/index.html
+permalink: /made
 ---
 <div class="boxes">
 

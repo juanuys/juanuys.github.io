@@ -3,8 +3,23 @@
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+    {% assign pagesplit = page.url | split:'/' %}
+    {% assign pagesplits = pagesplit | size %}
+
+    {% if pagesplits > 2 %}
+    {% assign pageroot = "/" | append: pagesplit[1] %}
+    {% else %}
+    {% assign pageroot = "/" %}
+    {% endif %}
+    
+    
+
+      <a class="site-title" rel="author" href="{{ pageroot | relative_url }}">
+        {% if page.url == "/" %}
         <img src="/assets/index/logo.png" alt="{{ site.title | escape }}">
+        {% else %}
+        <img src="/assets/index/logo-small.png" alt="{{ site.title | escape }}" height="40">
+        {% endif %}
       </a>
 
   </div>

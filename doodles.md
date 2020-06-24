@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /doodles/index.html
+permalink: /doodles
 ---
 <div class="boxes">
 

@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /about/index.html
+permalink: /about
 ---
 
 Hi, I'm Juan <span style="color: gray;">(pronounced like the French *Jean*)</span> and I live in North London.
@@ -14,6 +14,7 @@ PS I also have an [online attic](https://opyate.com/). At your own peril, and al
 <span class="highlight">This website doesn't use Javascript and won't track you.</span>
 
 Get notified via [RSS](/feed.xml) or elsewhere (see below) whenever this butterfly flaps his tiny wings.
+
 
 <div class="boxes">
 

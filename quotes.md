@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /quotes/index.html
+permalink: /quotes
 ---
 <div class="boxes">
 
