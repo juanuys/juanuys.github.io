@@ -29,19 +29,19 @@ keen like a puppy
 
 
 
-<div class="box altbox" style="background: no-repeat url('/assets/about/twitter.png');">
+<div class="box altbox" style="background-image: url('/assets/about/twitter.png');">
 <a href="https://twitter.com/opyate" style="position: absolute; bottom: 10px; right: 10px;">Twitter</a>
 </div>
 
-<div class="box altbox" style="background: no-repeat url('/assets/about/soundcloud.png');">
+<div class="box altbox" style="background-image: url('/assets/about/soundcloud.png');">
 <a href="https://soundcloud.com/opyate" style="position: absolute; bottom: 10px; right: 10px;">SoundCloud</a>
 </div>
 
-<div class="box altbox" style="background: no-repeat url('/assets/about/itchio.png');">
+<div class="box altbox" style="background-image: url('/assets/about/itchio.png');">
 <a href="https://opyate.itch.io/" style="position: absolute; bottom: 10px; right: 10px;">itch.io</a>
 </div>
 
-<div class="box altbox" style="background: no-repeat url('/assets/about/linkedin.png');">
+<div class="box altbox" style="background-image: url('/assets/about/linkedin.png');">
 <a href="https://www.linkedin.com/in/juan-m-uys/" style="position: absolute; bottom: 10px; right: 10px;">LinkedIn</a>
 </div>
 
