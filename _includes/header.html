@@ -16,9 +16,10 @@
 
       <a class="site-title" rel="author" href="{{ pageroot | relative_url }}">
         {% if page.url == "/" %}
-        <img src="/assets/index/logo.png" alt="{{ site.title | escape }}">
+        <!-- <img src="/assets/index/logo.png" alt="{{ site.title | escape }}"> -->
+        <img src="/assets/index/pixelated.png" alt="{{ site.title | escape }}" height="64">
         {% else %}
-        <img src="/assets/index/logo-small.png" alt="{{ site.title | escape }}" height="40">
+        <img src="/assets/index/pixelated.png" alt="{{ site.title | escape }}" height="40"> {{ pageroot }}
         {% endif %}
       </a>
 
