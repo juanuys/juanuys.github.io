@@ -8,8 +8,9 @@ thumb: /assets/games/cornwars/thumb.png
 category: release
 builtwith: java libgdx texturepacker logicpro gimp
 pagetype: game
+rank: 10
 ---
 
 Corn Wars page coming soon, yo!
 
-[Privacy Policy](privacy_policy)
+[Privacy Policy](/games/cornwars/privacy_policy)

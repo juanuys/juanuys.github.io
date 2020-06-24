@@ -14,12 +14,13 @@ for your enjoyment
 
 </div>
 
+{% assign pages_ordered_by_rank = (site.pages | sort: 'rank' ) %}
 
-{% for p in site.pages %}
+{% for p in pages_ordered_by_rank %}
 
 {% if p.pagetype == "game" %}
 <div class="box altbox" style="background: url('{{p.thumb}}') no-repeat center/cover;">
-[{{p.title | truncatewords: 7 }}]({{ p.permalink }})
+<a href="{{ p.permalink }}" style="position: absolute; top: 50px; ">{{p.title}}</a>
 <small style="position: absolute; bottom: 10px; right: 10px;"><em>({{p.category}})</em></small>
 </div>
 {% endif %}

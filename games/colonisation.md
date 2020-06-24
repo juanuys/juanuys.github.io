@@ -8,6 +8,7 @@ thumb: /assets/games/colonisation/thumb.png
 category: jam
 builtwith: threejs webgl
 pagetype: game
+rank: 50
 ---
 
 I started hacking on my [mini-LD 69 entry](https://opyate.github.io/minild69/app/index.html) about two weeks ago ([alt link](http://cdn.opyate.com/projects/ld69/)).

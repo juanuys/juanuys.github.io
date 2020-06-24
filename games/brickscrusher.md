@@ -9,6 +9,7 @@ thumb: /assets/games/brickscrusher/thumb.png
 category: jam
 builtwith: godot gdscript
 pagetype: game
+rank: 100
 ---
 
 I'm learning Godot, and this is what I have so far.

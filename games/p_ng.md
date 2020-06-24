@@ -8,6 +8,7 @@ thumb: /assets/games/p_ng/thumb.png
 category: jam
 builtwith: quil processing webaudio clojurescript
 pagetype: game
+rank: 50
 ---
 
 I [participated](https://opyate.github.io/minild72/) in another [MiniLD](http://ludumdare.com/compo/minild-72/?action=preview&uid=82022).
