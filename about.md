@@ -11,6 +11,8 @@ That said, I love to collaborate on creative technical work. Please reach out at
 
 PS I also have an [online attic](https://opyate.com/). At your own peril, and all that.
 
+PPS Who doesn't like a good [quote](quotes)?
+
 <span class="highlight">This website doesn't use Javascript and won't track you.</span>
 
 Get notified via [RSS](/feed.xml) or elsewhere (see below) whenever this butterfly flaps his tiny wings.
