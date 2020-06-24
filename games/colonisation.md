@@ -11,6 +11,8 @@ pagetype: game
 rank: 50
 ---
 
+<span class="highlight">[Play it now.](https://opyate.github.io/minild69/app/index.html)</span>
+
 I started hacking on my [mini-LD 69 entry](https://opyate.github.io/minild69/app/index.html) about two weeks ago ([alt link](http://cdn.opyate.com/projects/ld69/)).
 
 **WARNING** <span class="highlight">If the game doesn't seem to load (no 3D objects), or dev tools shows a JS error, just refresh the page - apparently my RequireJS fu leaves something to be desired.</span>
