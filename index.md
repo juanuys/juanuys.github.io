@@ -5,7 +5,7 @@ layout: home
 
 Hi, I'm [this guy](about). When I'm not stepping in gum, I [make games](games) and some [other stuff](made) too.
 
-I occasionally [write](posts) things down, or do the odd [doodle](doodles).
+I occasionally [write](posts) things down, or [doodle](doodles) the odd... doodle. <span class="hide-somewhat">Badly.</span>
 
 
 
