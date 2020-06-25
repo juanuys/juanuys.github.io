@@ -97,16 +97,51 @@ div.body img {
 	display: inline;
 }
 
-.tags > ul > li:not(:last-child)::after {
-	content: ',';
-}
-.tags > ul > li:first-child::before {
-	content: '[';
-}
-.tags > ul > li:last-child::after {
-	content: ']';
-}
+// .tags > ul > li:not(:last-child)::after {
+// 	content: ',';
+// }
+// .tags > ul > li:first-child::before {
+// 	content: '[';
+// }
+// .tags > ul > li:last-child::after {
+// 	content: ']';
+// }
+
 .see_all_tags {
 	display: inline-block;
 	margin-bottom: 20px;
 }
+
+
+// .tags > ul > li:nth-child(7n) { background-color: lighten(nth($reds, 1), 20%); }
+// .tags > ul > li:nth-child(7n+1) { background-color: lighten(nth($reds, 2), 20%); }
+// .tags > ul > li:nth-child(7n+2) { background-color: lighten(nth($reds, 3), 20%); }
+// .tags > ul > li:nth-child(7n+3) { background-color: lighten(nth($reds, 4), 20%); }
+// .tags > ul > li:nth-child(7n+4) { background-color: lighten(nth($reds, 5), 20%); }
+// .tags > ul > li:nth-child(7n+5) { background-color: lighten(nth($reds, 6), 20%); }
+// .tags > ul > li:nth-child(7n+6) { background-color: lighten(nth($reds, 7), 20%); }
+// .tags > ul > li:nth-child(7n+7) { background-color: lighten(nth($reds, 8), 20%); }
+// .tags > ul > li:nth-child(7n+8) { background-color: lighten(nth($reds, 9), 20%); }
+
+.tags > ul > li {
+	padding: 5px;
+}
+.tags > ul > li:nth-child(7n) { background-color: nth($reds, 1); }
+.tags > ul > li:nth-child(7n+1) { background-color: nth($reds, 2); }
+.tags > ul > li:nth-child(7n+2) { background-color: nth($reds, 3); }
+.tags > ul > li:nth-child(7n+3) { background-color: nth($reds, 4); }
+.tags > ul > li:nth-child(7n+4) { background-color: nth($reds, 5); }
+.tags > ul > li:nth-child(7n+5) { background-color: nth($reds, 6); }
+.tags > ul > li:nth-child(7n+6) { background-color: nth($reds, 7); }
+.tags > ul > li:nth-child(7n+7) { background-color: nth($reds, 8); }
+.tags > ul > li:nth-child(7n+8) { background-color: nth($reds, 9); }
+
+.tags > ul > li:nth-child(7n) > a { color: darken(nth($reds, 1), 50%); }
+.tags > ul > li:nth-child(7n+1) > a { color: darken(nth($reds, 2), 50%); }
+.tags > ul > li:nth-child(7n+2) > a { color: darken(nth($reds, 3), 50%); }
+.tags > ul > li:nth-child(7n+3) > a { color: darken(nth($reds, 4), 50%); }
+.tags > ul > li:nth-child(7n+4) > a { color: darken(nth($reds, 5), 50%); }
+.tags > ul > li:nth-child(7n+5) > a { color: darken(nth($reds, 6), 50%); }
+.tags > ul > li:nth-child(7n+6) > a { color: darken(nth($reds, 7), 50%); }
+.tags > ul > li:nth-child(7n+7) > a { color: darken(nth($reds, 8), 50%); }
+.tags > ul > li:nth-child(7n+8) > a { color: darken(nth($reds, 9), 50%); }

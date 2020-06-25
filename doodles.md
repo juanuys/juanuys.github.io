@@ -14,6 +14,10 @@ to reveal not much
 
 </div>
 
+<div class="box altbox" style="background: url('/assets/doodles/mad-murdoch.png') no-repeat center/cover;">
+[some more doodles on Tumblr](https://opyate.tumblr.com/)
+</div>
+
 {% for item in site.doodles reversed %}
 
 [![]({{item.thumbnail}})]({{item.url}})
