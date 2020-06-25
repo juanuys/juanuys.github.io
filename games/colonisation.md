@@ -5,7 +5,7 @@ description: "Mini Ludum Dare 69"
 layout: game
 permalink: /games/colonisation
 thumb: /assets/games/colonisation/thumb.png
-category: jam
+category: jam, minild69
 builtwith: threejs webgl
 pagetype: game
 rank: 50

@@ -5,7 +5,7 @@ description: "Mini Ludum Dare 72"
 layout: game
 permalink: /games/p_ng
 thumb: /assets/games/p_ng/thumb.png
-category: jam
+category: jam, ninild72
 builtwith: quil processing webaudio clojurescript
 pagetype: game
 rank: 50
