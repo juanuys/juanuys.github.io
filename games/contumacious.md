@@ -7,7 +7,7 @@ permalink: /games/contumacious
 thumb: /assets/games/contumacious/thumb.png
 category: card game
 builtwith: html canvas unity
-blogpost: tags#contumacious
+blogpost: /tags#contumacious
 pagetype: game
 rank: 90
 ---
