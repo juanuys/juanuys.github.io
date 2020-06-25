@@ -9,14 +9,15 @@ I [help companies](https://uys.io/cv/) with web technologies by day, and get up 
 
 That said, I love to collaborate on creative technical work. Please reach out at [opyate@gmail.com](mailto:opyate@gmail.com?subject=collaboration).
 
-PS I also have an [online attic](https://opyate.com/). At your own peril, and all that.
-
-PPS Who doesn't like a good [quote](quotes)?
-
-<span class="highlight">This website doesn't use Javascript and won't track you.</span>
+This website uses a sprinkling of vanilla Javascript on pages that need it, but otherwise won't track you.
 
 Get notified via [RSS](/feed.xml) or elsewhere (see below) whenever this butterfly flaps his tiny wings.
 
+Lastly, try a good [quote](quotes).
+
+Very lastly, more history at the very bottom of this page as a bonus for reading this far. Because you CLEARLY want to know more.
+
+<div class="breaker"></div>
 
 <div class="boxes">
 
@@ -55,5 +56,28 @@ keen like a puppy
 
 {% endfor %}
 
-
 </div>
+
+<div class="breaker"></div>
+
+## Quick chronology
+
+- born in the seventies
+- the 80s is a blur of playing LEGO, watching "Karate films" on VHS, and playing way too much Contra
+- start programming in early nineties
+- experience mid-life crises in late nineties, write an exegesis on the world, but sell the computer it's on
+
+Yes, it was a tricky time. In fact, I looked a bit like an African David Foster Wallace back then.
+Let's continue...
+
+- briefly join a few bands and make "interesting" alternative music whilst burning through a small lump sum
+- hop over to Europe from Africa in the early 2000s with a view expand mind
+- said mind increasingly runs in circles thinking of different things, like a terrible polyglot
+- meet significant other around 2010s and finally feel like someone's got my back
+- the continuance of purpose is side-tracked by the arrival of offspring
+- here we are now
+
+
+![70s baby](/assets/about/70sbaby-512.png)
+![Boy gamer](/assets/about/boygamer-512.png)
+![I'm an African David Foster Wallace](https://cdn.opyate.com/photos/juancubs.jpg)
