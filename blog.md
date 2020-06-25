@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /posts/
+permalink: /blog/
 ---
 <div class="boxes">
 

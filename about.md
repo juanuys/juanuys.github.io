@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /about
+permalink: /about/
 ---
 
 Hi, I'm Juan <span style="color: gray;">(pronounced like the French *Jean*)</span> and I live in North London.

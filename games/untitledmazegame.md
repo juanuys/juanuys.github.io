@@ -15,6 +15,8 @@ rank: 20
 
 Untitled Maze Game is a maze game (duh!) in which you try to find the exit before the Infected get you.
 
+It is not the "[undeserving of a Twinkie](http://designersnotebook.com/Columns/005_Bad_Game_Designer_1/005_bad_game_designer_1.htm)" kind of maze game. In fact, you can see some surrounding corridors as you navigate it, and you can see where you've been (breadcrumbs?). The point is to run "everywhere" until you find an exit, or run "away" from an Infected when you encounter one.
+
 It's a work in progress, so handle with care. Future features:
 - at least one Infected bot will be in a room when you join
 - once you're Infected, you have to infect others to stay alive

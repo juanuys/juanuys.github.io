@@ -8,9 +8,9 @@ category: blog
 
 I started hacking on my [mini-LD 69 entry](https://opyate.github.io/minild69/app/index.html) about two weeks ago ([alt link](http://cdn.opyate.com/projects/ld69/)).
 
-**WARNING** <span class="highlight">If the game doesn't seem to load (no 3D objects), or dev tools shows a JS error, just refresh the page - apparently my RequireJS fu leaves something to be desired.</span>
+(If the game doesn't seem to load (no 3D objects), or dev tools shows a JS error, just refresh the page - apparently my RequireJS fu leaves something to be desired.)
 
-Why? I love games and wanted to do something other than the Finance Gubbins I'm currently building. *(hush hush - I'll link to it later once I get permission)*
+Why? I love games and wanted to do something other than the Finance Gubbins I'm currently building. (hush hush - I'll link to it later once I get permission)
 
 I spent a couple of hours a day for the past two weeks on it. Being a dad/husband (and on a full-time contract) prevented me from blasting this out in 48/72 hours to feel what a proper LD would be like.
 
@@ -45,6 +45,14 @@ I think this is information the player can rely on. It was suggested on the LD f
 There are [8 types of stencil](https://github.com/opyate/minild69/blob/99abe3d29aaf77661d096c2304eb09bdc7c3e0da/app/js/logic.js#L10-L40): all, half, quarter, diagonal, checkered, centre pixel, one pixel in the corner-ish, and random.
 
 Random is the challenge. Everything else is easy but gets trickier when the speed cranks up. High speed + random is the killer, and perhaps the difficulty can be tweaked for this combo. But, I guess the player has to be ejected at some point!
+
+## Colonies
+
+It seems a bit weird that the colonies attack from a fixes vantage point and orientation, and that the planet has to rotate to accomodate them. Well... remember Futurama's Professor Farnsworth's [Planet Express](https://futurama.fandom.com/wiki/Planet_Express_Ship) space ship?
+
+> The ship does not actually move itself, but, using the Dark Matter Accelerator, it moves the universe around it...
+
+That's how the colonies view the planets ;-)
 
 ## The missing bits
 

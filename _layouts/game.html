@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% case page.blogpost %}
+
+{% when "2016-07-26-mini-ludum-dare-69" %}
+{%- capture _page_url -%}
+  {% post_url 2016-07-26-mini-ludum-dare-69 %}
+{%- endcapture -%}
+
+{% when "2017-03-09-mini-ludum-dare-72" %}
+{%- capture _page_url -%}
+  {% post_url 2017-03-09-mini-ludum-dare-72 %}
+{%- endcapture -%}
+
+{% else %}
+{% assign _page_url = "/" %}
+
+{% endcase %}
+
+
+<h1>{{page.title}}</h1>
+
+<a class="play-now" href="{{page.playnow}}">Play it now.</a>
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Fact File</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Category</td>
+            <td>{{page.category}}</td>
+        </tr>
+        {% if page.blogpost %}
+        <tr>
+            <td>Blog post</td>
+            <td><a href="{{_page_url}}">{{page.blogpost}}</a></td>
+        </tr>
+        {% endif %}
+        <tr>
+            <td>Tech used</td>
+            <td>{{page.builtwith}}</td>
+        </tr>
+    </tbody>
+    </table>
+</table>
+
+
+<div class="breaker"></div>
+<div class="body">{{ content }}</div>
