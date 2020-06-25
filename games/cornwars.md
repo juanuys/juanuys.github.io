@@ -11,6 +11,8 @@ pagetype: game
 rank: 10
 ---
 
+Corn Wars is pending release on the Google Play app store.
+
 <img width="768" src="/assets/games/cornwars/feature.png" alt="Corn Wars banner">
 
 Recruit your farm animals and battle it out in the cornfields.
