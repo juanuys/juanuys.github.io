@@ -18,10 +18,17 @@ here for all to see
 
 {% for post in site.posts %}
 {% if post.tags contains "imadeathing" %}
+
+{% if post.thumb %}
+<div class="box altbox" style="background: url('{{post.thumb}}') no-repeat center/cover;">
+{% else %}
 <div class="box altbox">
-[{{post.title | truncatewords: 7 }}]({{ post.url }})
+{% endif %}
+[{{ post.title }}]({{ post.url }})
+<br>
 <small>{{post.date | date: "%Y-%m-%d"}}</small>
 </div>
+
 {% endif %}
 {% endfor %}
 

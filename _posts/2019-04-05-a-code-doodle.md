@@ -2,18 +2,24 @@
 layout: post
 title: "A code doodle."
 description: "A code doodle."
-tags: imadeathing code art genart
+tags: imadeathing code art genart javascript canvas
 category: blog
+thumb: /assets/posts/2019-04-05-a-code-doodle/thumb.png
 ---
 
 Video talk-through available [here](https://www.youtube.com/watch?v=wsC0j5DH7QQ).
 
-<canvas id="canvas" style="width:100%; height: 100%"></canvas>
+Update: also see [this nice resource](https://generativeartistry.com/) and [related discussion](https://news.ycombinator.com/item?id=23621022).
+
+<!-- <canvas id="canvas" style="width:100%; height: 100%"></canvas> -->
 
 <script>
-var canvas = document.getElementById('canvas');
+var canvas = document.createElement('canvas');
+canvas.id = 'the-canvas';
 canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
+document.body.prepend(canvas);
+
 var ctx = canvas.getContext('2d');
 
 var animate = null;

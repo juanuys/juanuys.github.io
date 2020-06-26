@@ -3,11 +3,13 @@ layout: home
 ---
 
 
-Hi, I'm [this guy](about). When I'm not stepping in gum, I [make games](games) and some [other stuff](made) too.
+Hi, I'm Juan Uys and I'm a freelance computer programmer.
 
-I occasionally [write](blog) things down, or [doodle](doodles) the odd... doodle. <span class="hide-somewhat">Badly.</span>
+I'm a sort of digital wanderer, pottering around and trying new stuff every day.
 
+Like [making games](games) and other [bits and bobs](made), keeping some semblance of a [blog](blog), or [doodling](doodles) the odd... doodle. <span class="hide-somewhat">Badly.</span>
 
+ Please [say hi](about).
 
 {% comment %}
 <!-- ![Life is... stepping in gum. On a hot day.](/assets/doodles/original/2020-06-17-me.png) -->

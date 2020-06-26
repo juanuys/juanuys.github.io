@@ -15,11 +15,17 @@ yet another blog
 </div>
 
 {% for item in site.posts %}
-<div class="box altbox">
-[{{ item.title }}]({{ item.url }})
 
+{% if item.thumb %}
+<div class="box altbox" style="background: url('{{item.thumb}}') no-repeat center/cover;">
+{% else %}
+<div class="box altbox">
+{% endif %}
+[{{ item.title }}]({{ item.url }})
+<br>
 <small>{{item.date | date: "%Y-%m-%d"}}</small>
 </div>
+
 {% endfor %}
 
 </div>

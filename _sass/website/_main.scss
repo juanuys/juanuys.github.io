@@ -145,3 +145,14 @@ div.body img {
 .tags > ul > li:nth-child(7n+6) > a { color: darken(nth($reds, 7), 50%); }
 .tags > ul > li:nth-child(7n+7) > a { color: darken(nth($reds, 8), 50%); }
 .tags > ul > li:nth-child(7n+8) > a { color: darken(nth($reds, 9), 50%); }
+
+
+#the-canvas {
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:-1;
+}
+.all {
+	background-color: $background-color;
+}
