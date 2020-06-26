@@ -10,7 +10,7 @@ builtwith: clojure clojurescript canvas websocket
 pagetype: game
 rank: 20
 blogpost: 2020-06-24-untitled-maze-game
-playnow: https://opyate.github.io/minild69/app/index.html
+playnow: https://untitled-maze-game.herokuapp.com
 ---
 
 
