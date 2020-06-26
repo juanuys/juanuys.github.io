@@ -8,7 +8,7 @@ category: blog
 
 # Thoughts as a user interface
 
-Imagine this (da-da-tish): the [NeuraLink](https://en.wikipedia.org/wiki/Neuralink) BMI has been around for a while now, and you got one last Xmas. You missed the chicken (turkey is too dry) roast, because you were still sedated. There weren't any side-effects. Well, there weren't any *severe* side-effects: now, whenever you stub your toe, you see Keanu Reeves' face. Bill & Ted Keanu, not Johnny Mnemonic Keanu, although the latter would have been apt. Also, you can't taste goosberries anymore. Which is not a big deal, because they're sour as hell. Like I said, not severe.
+Imagine this (da-da-tish): the [NeuraLink](https://en.wikipedia.org/wiki/Neuralink) BMI has been around for a while now, and you got one last Xmas. You missed the chicken (turkey is too dry) roast, because you were still sedated. There weren't any side-effects. Well, there weren't any *severe* side-effects: now, whenever you stub your toe, you see Keanu Reeves' face. Bill & Ted Keanu, not Johnny Mnemonic Keanu, although the latter would have been apt. Also, you can't taste gooseberries anymore. Which is not a big deal, because they're sour as hell. Like I said, not severe.
 
 You like to play games, and a new Prey is out. It's the usual you-don't-see-them-coming, then bang-bang, but then this: <span class="highlight">they can smell your thoughts</span>. (DirectBrain was bundled with the latest DirectX and all of a sudden game developers all over the world could put audio and visuals right in your head. And if you've read and agreed to the extra privacy policy which no-one ever reads but always agrees to, they now had access to your thoughts.)
 
