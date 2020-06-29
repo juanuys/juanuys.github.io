@@ -22,12 +22,20 @@ thumb: /assets/posts/2020-06-29-hilbert-curve-code-doodle/thumb.png
   
   var canvas = document.createElement('canvas');
   canvas.id = 'the-canvas';
-  canvas.height = window.innerHeight;
-  canvas.width = window.innerWidth;
+  setCanvasDimensions();
   document.body.prepend(canvas);
   var ctx = canvas.getContext('2d');
   ctx.lineWidth = 2;
 
+  function setCanvasDimensions() {
+    if (window.innerHeight > window.innerWidth) {
+      canvas.height = window.innerWidth;
+      canvas.width = window.innerHeight;
+    } else {
+      canvas.height = window.innerHeight;
+      canvas.width = window.innerWidth;
+    }
+  }
   function Point(x, y) {
     this.x = x;
     this.y = y;
@@ -147,8 +155,7 @@ thumb: /assets/posts/2020-06-29-hilbert-curve-code-doodle/thumb.png
   }
 
   window.addEventListener('resize', function () {
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
+    setCanvasDimensions();
     stop();
     start();
   });
