@@ -21,7 +21,7 @@ Update: also see [this nice resource](https://generativeartistry.com/) and [rela
   closeButton.onclick = function() {
     parentDiv.remove();
   };
-  var foo = parentDiv.insertBefore(closeButton, parentDiv.firstChild);
+  parentDiv.insertBefore(closeButton, parentDiv.firstChild);
   
   var canvas = document.createElement('canvas');
   canvas.id = 'the-canvas';

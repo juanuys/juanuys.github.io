@@ -17,7 +17,7 @@ Not animated, but refresh for new random variation along x.
   closeButton.onclick = function() {
     parentDiv.remove();
   };
-  var foo = parentDiv.insertBefore(closeButton, parentDiv.firstChild);
+  parentDiv.insertBefore(closeButton, parentDiv.firstChild);
 
   var canvas = document.createElement('canvas');
   canvas.id = 'the-canvas';
