@@ -23,7 +23,7 @@ The week's first assignment is making a pen and paper game, with the restriction
 - look beyond imperfections which might be introduced by language barriers, etc
 
 My submission (I'll link to my final version at the end) pretty much has all the main ingredients it will have for the remaining weeks:
-- a pen & paper game called Alien Breah
+- a pen & paper game called Alien Breach
 - it has a little backstory as an opening
 - hand-drawn game board, albeit quite basic
 - cut-outable characters for the Astronaut (player) and Alien ([NPC](https://en.wikipedia.org/wiki/Non-player_character))
@@ -34,7 +34,7 @@ The feedback I get from my peers are to use some colour (I counter with a no as 
 
 I'm reminded that Coursera peer assessments aren't university-grade. There are no entry requirements, and it's mostly free, so expect every calibre. Some comments were just a "." which were just put there to get beyond the "you have to submit something" restriction. I did feel cheated after leaving quite substantial feedback myself.
 
-This week is a rehash of things I know, but I did invent my first pen & paper game in a while, so I guess I learnt how to make a better pen & paper game.
+Since this week is quite high level and introductory, it is a rehash of things I know, but I did invent my first pen & paper game in a while.
 
 Oh, and before I forget, I converted my game to a Python simulation so I could determine whether the game favours either character, and it turned out to be quite balanced in the end. (link TBC)
 
@@ -45,13 +45,13 @@ This week we talk about game rules. They will help your game achieve balance, an
 What are rules? For example, a rule might state that your character can jump 5 feet. Think about what the rule means and how it affects the game and gameplay. There are many types of rules, e.g. world rules, or gameplay rules.
 
 World rules: define the way the world works. E.g. platforms (the floating rectangles Mario jump onto) are static (they don't fall to the ground as Mario lands on them).
-E.g. for Pong:
+E.g. for [Pong](https://en.wikipedia.org/wiki/Pong):
 - each player has one paddle
 - the paddle can only move up or down
 - the paddles can not move above or below the screen.
 - speed of ball is affected by the speed/direction of paddle
 
-Gameplay rules: it defines the game in the way its won or lost; how it is played. It might explain the narrative aspects, or lay out various goals a player needs to achieve to complete the game.
+Gameplay rules: it defines the game in the way it is won or lost; how it is played. It might explain the narrative aspects, or lay out various goals a player needs to achieve to complete the game.
 E.g. for Pong:
 - the ball starts from the dotted line in the middle of the screen, moving at medium speed towards the right side of the screen
 - ball falls off left, right player scores, and vice versa
@@ -62,7 +62,7 @@ World & Gameplay rules are one way to organise rules, but you can find any way w
 
 As a game designer, you can break the rules, even mid-game, e.g. reversing gravity. Be careful, though: will it simplify or complexify the programming? Will it frustrate or excite the player? Will it bring interesting variety?
 
-How does your player learn the rules? You can write documentation (booklet online, or text in-game), you can use narration (audio guidance, e.g. Portal makes narration a part of the game, and the opponent's character), or better yet, use in-game discovery (show, don't tell).
+How does your player learn the rules? You can write documentation (booklet online, or text in-game), you can use narration (audio guidance, e.g. [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)) makes narration a part of the game, and the opponent's character), or better yet, use in-game discovery (show, don't tell).
 
 The assignment for the week sticks with the pen & paper game, but you now have to consider rules. What are the rules for my game?
 - e.g. if using dice, how would it change the game if they're only allowed to move on odd-numbered rolls?
@@ -112,14 +112,14 @@ Writer-led stories allows you to take advantage of player curiosity. E.g. player
 
 Player-led stories are much more involving and fun, and it can have outcomes not intended by the designer. Players create their own challenges: E.g. play Mario with a blindfold, or play an adventure game without firing a single bullet. These kinds of game require the most testing.
 
-We go on to roleplaying, character motivation, and empathy. As we now know, a game story that works well is written by the designer AND the player. For example, don't put a city next to Death Mountain and not allow the player to explore the city, if you intended for them to go up Death Mountain. Good practise here (if you've never tried) is to play D&D (or a variant), and be a DM. Get some practice at creating story that excites players and guides them down avenues you think up. The more your story can include decisions of your players, the more your players will feel involved with your game. So, always test your stories with players.
+We go on to roleplaying, character motivation, and empathy. As we now know, a game story that works well is written by the designer AND the player. For example, don't put a city next to Death Mountain and not allow the player to explore the city, if you intended for them to go up Death Mountain. Good practise here (if you've never tried) is to play D&D (or a variant), and be a DM. Get some practice at creating stories that excites players and guides them down avenues you think up. The more your story can include decisions of your players, the more your players will feel involved with your game. So, always test your stories with players.
 
 The purpose of playtesting is to...
 - find out how a player might interact with challenges in your game.
 - learn how to entice your player towards your chosen storyline.
 - see what parts of your game are most interesting to your players.
 
-Stories are also vehicles for Explaining and Imagining. Pacman pellets would look out of place in a rich open-world space game, e.g. seeing a pellet on the floor doesn't inspire "health pack" quite as much. So, depending on the game, your objects might be simple or detailed. Some things need to be simpler to improve focus on other more important things. Balancing simple and complicated things is an important part of game design and the use of *contrast* is one of the most powerful tools you have to work with. 
+Stories are also vehicles for Explaining and Imagining. [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) pellets would look out of place in a rich open-world space game, e.g. seeing a pellet on the floor doesn't inspire "health pack" quite as much as a medkit, for instance. So, depending on the game, your objects might be simple or detailed. Some things need to be simpler to improve focus on other more important things. Balancing simple and complicated things is an important part of game design and the use of *contrast* is one of the most powerful tools you have to work with. 
 
 Here are some ways to identify an object:
 - imagery (e.g. simple gray pellet, or hamburger as a power-up)
@@ -142,13 +142,13 @@ This was my favourite week, as I love a good story. Even though my pen & paper g
 
 # Week 4
 
-This week we walk about friends and foes. Party members, game enemies, etc. These could be real-life people in multiplayer (PC, or "player character"), or NPCs, for surprise, unpredictability.
+This week we talk about friends and foes. Party members, game enemies, etc. These could be real-life people in multiplayer (PC, or "player character"), or NPCs, for surprise, unpredictability.
 
-NPCs can have personality, and this can be subtly defined by their behaviour in the game. Say you're playing a simple die-based racing game, and you roll 3.5 on average. An NPC racing car which rolls 1 or 2 is the "sad, unlucky loser". The NPC who rolls 5 or 6 will be fast, or the "difficult adversary". You the player can start projecting personality on these NPCs. Imagery can have a great influence too: the slow car with F1 imagery could seem like an over-funded but incompetent driver, where-as the fast car with "old car" imagery the player might see as a lucky old timer. All the aforementioned personalities/emotions are created by just adjusting just one number and a bit of graphics. Furthermore, an NPC that's slow first and fast later can seem like "their luck is turning". An NPC that's fast/slow/fast can seem like they're "toying with you".
+NPCs can have personality, and this can be subtly defined by their behaviour in the game. Say you're playing a simple die-based racing game, and you roll 3.5 on average. An NPC racing car which rolls 1 or 2 is the "sad, unlucky loser". The NPC who rolls 5 or 6 will be fast, or the "difficult adversary". You the player can start projecting personality on these NPCs. Imagery can have a great influence too: the slow car with F1 imagery could seem like an over-funded but incompetent driver, where-as the fast car with "old car" imagery the player might see as a "lucky old timer". All the aforementioned personalities/emotions are created by just adjusting just one number and a bit of graphics. Furthermore, an NPC that's slow first and fast later can seem like "their luck is turning". An NPC that's fast/slow/fast can seem like they're "toying with you".
 
 There are many types of characters, and depending on your game, you can have villains, townspeople, adventurers (they coule be nice, or compete with you), friends (e.g. for backstory), monsters (our old favourite), and turncoats and traders. Do you the game designer want to achieve something that a character can add? If you want to make a character more interesting, you could reveal something new about the character, or change the character into a different type of character, or use the character to reveal something about your game's setting.
 
-Multiplayer has its own rules and balance, e.g. have all players start with identical abilities. If you take Streetfighter as an example, powerful is paired with slow, and weak(er) is paired with fast, which balances the ensuing brawl. You can balance in many other ways, e.g. the loser respawn somewhere else safer and quieter, or the fast karts in Mario Kart can not shoot backwards. (I suppose the banana peel doesn't count as shooting ;-)
+Multiplayer has its own rules and balance, e.g. have all players start with identical abilities. If you take [Street Fighter](https://en.wikipedia.org/wiki/Street_Fighter_(video_game)) as an example, powerful is paired with slow, and weak(er) is paired with fast, which balances the ensuing brawl. You can balance in many other ways, e.g. the loser respawn somewhere else safer and quieter, or the fast karts in [Mario Kart](https://en.wikipedia.org/wiki/Mario_Kart) can not shoot backwards. (I suppose the banana peel doesn't count as shooting ;-)
 
 The assignment this week wants us to add NPCs to our game, which I've had from the start, so I submitted week 3's version and got great reviews, which I'm happy with. Maybe we've acclimatised to the complexity by this point.
 
@@ -158,6 +158,6 @@ NPCs can be rich, engaging characters which can influence and enrich your game i
 
 # Conclusion
 
-I'm one course down on the [CalArts game design specialisation](https://www.coursera.org/specializations/game-design) and I'm excited to start the second course. I'm a bit weary of poor and badly considered feedback, so I'm looking further afield to bolster my design skills. I'll update this blog when I have some more news.
+I'm one course down on the [CalArts game design specialisation](https://www.coursera.org/specializations/game-design) and I'm excited to start the second course. I'm a bit wary of poor and badly considered feedback, so I'm looking further afield to bolster my design skills. I'll update this blog when I have some more news.
 
 And, as promised, here's v0.4 of [Alien Breach](https://docs.google.com/document/d/1KiUbJ9HpQSaqYgRd9eoJVtWK5T4F44ioWb_lraqdsHc/edit?usp=sharing). Enjoy!
