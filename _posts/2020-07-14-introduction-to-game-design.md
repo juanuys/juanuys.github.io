@@ -138,7 +138,9 @@ It just so happens that someone I assessed then assessed me back. Their game was
 
 ## What did I learn?
 
-This was my favourite week, as I love a good story. Even though my pen & paper game has had story since week 1, I learnt to pay more attention to story in future games. I learnt the difference between writer-driven and writer-led. I've been aware of player-led vs "anything else", but it was good to learn these finer distinctions. Again, all too often someone with a programming background like me would make a game because we like the coding challenge, then skimp on a lot of the other components, especially the story. I'm also reminded to play some more [Pathfinder](https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game)!
+This was my favourite week, as I love a good story. Even though my pen & paper game has had story since week 1, I learnt to pay more attention to story in future games. I learnt the difference between writer-driven and writer-led. I've been aware of player-led vs "anything else", but it was good to learn these finer distinctions. Again, all too often someone with a programming background like me would make a game because we like the coding challenge, then skimp on a lot of the other components, especially the story (that said, not all games have story, and can be just straight-up gameplay like [Tetris](https://en.wikipedia.org/wiki/Tetris), and [some folks](https://www.theatlantic.com/technology/archive/2017/04/video-games-stories/524148/) reckon story has no place in video games). I'm also reminded to play some more [Pathfinder](https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game)!
+
+PS incorporate story into your game if it makes sense to do so.
 
 # Week 4
 
