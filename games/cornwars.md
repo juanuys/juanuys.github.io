@@ -11,7 +11,7 @@ pagetype: game
 rank: 10
 ---
 
-Corn Wars is pending release on the Google Play app store.
+Corn Wars has been accepted into the Google Play app store, but is in private beta. If you'd like to help test, please [email me](mailto:cornwars@uys.io?subject=cornwars+beta+testing).
 
 <img width="768" src="/assets/games/cornwars/feature.png" alt="Corn Wars banner">
 
