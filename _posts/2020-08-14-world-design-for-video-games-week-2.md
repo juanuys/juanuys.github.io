@@ -8,7 +8,7 @@ category: blog
 
 I've started [CalArts' World Design for Video Games](https://www.coursera.org/learn/video-game-world) and here are my course notes for week 2.
 
-# Week 2
+# Week 2: Do Your Research
 
 The aim for the week is: where do you start when designing a world? Where do you look for creative inspiration? This week we will be exploring ideas and presentation techniques for a game’s environment and world design. We're encouraged to draw inspiration from other art practices, artists, video games or even your everyday surroundings. 
 
