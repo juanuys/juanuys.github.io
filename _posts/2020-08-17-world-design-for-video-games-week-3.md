@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coursera - World Design for Video Games, week 3"
-description: "Course notes for Course course World Design for Video Games, week 3"
+description: "Course notes for Coursera course World Design for Video Games, week 3"
 tags: coursera gamedesign
 category: blog
 ---

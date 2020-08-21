@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coursera - Introduction to game design"
-description: "Course notes for Course course Introduction to game design"
+description: "Course notes for Coursera course Introduction to game design"
 tags: coursera gamedesign pen-and-paper-game
 category: blog
 ---

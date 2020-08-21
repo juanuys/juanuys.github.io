@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coursera - Story and Narrative Development for Video Games, week 3"
-description: "Course notes for Course course Story and Narrative Development for Video Games, week 3"
+description: "Course notes for Coursera course Story and Narrative Development for Video Games, week 3"
 tags: coursera gamedesign
 category: blog
 ---
