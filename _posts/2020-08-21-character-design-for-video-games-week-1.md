@@ -43,7 +43,9 @@ In each variation, try to work with one of the concepts we’ve covered in this 
 - Mood and Story
 - Proportion
 
-The character sketches I made are here: https://opyate.tumblr.com/post/627007700784627712
+The character sketches I made [are here](https://opyate.tumblr.com/post/627007700784627712):
+
+![character sketches](/assets/posts/2020-08-21-character-design-for-video-games-week-1/character-sketches.jpg)
 
 > To accompany your drawings, please also include a short description of your character: name, background, motivations and story—whatever information you think would be useful to help support your design choices. Also, please explain the different approaches you're attempting in each drawing - for instance, "In the third drawing, I'm adjusting my proportions to try to make my character less cute." or "In the second drawing, I'm trying to add some elements to my design to help communicate a little more of my character's story."
 
