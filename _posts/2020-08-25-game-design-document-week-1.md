@@ -22,7 +22,7 @@ This is the Capstone project of the [Game Design: Art & Concepts Specialization]
 This is hilarious, and I want to get it out of the way right away. If you remember how in previous weeks I complained about the amount of questions but no real information... See [here]({% post_url 2020-08-13-world-design-for-video-games-week-1 %}), [here]({% post_url 2020-08-14-world-design-for-video-games-week-2 %}), and [here]({% post_url 2020-08-19-world-design-for-video-games-week-4 %}).
 
 
-![Questions questions questions right off the bat.](assets/posts/2020-08-25-game-design-document-week-1/questions.png)
+![Questions questions questions right off the bat.](/assets/posts/2020-08-25-game-design-document-week-1/questions.png)
 
 
 Right off the bat with start with questions.
