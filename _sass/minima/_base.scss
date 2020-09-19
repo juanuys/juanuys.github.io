@@ -117,9 +117,12 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: black;
+  background-color: $grey-color-light;
+  border-left: 12px solid lighten($brand-color, 20%);
   padding-left: $spacing-unit / 2;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
   font-style: italic;

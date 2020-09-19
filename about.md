@@ -13,7 +13,7 @@ This website uses a sprinkling of vanilla Javascript on pages that need it, but 
 
 Get notified via [RSS](/feed.xml) or elsewhere (see below) whenever this butterfly flaps his tiny wings.
 
-Lastly, try a good [quote](quotes).
+Lastly, try a good [quote](/quotes).
 
 Very lastly, more history at the very bottom of this page as a bonus for reading this far. Because you CLEARLY want to know more.
 

@@ -1,8 +1,8 @@
-title: Juan M Uys
+title: Juan Uys
 email: opyate@gmail.com
 description: Juan's website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://juanuys.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://juanuys.com"
 twitter_username: opyate
 github_username:  opyate
 google_analytics: UA-28222168-1

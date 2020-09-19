@@ -9,7 +9,9 @@ I'm a sort of digital wanderer, pottering around and trying new stuff every day.
 
 Like [making games](games) and other [bits and bobs](made), keeping some semblance of a [blog](blog), or [doodling](doodles) the odd... doodle. <span class="hide-somewhat">Badly.</span>
 
- Please [say hi](about).
+Please [say hi](about).
+
+I also maintain a Falmouth masters [critical reflective journal](masters).
 
 {% comment %}
 <!-- ![Life is... stepping in gum. On a hot day.](/assets/doodles/original/2020-06-17-me.png) -->
