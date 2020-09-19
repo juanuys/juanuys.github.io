@@ -25,7 +25,7 @@ This is hilarious, and I want to get it out of the way right away. If you rememb
 ![Questions questions questions right off the bat.](/assets/posts/2020-08-25-game-design-document-week-1/questions.png)
 
 
-Right off the bat with start with questions.
+Right off the bat we start with questions.
 
 - Has it been done before? This is part of the ideation phase. If it has, then how?
 - What can be done? Part of the preparation phase. What's new/different in terms of genre/presentation? Technical limitations?
