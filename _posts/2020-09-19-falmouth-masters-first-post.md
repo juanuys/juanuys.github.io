@@ -58,7 +58,7 @@ I believe the best educational games are not called educational games. Education
 
 Frankly, I have to find a way out of my comfort zone as a contract full-stack developer and have to find a way to make game dev a financially viable career (without resorting to tactics I would normally look down on, like ads or pay-to-play), so perhaps there'll be some hard questions along the way, or nuggets of wisdom and insights, hopefully leading to the career I think I'm meant to have. 
 
-I would like to continue making games where there's a strong focus on things I'm interested in or able to do myself:
+I would like to continue making games where there's a strong focus on things I'm interested in or able to do myself. I know I won't be able to learn all the disciplines that go into making a AAA title, hence why I'd like to continue advancing my current skill-set:
 
 - illustration
 - narratives
@@ -68,7 +68,7 @@ I would like to continue making games where there's a strong focus on things I'm
 - 2D games
 - AI
 
-What I'm not interested to learn any time soon (as interesting as it is, I know it will be a massive time-suck):
+So, the skills I might have to forego at this stage are:
 
 - 3D modelling
 - rigging
