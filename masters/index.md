@@ -1,6 +1,5 @@
 ---
 layout: home
-permalink: /masters/
 ---
 <div class="boxes">
 
@@ -14,6 +13,17 @@ says albert einstein
 
 </div>
 
+
+{% assign pages_ordered_by_rank = (site.pages | sort: 'rank' ) %}
+
+{% for p in pages_ordered_by_rank %}
+
+{% if p.pagetype == "masters" %}
+<div class="box altbox" style="background: url('{{p.thumb}}') no-repeat center/cover;">
+<a href="{{ p.permalink }}" style="position: absolute; top: 50px; ">{{p.title}}</a>
+</div>
+{% endif %}
+{% endfor %}
 
 
 {% for post in site.posts %}

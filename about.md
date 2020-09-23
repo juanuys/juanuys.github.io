@@ -42,7 +42,8 @@ keen like a puppy
 </div>
 
 <div class="box altbox" style="background-image: url('/assets/about/itchio.png');">
-<a href="https://opyate.itch.io/" style="position: absolute; bottom: 10px; right: 10px;">itch.io</a>
+<a href="https://opyate.itch.io/" style="position: absolute; bottom: 50px; right: 10px;">itch.io</a>
+<a href="https://steamcommunity.com/id/opyate/games/?tab=all&sort=name" style="position: absolute; bottom: 10px; right: 10px;">steam</a>
 </div>
 
 <div class="box altbox" style="background-image: url('/assets/about/linkedin.png');">
