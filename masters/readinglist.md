@@ -9,7 +9,7 @@ pagetype: masters
 rank: 100
 ---
 
-An incomplete list of media consumed during my course. This is for assignments, self-directed study, research, etc.
+A curated list of media consumed during my course. This is for assignments, self-directed study, research, etc.
 
 
 <iframe
