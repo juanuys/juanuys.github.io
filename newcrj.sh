@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -ex
 
 DATE=$(date +"%Y-%m-%d")
 TIME=$(date +"%T")
@@ -13,11 +13,11 @@ KEBAB=$(echo $TITLE | tr -cd '[:alnum:][:space:]' | tr [:upper:] [:lower:] | tr 
 NEW=_posts/${DATE}-${KEBAB%?}.md
 cp _drafts/template-crj.md $NEW
 
-read -p "A comma-delimited list of tags:" TAGS
+read -p "A space-delimited list of tags:" TAGS
 TAGS=${TAGS:-life}
 
-sed -i '' "s/%TITLE%/$TITLE/" $NEW
-sed -i '' "s/%DESCRIPTION%/$TITLE/" $NEW
-sed -i '' "s/%TAGS%/$TAGS/" $NEW
+gsed -i  "s/%TITLE%/$TITLE/" $NEW
+gsed -i  "s/%DESCRIPTION%/$TITLE/" $NEW
+gsed -i  "s/%TAGS%/$TAGS/" $NEW
 
 echo "New post ready for edits at $NEW"
