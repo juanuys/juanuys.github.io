@@ -18,12 +18,11 @@ I think I'm at risk of feeling overwhelmed, and wanting to go out and learn some
 
 I also have first-hand anecdotal evidence of this as a [full-stack web developer polyglot](https://uys.io/cv/), which interviewers and agents alike have called "rare". They have liked that I have seen many different systems and used many different tools, which greatly aids in my pattern matching capability.
 
-Conversely, I also know that there's value in teams. "Indie" in "indie game development" stands for "independent", after all, not "individual". During this course we will learn about the business side of running an indie dev shop, and "Project managers do not need to be experts in what they are managing" [*(Newton, 2013)*](http://ebookcentral.proquest.com/lib/falmouth-ebooks/detail.action?docID=5185722).
+Likewise, I also know that there's value in teams. "Indie" in "indie game development" stands for "independent", after all, not "individual". During this course we will learn about the business side of running an indie dev shop, and "Project managers do not need to be experts in what they are managing" [*(Newton, 2013)*](http://ebookcentral.proquest.com/lib/falmouth-ebooks/detail.action?docID=5185722).
 
-So, I will stop panicking, keep focusing on my core competencies, and:
+So, it seems generalists do quite well. I will stop panicking, keep focusing on my core competencies, and:
 - learn more about building a great team with complementary skills
 - focus on building a great network of future collaborators
-
 
 # Reference(s)
 
