@@ -27,7 +27,7 @@ So, it seems generalists do quite well. I will stop panicking, keep focusing on 
 # Reference(s)
 
 - Datta, S. and Iskandar, D. M. (2014) ‘Upper-echelon executive human capital and compensation: Generalist vs specialist skills’, Strategic Management Journal (John Wiley & Sons, Inc.), 35(12), pp. 1853–1866. doi: 10.1002/smj.2267.
-- NEWTON, Richard. 2009. Project Manager, The: Mastering the Art of Delivery. Project Manager, The. Harlow: Pearson Education UK. .
+- NEWTON, Richard. 2009. Project Manager, The: Mastering the Art of Delivery. Project Manager, The. Harlow: Pearson Education UK.
 
 
 
