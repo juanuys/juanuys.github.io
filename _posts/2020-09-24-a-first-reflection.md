@@ -2,7 +2,7 @@
 layout: post
 title: "A first reflection."
 description: "My very first reflection for week 1."
-tags: ma falmouth crj week1
+tags: ma falmouth crj week1 development-practice
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

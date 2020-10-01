@@ -16,7 +16,7 @@ layout: default
     <div class="tags">
       <ul>
       {% for tag in page.tags %}
-      {% if forloop.index > 5 %}
+      {% if forloop.index > 4 %}
         <li><a title="tag: {{tag}}" href="/tags#{{tag}}" style="color:white;">{{ tag }}</a></li>
       {% else %}
         <li><a title="tag: {{tag}}" href="/tags#{{tag}}">{{ tag }}</a></li>

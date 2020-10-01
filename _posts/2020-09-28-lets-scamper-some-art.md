@@ -2,7 +2,7 @@
 layout: post
 title: Let's scamper some art
 description: "Modifying, rearranging, eliminating and adapting trees"
-tags: ma falmouth week1 scamper art
+tags: ma falmouth week2 development-practice scamper art
 category: blog
 thumb: /assets/posts/2020-09-28-lets-scamper-some-art/thumb.jpg
 ---
@@ -48,3 +48,7 @@ I removed every other line to get a scanline effect.
 There you have it. It might be interesting to script this process to randomise a whole bunch of these.
 
 > This post was written during _week 2_ of the module _Development Practice_.
+
+# Update
+
+I wrote a [follow-up]({% post_url 2020-10-01-lets-scamper-some-art-part-ii %}) to this post.
