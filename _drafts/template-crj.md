@@ -12,6 +12,24 @@ thumb: /assets/masters/crj/thumb.png
 
 https://flex.falmouth.ac.uk/courses/872/assignments/2387
 
+# From the course website:
+
+By devising a series of small-scale creative artefacts, you will use your existing ideas about development practice and then experiment with new approaches to challenge these ideas. This will enable you to create a personal case study, from which you can define how to expand and enrich your practice. Beyond the personal case study, you will gain a broader sense of the contexts in which these practices are applied across disciplines. 
+
+# From every week's reflective writing assignment page:
+
+Reflection is an essential study skill, enabling you to pause and pull everything together, contextualise what you learned, and identify any issues and doubts so you can address them.
+
+Every week, when you have completed the materials and activities, please write a critical reflection entry in your journal, covering (but not limited to) the following points:
+
+- Discussion of your understanding of the theories and concepts, based on the materials, activities and readings, with appropriate references.
+- What you learned in the challenge activities and from your peers, and if your thoughts have changed since.
+- Any obstacles you encountered and how you overcame (or are overcoming) them.
+
+You may also include graphics and other media.
+
+# And
+
 Your journal is a place for you to:
 
 - Practise writing in analytical and evaluative styles rather than a descriptive style;
