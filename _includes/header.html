@@ -14,14 +14,20 @@
     
     
 
-      <a class="site-title" rel="author" href="{{ pageroot | relative_url }}">
-        {% if page.url == "/" %}
-        <!-- <img src="/assets/index/logo.png" alt="{{ site.title | escape }}"> -->
-        <img src="/assets/index/pixelated.png" alt="{{ site.title | escape }}" height="64">
-        {% else %}
-        <img src="/assets/index/pixelated.png" alt="{{ site.title | escape }}" height="40"> {{ pageroot }}
-        {% endif %}
+    {% if page.tags contains "ma" %}
+      <a class="site-title" rel="author" href="/masters/">
+        <img src="/assets/index/pixelated.png" alt="{{ site.title | escape }}" height="40"> /masters
       </a>
+    {% else %}
+    <a class="site-title" rel="author" href="{{ pageroot | relative_url }}">
+      {% if page.url == "/" %}
+      <!-- <img src="/assets/index/logo.png" alt="{{ site.title | escape }}"> -->
+      <img src="/assets/index/pixelated.png" alt="{{ site.title | escape }}" height="64">
+      {% else %}
+      <img src="/assets/index/pixelated.png" alt="{{ site.title | escape }}" height="40"> {{ pageroot }}
+      {% endif %}
+    </a>
+    {% endif %}      
 
   </div>
 </header>

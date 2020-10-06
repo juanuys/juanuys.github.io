@@ -11,20 +11,25 @@ layout: default
     </div>
     -->
 
-    <h1>{{ page.title }}</h1>
+    <h1 class="title">{{ page.title }}</h1>
 
-    <div class="tags">
-      <ul>
-      {% for tag in page.tags %}
-      {% if forloop.index > 4 %}
-        <li><a title="tag: {{tag}}" href="/tags#{{tag}}" style="color:white;">{{ tag }}</a></li>
-      {% else %}
-        <li><a title="tag: {{tag}}" href="/tags#{{tag}}">{{ tag }}</a></li>
-      {% endif %}
-        
-      {% endfor %}
-      </ul>
+    <div>
+      <div style="float: left; padding-right: 20px;">tags:</div>
+
+      <div class="tags">
+        <ul>
+        {% for tag in page.tags %}
+        {% if forloop.index > 4 %}
+          <li><a title="tag: {{tag}}" href="/tags#{{tag}}" style="color:white;">{{ tag }}</a></li>
+        {% else %}
+          <li><a title="tag: {{tag}}" href="/tags#{{tag}}">{{ tag }}</a></li>
+        {% endif %}
+          
+        {% endfor %}
+        </ul>
+      </div>
     </div>
+    
 
     <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
         {{ page.date | date: "%Y-%m-%d" }}
