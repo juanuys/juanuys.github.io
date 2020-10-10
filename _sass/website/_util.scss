@@ -1,0 +1,29 @@
+.breaker {
+    padding: 30px 0;
+}
+
+
+.play-now {
+    display: inline-block;
+    margin: 40px 0;
+    padding: 20px 40px;
+    background-color: nth($paired, 4);
+    color: white !important;
+    font-size: 2em;
+    transition: all 0.2s ease-out;
+}
+.play-now:hover {
+    background-color: white;
+    color: nth($paired, 4) !important;
+}
+
+.date {
+    color: $grey-color;
+}
+
+.tag-header {
+    background-color: nth($paired, 11);
+	padding: 5px;
+}
+
+

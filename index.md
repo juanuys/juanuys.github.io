@@ -7,7 +7,7 @@ Hi, I'm Juan Uys and I'm a freelance computer programmer.
 
 I'm a sort of digital wanderer, pottering around and trying new stuff every day.
 
-Like [making games](games) and other [bits and bobs](made), keeping some semblance of a [blog](blog), or [doodling](doodles) the odd... doodle. <span class="hide-somewhat">Badly.</span>
+Like [making games](games) and other [bits and bobs](made), keeping some semblance of a [blog](blog), or [doodling](doodles) the odd... doodle. <span style="color: #e8e8e8">Badly.</span>
 
 Please [say hi](about).
 

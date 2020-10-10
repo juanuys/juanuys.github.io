@@ -1,0 +1,11 @@
+body {
+    margin: 40px;
+}
+
+div[class="body"] > p {
+    margin-bottom: 40px;
+}
+
+div[class="body"] > p + ul {
+    margin-top: -25px;
+}

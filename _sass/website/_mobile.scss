@@ -1,0 +1,18 @@
+
+@media (max-width:800px)  {
+    * {
+        color: pink;
+    }
+}
+
+
+@include not-media-query($on-laptop) {
+	h1.title {
+		// background-color: darken($color: yellow, $amount: 10%);
+		padding: 20px;
+		font-size: 3em;
+		&::before {
+			content: "";
+		}
+	}
+}

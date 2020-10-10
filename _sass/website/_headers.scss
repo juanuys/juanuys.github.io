@@ -1,0 +1,24 @@
+h1::before {
+	content: '# ';
+	color: lightgray;
+}
+h2::before {
+	content: '## ';
+	color: lightgray;
+}
+h3::before {
+	content: '### ';
+	color: lightgray;
+}
+h4::before {
+	content: '#### ';
+	color: lightgray;
+}
+h5::before {
+	content: '##### ';
+	color: lightgray;
+}
+h6::before {
+	content: '###### ';
+	color: lightgray;
+}

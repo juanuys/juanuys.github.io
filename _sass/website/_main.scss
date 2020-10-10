@@ -1,67 +1,25 @@
 
 @import
 "colourbrewer",
-"plato",
-"grid"
+"grid",
+"codedoodle",
+"tags",
+"mobile",
+"video",
+"util",
+"images",
+"layout"
 ;
 
-h1::before {
-	content: '# ';
-	color: lightgray;
-}
-@include not-media-query($on-laptop) {
-	h1.title {
-		// background-color: darken($color: yellow, $amount: 10%);
-		padding: 20px;
-		font-size: 3em;
-		&::before {
-			content: "";
-		}
-	}
-}
-h2::before {
-	content: '## ';
-	color: lightgray;
-}
-h3::before {
-	content: '### ';
-	color: lightgray;
-}
-h4::before {
-	content: '#### ';
-	color: lightgray;
-}
-h5::before {
-	content: '##### ';
-	color: lightgray;
-}
-h6::before {
-	content: '###### ';
-	color: lightgray;
-}
 
 
-.breaker {
-    padding: 30px 0;
-}
+
+
 del {
     color: $grey-color-light;
 }
 
-// https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
-.videowrapper {
-	  position: relative;
-	  padding-bottom: 56.25%; /* 16:9 */
-	  padding-top: 25px;
-	  height: 0;
-}
-.videowrapper iframe {
-	  position: absolute;
-	  top: 0;
-	  left: 0;
-	  width: 100%;
-	  height: 100%;
-}
+
 
 // give posts a serif font
 div.body > * {
@@ -91,79 +49,7 @@ div.body > blockquote {
 	font-family: monospace;
 }
 
-$card: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
-div.body img {
-	box-shadow: $card;
-}
 
 .highlight {
 	background-color: nth($posts-brand, 1);
-}
-
-.tags > ul {
-	list-style: none;
-	margin-left: 0px;
-}
-.tags > ul > li {
-	display: inline;
-}
-
-// .tags > ul > li:not(:last-child)::after {
-// 	content: ',';
-// }
-// .tags > ul > li:first-child::before {
-// 	content: '[';
-// }
-// .tags > ul > li:last-child::after {
-// 	content: ']';
-// }
-
-.see_all_tags {
-	display: inline-block;
-	margin-bottom: 20px;
-}
-
-
-// .tags > ul > li:nth-child(7n) { background-color: lighten(nth($reds, 1), 20%); }
-// .tags > ul > li:nth-child(7n+1) { background-color: lighten(nth($reds, 2), 20%); }
-// .tags > ul > li:nth-child(7n+2) { background-color: lighten(nth($reds, 3), 20%); }
-// .tags > ul > li:nth-child(7n+3) { background-color: lighten(nth($reds, 4), 20%); }
-// .tags > ul > li:nth-child(7n+4) { background-color: lighten(nth($reds, 5), 20%); }
-// .tags > ul > li:nth-child(7n+5) { background-color: lighten(nth($reds, 6), 20%); }
-// .tags > ul > li:nth-child(7n+6) { background-color: lighten(nth($reds, 7), 20%); }
-// .tags > ul > li:nth-child(7n+7) { background-color: lighten(nth($reds, 8), 20%); }
-// .tags > ul > li:nth-child(7n+8) { background-color: lighten(nth($reds, 9), 20%); }
-
-.tags > ul > li {
-	padding: 5px;
-}
-.tags > ul > li:nth-child(7n) { background-color: nth($reds, 1); }
-.tags > ul > li:nth-child(7n+1) { background-color: nth($reds, 2); }
-.tags > ul > li:nth-child(7n+2) { background-color: nth($reds, 3); }
-.tags > ul > li:nth-child(7n+3) { background-color: nth($reds, 4); }
-.tags > ul > li:nth-child(7n+4) { background-color: nth($reds, 5); }
-.tags > ul > li:nth-child(7n+5) { background-color: nth($reds, 6); }
-.tags > ul > li:nth-child(7n+6) { background-color: nth($reds, 7); }
-.tags > ul > li:nth-child(7n+7) { background-color: nth($reds, 8); }
-.tags > ul > li:nth-child(7n+8) { background-color: nth($reds, 9); }
-
-.tags > ul > li:nth-child(7n) > a { color: darken(nth($reds, 1), 50%); }
-.tags > ul > li:nth-child(7n+1) > a { color: darken(nth($reds, 2), 50%); }
-.tags > ul > li:nth-child(7n+2) > a { color: darken(nth($reds, 3), 50%); }
-.tags > ul > li:nth-child(7n+3) > a { color: darken(nth($reds, 4), 50%); }
-.tags > ul > li:nth-child(7n+4) > a { color: darken(nth($reds, 5), 50%); }
-.tags > ul > li:nth-child(7n+5) > a { color: darken(nth($reds, 6), 50%); }
-.tags > ul > li:nth-child(7n+6) > a { color: darken(nth($reds, 7), 50%); }
-.tags > ul > li:nth-child(7n+7) > a { color: darken(nth($reds, 8), 50%); }
-.tags > ul > li:nth-child(7n+8) > a { color: darken(nth($reds, 9), 50%); }
-
-
-#the-canvas {
-	position:fixed;
-	top:0;
-	left:0;
-	z-index:-1;
-}
-.all {
-	background-color: $background-color;
 }
