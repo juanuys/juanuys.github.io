@@ -126,3 +126,7 @@ $paired: cbrew('paired', 12);
     color: black;
     background-color: white;
 }
+
+.box * {
+    display: block;
+}
