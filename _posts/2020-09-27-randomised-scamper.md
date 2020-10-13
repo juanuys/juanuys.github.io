@@ -7,7 +7,7 @@ category: blog
 thumb: /assets/posts/2020-09-27-randomised-scamper/thumb.jpg
 ---
 
-As part of my [course](/tags#falmouth), we're discussing a few techniques for fostering creativity, one of them being [SCAMPER](https://en.wikipedia.org/wiki/S.C.A.M.P.E.R). I'm already the proud owner of a pack of [Creative Thinkpak](https://www.penguinrandomhouse.com/books/198258/thinkpak-by-michael-michalko/), so thought I'd create a tool which is an approximation of the Thinkpak. 
+As part of my [course](/tags#falmouth), we're discussing a few techniques for fostering creativity, one of them being [SCAMPER](https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-scamper). I'm already the proud owner of a pack of [Creative Thinkpak](https://www.penguinrandomhouse.com/books/198258/thinkpak-by-michael-michalko/), so thought I'd create a tool which is an approximation of the Thinkpak. 
 
 You can find it [here](https://juanuys.com/scamper/).
 
