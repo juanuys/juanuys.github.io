@@ -32,13 +32,15 @@ We have to realise that "all creative work builds on what came before. Nothing i
 
 So, I shall go forth, and steal like an artist :-)
 
+**EDIT 2020-10-14**: or you can "re-tell a story" and do a ["de-make"](https://www.eurogamer.net/articles/2020-10-02-the-power-of-demakes-in-the-year-of-next-gen) of your favourite game :-)
+
 # References
 
 - [GEOFF PETTY, How to be better at creativity, 1997](http://geoffpetty.com/creativity/) [accessed 2020-10-06]
 - [Quote Investigator, Good Artists Copy; Great Artists Steal, 2013](https://quoteinvestigator.com/2013/03/06/artists-steal/) [accessed 2020-10-06]
 - [Adam J. Kurtz, lifehacker, 2017](https://lifehacker.com/an-artist-explains-what-great-artists-steal-really-me-1818808264) [accessed 2020-10-06]
 - [Steal Like An Artist, Austin Kleon, 2012](https://austinkleon.com/steal/) [accessed 2020-10-06]
-
+- [Demaking in the year of next gen](https://www.eurogamer.net/articles/2020-10-02-the-power-of-demakes-in-the-year-of-next-gen)
 
 
 
