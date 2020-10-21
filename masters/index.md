@@ -31,8 +31,14 @@ says albert einstein
 {% assign pages_ordered_by_rank = (site.pages | sort: 'rank' ) %}
 {% for p in pages_ordered_by_rank %}
 {% if p.pagetype == "masters" %}
+
+{% if p.thumb %}
 <div class="box altbox" style="background: url('{{p.thumb}}') no-repeat center/cover;">
-<a href="{{ p.permalink }}" style="position: absolute; top: 50px; ">{{p.title}}</a>
+{% else %}
+<div class="box altbox">
+{% endif %}
+
+<a href="{{ p.permalink }}">{{p.title}}</a>
 </div>
 {% endif %}
 {% endfor %}
