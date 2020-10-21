@@ -2,7 +2,7 @@
 layout: post
 title: "Don't let the process get in the way."
 description: "Don't let the process get in the way."
-tags: ma falmouth crj week4 development-practice creativity scamper
+tags: ma falmouth crj week4 development-practice creativity scamper crj-interpersonal crj-affective crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

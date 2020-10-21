@@ -2,7 +2,7 @@
 layout: post
 title: "What is a game for the future gamer?"
 description: "What is a game for the future gamer?"
-tags: ma falmouth crj week4 development-practice culture iainmbanks
+tags: ma falmouth crj week4 development-practice culture iainmbanks crj-affective crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

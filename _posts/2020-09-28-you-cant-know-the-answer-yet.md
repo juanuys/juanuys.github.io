@@ -2,7 +2,7 @@
 layout: post
 title: "You can't know the answer yet."
 description: "You can't know the answer yet."
-tags: ma falmouth crj creativity week2 development-practice
+tags: ma falmouth crj creativity week2 development-practice crj-affective crj-cognitive crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

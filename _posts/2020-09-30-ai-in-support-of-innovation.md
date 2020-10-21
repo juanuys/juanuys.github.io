@@ -2,7 +2,7 @@
 layout: post
 title: "AI in support of innovation"
 description: "AI in support of innovation"
-tags: ma falmouth crj week2 development-practice ai
+tags: ma falmouth crj week2 development-practice ai crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

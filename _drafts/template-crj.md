@@ -8,6 +8,48 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 ---
 
+Remember: don't just describe the context/experience. Analysis and evaluation (of an experience) is important.
+Also, don't just focus on a single domain of reflection (see below).
+
+# Domains of reflection
+
+Tag the post with one or more of the below tags depending on the content.
+
+
+## dispositional -> crj-dispositional
+
+time management, motivation, general behaviour, discipline, etc.
+(This is supposed to be a "solved" problem. Find more resources about solving this problem online, tutors)
+
+## affective -> crj-affective
+
+all aspects of how you deal with feelings, experiences and emotions.
+emotional intelligence.
+key skills: emotional awareness, self-assessment.
+
+## interpersonal -> crj-interpersonal
+
+Effectively working with others, and all the skills involved:
+- verbal/non-verbal comms
+- listening
+- negotiation
+- problem solving
+- decision-making
+- assertiveness
+
+## cognitive -> crj-cognitive
+
+assess strengths and weaknesses in your approach to learning.
+Identify trajectories of learning that will compliment your ambitions and career paths.
+
+## procedural -> crj-procedural
+
+All about identifying skills you already have, and identifying where improvements are needed.
+(failure is an important component of learning)
+
+GDC: Adriel Wallick "game a week: how to succeed, fail and learn"
+assessing existing skills and see where improvement is needed.
+
 # Assignment
 
 https://flex.falmouth.ac.uk/courses/872/assignments/2387
