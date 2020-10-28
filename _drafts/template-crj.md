@@ -8,6 +8,12 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 ---
 
+# Summary
+
+- Discussion of your understanding of the theories and concepts, based on the materials, activities and readings, with appropriate references.
+- What you learned in the challenge activities and from your peers, and if your thoughts have changed since.
+- Any obstacles you encountered and how you overcame (or are overcoming) them.
+
 Remember: don't just describe the context/experience. Analysis and evaluation (of an experience) is important.
 Also, don't just focus on a single domain of reflection (see below).
 
