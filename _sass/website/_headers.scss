@@ -23,17 +23,24 @@
 // 	color: lightgray;
 // }
 
-
-// div.body > h2 {
-// 	font-family: $base-font-family;
-// 	font-size: 2em;
-// }
-
 h1, h2, h3, h4, h5, h6 {
-	color: lighten($text-color, 20%);
-	font-weight:bold;
-	background-color: #fff6ea;
 	padding-left: 8px;
+	margin-top: 30px;
+}
+
+h1 {
+	font-size: $base-font-size * 1.4 !important;
+	background-color: nth($plato-brand, 2);
+}
+
+h2 {
+	font-size: $base-font-size * 1.2 !important;
+	background-color: nth($plato-brand, 1);
+}
+
+h3 {
+	font-size: $base-font-size * 1.1 !important;
+	background-color: nth($plato-brand, 4);
 }
 
 // div.body > h1 {
@@ -43,7 +50,8 @@ h1, h2, h3, h4, h5, h6 {
 // }
 
 h1.title {
+	font-size: $base-font-size * 1.6 !important;
 	color: $text-color;
-	padding-bottom: 20px;
-	background-color: #eaf3ff;
+	padding: 30px 8px;
+	background-color: nth($plato-brand, 3);
 }
