@@ -57,7 +57,7 @@ Or would we always want to experience happiness?
 # References
 - Meier, S. and Noonan, J., 2020. Sid Meier's Memoir!. 1st ed. W. W. Norton & Company, p.68 & p.3.
 - KOSTER, Raph. 2005. A Theory of Fun for Game Design. Scottsdale, AZ: Paraglyph Press.
-- Sylvester, T., 2013. Designing Games. O'Reilly Media, Inc.
+- Sylvester, Tynan. 2013. Designing Games. O'Reilly Media, Inc.
 - Raph Koster, https://www.raphkoster.com/gaming/gdco12/Koster_Raph_Theory_Fun_10.pdf
 
 
