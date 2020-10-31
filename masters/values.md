@@ -59,6 +59,15 @@ My games won't annoy you with ads. You've already seen an ad for my game, and si
 
 # No pay-to-win
 
+Sid Meier articulates my thinking well:
+
+> ...coin-operated games were engaging in microtransactions long before their current wave of popularity. But there's no escaping the fact that many free-to-play games are predatory, especially when they target young children, or <span class="highlight">blur the lines between upgrades and necessary content.</span> There has to be a worthwhile product underneath, and a respectful, honest relationship with players about what they're getting for their money.
+>
+> (Meier, S. and Noonan, J., 2020. Sid Meier's Memoir!. 1st ed. W. W. Norton & Company, p.255)
+
+<a href="#collapse1" data-toggle="collapse" class="collapse-button">Click here to see what my cohort says.</a>
+<div id="collapse1" class="hidden">
+
 I posed my cohort this question:
 
 > Hi cohort :)
@@ -106,3 +115,21 @@ And there seems to be consensus:
 > I think one of the changes I've enjoyed least when it comes to the gaming industry over the past decade and a bit is the shift in monetisation strategy, especially from large game developers, towards the micro-transaction and DLC heavy models that are the norm now; many of my game purchases now are informed by the models employed by the developer. I have slowly started to move away games like Civilization, an old staple of mine, that have begun selling of one or two new civs as a £5-£10 DLC pack. Or the FIFA series where I have to spend upwards of £60 every year now for updated team rosters and negligible changes otherwise. Instead I have gravitated more towards Indie Games, where a fair initial price point is usually followed up by a steady flow of updates. Terraria being a prime example for me, a game I bought probably for £8 in around 2012 and has constantly been updated by the team at Re-Logic leading me to have played almost a 1000 hours (certainly value for money).
 > 
 > What I dislike most is the loot box model, which I do find pretty abhorrent, and I am saying that as someone who has spent far too much money on these boxes in games like CS:GO/Hearthstone/Fallout Shelter. I'm all for consumers having free choice to spend their money as they wish, but I agree with Sarah in that these boxes are presented too often in games marketed towards children and are, for all intents and purposes, gambling. I remember a story from a few years ago of two youtubers that were accused of running a service which in underage players to gamble away their premium skins  (Links to an external site.)and were also advertising its services to their young audience without disclosing that they owned the site and I think it really highlights the inherent dangers.
+
+</div>
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded',function() {
+    var expandLinks = document.querySelectorAll('.collapse-button');
+
+    for(var i = 0; i < expandLinks.length; i++) {
+        expandLinks[i].addEventListener('click', function(event) {
+            var selector = event.currentTarget.getAttribute("href");
+            var answersDiv = document.querySelector(selector);
+            answersDiv.classList.toggle('hidden');
+        });
+    }
+});
+</script>

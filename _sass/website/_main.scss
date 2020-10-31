@@ -37,3 +37,7 @@ div.body > blockquote {
 .highlight {
 	background-color: nth($posts-brand, 1);
 }
+
+.hidden {
+    display: none;
+}
