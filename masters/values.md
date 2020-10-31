@@ -57,7 +57,7 @@ My games will also have values.
 My games won't annoy you with ads. You've already seen an ad for my game, and since you've paid, you'll only experience the loveliness of which is my game.
 
 
-# No pay-to-win
+## No pay-to-win
 
 Sid Meier articulates my thinking well:
 
