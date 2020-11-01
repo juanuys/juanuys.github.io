@@ -9,7 +9,9 @@ pagetype: masters
 rank: 100
 ---
 
-A curated list of media consumed during my course. This is for assignments, self-directed study, research, etc.
+A curated list of books read (or sometimes other media consumed) during my course. This is for assignments, self-directed study, research, etc.
+
+Please also see my [gamedev pinboard](https://pinboard.in/u:opyate/t:gamedev/), as URLs will mostly end up there.
 
 
 <iframe
