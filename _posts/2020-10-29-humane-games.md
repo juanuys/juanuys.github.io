@@ -41,7 +41,7 @@ I'll organise a group discussion with my cohort and report back here with a foll
 
 # References
 
-- [Sylvester, Tynan. 2013. Designing Games. O'Reilly Media, Inc.](https://tynansylvester.com/book/)
+- [Sylvester, T., 2013. Designing Games: A Guide To Engineering Experiences. 1st ed. Sebastopol, California: O'Reilly Media, Inc.](https://tynansylvester.com/book/)
 
 
 
