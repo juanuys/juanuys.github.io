@@ -47,7 +47,7 @@ I spend maybe 20-30 minutes on catching up on these every day, and the rest I ju
 
 I think I previously came up with a list like this before, in order of attainability:
 
-- not work in/with games, but develop a deeper appreciation of games and game design
+- not work in/with games, but develop a deeper appreciation of games and game design, or [look at non-game things with a game designer's eyes](https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5)
 - stay in my web development career "by day", but be an indie games studio "at night" and make games
 - stay in my web development career, but find more creative opportunities (e.g. museum installations, or gamifying an ecommerce website)
 - save up and start a full-blown indie dev studio in a couple of years and spend all my time on my first title
