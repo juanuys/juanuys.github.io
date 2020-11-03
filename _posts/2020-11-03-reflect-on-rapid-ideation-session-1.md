@@ -42,11 +42,11 @@ I'll let that decision simmer for the time being.
 
 I might run out of things to quote from Tynan Sylvester's book soon, but it's so good. 
 
-> Decision design is game design at its purest. While games can be enhanced by narrative, fiction, image, and sound. none of these is essential to the form. The heart of games is in interactivity, and the heart of interactivity is the moment of decision.
+> Decision design is game design at its purest. While games can be enhanced by narrative, fiction, image, and sound, none of these is essential to the form. The heart of games is in interactivity, and the heart of interactivity is the moment of decision.
 >
 > (Sylvester, 2013)
 
-I like to think that [my game jam game](/cargogame) involves decisions, but it could be so much more. Currently, they are just decisions you have to make to get the pieces to fit, but it's devoid of emotion. I think in my next game, I want to particularly focus on getting the player to make decisions which will make them feel something.
+I like to think that [my game jam game](/cargogame) involves decisions, but it could be so much more. Currently, they are just decisions you have to make to get the pieces to fit, but it's devoid of emotion. I think in my next game, I want to particularly focus on getting the player to make decisions which will make them feel a wider range of emotions.
 
 > More than in any other field, in game design <span class="highlight">decisions must be emergent to work well</span>. So instead of writing them one by one, we have to create <span class="highlight">systems that can generate them on the fly</span>.
 >
