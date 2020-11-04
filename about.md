@@ -75,7 +75,8 @@ Let's continue...
 - hop over to Europe from Africa in the early 2000s with a view expand mind
 - said mind increasingly runs in circles thinking of different things, like a terrible polyglot
 - meet significant other around 2010s and finally feel like someone's got my back
-- the continuance of purpose is side-tracked by the arrival of offspring
+- the continuance of purpose is momentarily side-tracked by the arrival of offspring
+- said offspring becomes more autonomous, so I start a masters in gamedev
 - here we are now
 
 
