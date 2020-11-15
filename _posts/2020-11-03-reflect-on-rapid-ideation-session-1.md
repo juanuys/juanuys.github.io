@@ -42,24 +42,21 @@ I'll let that decision simmer for the time being.
 
 I might run out of things to quote from Tynan Sylvester's book soon, but it's so good. 
 
-> Decision design is game design at its purest. While games can be enhanced by narrative, fiction, image, and sound, none of these is essential to the form. The heart of games is in interactivity, and the heart of interactivity is the moment of decision.
->
-> (Sylvester, 2013)
+{% quote sylvester_designing_2013 -l 120 %}
+Decision design is game design at its purest. While games can be enhanced by narrative, fiction, image, and sound, none of these is essential to the form. The heart of games is in interactivity, and the heart of interactivity is the moment of decision.
+{% endquote %}
 
 I like to think that [my game jam game](/cargogame) involves decisions, but it could be so much more. Currently, they are just decisions you have to make to get the pieces to fit, but it's devoid of emotion. I think in my next game, I want to particularly focus on getting the player to make decisions which will make them feel a wider range of emotions.
 
-> More than in any other field, in game design <span class="highlight">decisions must be emergent to work well</span>. So instead of writing them one by one, we have to create <span class="highlight">systems that can generate them on the fly</span>.
->
-> (Sylvester, 2013)
+{% quote sylvester_designing_2013 -l 120 %}
+More than in any other field, in game design <span class="highlight">decisions must be emergent to work well</span>. So instead of writing them one by one, we have to create <span class="highlight">systems that can generate them on the fly</span>.
+{% endquote %}
 
-Doing [systems-based game design](https://www.gamasutra.com/blogs/TrentPolack/20180104/312480/A_Guide_to_SystemsBased_Game_Development.php) might be a first for me, but I'll go through the backlog of games I've made over the years, see which comes closest to systems-based design, and report back here. That said, I'm excited to implement at least a basic system in the second rapid ideation session, with which to effect more emergent gameplay.
+Doing systems-based game design {% cite polack_guide_2018 %} might be a first for me, but I'll go through the backlog of games I've made over the years, see which comes closest to systems-based design, and report back here. That said, I'm excited to implement at least a basic system in the second rapid ideation session, with which to effect more emergent gameplay.
 
-# References
+# Bibliography
 
-- [Sylvester, T., 2013. Designing Games: A Guide To Engineering Experiences. 1st ed. Sebastopol, California: O'Reilly Media, Inc, p.120.](https://tynansylvester.com/book/)
-
-
-
+{% bibliography --cited %}
 
 > This post is part of my [critical reflective journal](/tags#crj).
 

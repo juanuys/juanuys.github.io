@@ -1,0 +1,591 @@
+
+Eurogamer.net
+Sign in / Create an account
+PC PlayStation Xbox Nintendo Digital Foundry News Reviews Videos Features Guides
+Highlights Deals Forum Release dates Demon's Souls best starting class Destiny 2 Entropic Shards Xbox Series X/S stock updates
+Demaking in the year of next gen
+
+Take a step back.
+Article by Edwin Evans-Thirlwell , Contributor
+Updated on 6 November 2020
+
+The videogames industry has always sought to define artistic achievement in terms of new technology. Every next gen console year brings with it the same old talk of bursting through constraints on developer imaginations, of "infinite" potential finally unlocked care of another few hundred pounds' worth of swishly tailored plastic and silicon. Current gen platforms are suddenly recast as emptied-out, spent, even things to be ashamed of: as Don Mattrick infamously quipped of playing Xbox 360 games on Xbox One, “if you're backwards compatible, you're really backwards."
+
+This cycle of innovation and obsolescence is regrettable not just because it is terrible for the environment and dependent on supply chains that facilitate human rights abuses . It brings about the neglect or even active destruction of approaches to game-making that have flourished around specific pieces of hardware - this, in a creative sector that already has a brain drain problem thanks to a culture of precarity and overwork. Studios who are producing their finest games for existing "mature" consoles are obliged to learn new sets of tools. Efforts to port and preserve the titles that run on “obsolete” machines, meanwhile, are sabotaged by vengeful copyright owners who equate preservation with piracy. This year's next gen bounce offers some hope for videogame preservationists: Sony and especially Microsoft have made cross-compatibility central to their latest consoles. But the accompanying erosion of physical media - PS5 and Xbox Series S/X are the first home consoles to launch with disc-less SKUs - leaves access to those games in the hands of the corporations who run the servers.
+
+As generation tumbles after generation, it's important not just to salvage forgotten techniques and technology but to discuss other conceptions of the artform's development and history. This might take the form of a written manifesto or piece of speculative fiction - consider Emilie Reed's exhilarating Videogame History from 2024 , a utopic account of a post-copyright world. But the more appropriate reworkings of videogame history, surely, are playable ones. I've spent the past few months talking to the creators of "demakes", unofficial versions of games that either run, or look as though they're running on older hardware than they were designed for. One of the best I've encountered is Soundless Mountain 2, a Nintendo Entertainment System-style 2D adaptation of Konami's PS2 horror hit Silent Hill 2, which was cooked up for a Tigsource competition way back in 2008.
+soundlessmountain2
+
+Where many demakes hover somewhere between homage and parody, Soundless Mountain 2 stands out for its seriousness and meticulousness: it even has a chiptune recreation of Silent Hill 2's soundtrack, featuring contributions from Minecraft composer Daniel “C418” Rosenfeld. "Where there's a song there's a song, where there's a sound effect there's a sound effect," the demake's creator Jasper Byrne tells me over the phone, 12 years on. "Every element of the cutscene when you get the plank of wood in Silent Hill 2 is recreated, every little detail." Winning the Tigsource competition was a "big step" for Byrne, who was then employed at Frontier Developments - it earned him press connections and the confidence to try his luck as a full-time indie. But Soundless Mountain 2 wasn't just about building a profile.
+
+Demaking Konami's colossus became a creative exercise for Byrne, akin to writing an alternate history - a fascinating exploration of how "golden age" survival horror might have fared had it lurched into motion a couple of console generations earlier. As he points out, games like Silent Hill or Resident Evil have few obvious precedents in 2D gaming (among those few are Clock Tower for MS-DOS and Sweet Home for the NES); they hinge on questions of framing and suspense that are fostered by 3D movement and perspectives. "I was just trying to see what it would be like. Would it work in 2D?"
+This content is hosted on an external platform, which will only display it if you accept targeting cookies. Please enable cookies to view. Cookies Settings
+Watch on YouTube
+
+Byrne spent many hours after work analysing and reconstructing Silent Hill 2's opening, with its long, ominous descent through hazy wooded outskirts into the eponymous nowhere-town. He carefully re-enacted the timing of screen transitions, the spacing of music cues and fade-outs. "[Team Silent] wanted to put you in a certain mindset by the time you'd got to the town. You're already in a strange place. You've been walking with all these ambient sounds around you. I'd seen the Making Of videos, but when you actually break down all the individual elements that go into the game, it really gives you a new insight."
+
+The twist in this tale is that when Byrne demade Silent Hill 2, he had never played on a NES - he belatedly picked one up just this year. While Soundless Mountain 2 obviously trades on its association with the past, it wasn't about "nostalgia or fetishising a look", but experimenting with untried tools. As far as Byrne was concerned, the NES was a brand new machine. "It was interesting to me to explore that console, to look at the colours and see what could be done with it."
+
+Demaking Silent Hill 2 would, in fact, help Byrne move ahead with an original point-and-click horror game he'd been wrestling with a couple of years. "I couldn't find an art style that worked, that was economical enough that I could actually produce the whole thing myself," he says. "I kept restarting it with different visual directions". One day, he decided to try a version of the game, which was initially titled Amnesia, with joystick controls and a minimalist aesthetic derived from Soundless Mountain 2's NES-based colour palette and resolution.
+lonesurvivor
+
+This change proved transformative. Byrne's game would ultimately release as Lone Survivor , a masterpiece of dread and claustrophobia that is chilling to return to in the year of lockdown. Much of the game's eeriness, for me, is down to the sense of wavering between epochs. Lone Survivor feels at once crisp and murky, ancient and modern, combining chunky, stained-glass pixels with seeping fog and shadows. Far from a straightforward work of "retro" entertainment, it is an argument for dispensing with talk of "generations" and seeing every piece of hardware or collection of gamedev techniques as equally worthy of investigation at any time.
+
+Demakes come in all shapes and sizes. Some are technological moonshots as wondrous as anything you'll find in an Unreal Engine concept video - I can only boggle at Pekka Väänänen's adaptation of Quake for the oscilloscope , a gadget that dates back to roundabouts the end of the Second World War. Others are gorgeous novelties fashioned by artists who are looking to build an audience on social media - consider Twitter's many Gameboy mock-ups of latter-day action extravaganzas like Demon's Souls or Sea of Thieves . Many demakes are the foundations for original games: Toni Kortelahti's superb OK/NORMAL , an abstract exploration of mental illness and addiction, owes its alarming visual style to its creator's 90s-style demakes of games like GTA5 and Assassin's Creed.
+
+Most demakes are devised for giggles or out of nostalgia, but demaking as a whole is a quietly subversive practice. Partly this is because fan games in general risk breaching copyright. Some of the most impressive demakes are, in fact, the work of software pirates like the legendary Chinese bootlegger Shenzhen Nanjing Technology Co. Ltd, purveyor of Famicom ports of PS1 games like Final Fantasy VII. But demakes also challenge the industry's fixation with the cutting edge by helping us think about cutting edge projects as more than expressions of technological "power". Besides showing us what can be achieved with older hardware, they make more visible and interrogable the artistic choices that comprise the latest games.
+This content is hosted on an external platform, which will only display it if you accept targeting cookies. Please enable cookies to view. Cookies Settings
+Watch on YouTube
+
+For the independent designer Marina Kittaka, translating a game from one platform to another gives the player a kind of "automatic" critical perspective in both directions, because you have to digest the contrast between what you know about the original artwork and what you know about the demake platform. "This accentuates the artistic choices of the demaker in an interesting way - it's almost like playing a game having already read a detailed behind-the-scenes artbook. [...] The original is sort of like "concept art" for the demake, because you see extra information and can imagine how that information was boiled down." While she has never demade a game, Kittaka pursues these concepts in the brilliant Anodyne 2 , a puckish metafictional odyssey in which you warp between landscapes that resemble different eras in game design.
+
+Kittaka's collaborator Melos Han-Tani suggests that some demakes are actually more compelling than the games they're based on, that in leaping back in time they get to the heart of ideas the "newer" game can't quite realise. He singles out Bear Parker's PS1-style demake of Sony's Death Stranding, praising its spare, empty ambience next to the Kojima game's high-end fusillade of Hollywood set-dressing. "While this feeling is present in the [original] game, the sparse landscapes and minimal soundtrack of the demake bring the feeling into focus." For Han-Tani, Parker's creation indicates "what a less visually complicated and cinematically-focused Death Stranding might feel like, which is an interesting experiment."
+ps1deathstranding
+
+Parker - aka Bearly Regal on Youtube - is unusual among demakers for building most of his projects in layman-friendly game creation suites such as Minecraft and LEGO Worlds. A lifelong PS1 aficionado, his career as a public demaker began with a Dreams-based re-envisioning of Metal Gear Solid's opening dockyard cavern. It's not the first time he's mocked up the area - Parker can't get enough of Shadow Moses, returning to it again and again over the years with different sets of tools. "It's a really well-crafted environment that is packed with largely primitive shapes but enough organic detailing to give the tools a run for their money. So, I set to work on a pixel-perfect recreation and after around 80 hours of wrapping my head around the rather robust tools, I finally had a playable space I was pretty proud of."
+
+As with Byrne and Soundless Mountain 2, demaking for Parker is a historical thought experiment. Part of his process involves playing similar games from the target era to see how certain mechanics might translate to the present-day game. He has a reputation for demaking big-name titles that are still in development, like a time-travelling scientist trying to stave off the invention of the atomic bomb - recent victims include Cyberpunk 2077 and The Last of Us: Part 2. "I'll watch a trailer for the chosen upcoming game and isolate a few scenes I think could translate well to a playable experience, as well as something online viewers may recognise in an effort to bolster the eventual video analytics, then I whip out the trusty pen and paper and start doodling, which I tend to spend a day or two doing. Once I'm happy with that, I boot up Dreams and the hair pulling begins..."
+This content is hosted on an external platform, which will only display it if you accept targeting cookies. Please enable cookies to view. Cookies Settings
+Watch on YouTube
+
+Parker calls Dreams a "wonderfully robust tool for small game creation" but concedes that simulating a PS1-era game with it is tricky. "Simply creating a basic 32-pixel by 32-pixel texture means sculpting over 1000 individual pixels, stitching them all together and ensuring the end results has the correct pattern and colour." It's especially hard to capture more specific period hallmarks like 3D texture warping, a byproduct of the PS1's programming architecture whereby polygons wobble and snap into place as you move the camera. Fortunately, Parker is an inventive guy. For the house environment in his The Last of Us: Part 2 demake, he came up with a bizarre way of simulating the flickering of a PS1 game's textures. "I crafted a giant cube that encompassed the building, set it to rotate on the spot at a ludicrous speed and removed all physical attributes so it didn't catapult the player into the ether and voila, awful-looking textures!"
+
+If demaking has a spiritual home it's perhaps the PICO-8, a 1980s gaming console that never actually existed. Released in 2014, it's a digital “fantasy console” written in Lua and based on the hardware of the period, with a 128x128 pixel 16 colour display and four-channel audio. For all its modest proportions, the PICO-8 has amassed a sizeable arsenal of original titles - probably the best-known is the old gamejam build of Maddy Thorson's Celeste, which is hidden away as an Easter egg in the commercial version of the game. "[It's] a great platform for demakes, because it forces you to compromise when reimagining beloved games," says Paul Nicholas, aka Liquidream, a software developer from Southampton.
+
+Nicholas is a prolific demaker - his more ambitious works include a PICO-8 version of LucasArts' old SCUMM engine, used to develop such podium-topping point-and-clickers as Maniac Mansion and Monkey Island. His most eye-catching project is Low Mem Sky, a top-down 2D recreation of PlayStation's inexhaustible procedurally generated space sim. Though not quite as cavernous as its PS4 cousin, the demake contains the raw materials for well over a trillion planets, each with its own terrain and selection of indigenous species, all packed into just 32 kilobytes of ROM. Like Byrne's deconstruction of Silent Hill 2, it is both recognisable as a homage and entirely its own thing, trading the original's rolling 3D landscapes for a gold-flecked rainbow aquarium of stars and planets.
+lowmemsky
+
+Demaking, for Nicholas, is all about thoroughness. He often goes through Youtube footage frame by frame to piece apart complexities such as death animations, in addition to playing the game himself to understand its logic and feel. To develop his PICO-8 SCUMM engine, he tracked down LucasArts' old internal tutorial files, seeking to recreate the original application programming interface as closely as possible. All that said, “the most difficult part of the demaking process is similar to any game development project - managing the scope. Knowing what to leave in/out, what is possible in the time available.” Nicholas created most of his demakes at gamejams - time-limited community gamedev events with a specific theme. He's found that element of constraint useful. “The best approach seems to be to start small, because scope always likes to creep!"
+
+Demaking, like other forms of retro gaming, has a precarious relationship with nostalgia. As Angela R Cox argues over at Play The Past , calling a game “retro” isn't the same thing as saying that it's old - it swaps the criteria applied to the game at release for criteria born of latter-day expectations and hindsight. More positively, this might lead to an overlooked work being reassessed and rescued from obscurity, but too often, "retro" is a byword for quaintness and cuteness. It has the effect of reinventing powerful works of art as charming primordial curiosities born of limited technology or understanding.
+
+Byrne is concerned that certain more popular demake aesthetics reveal a similar distorting mindset - that they trivialise older games and techniques by fitting them into various nostalgic clichés. He would especially like demakers and retro developers in general to look beyond the blocky environments, short draw distances and restless, indistinct textures of PS1 games. Part of the reason the PS1 ambience is so popular, of course, is that the PS1 sold so well in its day - Byrne thinks demakers should give more love to other consoles that weren't as prosperous. "Why are we not seeing Saturn-style horrors with those particular dithered transparencies? There's a lot of different looks that haven't been explored. PS1 is an amazing console but it isn't the only way to go."
+
+How do demakers deal with the risk of being sued for breach of copyright? “I'm not a lawyer, so I'm not gonna pretend to be one,” says OK/NORMAL developer Toni “98DEMAKE” Kortelahti. “I feel like demaking as far as how I do it - for the sake of a video, not releasing anything playable - is sorta like fan-art. Technically it's infringing on copyright, but in practice, the developer to start suing over fan-art would be an asshole so it doesn't really happen. If a company sends me a cease and desist letter, I'll certainly oblige, but no issues so far.” Paul “Liquidream” Nicholas always credits the original developer and prefers to seek their blessing in advance. “I've done this a few times now (especially for non-AAA, Indie games) and it's generally served me well,” he says. This isn't always possible, however, either because the company is too big to respond in time or because the game is so old - as is the case with Nicholas's forthcoming demake of early RTS Dune II. “In that situation: it's a gamble.”
+
+He singles out two MS-DOS games as particularly worthy of revisiting: the original Alone in the Dark - a flat-shaded game that manages to spook despite its lack of a 'proper' lighting system - and Esctatica, a werewolf fantasy that is unique for using ellipsoid rendering rather than the angular polygons of most contemporary games. "There's just something about the look of that game, all those bright colours, it's a Midsommar-type vibe, where it's all flowers and daylight but it's creepy as hell." These suggestions aside, Byrne feels that younger demakers might spend more time thinking about supporting narrative themes than visuals in themselves. "The thing I wanted to bring back about Silent Hill was that this stuff was foremost in their thoughts when they made that game," he notes. "I've never seen such a serious respect for storytelling."
+
+As with a lot of computing hardware hype, you can trace the rhetoric of console generation jumps to the words of Intel co-founder Gordon Moore, who famously predicted in 1965 that the number of components in a chip would double every year. Moore's Law has become central to a computer industry narrative of exponential, quantifiable growth that is particularly obvious in videogame marketing. The Xbox One Series X boasts “four times” the power of the Xbox One, we are told, which in turn was “eight times” as powerful as Xbox 360. The future multiplies the past, over and over, each console reaching us at once radiant with promise and already exhausted, pre-defined as a fraction of its successor.
+
+None of this is inevitable, however. Moore's Law is no “law” at all, of course, but a piece of “wild extrapolation”, in Moore's own words, that manufacturers have chosen to make reality for their own gain. The state of the artform doesn't have to be this endless, crumbling staircase towards another gadget. There doesn't have to be a next generation, and while there are bigger blights on terrestrial civilisation than videogame consoles, it's becoming very hard to justify the cost. Certainly, the claim that this will open up some otherwise-inaccessible possibility space for developers has never seemed more dated. Compelling, original games will doubtless be made for the PS5 and Xbox Series X, but as the greatest demakes remind us, this has nothing to do with the technology. It's all thanks to the talent and insight of the people who put such extraordinary artefacts together, whatever era of hardware they're working on.
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here .
+
+Jump to comments (58)
+
+About the author
+Edwin Evans-Thirlwell
+
+Edwin Evans-Thirlwell
+
+Contributor  |  dirigiblebill
+
+Edwin is a writer from London hailed by peers as "terminally middle-class" and "experienced". He would like to review your speculative fiction game.
+
+Advertisement
+
+Related
+
+This podcast changed my life
+
+Getting games on podcasts at the Beeb.
+1
+
+Police confirm reports of ongoing operation at Ubisoft Montreal offices following 911 call
+
+Says "no threat has been identified for now".
+28
+
+Stardew Valley's 1.5 update is "in the home stretch" of development
+
+Hopefully it'll turnip soon.
+5
+
+Advertisement
+
+Related
+
+Fall Guys just added a wonderful Untitled Goose Game outfit
+
+Try-on Gosling.
+3
+
+Assassin's Creed Valhalla's Ravensthorpe is a real place, and a complete coincidence
+
+Caw.
+33
+
+Xbox Series X's Quick Resume works some of the time, every time
+
+Speed limit.
+140
+
+Advertisement
+
+Related
+
+Nioh 2 - The Complete Edition heads to PC in February 2021
+
+Along with remasters for PlayStation 5.
+15
+
+Watch Dogs: Legion - how does console ray tracing compare to Nvidia RTX?
+
+Cutbacks, compromises and optimisations - but they work.
+86
+
+Currys has fab Switch bundles on offer with Mario and Minecraft going cheap
+
+Piping hot deals.
+4
+
+Related
+
+Digital Foundry Watch Dogs: Legion - how does console ray tracing compare to Nvidia RTX?
+
+Cutbacks, compromises and optimisations - but they work.
+86
+
+Here's the deal with Assassin's Creed Valhalla's unique "Animus decides" character choice
+
+Not just Eivor one or the other.
+47
+
+Assassin's Creed Valhalla's Ravensthorpe is a real place, and a complete coincidence
+
+Caw.
+33
+
+Recommended Assassin's Creed Valhalla review - a saga for the ages
+
+Worthy of passing to the next generation.
+257
+
+Recommended The Pathless review - speed and scale and a game with an odd kind of charm
+
+Eagle vision.
+24
+
+You may also enjoy...
+
+Digital Foundry Mafia: Definitive Edition - impressive tech that sets the stage for next-gen
+
+All consoles tested, plus a look at Hangar 13's cool ray tracing alternative.
+35
+
+Digital Foundry Super Mario 3D All-Stars: remasters, emulation - or a mixture of both?
+
+The DF Retro take on all three games.
+77
+
+Recommended Carrion review - an unforgettable monster chews its way out of a solid Metroidvania
+
+The sweetest Thing.
+48
+
+Recommended Raji: An Ancient Epic review - a gorgeous adventure through architecture and myth
+
+Night theatre.
+30
+
+Ghost of Tsushima - Mythic Tales locations: Where to find all musicians and get Mythic armour rewards
+
+Where to find and how to complete all Mythic Tales in Ghost of Tsushima.
+
+Comments (58)
+
+Comments for this article are now closed. Thanks for taking part!
+Hide low-scoring comments Yes No
+Order Newest Oldest Best Worst
+Threading Expand all Collapse all
+
+GealachNua 1 month ago
+The notion of progress is really harmful in games, sometimes. I've been playing regularly since the early 80s, and all of those experiences are valid. Many of them are terrible - I've played more terrible games than brilliant ones. But each age or system has wonderful characteristics that should be celebrated, not simply consigned to history. Eternal Castle (Switch, PC) was a really nice call back to CGA graphics, though I don't think it could have run on the systems of that period!
+Show replies Hide replies 3 Reply
+15 1
+
+Foolish_Monkey 1 month ago
+@GealachNua
+
+Theres a whole heap of features and functions and mentalities that have been lost to AAA spectacle.
+
+Good or interesting level design for instance seems like a completely lost art, and I lament the massive deprioritisation of local multiplayer in these online times so much.
+
+It's like games really thrived when there was a quicker turnaround and dev teams were more nimble and weren't so bogged down with extraneous bullshit like corporate bureaucracy and office politics.
+
+I think the tipping point happened with the PS3/360 generation where the AA space seemed to die a death and all that was left was your GTA's and Call of Duty's.
+Reply
+15 2
+
+Migoshuro 1 month ago
+@Foolish_Monkey
+
+Interesting point about the "level design". You could be right. But can you specify your view on that? What do you think are the important elements considering level-design and where modern AAA-games lacking?
+
+Sometimes, I have the feeling open-world-design these days is easier made than some of the more linear (even though they weren't that linear - think pre "Modern Warfare" first-person-shooters) levels of older games, that had to serve the gameplay more directly. They certainly look good and are varied thematically, but I find many locations definitely less interesting to interact with.
+
+Two of the recent (say, past decade) games that just blew me away with their level-design are "Zelda - Breath of the Wild" as an open-world example and "The Last of Us - Part II" with a straighter, more guided, level-based approach. The newer "Tomb Raider"-games weren't bad, either. Oh, and although I'm not that fond of the game, the world of "GTA V" is amazing. It just seems boundless. And, you just can marvel at some of the greatest platformers of the 2010s: "Donkey Kong Country - Tropical Freeze", "Rayman Legends" and "Super Mario 3D World".
+
+But, yeah, I have to agree, those are rare, now.
+Reply
+1 0
+
+GealachNua 4 weeks ago
+@Foolish_Monkey I dunno, I think we're actually in a great age for games - there are a lot of wonderful things being released (both big and small). But certainly the big tentpole franchises are deeply uninteresting.
+It has issues, but I'm replaying Fallout New Vegas at the moment. I started one of the expansions yesterday, hadn't played it before, and within 3 minutes I'd done something that made me fail every single quest in the expansion. Then had to hoof it across the map with every faction trying to kill me. Not level design per se, but I love that the devs of this game allow you to totally mess up and miss out on content.
+Reply
+0 0
+
+ghostof82 1 month ago
+Fantastic article, thank you. How refreshing to read your initial remarks about every next-gen being touted as promising new experiences and letting developers manage their 'true vision'. I've been suckered by such nonsense myself and we always end up playing the same FIFA's and Assassin's Creeds and Halos.
+Show replies Hide replies 2 Reply
+15 4
+
+Infinite_J_777 1 month ago
+@ghostof82 so why buy them if you don't like them? I don't play fifa so I don't buy it?
+Reply
+5 0
+
+SvennoJ 1 month ago
+@ghostof82 I ended up playing many experimental VR games from Rez Infinte to Beat Saber and over a hundred in between. Currently I'm enjoying exploring the entire world in FS 2020. No need to demake that, humans already do enough to demake the Earth.
+Reply
+0 0
+
+King_Of_Shovels 1 month ago
+Wonderful article, thanks for that.
+Also a fine place for me to recommend the Gameboy Advance version of Max Payne. A genuinely incredible take on it.
+Show replies Hide replies Reply
+11 1
+
+Foxasaurus 1 month ago
+As others have said, a great piece, and actually inspiring me to look up an old game to remake myself.
+Show replies Hide replies 1 Reply
+9 0
+
+Aramil47 1 month ago
+@Foxasaurus
+
+Do it!
+Reply
+1 1
+
+dishydoshin 1 month ago
+No daft ‘cry laugh emoji’ prick on the internet will stop me playing ‘old’ games. Lovely article.
+Show replies Hide replies 1 Reply
+8 1
+
+Infinite_J_777 1 month ago
+@dishydoshin 😂😂😂
+Reply
+4 1
+
+minmax 1 month ago
+Brilliant article.
+
+Modern AAA games do many things a whole lot better than they used to. But they very often do a whole lot of other things worse. It’s long felt to me like the peak was around 2005. GTA: San Andreas and Bioshock to take two peak examples from that era. Play them now and it’s quite disturbing how little has happened since then in terms of game design and mechanics.
+Show replies Hide replies 6 Reply
+11 4
+
+garyad 1 month ago
+@minmax True, a lot of modern 3D sandboxes are more of the same in a fancier frock. Or in the case of Rockstar, the mission designs have become even more linear, meaning if you don't reach the objective in the exact way the mission was designed for, you fail. Unlike in the GTA3 game engine days where you were given an objective and could achieve it however you wanted. For example in the mid 2000s it would be a "go here, kill this guy" type objective. You could choose to take the Apache helicopter and missile bomb him, you could snipe him from a rooftop, you could ram his car into the ocean when he tried to escape: as long as the objective was completed any way was fine. These days, RDR2 style, it's more "go here in this specific way, kill this guy from this specific position with this particular weapon we've given you rather than your favourite customised rifle, deviate from this in any way and you fail." It's like, when did sandbox games which purport to offer such freedom become so prescriptive and linear?
+Reply
+12 2
+
+Aramil47 1 month ago
+@garyad
+
+There was a YouTube video, (which I can't find), that covered the point you just made regarding real freedom of choice in video games to the pseudo-freedom found in modern titles. The example used was, in fact, GTA 3 in a scenario where a player who'd been stuck on an assassination mission decided to work around the problem rather than follow the suggested direct route. Unsurprisingly the player in questions plan to block up the road with other vehicles worked and as such he finally completed the mission. In more recent GTA titles, deviating from how the developer wanted you to complete a mission was instantly met with a "Mission failed" status.
+Reply
+7 2
+
+garyad 1 month ago
+@Aramil47 "Rockstar's Game Design is Outdated" on YouTube - https://youtu.be/MvJPKOLDSos
+
+That's the one you're thinking of, and yes, I totally agree with almost everything said during the video.
+Reply
+5 0
+
+Aramil47 1 month ago
+@garyad
+
+That's the badger! Cheers.
+Reply
+1 1
+
+Foolish_Monkey 1 month ago
+@garyad Yes! This guy is spot on. Check out his Last of Us 2 deconstruction too it's excellent.
+
+Watching his videos is so refreshing and a solid reminder of what games journalists are lacking when it comes to criticism.
+Reply
+1 1
+
+mha71 1 month ago
+@Aramil47 I remember playing Jak & Daxter 2 on PS2, where one mission was to surfboard around the harbour to set off bombs - no matter how hard I tried I couldn’t do it. So instead I stole a police plane, waited for them to forget about chasing me, and then completed the mission by shooting all the bombs instead. Felt pretty impressed with my own creative thinking...
+
+I did quite a few of the RSR2 missions in weird ways too though, so they haven’t totally forgotten about the freedom yet.
+Reply
+0 0
+
+Aramil47 1 month ago
+Great article.
+
+While I've always enjoyed stepping back into generations past I find myself more and more regularly moving back toward older systems/previous generations for my gaming kicks. Nostalgia can be a powerful emotion, but, truth be told, I just find a lot of the older titles more entertaining and engaging. Then of course there are those indie titles that look and play like, or simply lift ideas and tropes from games in times past, but are wholly new experiences. My most anticipated game for 2021 is Graven, a first person, swords and sorcery action/adventure title inspired by one of my favourite games in the genre, Hexen. There's nothing next-gen about Graven, more the generation before this one, but on watching the trailer I was instantly on board.
+
+Demakes, as noted in the article, isn't the same thing as retro gaming, but the draw of the demake is very appealing to me. It's also a lot of fun to share with my younger work colleagues who game a demake of a modern title, like Death Stranding. That they're genuinely impressed is a testament to the talent on display.
+Show replies Hide replies Reply
+5 0
+
+yovargas 1 month ago
+This article has a sorta moralizing tone which felt unnecessary to me. Like if, in order to talk about the value of older styles and technology, you felt the need to look your nose down at modern ones. (Is this the video game equivalent of hipsterism?) It turns out it doesn't have to be either/or. One can both celebrate and appreciate the past while still being excited for what the future is bringing us. Seems a healthier attitude to me.
+
+That said - early 3D graphics were hideous and anyone who likes them is wrong. :P
+Show replies Hide replies 4 Reply
+10 5
+
+MARATXXX 1 month ago
+@yovargas it’s not moralizing, it’s realistic. The industry is becoming so big that it has an actual environmental and political impact. All of our electronics, upon which we are increasingly reliant, are manufactured with rare earth metals whose mining poisons the sky and earth, and relies upon exploitational labor (from the miners to the software developers). We are increasingly wasting irreplaceable and polluting fossil fuels on technologies that, like gaming, are far from essential. As a gamer I think it’s important to at least to have knowledge of the true cost. We bury our heads in the sand at our own risk.
+Reply
+4 4
+
+yovargas 1 month ago
+@MARATXXX But.... these "demakes" are mostly getting made and played on new machines, as was this article, as was your post, as was everything in the comment section. I guess if the article was that we should stop making so many new machines, you might have a point, but otherwise pointing out the environmental impact of modernity seems like a completely separate issue from this whole demake thing.
+Reply
+3 3
+
+MARATXXX 1 month ago
+@yovargas I’m not saying to not enjoy games, not enjoy electronics, just that it’s important to know the real cost.
+
+You seem to think that using modern gadgets can’t be consumed thoughtfully, but they actually can. For me personally I buy a new mobile phone maybe every six or seven years! I use the same laptop from 2013. I waited eight years to get a ps4 and may wait the same for a ps5. I also take public transport rather than drive a car, even though it adds hours to my commute. So while I do buy these things I am not a reckless, wasteful and incessant consumer.
+Reply
+3 2
+
+yovargas 1 month ago
+@MARATXXX What does anything you just said have to do with demakes?
+Reply
+2 0
+
+SuperShinobi 1 month ago
+Well, I'm pumped for next gen and if I had to make a bet, I'd bet that Edwin is going to buy a next-gen console pretty soon as well. A new console gen feels like the beginning of something new and exciting. I guess I like beginnings.
+
+Seven years is a pretty good length for a console generation and it's not really all that wasteful, when you consider that phone and TV makers put out new models every year and GPU makers every two years.
+
+If you want to help out the environment, I'd recommend eating less meat, like I've been doing for the past few years. That's about 100X more effective and helpful than not buying a next-gen console.
+Show replies Hide replies 3 Reply
+7 3
+
+Low-scoring comment hidden. Show
+
+Disintegration7 1 month ago
+@Infinite_J_777 I mean, he's right though- eating meat is TERRIBLE for the environment, whatever else you think about it.
+Reply
+1 0
+
+Nino_Chaosdrache 1 month ago
+@Infinite_J_777 I agree. I see where he's coming from, but you don't have to rub it under people's noses like this.
+Reply
+0 0
+
+dai_bonehead 1 month ago
+I’ve never beard off this concept before. I suppose, back in the day, the closest I came to seeing something like this was when a title that shone on one system’s design was ported across to another system that was completely unsuitable. There were some games that ran beautifully on a spectrum that the commodore just could not handle, much to my disappointment.
+
+Which makes me again think that it’s a pity in some ways that platforms and development tools are somewhat converging; there’s a lot to be said for the creativity that a closed envelope enforces; coming up with clever creative technical hacks to get more out of an 8bit system for the good of a game. Sprites in the border on the C64, of the hack that allowed samples to be played on an apparent 4th channel, for example.
+Show replies Hide replies Reply
+4 1
+
+Dong-suk 1 month ago
+There more technology allows for bringing your imagination to life, the more it kills it. Learn to love creative limitations. Poetry is more fun when you rhyme. Tennis is no good when playing with the net down. Don't think outside the box, learn to love the box.
+Show replies Hide replies 1 Reply
+8 5
+
+Infinite_J_777 1 month ago
+@Dong-suk bad advice
+Reply
+1 0
+
+Pandajam 1 month ago
+Thanks for the nice comments all! Just wanted to drop in this video on Arcadia Demade, in which Bioshock designer JP LeBreton talks John Romero through his DOOM demake of Bioshock's Arcadia level. Quite the thing :) https://www.youtube.com/watch?v=tUbk98uZjso
+Show replies Hide replies 1 Reply
+3 0
+
+Aramil47 1 month ago
+@Pandajam
+
+I've a feeling today will be quiet at work so this will give me something to watch in between jobs. Cheers!
+Reply
+0 0
+
+Radiohedgefund 1 month ago
+Woah.
+
+That 2024 piece was a bit of an eye opener. I must admit I’d been pretty ignorant of the idea of corporations remaining the gatekeepers to nostalgia and culture.
+
+I certainly don’t condone piracy but to me it has always seemed ok to use the Rom of any game you cannot legally purchase from a vendor.
+Show replies Hide replies 1 Reply
+3 0
+
+Matthew_Hornet 1 month ago
+@Radiohedgefund Well it may be 'OK', but if the legal owner decides to be bloody minded about it they could make you sorely regret it. That's the chilling effect which is the issue.
+Reply
+0 0
+
+vert1go 1 month ago
+Done a TON of work on my demake since this last version went up (getting near finished in fact!) but what the heck. Recreating and demaking Life is Strange's first episode for actual Gameboy. (ROM's are on reddit - note the controls onscreen ARE for actual hardware,A/B" is usually z/x on keyboard but may vary...)
+https://lifeis2d.itch.io/life-is-2-d
+Show replies Hide replies 3 Reply
+3 0
+
+20thCenturyFrocks 1 month ago
+@vert1go Brilliant! Very polished and the stormy beginning is really ambient. I'm not sure why loads of the students in school are cats but why not I suppose! 😂
+Reply
+0 0
+
+vert1go 1 month ago
+@20thCenturyFrocks I needed placeholders for timing of the scenes without drawing out all of the "non main" characters, and GB Studio offered those as an option. A lot of things were just temp placeholders so I could have /something/ in place Easy enough to see who needs a replacement sprite made later.
+
+When you have to do everything from the backgrounds for every single screen to connecting them all, to checking the rewind system actually works and the absolute mountain of text that has to be input, checked against the actual episode, the branches it can go off on, and all the little "directing" and "acting" details... Well, those were better things to put the time into than the extra characters given that I'm one person. ;)
+
+Appreciate the compliment! Made some little "production value" changes to the intro since but it always seems to go down well. And nobody has ever commented on the fact there's an atmospheric storm going on yet because of GB Studio limitations /there is zero rain effect/. ;) Thanks for taking the time to have a look!
+Reply
+2 0
+
+20thCenturyFrocks 1 month ago
+@vert1go That makes sense when you put it that way!
+
+No worries, glad I checked it out and will be back to see more :-)
+
+If anyone else sees this and is put off trying it because they think they have to load an emulator (as I naively did), the link and game load within seconds.
+Reply
+0 0
+
+Barrel_Trollz 1 month ago
+That quake-on-oscilloscope is my aesthetic . What an awesome project.
+Show replies Hide replies Reply
+2 0
+
+gammonbanter 1 month ago
+I love this article, more of it please EG. I read two of the articles linked to in the piece too!
+
+I have a feeling that those demade titles were probably more fun to make than play, but I'm certainly going to pick a few up to support these efforts and hope to be pleasantly surprised!
+Show replies Hide replies Reply
+2 0
+
+MegaTiny 1 month ago
+
+    Why are we not seeing Saturn-style horrors with those particular dithered transparencies? There's a lot of different looks that haven't been explored.
+
+Probably for the same reason the PS1 did so well back in the day: 3D PS1 games looked better than 3D Saturn games.
+Show replies Hide replies Reply
+1 0
+
+mha71 1 month ago
+Mean I just say that I would actually play that Silent Hill/Soundless Mountain demake... Awesome!
+Show replies Hide replies Reply
+0 0
+
+LittleRiver 1 month ago
+On 5he larger subject, games created (don't like 5he term demake) based on someone else's games do have creative merit for sure and are interesting projects.
+
+As far as each gen discarding the previous, well it should. Asteroids and Space Invaders could only ever be a better game by being prettier and smoother on screen; unless poorly created obviously.
+
+Every gen since games became 3 dimensional improves on the previous gen, ps1 polygon games are hideous today. Any game from the ps1 recreated with modern tech will be a better game: it really is that simple.
+
+Games are not like movies, music or books, games Re completely reliant on the the tech they are built for.
+
+I'm not saying old games can't be enjoyed, but they Re inferior, they become more inferior around every 4 years..
+Show replies Hide replies 2 Reply
+0 0
+
+Nino_Chaosdrache 1 month ago
+@LittleRiver As a sucker for PS1 polygon graphics, I feel hurt by this comment.
+
+Just kidding, but I really like that style and wish more retro games would go for a PS1 look, instead of pixel art. And even today, I still enjoy the looks of classic Spyro, Croc: Legends of the Gobbos or the first Resident Evil games, with their blocky aesthetic and the low LOD.
+Reply
+0 0
+
+LittleRiver 1 month ago
+@Nino_Chaosdrache
+
+Each to there own good buddy :)
+
+I've gamed through all generations and always had my eye on the 'improvements' on the horizon. The next gen however doesn't exite me at all weirdly; we've reached a point where the jump looks minor for the cost and I frown at digital
+Reply
+0 0
+
+ziggy_played_guitar 1 month ago
+Xbox version, please!
+Show replies Hide replies Reply
+0 1
+
+MARATXXX 1 month ago
+Post deleted
+
+Advertisement
+
+Subscribe to The Eurogamer.net Daily
+
+The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.
+Subscribe
+Eurogamer.net
+
+Bad puns and video games since 1999.
+
+This site © 2020 Gamer Network Limited. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+Site version
+Mobile Portable Desktop
+
+Explore
+
+    PC
+    PlayStation
+    Xbox
+    Nintendo
+    Digital Foundry
+    News
+    Reviews
+    Videos
+    Features
+    Guides
+    Authors
+    GameDB
+
+Helpful links
+
+    Staff
+    Contact us
+    Corporate site
+    Policy centre
+    Twitter
+    Facebook
+    RSS
+    Cookie Settings
+    Privacy Policy
+    Cookie Policy
+    California Privacy Notice
+
+Across Europe
+
+    Eurogamer.cz
+    Eurogamer.de
+    Eurogamer.es
+    Eurogamer.it
+    Eurogamer.net
+    Eurogamer.nl
+    Eurogamer.pl
+    Eurogamer.pt
+
+Gamer Network
+
+    Cosplay Central
+    Dicebreaker
+    EGX
+    GamesIndustry.biz
+    Jelly Deals
+    Metabomb
+    Nintendo Life
+    Pure Xbox
+    Push Square
+    Rock, Paper, Shotgun
+    USgamer
+    VG247
+    VGC
+

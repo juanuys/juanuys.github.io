@@ -1,0 +1,275 @@
+Informa
+
+Gamasutra: The Art & Business of Making Games spacer
+GAME JOBS
+updates Blogs contractors newsletter Game Career Guide
+SEARCH
+GO
+
+    ALL
+    CONSOLE/PC
+    SMARTPHONE/TABLET
+    INDEPENDENT
+    VR/AR
+    SOCIAL/ONLINE 
+
+Member Login
+	Email:   		
+Password:   	
+  	
+Forgot Password?   Sign Up
+
+     
+     
+     
+     
+
+arrow
+PROGRAMMING
+spacer
+ART
+spacer
+AUDIO
+arrow
+DESIGN
+arrow
+PRODUCTION
+arrow
+BIZ/MARKETING
+
+arrow Latest Jobs
+View All     RSS November 14, 2020
+
+    innogames
+    Concept Artist - New Mobile Game
+    Remedy Entertainment
+    UX Designer
+    The Gearbox Entertainment Co.
+    Enemy Designer
+    Insomniac Games
+    Senior Designer
+    The Gearbox Entertainment Co.
+    Senior Game Designer
+    Insomniac Games
+    Lead Level Designer
+
+arrow Latest Blogs
+View All     Post     RSS November 14, 2020
+
+    Discovery takeaways from the new PlayStation 5 store?
+    Spilt Milk Devlog 06 - Fascism Fighters 4000 (Part 1)
+    Which publishers are the game subscription believers? [ 1 ]
+    Roguelike Lessons Horror Games Need to Learn
+    The Bright Side of Ray-Traced Global Illumination
+
+arrow Press Releases
+November 14, 2020 Games Press
+
+    FIGHTING PRIDE:  The
+    Manny Pacquiao Saga...
+    Blood Bowl 3: closed beta
+    planned for early 2021
+    Games Done Quick
+    all-women speedrunning
+    event...
+    Apparition is out now on
+    the Nintendo Switch!
+    LEAGUES ARRIVE IN MILLION
+    LORDS: A GAME-CHANGING...
+
+View All     RSS
+arrow About
+
+    Editor-In-Chief:
+    Kris Graft
+    News Editor:
+    Alissa McAloon
+    Contributors:
+    Chris Kerr
+    Bryant Francis
+    Katherine Cross
+
+Contact Gamasutra
+Report a Problem
+Submit News
+Comment Guidelines
+Blogging Guidelines
+How We Work
+Download Media Kit
+Sponsor
+arrow Gama Network
+If you enjoy reading this site, you might also want to check out these UBM Tech sites:
+Game Career Guide
+Indie Games
+
+arrow Blogs
+ 
+A Guide to Systems-Based Game Development
+by Trent Polack on 01/04/18 11:04:00 am   Expert Blogs   Featured Blogs
+
+2 comments Share on Twitter
+   RSS
+The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community.
+The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent company.
+ 
+
+This article was  originally published on VentureBeat   and Joy Engineering (the Joy Machine blog) .
+
+In my senior year at the University of Michigan, one of my roommates and I had a nightly tradition: playing NCAA Football 2005 (it was 2007). We played every night because we were constantly learning each other’s strategies, adapting, and trying to come up with new ways to surprise each other. One of us would eventually win, but we would be able to talk about and dissect our match for a solid 15–30 minutes after we were done. Every night. We don’t think of EA Sports games like we do Deus Ex, but you can’t say that’s anything but a purely systems-driven game. The goal of this article is to really help clarify the benefits and results of systems-based design for players and then to discuss the development side of achieving those experiences and why my small team is creating a systems-based game.
+
+When we talk about a game having good systems, we are essentially saying that it has deep mechanics. That’s not inaccurate, but it does skip over the larger point: a game having good systems means that the game itself is a good simulation. Simulation in this sense is the result of a “holistic systems-based game design” and not games considered to typically be in the simulation genre.
+
+A simulation, by definition, is … well, pardon the cliche but according the shockingly relevant  Dictionary.com definition , it is “the representation of the behavior or characteristics of one system through the use of another system.” In that sense, a systems-based approach to design (which is what I’ll call it, as “simulation” is an overloaded term in games) is not a single mechanic — regardless of its complexity or perceived depth — but is instead a series of mechanics in which the game reacts to player interaction using its initial design stance. That is, standard player actions lead to complex game reactions. A system’s integrity (or fun/complexity/depth, whatever you’d like to call it) is only as good as the systems that affect it and, in turn, are affected by it.
+System designer versus systems design
+
+In treating a game’s systems (mechanics) as ecosystems in which a player is free to use the mechanics at their disposal in a game world that is fully capable of reacting to them with depth and consistency (which, as counterintuitive as it sounds, often ends up creating interesting unpredictability for players), we start seeing games as true worlds for players to discover not just visually and thematically but in play as well. It is, in essence, removing the invisible walls that contain players in some worlds with the endless expanses of open worlds.
+
+A “system designer” is a common role in games. While every studio has different ideas what that role actually means, it generally involves designing individual mechanics/systems and ensuring that they’re balanced, fun, so on and so forth. “Systems design,” on the other hand, is a more holistic, project-wide approach to how a game is designed and developed (and typically taken on by a creative or design director). Systems-based games are everywhere but most commonly associated with the “immersive sim” genre. This is equally vague in concept, but in practice, it’s a specific type of deep, intricate first-person game. (Deus Ex is the poster child for the genre.)
+
+Video games right now are at the point in their capabilities and level of complexity where I believe game developers would benefit heavily from re-evaluating how their core mechanics and systems are approached. It’s important to discuss that both players and developers benefit from quality systems. Players benefit from a more dynamic and varied game experience, and developers benefit through less rigid implementations of the core of their games.
+The impact of systems-based design
+
+The decision about what kind of game experience a studio wants with its project comes early because the entire development and production of the game is dictated by that single decision. It affects how the programmers implement features, how the designers lay out levels and tune systems, how the expensive cutscenes are handled. Those are just a few examples, but there’s a heavy cost associated with how much freedom is allowed. Historically, games that open up the possibility space for how a game unfolds tend to be much more difficult to accurately schedule.
+
+Sports games, for instance, tend to get the short end of the stick when, really, they’re the most consistently popular forms of imparting players with these kinds of systemic stories. There’s no predicting with 100 percent certainty what will happen in a single game when you start it. It’s all about the players, their style/strategy, and how they react to one another.
+
+Whenever EA puts out the yearly iterations in their sports franchises — FIFA, Madden, NCAA Football (RIP), etc. — an unbelievable amount of time and energy go into taking data from the prior game and figuring out where to focus development time to make dramatic improvements (no, they’re not just roster updates and a new UI). Given the ubiquity and demographically diverse nature of these franchises,  there’s a lot of analysis  and pressure for all changes made every year that must be incredibly well-informed with both in-game and real-world statistical analysis. Point is, simulation/system-based games can be hard to make.
+Dishonored as pure possibility space
+
+I recently finished playing Dishonored 2. Its two protagonist characters provide a great example of systems-based design. The first Dishonored established a player character, Corvo Attano, with specific skills working within the world Arkane Studios created. In Dishonored 2, Arkane introduced another player character, Emily Kaldwin, with a radically different skill set from Corvo and then — and this still amazes me — presented players with the opportunity to play the entire game with either character.
+Emily from  Dishonored 2 (Image Credit: Bethesda).
+
+In other words, Arkane had enough room within their game framework and universe to create two totally different sets of actions for the player to use while playing — and had it function both ways. It speaks volumes to the effort that went into designing Dishonored that their original ability set can coexist alongside their new character/ability set in Dishonored 2 and maintain the same level of internal systemic integrity of the original.
+
+And, oh, that new skill set! Emily had an ability called Domino, which can chain enemies together so that if one suffers or dies, so does the rest of the chain. She also has a Bloodfly Swarm ability that makes any slain enemy explode into flesh-eating blood flies. If you do this to a killed guard near one other guard, it’s likely that the remaining guard will be able to kill the swarm. However, if you use Domino to chain together three to four enemies that are relatively spread out and use Bloodfly Swarm on one, that ends up affecting the whole chain. Now, four swarms of blood flies can then spread outward, kill, multiply, and  bam,  you’ve mastered biological warfare. You monster.
+
+That sounds like fantastic systems-based design, but here’s the thing, compared to most games of its scope/budget, Dishonored has a fairly meager offering of tools. There are only five to six powers of consequence, plus a sword, a pistol, and a crossbow (and traps). Relative to the odds you’re up against, that’s a dubiously small number. But the interaction between your arsenal and the game’s commitment to ensuring that the player can make unconventional ideas work when coupled with an intense dedication to world coherency and accuracy makes every encounter a test bed for your next combination idea. This is the benefit of great system design.
+The drawbacks of brute forcing system design
+
+There are two possible approaches to achieving the degree of systemic cross-power synergy shown in Dishonored 2. One such approach, and likely not how Arkane approached their games, is to treat game mechanics as a combinatorial exercise of making all conceivable actions specifically react to the subset of remaining actions. Basically, brute force the hell out of your systems to achieve the perception of smooth cross-mechanic interactions. This path doesn’t tend to fare very well:
+
+    It entails a large cobweb of design and code solutions to ensure each interaction is accounted for. And that creates a buggy mess that implodes when QA gets their hands on it.
+    It makes inconsistent interaction (or, at the other end of the spectrum, rigid interactions) a real concern. If every system is set up for explicit responses to events, there’s no guarantee that the results will be repeatable. And that is worth repeating: if the result of a systemic interaction is not consistent given an exact recreation of inputs, the player can never achieve any real reward or incentive for further experimentation. Always aim for the unexpected, but never aim for the inconsistent.
+
+That all said, this is all doable. And it’s doable to a more predictable degree so long as you throw enough development/design/testing time at it, making the production schedule more of a certainty. That tends to be where the game industry’s comfort zone is. I see postings for systems designers frequently in the industry, and they’re generally mid-level positions entailing the design and balance of a large feature. That is not systems design. That is the definition of any game designer.
+
+Systems design is simultaneously very low-level to ensure simulation-level consistency, high-level oversight into the resulting goals of what is produced by the team, and an intense focus on architecture to promote expansion of any given system without having to explicitly update every aspect of the product to accommodate. And that’s a win-win for everyone involved.
+
+Next, I’ll talk about why my small team is making a systems-based game and how to design true systems like those in Dishonored 2.
+One of many explosion from  Steel Hunters .
+
+Even for a small team like mine, systems-based design has clear advantages. Here’s a more in-depth and practical example, using my in-development project,  Steel Hunters , as a case story of sorts.
+
+The entire development and production of a game is dictated by the early decision about what kind of game experience a studio wants. It affects how the programmers implement features, how the designers lay out levels and tune systems, how expensive cutscenes are handled, and so on. As I discussed above, choosing a systems-based game can be risky, in part because it’s hard to judge how long it will take to make effective systemic games.
+
+There was one thing I wanted from our game that was more important to me than anything else: a cooperative game experience in which players have practically endless customization options working together to tackle difficult missions … and then forcing the players into a situation they didn’t predict and having to scramble, regroup, and come up with a new plan on how to not die horribly. This improvisational quality is the heart of the game I wanted to make, and that’s why Steel Hunters is entirely systems based.
+Obsessively structured flexibility
+
+One of the reasons I put together this project as a systems-first production — aside from my unwavering conviction that it’s the best way to approach a number of games — is that heavily scripted or limiting mechanics can only take you so far. For us, we don’t need a dozen developers and a handful of designers working throughout the project on separate features (which would still be a small team compared to triple-A studios).
+
+We can get a variety of perceived deep gameplay mechanics that arise out of the result of systems producing interesting, often unexpected results based on the input. It’s a win-win for us. We get to take a concept that we all adore, flesh out what we can for release, and then, explore the entirety of the systemic space that we left open for ourselves post-launch.
+Systems-based design as foundation
+
+The best approach to development of a systems-driven game (and likely the one that Arkane tended toward with my Dishonored 2 example from the last piece) is to approach development with a mindset that every system/mechanic has to be able to operate solely in its own space. Once it’s to a point that the design and implementation are solid, that’s when you figure out where to open it up for flexibility and act upon external inputs/events while constantly being mindful to avoid designing yourself into a corner. Design and development should accommodate for this phase as early as possible, but what sounds good on paper (even if it’s sound and solidly proven), doesn’t always equate to actually being good in practice. In short, it’s a more risky, unpredictable, and iteration-focused approach.
+
+After I wrapped up the prototype phase of Steel Hunters, it became time to start implementing everything for realsies. I already had a good idea of the end result that we were shooting for as far as core gameplay was concerned. So, from there, I worked backward. I broke every interaction down to its core components and then had to figure out what the most bare-bones implementation would look like. And then, I’d develop that out, get it working at a simplistic level, move on to the next building block, do the same, and so on. Once all of those pieces were in place, I was able to look at each one from three perspectives:
+
+    What new components need to be added to the base functionality in order to get the systems working cohesively?
+    What aspects of the game I need to hold off on until other parts were ready? This requires a more holistic understanding of what existing functionality could result in backing us into a corner.
+    The Behemoths, for instance, are the focus of our game’s missions. They’re large, complex, adaptive bosses that have to be deep and unpredictable enough to make for an interesting four-against-one scenario. But it’s impossible to earnestly start on the actual implementation of the Behemoth until we know, in very exact and practical terms, how to best structure and develop the core of the game: the mechs controlled by players.
+    What, if anything, needs to be torn out of a given component and put into some other (or completely new) mechanism?
+    When working on weapons/projectiles, I ended up completely refactoring (redesigning/redeveloping) both systems to make weapons and projectiles wholly independent from each other. Then, I put what was necessary for a weapon to know about a projectile into an intermediary structure that serves as the “delivery mechanism.” The benefit here is that the weapon becomes isolated after its performs its function instead of having the weapon manage its projectile — the projectile exists on its own without being continuously controlled by the weapon.
+
+Why do this to yourself?
+
+No matter how you approach a game, it’s a hell of an endeavor. I chose this method of design and development because it ends up resulting in a world where a variety of events can unfold from say, a simple stray projectile. Say, recoil takes your aim off balance, letting loose an imprecise projectile that hits a ubiquitous red barrel, which blows up near an ammo dump, igniting all the bullets it contains, sending bullets everywhere around it, potentially killing everyone in a nearby radius. Now, that’s an exciting collision of systems!
+
+We take the brunt of the design, architecture, and workload for new features up front, but if the result is a fully realized dynamic world then we have succeeded in one of our most important goals: making every decision matter. The projectile system is a small detail, of course, but it’s a prolific one in a shooter. We also have other gameplay systems, which are more pronounced, but all exist and operate on the elements that make up the environment in ways that aren’t dissimilar from the projectile/material example above.
+
+The small details of interactions in the core combat gameplay may not have the pronounced and flashy power interactions like in Dishonored 2, but they bring a very unique quality to our combat model. Planning how to take down a major boss is one of the pillars of our game. Players will get ready, analyze various environmental factors, remember (or be prepared to learn) the “personality” of the boss, and eventually formulate their plan of attack. The world at that point is largely an inert sandbox. It’s upon the point of executing the plan that the agent(s) of chaos — the player(s) — start changing things. And if the world is reacting to every action, the underlying systems, that are not at the forefront of players’ minds generally, are operating and collectively responding to every choice and event.
+
+At some point in that flow of gameplay, something unexpected can happen which forces players into a situation where their plan is no longer viable. In the heat of the moment, they have to call an audible, change things up, communicate with each other, and make things work in their favor.
+
+And when the mission is complete, either through success or failure, we want players to be able to tell the story of what happened to others — like my friend and I would do at the end of every one of our NCAA Football sessions in college. And that story is only worth telling when it’s unique because if it’s not, then you’re just telling stories people already know. The best thing I could hear from people who play our game is, “I didn’t even know that was possible.”
+Related Jobs
+innogames
+innogames — Hamburg, Germany
+[11.13.20]
+Concept Artist - New Mobile Game
+Remedy Entertainment
+Remedy Entertainment — Espoo, Finland
+[11.13.20]
+UX Designer
+The Gearbox Entertainment Co.
+The Gearbox Entertainment Co. — Frisco, Texas, United States
+[11.12.20]
+Enemy Designer
+Insomniac Games
+Insomniac Games — Burbank, California, United States
+[11.12.20]
+Senior Designer
+
+
+[ View All Jobs ]
+
+
+Comments
+Vadim Pletnyakov
+	
+13 Jan 2018 at 4:07 am PST
+profile image 	
+Thank you for sharing your thoughts!
+I think systems-based game design is the future of game dev, just like proc gen - games tend to become more complex, and costs of making every meaningful for gameplay object, choice, or item/weapon in big enough game are too high for most developers?
+
+I may be wrong but I don't think SBG and PG are so different: proc gen uses given rules to create something "off-screen", without the player, and systems-based gameplay allows player to participate in the unfolding process.
+So, maybe principles of PG with different levels of abstraction/generators can be used to create this emergent gameplay in big enough spaces? What do you think?
+	
+Login to Reply or Like
+1 likes
+Trent Polack
+	
+22 Jan 2018 at 4:13 pm PST
+profile image 	
+I apologize for not seeing this earlier; I never got an email for it.
+
+ANYWAY.
+
+Procedural generation is a form of systems design, at least in my eyes. Procedurally-generated content has to follow a strict set of rules and systems in order to maintain its internal consistency and, in order to be a good toolset, also enforce a level of modularity across its varying features.
+
+"Systems-based game design" is not *really* a "game design" ideology or methodology, but my focus is game design generally, so it's an easier name. That said: the principles of systems-based game design are more generally just a form of software engineering principles applies to game design. Which is also just a form of architecture.
+
+A lot of my approaches to design and development originally come from a linguistics background, though, so I tend to just apply how I think to whatever I'm doing. So I could be completely full of shit. WHO KNOWS.
+	
+Login to Reply or Like
+
+Login to Comment
+
+
+
+Discover more from Informa Tech
+
+    Game Developers Conference
+    Independent Games Festival
+    Gamasutra Jobs
+    Game Developers Choice Awards
+    GDC Vault
+    Omdia
+    Game Career Guide
+
+Working With Us
+
+    Contact us
+    About Us
+    Advertise
+
+Follow gamasutra on Social
+
+alt text of the logo
+
+    Home
+    Cookies
+    CCPA: Do not sell my personal info
+    Privacy
+    Terms
+
+Copyright © 2020 Informa PLC Informa UK Limited is a company registered in England and Wales with company number 1072954 whose registered office is 5 Howick Place, London, SW1P 1WG.

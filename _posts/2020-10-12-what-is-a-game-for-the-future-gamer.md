@@ -10,24 +10,26 @@ thumb: /assets/masters/crj/thumb.png
 
 I'm reading [Sid Meier's Memoir!](https://civilization.com/en-GB/news/entries/sid-meier-s-memoir-a-life-in-computer-games-is-now-available/). He talks about what he thinks videogames ought to be. The context: he was thinking of the concept for [Pirates!](https://2k.com/en-US/game/sid-meiers-pirates/) after having created many flight simulators.
 
-> Mostly I was tired of hyperrealism. If real life were that exciting, who would need videogames in the first place? The flight simulator genre, especially, was forever clamoring for more dials to watch, more flaps to control, more accurate wind speed and wheel friction calculations -- <span class="highlight">and no one seemed to notice that it has turned into work.</span>
->
-> Games weren't supposed to train you to be a real pilot; they were supposed to let you pretend for an hour that you could be one if you wanted to.
->
-> (Meier and Noonan, 2020)
+{% quote meier_sid_2020 -l 68 %}
 
-Sid Meier thinks videogames ought to be fun. In fact, he alludes to this in the book's introduction with "...the primary job of the game designer is ... to *find* the fun." (Meier and Noonan, 2020)
+Mostly I was tired of hyperrealism. If real life were that exciting, who would need videogames in the first place? The flight simulator genre, especially, was forever clamoring for more dials to watch, more flaps to control, more accurate wind speed and wheel friction calculations -- <span class="highlight">and no one seemed to notice that it has turned into work.</span>
 
-This sentiment is echoed by Raph Koster in [A Theory of Fun for Game Design](https://www.oreilly.com/library/view/theory-of-fun/9781449363208/). This could be ["hard fun, easy fun, social fun, visceral fun"](https://www.raphkoster.com/2013/04/16/playing-with-game/). The central thesis of the book is that "Fun is just another word for learning" (Koster, 2005). [Chris Crawford also said](https://www.raphkoster.com/gaming/gdco12/Koster_Raph_Theory_Fun_10.pdf) that "Fun is the emotional response to learning."
+Games weren't supposed to train you to be a real pilot; they were supposed to let you pretend for an hour that you could be one if you wanted to.
+
+{% endquote %}
+
+Sid Meier thinks videogames ought to be fun. In fact, he alludes to this in the book's introduction with "...the primary job of the game designer is ... to *find* the fun." {% cite meier_sid_2020 -l 3 %}
+
+This sentiment is echoed by Raph Koster in [A Theory of Fun for Game Design](https://www.oreilly.com/library/view/theory-of-fun/9781449363208/). This could be "hard fun, easy fun, social fun, visceral fun" {% cite koster_playing_2013 %}. The central thesis of the book is that "Fun is just another word for learning" {% cite koster_theory_2005 %}. Chris Crawford also said that "True fun is the emotional response to learning" {% cite leupold_spot_2004 %}, this phrase also echoed in [this beautiful presentation by Raph Koster](https://www.raphkoster.com/gaming/gdco12/Koster_Raph_Theory_Fun_10.pdf) {% cite koster_theory_2012 %}.
 
 
 [Tynan Sylvester elaborates](https://tynansylvester.com/book/) on the fun (although he possibly doesn't look at fun as "another word for learning"):
 
-> Unfortunately, game design discussions are still often shackled to the word *fun*...
->
-> Fun is an emotion -- that sense of frivolous, mirthful exhiliration you feel on a roller coaster or in a friendly game of pickup soccer. It's a pleasurable emotion, and a worthwhile design goal. But it's not nearly the only one. We only focus on it because of where games come from.
->
-> (Sylvester, 2013)
+{% quote sylvester_designing_2013 %}
+Unfortunately, game design discussions are still often shackled to the word *fun*...
+
+Fun is an emotion -- that sense of frivolous, mirthful exhiliration you feel on a roller coaster or in a friendly game of pickup soccer. It's a pleasurable emotion, and a worthwhile design goal. But it's not nearly the only one. We only focus on it because of where games come from.
+{% endquote %}
 
 He then goes on to describe the other emotions we can feel when playing games, like "violent competition to provoke feelings of chest-thumping triumph" or "narrative to create empathy or wonder".
 
@@ -39,9 +41,9 @@ What types of games would these future humans play? Might a future human want to
 
 Or would we always want to experience happiness?
 
-> To me, a theory of fun says that games are in many ways not just deliberate practice machines, not just a swirl of systems, but a space between the dust from which we came, and the dust we shall be, in which we can engage in the grand pursuit [of happiness].
->
-> Raph Koster ([source](https://www.raphkoster.com/gaming/gdco12/Koster_Raph_Theory_Fun_10.pdf))
+{% quote koster_theory_2012 %}
+To me, a theory of fun says that games are in many ways not just deliberate practice machines, not just a swirl of systems, but a space between the dust from which we came, and the dust we shall be, in which we can engage in the grand pursuit [of happiness].
+{% endquote %}
 
 *Might a future human want to experience the dread of the war-stricken past?* <span class="highlight">Sure, if it's followed by a heart-welling victory over a mad dictator.</span>
 
@@ -49,20 +51,9 @@ Or would we always want to experience happiness?
 
 *Might they want to experience the deep sorrow of a parent who can not feed their sickly child?* <span class="highlight">Sure, if it's followed by a breakthrough to safety and seeing your child grow up to be their best.</span>
 
+# Bibliography
 
-
-
-
-
-# References
-- Meier, S. and Noonan, J., 2020. Sid Meier's Memoir!. 1st ed. W. W. Norton & Company, p.68 & p.3.
-- KOSTER, Raph. 2005. A Theory of Fun for Game Design. Scottsdale, AZ: Paraglyph Press.
-- [Sylvester, T., 2013. Designing Games: A Guide To Engineering Experiences. 1st ed. Sebastopol, California: O'Reilly Media, Inc.](https://tynansylvester.com/book/)
-- Raph Koster, https://www.raphkoster.com/gaming/gdco12/Koster_Raph_Theory_Fun_10.pdf
-
-
-
-
+{% bibliography --cited %}
 
 > This post is part of my [critical reflective journal](/tags#crj).
 
