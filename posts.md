@@ -17,9 +17,9 @@ yet another blog
 {% for item in site.posts %}
 
 {% if item.thumb %}
-<div class="box altbox" style="background: url('{{item.thumb}}') no-repeat center/cover;">
+<div class="box altbox" style="background: url('{{item.thumb}}') no-repeat center/cover;" markdown="1">
 {% else %}
-<div class="box altbox">
+<div class="box altbox" markdown="1">
 {% endif %}
 [{{ item.title }}]({{ item.url }})
 <br>

@@ -6,6 +6,9 @@ url: "https://juanuys.com"
 twitter_username: opyate
 github_username:  opyate
 theme: minima
+markdown: kramdown
+kramdown:
+  parse_block_html: false
 plugins:
   - jekyll-feed
   - jekyll-sitemap
