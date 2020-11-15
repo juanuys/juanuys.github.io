@@ -11,6 +11,14 @@ thumb: /assets/masters/crj/thumb.png
 Does a SMART goal come out of this?
 Draw informed conclusions. (use literature)
 
+# Bibliography
+
+{% bibliography --cited %}
+
+
+
+
+
 # Summary
 
 - Discussion of your understanding of the theories and concepts, based on the materials, activities and readings, with appropriate references.

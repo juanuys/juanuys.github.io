@@ -24,6 +24,20 @@ Answer:
 
 # Goals
 
+## Become more fluent with [Shaders/GLSL](https://en.wikipedia.org/wiki/Shader)
+
+Set on 2020-11-15
+
+| Component | Description |
+| --------- + ----------- |
+| Specific | I became more fluent with the shaders... |
+| Measurable | ...when I discovered that I can sketch a special effect as fluently as I can illustrate a character in my head using pencil and paper. |
+| Achievable | I knew I crossed a major hurdle when one of my shaders that I put on [shadertoy](https://www.shadertoy.com/) over a weekend got 20K views. |
+| Relevant / Realistic | Really getting fluent with shaders gave me a new superpower, as I could achieve awesome VFX across any game engine and platform. |
+| Time-bound | I reached this level by end-2022. |
+| Emotional attachment | Being a shader pro comes with a level of prestige, as its consider an arcane art, where most practitioners still copy/paste shaders off the web and hope for the best. |
+| Reward | The reward was in the mastery of shaders itself. |
+
 ## Become more fluent with [Phaser](http://phaser.io/)
 
 Set on 2020-10-25.
