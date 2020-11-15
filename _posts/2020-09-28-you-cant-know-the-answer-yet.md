@@ -25,29 +25,25 @@ We circle back to creativity. Figuring out **what** to build is almost a creativ
 
 I drift on, pondering.
 
-> Still, it never fails that some students approach me within minutes of reviewing the problem outline to ask if their immediately formed concept is acceptable. I tell them, “<span class="highlight">You can’t know the answer yet.</span> You haven’t put your ideas to the test or pushed them through any options!”
-> 
-> [*(SOMERSON et al, 2013)*](https://isbndb.com/book/1118517865)
+{% quote hermano_art_2013 %}
+Still, it never fails that some students approach me within minutes of reviewing the problem outline to ask if their immediately formed concept is acceptable. I tell them, “<span class="highlight">You can’t know the answer yet.</span> You haven’t put your ideas to the test or pushed them through any options!”
+{% endquote %}
 
 Perhaps I don't know the answer yet. 
 
-But I will remain open: "we found that openness to experiences predicts creative potential" [*(JAUK et al, 2013)*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3682183/).
+But I will remain open: "we found that openness to experiences predicts creative potential" {% cite jauk_relationship_2013 %}.
 
 And I will keep on making. Small games, doodads, doodles, whatever.
 
-> Although it is often perceived that artists, designers, and creative thinkers experience “eureka moments” in which a brilliant idea emerges, in practice, creativity is a long process. It often requires the maker to <span class="highlight">make something again and again</span>, learning each time from the previous iteration.
->
-> [*(SOMERSON et al, 2013)*](https://isbndb.com/book/1118517865)
+{% quote hermano_art_2013 %}
+Although it is often perceived that artists, designers, and creative thinkers experience “eureka moments” in which a brilliant idea emerges, in practice, creativity is a long process. It often requires the maker to <span class="highlight">make something again and again</span>, learning each time from the previous iteration.
+{% endquote %}
 
 Iterate, iterate, iterate.
 
-# Resources
+# Bibliography
 
-
-- SOMERSON, Rosanne, Mara HERMANO and John MAEDA. 2013. The Art of Critical Making: Rhode Island School of Design on Creative Practice. 1st edn. The Art of Critical Making. New York: John Wiley & Sons, Incorporated.
-- JAUK, Emanuel, Mathias BENEDEK, Beate DUNST and Aljoscha C NEUBAUER. 2013. ‘The Relationship Between Intelligence and Creativity: New Support for the Threshold Hypothesis by Means of Empirical Breakpoint Detection’. Intelligence (Norwood) 41(4), 212–21.
-
-
+{% bibliography --cited %}
 
 > This post is part of my [critical reflective journal](/tags#crj).
 

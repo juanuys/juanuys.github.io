@@ -1,7 +1,7 @@
 ---
 title: "Reading list"
 name: readinglist
-layout: post
+layout: home
 description: "Reading list whilst doing Falmouth Masters"
 permalink: /masters/readinglist
 thumb: /assets/masters/readinglist/thumb.jpg
@@ -9,10 +9,19 @@ pagetype: masters
 rank: 100
 ---
 
-A curated list of books read (or sometimes other media consumed) during my course. This is for assignments, self-directed study, research, etc.
+A curated list of books and other media read, consumed, or cited during my course. This is for assignments, self-directed study, research, etc.
 
-Please also see my [gamedev pinboard](https://pinboard.in/u:opyate/t:gamedev/), as URLs will mostly end up there.
+# Bookmarks
 
+Please see my [gamedev pinboard](https://pinboard.in/u:opyate/t:gamedev/), as URLs will mostly end up there.
+
+# Cited bibliography
+
+{% bibliography %}
+
+# Other reading
+
+This list might have some overlap with the cited bibliography.
 
 <iframe
     frameborder="0"

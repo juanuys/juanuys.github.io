@@ -17,9 +17,9 @@ says albert einstein
 {% for post in site.posts %}
 {% if post.tags contains "ma" %}
 {% if post.thumb %}
-<div class="box altbox" style="background: url('{{post.thumb}}') no-repeat center/cover;">
+<div class="box altbox" style="background: url('{{post.thumb}}') no-repeat center/cover;" markdown="1">
 {% else %}
-<div class="box altbox">
+<div class="box altbox" markdown="1">
 {% endif %}
 [{{post.title | truncatewords: 7 }}]({{ post.url }})
 <small>{{post.date | date: "%Y-%m-%d"}}</small>

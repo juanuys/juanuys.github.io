@@ -20,9 +20,9 @@ here for all to see
 {% if post.tags contains "imadeathing" %}
 
 {% if post.thumb %}
-<div class="box altbox" style="background: url('{{post.thumb}}') no-repeat center/cover;">
+<div class="box altbox" style="background: url('{{post.thumb}}') no-repeat center/cover;" markdown="1">
 {% else %}
-<div class="box altbox">
+<div class="box altbox" markdown="1">
 {% endif %}
 [{{ post.title }}]({{ post.url }})
 <br>

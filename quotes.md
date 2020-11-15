@@ -18,7 +18,7 @@ the quotable quote
 
 {% for post in site.posts %}
 {% if post.tags contains "quote" %}
-<div class="box altbox">
+<div class="box altbox" markdown="1">
 [{{post.title | truncatewords: 7 }}]({{ post.url }})
 <small>{{post.date | date: "%Y-%m-%d"}}</small>
 </div>

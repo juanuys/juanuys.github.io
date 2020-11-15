@@ -12,8 +12,8 @@ The cohort and I had an informal discussion on our Discord today about "tech for
 
 A non-exhaustive list of things that came up:
 
-- [The Social Dilemma](https://www.thesocialdilemma.com/)
-- [Center for Humane Technology](https://www.humanetech.com/)
+- The Social Dilemma {% cite orlowski_social_2020 %}
+- Center for Humane Technology {% cite harris_center_2018 %}
 - how much screen time?
 - examples in our own families of where social networks have been detrimental to mental health
 
@@ -21,9 +21,9 @@ I think this topic is extremely important for both UX designers and game designe
 
 This has urged me to reflect on which [values](/masters/values) I want to establish as a game designer, and one day as a studio. Tynan Sylvester even discusses values in [his book](https://tynansylvester.com/book/):
 
-> This book has covered a lot of knowledge about being a game designer. Combine that knowledge with practice, and you'll develop skills. But I don't think knowledge and skills are all that's needed for exemplary game design. I think that to do this really well, we must also have values.
->
-> (Sylvester, Tynan. 2013)
+{% quote sylvester_designing_2013 %}
+This book has covered a lot of knowledge about being a game designer. Combine that knowledge with practice, and you'll develop skills. But I don't think knowledge and skills are all that's needed for exemplary game design. I think that to do this really well, we must also have values.
+{% endquote %}
 
 I iterate the values in the book here, and they are specifically applicable to game designers:
 
@@ -38,12 +38,9 @@ Also, my values will also influence my learning. For example, candor will bring 
 
 I'll organise a group discussion with my cohort and report back here with a follow-up reflection.
 
+# Bibliography
 
-# References
-
-- [Sylvester, T., 2013. Designing Games: A Guide To Engineering Experiences. 1st ed. Sebastopol, California: O'Reilly Media, Inc.](https://tynansylvester.com/book/)
-
-
+{% bibliography --cited %}
 
 > This post is part of my [critical reflective journal](/tags#crj).
 

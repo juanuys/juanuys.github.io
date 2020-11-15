@@ -5,21 +5,22 @@ baseurl: ""
 url: "https://juanuys.com"
 twitter_username: opyate
 github_username:  opyate
-google_analytics: UA-28222168-1
-# Build settings
+theme: minima
 markdown: kramdown
 kramdown:
-  parse_block_html: true
-theme: minima
+  parse_block_html: false
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll/scholar
 collections:
   doodles:
     name: draw things
     output: true
     permalink: /:collection/:path
-
+scholar:
+  style: harvard-falmouth-university
+  bibliography: references/references.bib
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
