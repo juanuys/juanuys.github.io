@@ -50,7 +50,7 @@ Here's a little dataviz to show which domains my reflections touch on. (Some pos
 {% for domain in page.reflection-domains %}
 {% assign tag = "crj-" | append: domain %}
 
-<div class="crj-breakdown-child {{tag}}">
+<div class="crj-breakdown-child {{tag}}" markdown="1">
 <h4>{{domain}}</h4>
 {% for post in site.posts reversed %}{% if post.tags contains "ma" and post.tags contains "crj" and post.tags contains tag %}[&#9608;]({{ post.url }})&nbsp;{% endif %}{% endfor %}
 </div> 
