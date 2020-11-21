@@ -3,7 +3,7 @@ layout: home
 ---
 <div class="boxes">
 
-<div class="box box2">
+<div class="box box2" markdown="1">
 
 any fool can know
 

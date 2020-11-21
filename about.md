@@ -21,7 +21,7 @@ Very lastly, more history at the very bottom of this page as a bonus for reading
 
 <div class="boxes">
 
-<div class="box box2">
+<div class="box box2" markdown="1">
 
 living life backwards
 

@@ -4,7 +4,7 @@ permalink: /posts/
 ---
 <div class="boxes">
 
-<div class="box box2">
+<div class="box box2" markdown="1">
 
 stream of consciousness
 
