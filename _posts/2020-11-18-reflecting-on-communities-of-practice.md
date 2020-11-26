@@ -2,7 +2,7 @@
 layout: post
 title: "Reflecting on communities of practice"
 description: "Reflecting on communities of practice"
-tags: ma falmouth crj week9 development-practice eudaimonia-machine
+tags: ma falmouth crj week9 development-practice eudaimonia-machine crj-interpersonal crj-procedural crj-affective
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
@@ -32,7 +32,7 @@ Deep work is what might happen when you're by yourself in the "deep work chamber
 
 *Image credit {% cite murray_eudaimonia_2020 %}*
 
-However, we shan't forget to incorporate others into these activities either: your colleagues, team mates, cohort, greater network, and communities of practice. You will advance in your career, but so will those in your networks. Be sensitive to their time {% cite horowitz_freelancers_2012 -l 126 %}. When I have asked for startup advice from seasoned entrepreneurs, my emails were short, to the point, with a focused question, and perhaps 3 scheduling options for following up in person (if required), so they can just pick one that suits them. Once I got my answer, I usually follow up with a thank you note or a bottle of wine.
+However, we shan't forget to incorporate others into these activities either: your colleagues, team mates, cohort, greater network, and communities of practice. You will advance in your career, but so will those in your networks, so be sensitive to their time {% cite horowitz_freelancers_2012 -l 126 %}. When I have asked for startup advice from seasoned entrepreneurs, my emails were short, to the point, with a focused question, and perhaps 3 scheduling options for following up in person (if required), so they can just pick one that suits them. Once I got my answer, I usually follow up with a thank you note or a bottle of wine.
 
 Just like "game designers should play all sorts of games" {% cite macklin_games_2016 -l 75 %}, we ought to read widely and find experiences elsewhere for a more rounded take on life:
 
@@ -40,13 +40,13 @@ Just like "game designers should play all sorts of games" {% cite macklin_games_
 The good news is that a good game idea can come from anywhere ... Read something you normally wouldn't read ... Attend a lecture.
 {% endquote %}
 
-Also, mixing with lots of different people allows you to play anthropologist, so your communities of practice is the opportune moment to do this.
+I would add to that list to mix with a variety of people, to get different viewpoints, and experience different personalities. Also, mixing with lots of different people allows you to play anthropologist, so your communities of practice is the opportune moment to do this.
 
 {% quote schell_art_2019 -l 14 %}
 Of particular interest to game designers is the approach of cultural anthropology, which is the study of peoples' ways of life, mostly through fieldwork. We can learn a number of important things about human nature...
 {% endquote %}
 
-That all said, I think I'm happy with my level of participation in the wider community. I'm also happy that I do have varied interests, each with their own communities of practice. I do try to balance *give* and *take*. Now if only this Covid nonsense can lift so we can all get back out there and meet face-to-face again!
+That all said, I think I'm happy with my level of participation in the wider community. I'm also happy that I do have varied interests, each with their own communities of practice. I do try to balance *give* and *take*, and I do admit that giving feels better than taking. Now if only this Covid nonsense can lift so we can all get back out there and meet face-to-face again!
 
 # Bibliography
 
