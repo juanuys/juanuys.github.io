@@ -1,0 +1,149 @@
+ Skip to main content
+GOV.UK
+Blog Government Digital Service
+
+Organisations:
+    Government Digital Service , Cabinet Office 
+
+Search for:
+Building on the steel thread
+Posted by: Graham Farrant, CEO of Land Registry and Mike Bracken , Posted on: 24 July 2015 - Categories: Government as a Platform
+
+Build for the future image
+
+As part of the work we’re doing to prepare for government as a platform , we’ve been investigating ways to help government agencies use shared platforms and data registers to build better services.
+
+One project looked at the Land Registry , and in particular how it might work in the future. The work re-examined Land Registry’s first responsibility: providing a reliable record of information about ownership of and interests affecting land . It asked the question: how could the agency do its work as part of a wider digital infrastructure of platforms and registers?
+
+This wasn’t our first collaboration. During the transformation programme , we did some work that helped us:
+
+    create a new, more transparent approach for data storage and protection , something that has the potential to be widely re-used across government
+    shape our thinking about government as a platform , because we developed a better understanding of just how important registers would be to its success
+
+That work provided us with a useful starting point for this year’s project. Think of it like bridge-building. The first thing bridge-builders used to do was throw a steel thread from one side of the valley to another, then use it to help build the rest of the bridge. Last year we threw the steel thread , and found the point where new ideas crystallised and we began to understand what should happen next. Now we’re building the bridge itself.
+A system of record
+A system of record image Licence: Creative Commons Attribution Paul Downey
+
+The Land Registry stores and maintains a dataset of more than 24 million titles , providing a state guarantee of title. It also runs statutory services for users, mostly solicitors and lenders, so that they can view and edit the data, as part of the conveyancing process. It’s one of the largest property databases in Europe and underpins the UK housing market. So, quite important.
+
+At the heart of our collaboration was a new way of thinking about the data: that “more transparent approach” mentioned above. What does that mean?
+
+It means less thinking about maintaining a database, and more thinking about managing a system of record . Not simply storing the data that’s correct now, but storing it in context, with a full history of changes and amendments. An ever-expanding archive of information: data that includes history about itself . A database is constantly changed, and loses all this context. A system of record is constructed of immutable records, written once and never removed - but amended, or marked in certain ways, if need be. When a fact is out of date, it’s not deleted and removed forever - instead it’s kept, and marked as “out of date”. Keeping data this way helps Land Registry with it’s Assurance role and helps reduce property fraud , and means it can make data open and available to users and third parties.
+
+Making the data more open and more transparent brings lots of potential benefits. It has the potential to unleash opportunities for innovation in the private sector. It could bring greater transparency to the transfer of property , making it easier for all parties - from property buyers or sellers, bank lenders or solicitors and conveyancers - to see the progress of individual transactions. This could reduce uncertainty for users, and reduce the burden on intermediaries (and the Land Registry itself) to provide basic progress updates on the phone or in writing. It could help demystify legalese, and help property owners make more informed decisions .
+Registers matter
+
+Consider what’s happening at Companies House , “the model for registers of the future”.
+
+Land Registry has the same ambition. It’s putting its focus on building a modern digital register , one that’s accessible by third parties, responsive to user needs and open 24/7. A register that enables services to be built on better, more dependable data.
+
+It wants to be outward facing, part of the wider digital infrastructure, supporting development of services provided by government or the market.
+
+The result of this new thinking will be lower costs, better services from government, brand new (and previously impossible) services from the public and private sector, and faster, more automated processes. It’s a win-win.
+
+Big changes, important changes. A new way of thinking. A better way of managing data. That simple steel thread is fast becoming a brand new bridge.
+
+Join the conversation on Twitter and don't forget to sign up for email alerts . 
+
+You may also be interested in:
+
+    Government as a Platform: the next phase of digital transformation
+    Preparing for Government as a Platform
+
+Hire the head and the body will follow
+Same, but different: a common international approach to digital government
+Sharing and comments
+Share this page
+
+    Twitter
+    Facebook
+    LinkedIn
+    Email
+
+3 comments
+
+    Comment by Julián Rodriguez Orihuela posted on on 07 August 2015
+
+    Have you considered using a system like block chain for this purpose?
+    Link to this comment
+
+    Comment by David REW posted on on 24 July 2015
+
+    Dear GDS Team
+
+    For the past five years we have been doing some transformational work within the Clinical Data Environment at University Hospital Southampton on graphically rich, timeline structured electronic clinical records to facilitate rapid assimilation of complex and heterogenous data through elegant real time visualisation tools.
+
+    There are considerable synergies between our work on the linear description of human lives and diseases, and the lives of properties (in data presentational terms).
+
+    We would be very pleased to explore the crossover utility of these tools with you, in the broader context of the work of the GDS, which we follow avidly.
+    Link to this comment
+        Replies to David REW>
+
+        Comment by Richard Brooker posted on on 27 July 2015
+
+        In theory, its relatively straightforward to describe a comprehensive information architecture for an organisation where you identify and model the entities of significance (such as property or citizens) and the lifecycle of changes to as other entities interact with them (such as ownership tittle, or boundary changes, or their interaction with a clinical care pathway).
+
+        So for government platform thinking (aka enterprise architecture thinking), it is certainly a good step to abstract the thinking away from the mechanics of storage such as databases and data-sets, and towards the aspects such as information value and good Records Management (..which is a term that seems to have fallen out of fashion in recent years), and how these information assets supports the capabilities, services and function over time.
+
+        But although it is straightforward in theory, it is not easy, and a key challenge with most enterprise architecture or service-oriented business architecture, even at small scale – let alone the scale of government, is how to implement it! …and how to transition from the “as is” to the “to be”.
+
+        Almost invariably, the creation of composite or shared business services creates changes to traditional organisational and governance models and it is often the inability to manage stakeholders, to agree consensus, and to implement Change at the organisational level that limits the ability to transform.
+
+        Another area to consider is setting and controlling the scope of the steps or changes, so that they are big enough to make a difference and show the value of the endeavours, but not so big that the activity becomes too complex with too many moving parts to control.
+
+        I suspect that in building the first bridge between to otherwise long-separated communities on either side of the ravine, it’s rarely the hurdle of ‘throwing of the steel thread’ or the subsequent engineering decisions that are the determining factors in when or if the bridge gets built, what sort of traffic it can convey, who uses it and for what.
+        Link to this comment
+
+Related content and links
+Government Digital Service
+
+Government Digital Service (GDS) is leading the digital transformation of government.
+
+Find out more .
+
+showing accessible and inaccessible text
+
+How accessible is your website?
+
+Public sector organisations have a legal duty to make websites accessible. Find out how your organisation is impacted at GOV.UK/accessibility-regulations
+
+GOV.UK service and product owners need to upload an accessibility page and publishers need to upload an accessible documents policy .
+Sign up and manage updates
+
+    Email
+    Atom
+
+Follow us
+
+    GDS on Twitter
+    GOV.UK on Twitter
+    DigiCareersGov on Twitter
+    YouTube
+    Flickr
+    Instagram
+    LinkedIn
+    GDS Podcasts
+
+Recent Posts
+
+    The Document Checking Service: trialling online passport validity checks 16 November 2020
+    New approaches to GOV.UK content 5 November 2020
+    Podcast: Celebrating Black Excellence in Tech 27 October 2020
+
+Comments and moderation
+Read our guidelines
+Social media house rules
+
+Read our guidelines
+Useful links
+
+    All GOV.UK blogs
+    All GOV.UK blog posts
+    GOV.UK
+    All departments
+    Accessibility statement
+    Cookies
+
+All content is available under the Open Government Licence v3.0 , except where otherwise stated
+© Crown copyright
+Cookie Control Icon
