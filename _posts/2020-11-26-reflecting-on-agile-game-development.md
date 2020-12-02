@@ -6,6 +6,8 @@ tags: ma falmouth crj week10 development-practice agile crj-interpersonal crj-pr
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 10
+module: development practice
 ---
 
 During week 10 we learnt more about the agile process and the various practices.

@@ -6,6 +6,8 @@ tags: ma falmouth crj week2 development-practice ai crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 2
+module: development practice
 ---
 
 From the topics this week, these two prompts:

@@ -6,6 +6,8 @@ tags: ma falmouth crj development-practice week7 crj-dispositional systems-based
 category: blog 
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 7
+module: development practice
 ---
 
 This is a reflection on the first [rapid ideation session]({% post_url 2020-10-27-game-jam %}). We ask these questions:

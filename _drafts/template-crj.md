@@ -6,6 +6,8 @@ tags: ma falmouth crj %TAGS%
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 1
+module: development practice
 ---
 
 Does a SMART goal come out of this?

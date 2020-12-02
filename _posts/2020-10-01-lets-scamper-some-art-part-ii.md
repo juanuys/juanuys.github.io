@@ -6,6 +6,7 @@ tags: ma falmouth week2 scamper art remediation development-practice
 category: blog
 # disqus_comments: true
 thumb: /assets/posts/2020-09-28-lets-scamper-some-art/thumb.jpg
+module: development practice
 ---
 
 In the [original post]({% post_url 2020-09-28-lets-scamper-some-art %}), I messed with some art and trying to transform it without knowing what remediation really meant.

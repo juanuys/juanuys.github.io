@@ -23,6 +23,13 @@ says albert einstein
 {% endif %}
 [{{post.title | truncatewords: 7 }}]({{ post.url }})
 <small>{{post.date | date: "%Y-%m-%d"}}</small>
+{% if post.week %}
+<!-- <small class="highlight"><abbr title="critical reflective journal">crj</abbr> week {{ post.week }}</small> -->
+<!-- <abbr title="critical reflective journal" style="background-color: #1986ff; color: white;">crj week {{ post.week }}</abbr> -->
+
+<small style="background-color: #1986ff; color: white; display: flex;"><abbr title="critical reflective journal">CRJ</abbr>&nbsp; week {{ post.week }}</small>
+
+{% endif %}
 </div>
 {% endif %}
 {% endfor %}

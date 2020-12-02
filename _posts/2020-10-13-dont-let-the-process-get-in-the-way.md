@@ -6,6 +6,8 @@ tags: ma falmouth crj week4 development-practice creativity scamper crj-interper
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 4
+module: development practice
 ---
 
 During [week 2 we applied some of the ideation techniques]({% post_url 2020-09-28-lets-scamper-some-art %}) we discussed in the course.

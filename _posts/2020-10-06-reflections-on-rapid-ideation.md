@@ -6,6 +6,8 @@ tags: ma falmouth crj week3 development-practice ideation crj-affective
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 3
+module: development practice
 ---
 
 During week 3 of development practice we discuss ideation and prototyping, and I'm briefly reminded of [ICEDIP](https://flex.falmouth.ac.uk/courses/872/pages/week-2-what-is-creativity?module_item_id=44797) in the previous week:

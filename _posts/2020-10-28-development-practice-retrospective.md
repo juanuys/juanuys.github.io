@@ -2,10 +2,12 @@
 layout: post
 title: "Development practice retrospective"
 description: "Development practice retrospective"
-tags: ma falmouth week6 retrospective development-practice
+tags: ma falmouth week6 retrospective development-practice crj crj-dispositional crj-cognitive
 category: blog
 # disqus_comments: true
 thumb: /assets/posts/2020-10-28-development-practice-retrospective/thumb.jpg
+week: 6
+module: development practice
 ---
 
 One of the tasks this 6th week is
@@ -41,7 +43,7 @@ For this item, I've done the following:
 - subscribe to some of the [Gamasutra newsletters](https://www.gamasutra.com/newsletter-signup)
 - create a few gamedev-related alerts on [Hacker News](https://news.ycombinator.com/) with [alerthn](https://alerthn.com/)
 
-I spend maybe 20-30 minutes on catching up on these every day, and the rest I just delete. I try and spot the timeless items, like game design gems, or insightful interviews with designers.
+I spend maybe 20-30 minutes on catching up on these every day, and the rest I just delete. I try and spot the timeless items, like game design gems, or insightful interviews with designers, and I [bookmark](https://pinboard.in/u:opyate/t:gamedev/) those.
 
 ## Figure out what it is I really want to do
 
@@ -60,13 +62,13 @@ There might be an opportunity in November 2020 to work on gamifying a VR night c
 
 As for the studio, I'll make a bunch of little unsuccessful games before I hit on the "big one".
 
-> ...at the beginning of 2009, Rovio was <span class="highlight">close to bankruptcy</span>. Then they had to create the perfect game, do every other little thing exactly right, and keep on doing it. The Heds had <span class="highlight">developed 51 titles before Angry Birds</span>. Some of them had sold in the millions for third parties such as Namco and EA, so they decided to create their own, original intellectual property.
-> 
-> "We thought we would need to do ten to 15 titles until we got the right one"
->
-> (Hed, Niklas. 2011)
 
+{% quote cheshire_depth_2011 %}
+...at the beginning of 2009, Rovio was <span class="highlight">close to bankruptcy</span>. Then they had to create the perfect game, do every other little thing exactly right, and keep on doing it. The Heds had <span class="highlight">developed 51 titles before Angry Birds</span>. Some of them had sold in the millions for third parties such as Namco and EA, so they decided to create their own, original intellectual property.
 
-# References
+"We thought we would need to do ten to 15 titles until we got the right one"
+{% endquote %}
 
-- [Hed, Niklas. 2011. Interview with Wired Magazine](https://www.wired.co.uk/article/how-rovio-made-angry-birds-a-winner) [accessed 2020-10-28]
+# Bibliography
+
+{% bibliography --cited %}

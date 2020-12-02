@@ -6,6 +6,7 @@ tags: ma falmouth development-practice week5 smart-goals okr timferriss
 category: blog
 # disqus_comments: true
 # thumb: /assets/masters/crj/thumb.png
+module: development practice
 ---
 
 And here on this last day of week 5, I manage to squeeze in the challenge activity (no, not the game jam). Phew!

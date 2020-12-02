@@ -6,6 +6,8 @@ tags: ma falmouth crj week9 development-practice eudaimonia-machine crj-interper
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 9
+module: development practice
 ---
 
 During week 9 we discuss communities of practice.

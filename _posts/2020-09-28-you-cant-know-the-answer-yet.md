@@ -6,6 +6,8 @@ tags: ma falmouth crj creativity week2 development-practice crj-affective crj-co
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 2
+module: development practice
 ---
 
 Week 2 is all about creativity.

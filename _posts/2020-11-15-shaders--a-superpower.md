@@ -6,6 +6,8 @@ tags: ma falmouth crj development-practice week8 shaders crj-interpersonal crj-p
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 8
+module: development practice
 ---
 
 We're almost at the end of our second rapid ideation session.

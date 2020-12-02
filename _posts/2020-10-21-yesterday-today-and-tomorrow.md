@@ -6,6 +6,8 @@ tags: ma falmouth crj week5 development-practice crj-dispositional crj-interpers
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 5
+module: development practice
 ---
 
 This week we're asked to reflect on our present situation, using the 3 perspectives below.

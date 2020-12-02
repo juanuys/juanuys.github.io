@@ -24,7 +24,13 @@ title: Posts by tag
         {% if post.tags contains t %}
         <li>
           <span class="date">{{ post.date | date: "%Y-%m-%d"  }}</span>
+
+          {% if post.week %}<span class="date">Week {{ post.week }} &mdash;</span>{% endif %}
+
           <a href="{{ post.url }}">{{ post.title }}</a>
+          <!-- {% if post.module %}
+          <span style="color: #bbb">under "{{ post.module }}"</span>
+          {% endif %} -->
         </li>
         {% endif %}
       {% endfor %}

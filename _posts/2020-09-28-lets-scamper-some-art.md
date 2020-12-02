@@ -5,6 +5,7 @@ description: "Modifying, rearranging, eliminating and adapting trees"
 tags: ma falmouth week2 development-practice scamper art
 category: blog
 thumb: /assets/posts/2020-09-28-lets-scamper-some-art/thumb.jpg
+module: development practice
 ---
 
 The challenge this week is to apply one of the ideation techniques we discussed to an existing artefact so as to remediate it into another artefact.

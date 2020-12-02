@@ -6,6 +6,8 @@ tags: ma falmouth crj week8 development-practice ethics crj-affective crj-interp
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 8
+module: development practice
 ---
 
 During week 8 we touch on audience/user research, or as it is called in game development: playtesting {% cite yanez-gomez_academic_2017 %}. We also consider the ethical implications of said research, and whether the research activities are low, medium, or high risk.

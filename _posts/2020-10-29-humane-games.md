@@ -6,6 +6,8 @@ tags: ma falmouth crj week6 development-practice humanetech crj-affective crj-in
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
+week: 6
+module: development practice
 ---
 
 The cohort and I had an informal discussion on our Discord today about "tech for good".
