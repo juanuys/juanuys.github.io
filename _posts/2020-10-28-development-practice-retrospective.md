@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Development practice retrospective"
 description: "Development practice retrospective"
 tags: ma falmouth week6 retrospective development-practice crj crj-dispositional crj-cognitive
