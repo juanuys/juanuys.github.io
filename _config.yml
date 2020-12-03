@@ -20,7 +20,7 @@ collections:
     permalink: /:collection/:path
 scholar:
   style: harvard-falmouth-university
-  bibliography: references/references.bib
+  bibliography: My Library/My Library.bib
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
