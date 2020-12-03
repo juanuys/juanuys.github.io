@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Reflecting on agile game development"
 description: "Reflecting on agile game development"
 tags: ma falmouth crj week10 development-practice agile crj-interpersonal crj-procedural
@@ -75,7 +75,3 @@ In conclusion, I will almost certainly maintain agile practice in my future soft
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 10_ of the module _Development Practice_.

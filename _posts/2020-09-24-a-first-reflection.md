@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "A first reflection."
 description: "My very first reflection for week 1."
 tags: ma falmouth crj week1 development-practice crj-affective crj-interpersonal crj-cognitive
@@ -29,7 +29,3 @@ So, it seems generalists do quite well. I will stop panicking, keep focusing on 
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 1_ of the module _Development Practice_.

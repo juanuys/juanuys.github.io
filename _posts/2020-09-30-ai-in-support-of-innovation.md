@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "AI in support of innovation"
 description: "AI in support of innovation"
 tags: ma falmouth crj week2 development-practice ai crj-procedural
@@ -43,7 +43,3 @@ Is it worth staying abreast of latest developments in AI? Yes, of course.
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 1_ of the module _Development Practice_.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Shaders - a superpower."
 description: "Shaders - a superpower."
 tags: ma falmouth crj development-practice week8 shaders crj-interpersonal crj-procedural
@@ -46,7 +46,3 @@ Of course, shader math is all about linear algebra and trigonometry {% cite gonz
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 1_ of the module _Development Practice_.

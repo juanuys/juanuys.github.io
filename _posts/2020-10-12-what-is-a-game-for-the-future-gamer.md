@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "What is a game for the future gamer?"
 description: "What is a game for the future gamer?"
 tags: ma falmouth crj week4 development-practice culture iainmbanks crj-affective crj-procedural
@@ -56,7 +56,3 @@ To me, a theory of fun says that games are in many ways not just deliberate prac
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 4_ of the module _Development Practice_.

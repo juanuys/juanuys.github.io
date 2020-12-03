@@ -1,0 +1,83 @@
+---
+layout: default
+---
+<div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            {% for tag in page.tags %}<a href="/tag/{{ tag }}" class="tag">{{ tag }}</a>{% endfor %}
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Week {{page.week}} &mdash; {{ page.title }}</h1>
+
+    <div>
+      <div style="float: left; padding-right: 20px;">tags:</div>
+
+      <div class="tags">
+        <ul>
+        {% for tag in page.tags %}
+        {% if forloop.index > 4 %}
+          <li><a title="tag: {{tag}}" href="/tags#{{tag}}" style="color:white;">{{ tag }}</a></li>
+        {% else %}
+          <li><a title="tag: {{tag}}" href="/tags#{{tag}}">{{ tag }}</a></li>
+        {% endif %}
+          
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+    
+
+    <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
+        {{ page.date | date: "%Y-%m-%d" }}
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body">{{ content }}</div>
+    <div class="breaker"></div>
+    <div class="breaker"></div>
+    <div>
+      <em>
+        This post is part of my <a href="/tags#crj">critical reflective journal</a> and was written during <a href="/tags#week{{ page.week }}">week {{ page.week }}</a> of the module <span class="highlight">{{ page.module }}</span>.
+      </em>
+    </div>
+    <div class="breaker"></div>
+    <div class="breaker"></div>
+
+  {% if page.disqus_comments %}
+    
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  this.page.url = "https://juanuys.com{{ page.url }}";
+  this.page.identifier = "{{ page.id }}";
+  };
+  (function() {
+  var d = document, s = d.createElement('script');
+  s.src = 'https://juanuys.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view comments.</a></noscript>
+
+  {% endif %}
+
+  <div class="previousnext">
+
+    {% if page.previous.url %}
+      <a class="pnbox prev" href="{{site.baseurl}}{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+
+    {% if page.next.url %}
+      <a class="pnbox next" href="{{site.baseurl}}{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+
+  </div>
+
+  </div>
+</div>
+

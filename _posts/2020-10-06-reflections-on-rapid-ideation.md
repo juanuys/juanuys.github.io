@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Reflections on rapid ideation"
 description: "Reflections on rapid ideation"
 tags: ma falmouth crj week3 development-practice ideation crj-affective
@@ -32,7 +32,3 @@ Therefore, I shall go forth, and steal like an artist, or perhaps "re-tell a sto
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 3_ of the module _Development Practice_.

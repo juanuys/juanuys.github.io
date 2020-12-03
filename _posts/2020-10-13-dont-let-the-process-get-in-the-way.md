@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Don't let the process get in the way."
 description: "Don't let the process get in the way."
 tags: ma falmouth crj week4 development-practice creativity scamper crj-interpersonal crj-affective crj-procedural
@@ -23,7 +23,3 @@ Be agile. People over processes {% cite beck_agile_2015 %}. Put yourself ahead o
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 4_ of the module _Development Practice_.

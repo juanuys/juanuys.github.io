@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "%TITLE%"
 description: "%DESCRIPTION%"
 tags: ma falmouth crj %TAGS%
@@ -19,6 +19,9 @@ Draw informed conclusions. (use literature)
 
 
 
+# ------------------------------------------
+# -- everything below here can be deleted --
+# ------------------------------------------
 
 
 # Summary
@@ -194,24 +197,3 @@ Succeeding in postgraduate study:
 
 - session 2: https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51386
 - session 7: https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=64108
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 1_ of the module _Development Practice_.

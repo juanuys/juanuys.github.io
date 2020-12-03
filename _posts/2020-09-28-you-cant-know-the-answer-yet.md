@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "You can't know the answer yet."
 description: "You can't know the answer yet."
 tags: ma falmouth crj creativity week2 development-practice crj-affective crj-cognitive crj-procedural
@@ -46,7 +46,3 @@ Iterate, iterate, iterate.
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 2_ of the module _Development Practice_.

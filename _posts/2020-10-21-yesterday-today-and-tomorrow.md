@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Yesterday, today, and tomorrow."
 description: "Yesterday, today, and tomorrow."
 tags: ma falmouth crj week5 development-practice crj-dispositional crj-interpersonal crj-cognitive
@@ -57,7 +57,3 @@ I never come back to a blank page; I always finish about halfway through. To be 
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 5_ of the module _Development Practice_.

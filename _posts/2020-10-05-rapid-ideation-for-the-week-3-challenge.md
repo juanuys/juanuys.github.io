@@ -49,8 +49,3 @@ I present the prototypes using another medium that pops up a lot in these pre-pr
 Have fun:
 
 [Disco PRE-lysium](https://juanuys.com/slides/slides/disco-prelysium)
-
-
-# References
-
-- 

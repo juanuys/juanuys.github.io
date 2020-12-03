@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Reflect on Rapid Ideation session 1"
 description: "Reflect on Rapid Ideation session 1"
 tags: ma falmouth crj development-practice week7 crj-dispositional systems-based-design crj-cognitive crj-procedural
@@ -59,7 +59,3 @@ Doing systems-based game design {% cite polack_guide_2018 %} might be a first fo
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 7_ of the module _Development Practice_.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Reflection on ethics"
 description: "Reflection on ethics"
 tags: ma falmouth crj week8 development-practice ethics crj-affective crj-interpersonal crj-cognitive crj-procedural
@@ -39,7 +39,3 @@ In conclusion: outsource playtesting, and content-rate all my games. I would the
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 8_ of the module _Development Practice_.

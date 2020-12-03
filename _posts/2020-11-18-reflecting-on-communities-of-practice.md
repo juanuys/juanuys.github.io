@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Reflecting on communities of practice"
 description: "Reflecting on communities of practice"
 tags: ma falmouth crj week9 development-practice eudaimonia-machine crj-interpersonal crj-procedural crj-affective
@@ -53,9 +53,3 @@ That all said, I think I'm happy with my level of participation in the wider com
 # Bibliography
 
 {% bibliography --cited %}
-
-
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 9_ of the module _Development Practice_.

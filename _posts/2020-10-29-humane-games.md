@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcrj
 title: "Humane games"
 description: "Humane games"
 tags: ma falmouth crj week6 development-practice humanetech crj-affective crj-interpersonal crj-cognitive
@@ -43,7 +43,3 @@ I'll organise a group discussion with my cohort and report back here with a foll
 # Bibliography
 
 {% bibliography --cited %}
-
-> This post is part of my [critical reflective journal](/tags#crj).
-
-> This post was written during _week 6_ of the module _Development Practice_.
