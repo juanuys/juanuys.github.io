@@ -28,6 +28,8 @@ There are quite a few bugs in the software:
 
 These could all be fixed (and I will). However, there's an upside: I managed to deliver a playable game (MVP) using a configuration which is known to work, and even if the pieces couldn't be rotated, they could still be placed to get to a solution. In the future I will take this direction again, as it's good to deliver something playable soon and fix bugs later, rather than building the perfect code up front.
 
+[![Cargo-n-Go screenshot](/assets/posts/2020-11-03-reflect-on-rapid-ideation-session-1/game.png)](https://opyate.itch.io/cargo-n-go)
+
 The second issue is that I could have used the ideation techniques more. I did some brainstorming and ICEDIP in my head on the night of the theme revelation, but completely neglected to do opposite thinking, SCAMPER, crazy eights, round robbin (with my family), and so forth. I think with more ideas I might have been able to make a puzzle game which has at least one more extra memorable quirk or slant to it which players will remember (and which isn't related to story, art or audio). In the future I'll definitely use the afore-mentioned techniques more.
 
 # Is there a way you could build on your work from the first session?
