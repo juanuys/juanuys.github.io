@@ -16,6 +16,8 @@ Week 12 is entitled Finale, and I'll cap things off by doing a tiny retrospectiv
 
 I'm very thankful for being shown the value of being a reflective practitioner. I sometimes write in my paper journal before bed time as a sort of meditative and mindfulness practice. And sometimes I write the odd blog post, but those range from creative writing pieces to recording tiny bits of my life for posterity. I've not really written from a critical reflection point of view, and will definitely keep it up as part of my ongoing professional development.
 
+Towards the end of the module, I participated in a couple of game jams, and realised my art could do with much betterment, so I've stated another [SMART goal](/masters/goals#be-a-better-artist) for this purpose.
+
 ![Reflective journaling](/assets/posts/2020-12-07-a-final-reflection-for-development-practice/journal.png)
 
 # Week 12 challenge
