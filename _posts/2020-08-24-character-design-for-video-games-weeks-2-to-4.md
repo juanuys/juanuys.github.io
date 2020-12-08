@@ -2,7 +2,7 @@
 layout: post
 title: "Coursera - Character Design for Video Games, weeks 2 to 4"
 description: "Course notes for Coursera course Character Design for Video Games, weeks 2 to 4"
-tags: coursera gamedesign
+tags: coursera gamedesign superme
 category: blog
 ---
 
@@ -94,7 +94,7 @@ The right-side image is inspired by [Pikachu](https://en.wikipedia.org/wiki/Pika
 
 (Again, I made a mistake and was supposed to find ONE source of inspiration and draw 3 different renditions of one character, but instead I found THREE sources of inspiration for the same character. Again, I guess I'm offering my peers more variety this way!)
 
-My protagonist in my [Jones](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane-inspired game is trying to get on top, but runs into the Mob.
+My protagonist in my [Jones](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane-inspired) game is trying to get on top, but runs into the Mob.
 
 Here's a mobster:
 

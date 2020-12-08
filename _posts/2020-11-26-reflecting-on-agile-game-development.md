@@ -18,7 +18,9 @@ My favourite two concepts from agile practice are "iteration" and "the prototype
 
 ## Iteration
 
-The middle ground between over- and under-planning is iteration:
+![Iteration](/assets/posts/2020-11-26-reflecting-on-agile-game-development/iteration.png)
+
+Iteration is the time-boxed analyse-design-build-test cycle, after which feedback informs the next cycle {% cite rasmusson_iterations_nodate %}. The middle ground between over- and under-planning is iteration:
 
 {% quote sylvester_designing_2013 -l 283-284,287 %}
 
@@ -39,6 +41,8 @@ That work provided us with a useful starting point for this year’s project. Th
 {% endquote %}
 
 ## Prototype
+
+![Prototype](/assets/posts/2020-11-26-reflecting-on-agile-game-development/prototype.png)
 
 Which brings us to the prototype. One of the most valuable parts of the agile process is the learning process (to know what to build), which is achieved by way of a prototype. A prototype is meant to take a short time to build, and be a rough approximation of the final product.
 

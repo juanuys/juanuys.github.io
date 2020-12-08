@@ -12,6 +12,8 @@ module: development practice
 
 During week 11 of development practice, we touch a bit on workplace readiness, which I felt was valuable *even if* the point of doing the MA is to teach you more about starting up an indie studio (instead of finding a job in gamedev). I guess it's good to keep your options open, and you might need to do a bit of freelancing to tide you over when the studio goes through a dry patch.
 
+[![My LinkedIn profile](/assets/posts/2020-12-03-personal-brand/linkedin.png)](https://www.linkedin.com/in/juan-m-uys/)
+
 A particular topic I want to reflect on is "personal brand". In the section "What employers look for in a CV", a recurring theme is "be yourself" and "be authentic", as collaborators want to work with real human beings {% cite noauthor_falmouth_nodate %}. This sentiment is also echoed by Michael R. Hunter, an expert on personal brand:
 
 {% quote hunter_why_2017 %}
