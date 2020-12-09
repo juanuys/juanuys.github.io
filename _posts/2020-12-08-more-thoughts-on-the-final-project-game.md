@@ -28,7 +28,7 @@ In a nutshell, you're a person who's new to a city, and want to get on the caree
 Things that can make your life better are: fulfillment, education, luxury, health, good food, wealth and investments.
 And worse are: rent, theft, fire, water damage, sickness, emergencies, accidents.
 
-I want to make the game fun and give the player a sense of flow by expertly balancing the good and the bad. The player might spend their first salary on a new TV, but then they have a fire later that week, which means more than just the new TV got damaged. Perhaps insurance would have been a good first buy? Or maybe cheaper entry-level insurance, and a cheap radio?
+I want to make the game fun and give the player a sense of flow {% cite csikszentmihalyi_creativity_2013 %} by expertly balancing the good and the bad {% cite macklin_games_2016 -l 25 %}. The player might spend their first salary on a new TV, but then they have a fire later that week, which means more than just the new TV got damaged. Perhaps insurance would have been a good first buy? Or maybe cheaper entry-level insurance, and a cheap radio?
 
 Regardless what you spend your money on, rent is soon due, and you'll watch in frustration as your landlord "garnishes" a bit off your pay every time you work, and you can never quite catch up to pay her back fully. In this regard, this game really opens your eyes to how poverty happens for some folks. Perhaps this could be my special message?
 
