@@ -61,12 +61,12 @@ My games won't annoy you with ads. You've already seen an ad for my game, and si
 
 Sid Meier articulates my thinking well:
 
-> ...coin-operated games were engaging in microtransactions long before their current wave of popularity. But there's no escaping the fact that many free-to-play games are predatory, especially when they target young children, or <span class="highlight">blur the lines between upgrades and necessary content.</span> There has to be a worthwhile product underneath, and a respectful, honest relationship with players about what they're getting for their money.
->
-> (Meier, S. and Noonan, J., 2020. Sid Meier's Memoir!. 1st ed. W. W. Norton & Company, p.255)
+{% quote meier_sid_2020 -l 255 %}
+...coin-operated games were engaging in microtransactions long before their current wave of popularity. But there's no escaping the fact that many free-to-play games are predatory, especially when they target young children, or <span class="highlight">blur the lines between upgrades and necessary content.</span> There has to be a worthwhile product underneath, and a respectful, honest relationship with players about what they're getting for their money.
+{% endquote %}
 
-<a href="#collapse1" data-toggle="collapse" class="collapse-button">Click here to see what my cohort says.</a>
-<div id="collapse1" class="hidden">
+<a href="#my-cohorts-opinion-of-pay-to-win" data-toggle="collapse" class="collapse-button">Click here to see what my cohort says.</a>
+<div id="my-cohorts-opinion-of-pay-to-win" class="hidden" markdown="1">
 
 I posed my cohort this question:
 
@@ -118,6 +118,10 @@ And there seems to be consensus:
 
 </div>
 
+
+# Bibliography
+
+{% bibliography --cited %}
 
 
 <script>
