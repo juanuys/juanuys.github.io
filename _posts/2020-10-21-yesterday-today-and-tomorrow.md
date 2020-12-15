@@ -18,6 +18,8 @@ This week we're asked to reflect on our present situation, using the 3 perspecti
 
 I have been making [small games](/games) for a while, but felt they lacked in good design. As I've [touched on before]({% post_url 2020-09-19-falmouth-masters-first-post %}), I enrolled in a game design course on Coursera, but felt the peer assessments and discussions lacking in depth, not to mention the material lacking the detail I've found in some of my books on design. I cast my net wider, and found [this course](https://flexible.falmouth.ac.uk/courses/ma-indie-game-development.htm). I'm happy with the course so far, and it has really forced me to think harder about how I want to shape my self-directed learning to reach my goals.
 
+![One of my games](/assets/posts/2020-10-21-yesterday-today-and-tomorrow/cornwars.png)
+
 # Reflect in-action
 
 *What critical incidents, if any, are you experiencing?*

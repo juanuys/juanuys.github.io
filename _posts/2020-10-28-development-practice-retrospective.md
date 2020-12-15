@@ -54,7 +54,9 @@ I think I previously came up with a list like this before, in order of attainabi
 - stay in my web development career, but find more creative opportunities (e.g. museum installations, or gamifying an ecommerce website)
 - save up and start a full-blown indie dev studio in a couple of years and spend all my time on my first title
 
-The truth is that [making a living as an indie is hard](https://www.youtube.com/watch?v=JmwbYl6f11c). The other option is working at medium/large studios, but I'd rather be part of a range of production activities, instead of just specialising in one thing.
+The truth is that [making a living as an indie is hard](https://www.youtube.com/watch?v=JmwbYl6f11c) {% cite gdc_how_2016 %}. The other option is working at medium/large studios, but I'd rather be part of a range of production activities, instead of just specialising in one thing.
+
+![Making games is hard](/assets/posts/2020-10-28-development-practice-retrospective/indie-dev-hard-mode.png)
 
 This is still something I'm thinking about. I'm almost certainly already half-way down that list (i.e. I'm appreciating games more as I learn about the disciplines, and I'm making games for fun anyway.)
 

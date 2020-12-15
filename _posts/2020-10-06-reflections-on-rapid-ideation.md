@@ -22,6 +22,8 @@ During week 3 of development practice we discuss ideation and prototyping, and I
 (All the above links {% cite petty_creativity_1997 %})
 
 I highlight research, because I want to draw attention to "prior art". The above articles do not talk about this. (Neither does [this article](https://getlevelten.com/blog/reneed/icedip).) What I've noticed with myself and my peers (during game jams, or other creative periods) is that we want to do something completely original, thereby foregoing a slew of very good ideas in fear of accidentally _copying_ an existing artefact.
+
+![Copying an artefact](/assets/posts/2020-10-06-reflections-on-rapid-ideation/copying.png)
  
 During your research phase, you will come across prior art. What to do? The old adage is that "good artists copy; great artists steal" {% cite otoole_good_2013 %}. This does not mean to plagiarise, but "the golden rule applies: Steal in the way you’d want to be stolen from, with credit, respect, and transformative new ideas" {% cite douglas_artist_2017 %}.
 

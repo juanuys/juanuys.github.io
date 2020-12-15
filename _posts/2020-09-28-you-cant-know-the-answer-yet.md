@@ -16,6 +16,8 @@ Coming into this course, one has a fairly good idea of what one likes, and what 
 
 A question I've been asked, and have seen asked others, is *"What new skills do you want to learn first?"*
 
+![Learn all the things](/assets/posts/2020-09-28-you-cant-know-the-answer-yet/learn.png)
+
 I want to say "all of them". (It's easy to be pulled into all directions by a [Gamasutra Daily](https://www.gamasutra.com/newsletter-signup) in your inbox, as I am currently...) But, I also know I have to think hard about the question which comes before that one: *"What is it that you want to build?"*
 
 We circle back to creativity. Figuring out **what** to build is almost a creative process in itself:

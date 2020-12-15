@@ -21,6 +21,8 @@ A non-exhaustive list of things that came up:
 
 I think this topic is extremely important for both UX designers and game designers alike, and Humane Tech encourages discourse and even provides some [guidance](https://www.humanetech.com/discussion-guide-for-technologists) on how to go about it.
 
+![Child with tablet](/assets/posts/2020-10-29-humane-games/child-tablet.png)
+
 This has urged me to reflect on which [values](/masters/values) I want to establish as a game designer, and one day as a studio. Tynan Sylvester even discusses values in [his book](https://tynansylvester.com/book/):
 
 {% quote sylvester_designing_2013 %}
@@ -39,6 +41,8 @@ I've also come up with a few of my own, and have [dedicated a page](/masters/val
 Also, my values will also influence my learning. For example, candor will bring disparate viewpoints out into the open (which is educational), and it will also determine what I don't learn (e.g. shun learning about applying the "bad bits" of behavioural psychology as I have no intention of keeping folks hooked on my game unnecessarily, because of my "do no harm" value.)
 
 I'll organise a group discussion with my cohort and report back here with a follow-up reflection.
+
+EDIT: the cohort's response was captured on the [values page](/masters/values).
 
 # Bibliography
 

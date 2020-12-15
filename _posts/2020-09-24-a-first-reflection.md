@@ -22,6 +22,8 @@ I also have first-hand anecdotal evidence of this as a [full-stack web developer
 
 Likewise, I also know that there's value in teams. "Indie" in "indie game development" stands for "independent", after all, not "individual". During this course we will learn about the business side of running an indie dev shop, and "Project managers do not need to be experts in what they are managing" {% cite newton_project_2009 %}.
 
+![Team-work trumps me-work](/assets/posts/2020-09-24-a-first-reflection/teamwork.png)
+
 So, it seems generalists do quite well. I will stop panicking, keep focusing on my core competencies, and:
 - learn more about building a great team with complementary skills
 - focus on building a great network of future collaborators

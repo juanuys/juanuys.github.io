@@ -47,6 +47,8 @@ Or would we always want to experience happiness?
 To me, a theory of fun says that games are in many ways not just deliberate practice machines, not just a swirl of systems, but a space between the dust from which we came, and the dust we shall be, in which we can engage in the grand pursuit [of happiness].
 {% endquote %}
 
+![Future gamer](/assets/posts/2020-10-12-what-is-a-game-for-the-future-gamer/vr.png)
+
 *Might a future human want to experience the dread of the war-stricken past?* <span class="highlight">Sure, if it's followed by a heart-welling victory over a mad dictator.</span>
 
 *Might they want to experience jealousy in a monogamous relationship?* <span class="highlight">Sure, if it's followed by the rekindling of a lost love.</span>
