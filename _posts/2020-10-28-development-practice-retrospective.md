@@ -60,7 +60,7 @@ The truth is that [making a living as an indie is hard](https://www.youtube.com/
 
 This is still something I'm thinking about. I'm almost certainly already half-way down that list (i.e. I'm appreciating games more as I learn about the disciplines, and I'm making games for fun anyway.)
 
-There might be an opportunity in November 2020 to work on gamifying a VR night club experience, which brings me closer to the 3rd point on that list.
+There might be an opportunity in November 2020 to work on gamifying a VR (virtual reality) night club experience, which brings me closer to the 3rd point on that list.
 
 As for the studio, I'll make a bunch of little unsuccessful games before I hit on the "big one".
 

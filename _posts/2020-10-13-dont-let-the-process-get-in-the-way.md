@@ -14,7 +14,7 @@ During [week 2 we applied some of the ideation techniques]({% post_url 2020-09-2
 
 We were encouraged to experiment with techniques we haven't with before (to learn about them; to get a feel for them), and what I noticed was some of us completely stumbled over a few of the techniques.
 
-Case in point: SCAMPER {% cite michalko_thinkertoys_1991 %}. Some of us thought you literally had to apply **each** of the steps, and **in order**. This might or mightn't be the way this technique was intended to be used, but then I also discovered the Creative Thinkpak {% cite michalko_thinkpak_2006 %}, which encourages you to try a random SCAMPER until you have a breakthrough. I ended up building an online SCAMPER randomiser {% cite uys_randomised_2020 %} and then shared it with my cohort.
+Case in point: SCAMPER {% cite michalko_thinkertoys_1991 %}. (Recall that SCAMPER stands for Substitute, Combine, Adapt, Modify (Also Magnify and Minify), Put to another use, Eliminate, and Reverse.) Some of us thought you literally had to apply **each** of the steps, and **in order**. This might or mightn't be the way this technique was intended to be used, but then I also discovered the Creative Thinkpak {% cite michalko_thinkpak_2006 %}, which encourages you to try a random SCAMPER until you have a breakthrough. I ended up building an online SCAMPER randomiser {% cite uys_randomised_2020 %} and then shared it with my cohort.
 
 ![My pack of Creative Thinkpak](/assets/posts/2020-10-13-dont-let-the-process-get-in-the-way/thinkpak.png)
 

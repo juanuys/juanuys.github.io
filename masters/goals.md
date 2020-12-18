@@ -11,9 +11,9 @@ rank: 100
 
 # Introduction
 
-Here I set my SMART(ER) goals using past-tense.
+Here I set my SMART(ER) goals using past-tense. Recall that SMART(ER) stands for Specific, Measurable, Achievable, Relevant, Time-bound, Emotional attachment, and Reward.
 
-Answer: 
+Answer these questions pertaining to the goal: 
 
 - what?
 - who?

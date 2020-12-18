@@ -12,7 +12,7 @@ module: development practice
 
 During week 10 we learnt more about the agile process and the various practices.
 
-I've been a software developer now for almost 20 years, and have a fair grasp of the agile process. I was especially immersed in the [agile process during my tenure with GOK.UK](https://www.gov.uk/service-manual/agile-delivery). I've seen teams use a mix of different processes, anywhere from [extreme programming](https://www.agilealliance.org/glossary/xp/) all the way to longer sprints called "mini [waterfalls](https://www.lucidchart.com/blog/waterfall-project-management-methodology)".
+I've been a software developer now for almost 20 years, and have a fair grasp of the agile process. I was especially immersed in the [agile process during my tenure with GOV.UK](https://www.gov.uk/service-manual/agile-delivery). I've seen teams use a mix of different processes, anywhere from [extreme programming](https://www.agilealliance.org/glossary/xp/) all the way to longer sprints called "mini [waterfalls](https://www.lucidchart.com/blog/waterfall-project-management-methodology)".
 
 My favourite two concepts from agile practice are "iteration" and "the prototype".
 
@@ -56,7 +56,7 @@ In game development terms, a prototype would be a grey-boxed (or some say white-
 After chopping up the outline for the game we have been white boxing the chapters, one after another. White boxing for us literally means placing out white boxes and placeholder items instead of final props and beautiful 3D art. The goal for this is to <span class="highlight">get the backbone of the whole game in place as quickly as possible</span>, it’s almost like doing sketches before you paint a canvas. What we want to do here is to <span class="highlight">test the story pacing, puzzles and the core game mechanics</span>. This is quick and dirty, but it helps us build the game in an organic way, and we can test things straight away.
 {% endquote %}
 
-I've been in a few hackathons now (both for fun and at work) to know in my bones that the MVP works wonders for learning. However, I've also seen the MVP get in the way of serendipity, as the learning directs a team away from what a product wants to be. As such, the most important skill for a game designer is listening {% cite schell_art_2019 -l 5 %}, not just to their playtesters, but also to their teams and their inner voice.
+I've been in a few hackathons now (both for fun and at work) to know in my bones that the MVP (minimum viable product) works wonders for learning. However, I've also seen the MVP get in the way of serendipity, as the learning directs a team away from what a product wants to be. As such, the most important skill for a game designer is listening {% cite schell_art_2019 -l 5 %}, not just to their playtesters, but also to their teams and their inner voice.
 
 On [BioShock](https://www.bioshockgame.com/):
 

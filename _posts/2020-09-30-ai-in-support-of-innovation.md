@@ -24,7 +24,7 @@ The hot topic in the AI scene of late is [GPT-3](https://arxiv.org/abs/2005.1416
 
 ![Neural network](/assets/posts/2020-09-30-ai-in-support-of-innovation/neuralnet.jpg)
 
-AI have long found an application in video games in terms of NPC actions and combat AI {% cite schreiner_combat_2002 %}. However, this application is quite simplified, as games have to remain fun and AIs can't be too clever and alienate the player.
+AI have long found an application in video games in terms of NPC (non-player character) actions and combat AI {% cite schreiner_combat_2002 %}. However, this application is quite simplified, as games have to remain fun and AIs can't be too clever and alienate the player.
 
 However, looking at the [GPT-3 applications](https://www.youtube.com/watch?v=_x9AwxfjxvE) that currently exist in prototype stage, it looks like AI might be an assistive technology in the video games production process. This is an avenue I want to explore further.
 

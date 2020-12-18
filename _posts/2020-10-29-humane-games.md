@@ -19,7 +19,7 @@ A non-exhaustive list of things that came up:
 - how much screen time?
 - examples in our own families of where social networks have been detrimental to mental health
 
-I think this topic is extremely important for both UX designers and game designers alike, and Humane Tech encourages discourse and even provides some [guidance](https://www.humanetech.com/discussion-guide-for-technologists) on how to go about it.
+I think this topic is extremely important for both UX (user experience) designers and game designers alike, and Humane Tech encourages discourse and even provides some [guidance](https://www.humanetech.com/discussion-guide-for-technologists) on how to go about it.
 
 ![Child with tablet](/assets/posts/2020-10-29-humane-games/child-tablet.png)
 
