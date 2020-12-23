@@ -16,7 +16,7 @@ A game I have been thinking about making over the past year is inspired by [Jone
 
 ![Jones in the Fast Lane, Copyright 1991 Sierra Entertainment](/assets/posts/2020-12-08-more-thoughts-on-the-final-project-game/jones.png)
 
-(Image Copyright 1991 Sierra Entertainment)
+(Screenshot of "Jones in the Fast Lane ", Copyright 1991 Sierra Entertainment)
 
 Those posts covered world design and character art a bit, but I have not thought about the game mechanics yet. However, I've learnt more about game design recently, so now might be a good time to start.
 

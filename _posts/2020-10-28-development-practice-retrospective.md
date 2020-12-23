@@ -58,6 +58,8 @@ The truth is that [making a living as an indie is hard](https://www.youtube.com/
 
 ![Making games is hard](/assets/posts/2020-10-28-development-practice-retrospective/indie-dev-hard-mode.png)
 
+(Copyright 2016 GDC)
+
 This is still something I'm thinking about. I'm almost certainly already half-way down that list (i.e. I'm appreciating games more as I learn about the disciplines, and I'm making games for fun anyway.)
 
 There might be an opportunity in November 2020 to work on gamifying a VR (virtual reality) night club experience, which brings me closer to the 3rd point on that list.

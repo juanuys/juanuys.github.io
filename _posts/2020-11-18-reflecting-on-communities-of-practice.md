@@ -34,7 +34,7 @@ Deep work is what might happen when you're by yourself in the "deep work chamber
 
 ![Eudaimonia Machine](/assets/posts/2020-11-18-reflecting-on-communities-of-practice/eudaimonia-machine.png)
 
-*Image credit {% cite murray_eudaimonia_2020 %}*
+(Eudaimonia Machine, Copyright 2020 Murray)
 
 However, we shan't forget to incorporate others into these activities either: your colleagues, team mates, cohort, greater network, and communities of practice. You will advance in your career, but so will those in your networks, so be sensitive to their time {% cite horowitz_freelancers_2012 -l 126 %}. When I have asked for startup advice from seasoned entrepreneurs, my emails were short, to the point, with a focused question, and perhaps 3 scheduling options for following up in person (if required), so they can just pick one that suits them. Once I got my answer, I usually follow up with a thank you note or a bottle of wine.
 
