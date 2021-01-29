@@ -1,12 +1,13 @@
 ---
 title: "Bricks Crusher"
 name: brickscrusher
-layout: post
+layout: game
 description: "Bricks crusher game made with Godot and GDScript"
 permalink: /games/brickscrusher
 thumb: /assets/games/brickscrusher/thumb.png
 category: jam
 builtwith: godot gdscript
+blogpost: /tags#contumacious
 pagetype: game
 rank: 100
 ---
