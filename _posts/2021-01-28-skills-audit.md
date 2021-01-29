@@ -10,7 +10,7 @@ week: 1
 module: game development
 ---
 
-This week is week 1 of the module "game development". This week's challenge activity is a skills audit, and the spark forum prompts us to think about the roles within game development.
+This is week 1 of the module "game development". This week's challenge activity is a skills audit, and the spark forum prompts us to think about the roles within game development.
 
 # Skills audit
 
@@ -32,11 +32,11 @@ A more recent example of spawning objects is shooting balls for a [small bricks 
 
 > 4 👍 I can set up an animation in my chosen game engine and control it with code and / or with a state machine.
 
-I've not made a game using this, but I did a Unity tutorial back in 2016 or earlier.
+The first version of [Contumacious Commuter](/games/contumacious) back in 2016 had idle/action animations, implemented in Unity.
 
 > 5 👎 I can use level design tools to block-out a level in my chosen game engine.
 
-All of my games thus far has had procedurally generated levels (e.g. puzzle configurations) or were custom jobs (e.g. generating a puzzle layout from flat file configuration), save for the [small game I made over Xmas](/games/santasaunter), which has a [map editor built into the database called CastleDB](http://castledb.org/#level). But otherwise, no 3D experience, or any of the more well-known tools. An old collaborator of the HaXe guys (who makes CastleDB) made [LDtk](https://deepnight.itch.io/ldtk), which I'd like to use for a game soon.
+All of my games thus far has had procedurally generated levels (e.g. puzzle configurations) or were custom jobs (e.g. generating a puzzle layout from flat file configuration), save for the [small game I made over Xmas](/games/santasaunter), which has a [map editor built into the database called CastleDB](http://castledb.org/#level). But otherwise, no 3D experience, or any of the more well-known tools. An old collaborator of the Haxe guys (who makes CastleDB) made [LDtk](https://deepnight.itch.io/ldtk), which I'd like to use for a game soon.
 
 > 6 👎 I can use my game engine’s pathfinding system (if it has one) to create enemies and NPCs that chase or follow the player.
 
@@ -48,7 +48,7 @@ Oh, yes. I compared my first 2 numbers on a computer some time in 1991 or 1992 u
 
 > 8 👍 I can configure particle systems to create different visual effects (eg fire, snow).
 
-Every good engine has a particle system!
+Every good engine has a particle system! This [maths game prototype](https://juanuys.com/mathsgame/) for the previous module's [first game jam]({% post_url 2020-10-27-game-jam %}) shows particles if you answer correctly.
 
 > 9 👍 I can use appropriate software to create appealing character sprites or models.
 
@@ -66,7 +66,7 @@ I've never made environment sprites or models (crates, anyone?), but I'm sure th
 
 > 11 👍 I can create character animations, such as walking and jumping, and bring them into my game engine.
 
-Yes, see the second-previous point.
+Yes, see the second-previous point. Look at that little man strutting.
 
 > 12 👍 I can use appropriate software to design clear user-interfaces.
 
