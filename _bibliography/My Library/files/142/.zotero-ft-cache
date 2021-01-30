@@ -1,0 +1,242 @@
+Informa
+
+Gamasutra: The Art & Business of Making Games spacer
+GAME JOBS
+updates Blogs contractors newsletter Game Career Guide
+SEARCH
+GO
+
+    ALL
+    CONSOLE/PC
+    SMARTPHONE/TABLET
+    INDEPENDENT
+    VR/AR
+    SOCIAL/ONLINE 
+
+Member Login
+	Email:   		
+Password:   	
+  	
+Forgot Password?   Sign Up
+
+     
+     
+     
+     
+
+arrow
+PROGRAMMING
+spacer
+ART
+spacer
+AUDIO
+arrow
+DESIGN
+arrow
+PRODUCTION
+arrow
+BIZ/MARKETING
+
+arrow Latest Jobs
+View All     RSS January 30, 2021
+
+    Ringtail Interactive
+    Senior Game Designer (F2P)
+    Gunfire Games
+    Senior Boss Designer
+    innogames
+    Senior Game Designer - Forge of Empires
+    Deep Silver Volition
+    Senior Technical Designer
+    DePaul University
+    Term Faculty (Non-Tenure Track) &ndash; Game Art/3D
+    innogames
+    Game Designer - New Mobile Game
+
+arrow Latest Blogs
+View All     Post     RSS January 30, 2021
+
+    Unexplored's Secret: 'Cyclic Dungeon Generation'
+    The 'fab four' game marketing maxims to live by [ 1 ]
+    A Design Discussion on Death Stranding [ 2 ]
+    Opinion: Xbox's Gold pricing flipflop & Game Pass ramifications
+    How much should I discount my game? [ 3 ]
+
+arrow Press Releases
+January 30, 2021 Games Press
+
+    3on3 FreeStyle Launches the First Cross-Play...
+    La créature sort de sa tanière : Monstrum 2 se...
+    AJAX & DIOMEDES EST MAINTENANT DISPONIBLE POUR A...
+    DUSKWOOD: Episode 7 Is Now Available!
+    The Award-Winning Crafting RPG Crashlands launches...
+
+View All     RSS
+arrow About
+
+    Editor-In-Chief:
+    Kris Graft
+    News Editor:
+    Alissa McAloon
+    Contributors:
+    Chris Kerr
+    Bryant Francis
+    Katherine Cross
+
+Contact Gamasutra
+Report a Problem
+Submit News
+Comment Guidelines
+Blogging Guidelines
+How We Work
+Download Media Kit
+Sponsor
+arrow Gama Network
+If you enjoy reading this site, you might also want to check out these UBM Tech sites:
+Game Career Guide
+Indie Games
+
+arrow Blogs
+ 
+The Roguelike Debate -- Roguelikes vs Roguelites
+by Josh Bycer on 11/25/19 10:55:00 am   Expert Blogs
+
+2 comments Share on Twitter
+   RSS
+The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community.
+The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent company.
+ 
+ 
+
+This decade has done a lot for the rogue-like genre among indie and mainstream developers. Building on the success of Spelunky and the Binding of Isaac, roguelikes, souls-likes, rogue-lites, and possibly more connotations have sprung up. The subgenre has become immensely popular with indie devs all trying to make the next big success, and it has caused a hotly debated discussion for every new game: what’s the difference between a rogue-like and a rogue-lite?
+
+While some use this to troll, there is an actual game design discussion to be had here, and what we’re going to break down today.
+Rogue’s Rogue
+
+As always, let’s begin with a brief history. The rogue-like genre is named that in honor of the game Rogue, released in 1980, the first game to popularize the aspects that would go on to define roguelikes, despite there being older examples. With Rogue, players had to explore a dungeon to find a magical amulet, with the layouts, monster placements, and treasure location randomly generated. If the player dies, their progress is wiped, and they must restart from the top.
+
+Rogue would go on to inspire the game Hack which in turn was re-released and updated as Nethack in 1987. Nethack is considered one of the finest roguelikes ever made, and is still being updated to this day.
+
+Throughout the 90’s we saw more titles on the PC that were based off Nethack, as well as console titles with their own designs; such as the Shiren the Wanderer series. Despite that, there were titles like Toejam and Earl that despite not having any RPG elements to them, did show signs of rogue-like design.
+
+The rogue-like genre had a dedicated niche of fans for over 20 years, but it wasn’t until this decade that we saw it burst onto the mainstream.
+The Rogue-like Arrival:
+
+If you were to ask a modern fan today the game that got them into roguelikes, chances are they would namedrop one of the following: The Binding of Isaac, FTL, or Spelunky. All three titles embodied the basic ideas of the classical rogue-like: procedurally generated game spaces, permadeath difficulty, and variance between runs.
+
+There’s just one big difference that all of them share, none of them would be considered RPGs in the same sense as older roguelikes. Each game used the rogue-like formula, but applied it to a different genre. We could spend entire articles talking about each one of these games, and I’ve written about both Spelunky and the Binding of Isaac in my first book “20 Essential Games to Study” and they’ll be a part of my hopefully fourth book on design.
+Spelunky and other rogue-likes focus on a run-by-run design loop
+
+This is where we began to see the loosening of the term “rogue-like” among developers, and being inspired to take those elements into other genres. At this point, I’ve forgotten more roguelikes than most people have played this decade. 
+
+And with that, the idea of a rogue-like began to get muddy among fans and consumers. There are still people who say that none of the games released this decade should be called a rogue-like because they’re not RPG in nature.
+
+In turn, this created the other term “rogue-lite,” whose definition as per this article is hotly debated. What makes this a difficult topic is that many people will immediately designate a title a rogue-like or a rogue-lite without digging into it, and many developers have purposely tagged or defined their game as either genre to try and get people interested in them.
+
+But it’s finally time to earn some internet hate and make an official definition for these terms.
+What’s a Rogue-Like?
+
+A Rogue-Like by my definition is a game with randomly or procedurally generated game spaces, hardcore (or semi-hardcore difficulty) and able to create a lot of variance between runs. While that part is nothing new to fans of the genre, there is one other factor that I feel is critical for a game to be called a rogue-likeâ€Š—â€Šthe game’s focus and gameplay loop is on the runs and not on reaching the end.
+
+Obviously, every rogue-like (and of course every game) has an endpoint for the player to reach, but roguelikes are not about reaching it, but seeing what happens on the next run. There’s a reason why roguelikes typically give players a score at the end of a run so that they have something to compare the next one too.
+
+The best roguelikes are designed around variance as opposed to hard elements. Getting the proc gen (procedural generation) correct is beyond the scope of this piece, but it’s required to create the variance needed to make each run play differently.Persistence elements are typically not the focus of a rogue-like. The only exception is using persistence to add more to the proc gen on future runs, such as in the Binding of Isaac, or new ships in FTL. The player is always focused on the run at hand and there should not be any carryover from one run to the next.
+
+With that said, let’s turn our attention to the rogue-lite genre.
+What’s a Rogue-Lite
+
+Rogue-lite are typically designed around random or procedurally generated spaces with the same concept of hardcore or semi-hardcore difficulty, but the focus of playing them is reaching the end and not on the run itself.
+
+Unlike roguelikes, rogue-lites have a heavy focus on persistence and carryover between runs. In fact, a key difference between a rogue-like and a rogue-lite is that you typically are not able to beat a rogue-lite with your early runs.
+rogue-lites focus on persistence and carryover between runs
+
+That last point needs to be clarified, as you’re not going to be beating a rogue-like on your early runs either. The differing factor is that a rogue-like is designed so that it is possible to beat a run depending on the skill of the player. With a rogue-lite however, the abstraction and persistence elements prevent a player from winning until the abstraction matches the player’s skill.
+
+Playing games like Rogue Legacy, Hades, among many others, I still need to grind the persistence systems, but not as much compared to someone with lesser skill than I. With rogue-lites, given enough time any player should be able to win once the persistence elements are stacked in their favor.
+
+Unlike roguelikes, rogue-lites have a finite end for the player to reach and there isn’t enough variance between the runs to keep someone invested after they reach it. Despite having procedurally generated environments, the basic run through in each rogue-lite does not change or provide variance on repeated plays. When playing a game like FTL, even though new ships unlock through play, the player is always starting back at 0 with each new run. The design of a rogue-lite will determine how much carry-over there is, but the player will typically lose common items and keep some kind of currency or persistent element.
+
+The problem with replaying rogue-lites is that without the variance to generate different runs, the persistent systems will override any sense of challenge given enough time. As a case in point, when playing Hades in its current version, I could beat the game fully starting at 0 in about 4 runs of play thanks to my knowledge of the game and the persistent elements.
+What Does This All Mean?
+
+At the start I said that this kind of question has been used to troll many developers, but it’s important to understand the focus for your design. If you’re trying to make a rogue-like, then you need to invest heavily into the proc gen of your game, and designing elements that can lead to variance. That means differing options for the player, just as having different enemies and events that can change the path of a run. If the player is having the same experience from one run to the next, then you are in trouble.
+
+For a rogue-lite, you need to think about the progression curve that is carrying through from one run to the next. While you are focusing on replayabilty such as a rogue-like, it’s coming from a different direction. You want the player to feel like every run is moving the needle forward; whether it’s by inches or miles.
+
+Both sub-genres have tremendous potential in terms of their gameplay loops, and the proof is in the number of games that have been released. The next time we should add more fuel to the fire and talk about the souls-like genre.
+
+For more talks about game design, be sure to check out my discord channel now open to everyone.
+Related Jobs
+Ringtail Interactive
+Ringtail Interactive — Stockholm, Sweden
+[01.29.21]
+Senior Game Designer (F2P)
+Gunfire Games
+Gunfire Games — Austin, Texas, United States
+[01.29.21]
+Senior Boss Designer
+innogames
+innogames — Hamburg, Germany
+[01.29.21]
+Senior Game Designer - Forge of Empires
+Deep Silver Volition
+Deep Silver Volition — Champaign, Illinois, United States
+[01.28.21]
+Senior Technical Designer
+
+
+[ View All Jobs ]
+
+
+Sponsored Content
+Increase game revenue with app bidding on Facebook Audience Network
+
+Game developers on mobile platforms face a challenging marketplace. So how can they be more efficient and effective when building their business? Michael Bertaut, director of Facebook Audience Network EMEA joins us to talk about creating a sustainable developer ecosystem.
+Brought to you by Facebook, Inc
+Comments
+James Lom
+	
+22 Sep 2020 at 7:29 am PST
+profile image 	
+"A Rogue-Like by my definition is a game with randomly or procedurally generated game spaces, hardcore (or semi-hardcore difficulty) and able to create a lot of variance between runs."'By my definition' Is a dependent clause being used as a mild interjection. It should be separated with commas. 'A rogue-like, by my def, is a ..'. Also, using your own definitions for things isn't the same as referencing a standard. You should have used another reference than yourself when discussing what is the difference between rogue-like games and rogue-lite games. The title, as it stands, should have reflected that this is your opinion. It sounds like it's an overview of the debate in general and that would have included the definition as recognized by some kind of authority or, at least, what either side thinks the definition is. The difference, of course, being that as it stands now your title suggests that this article is going to be fact or research based and not based on your opinion. Sorry to be a grammar nazi but I read this article up to the point where you said that line there and realized that this isn't what I thought it was. Also, if you look at the predicate in that sentence, you make a list of three things that make a rogue-like, in your opinion:-Procedurally generated runs (Saying random or procedurally generated is redundant)-hardcore or semi-hardcore difficulty. (the parentheses you used are unnecessary and shouldn't include the word difficulty. If that were a mild interjection it would look like this- 'Hardcore, or semi-hardcore, difficulty. -able to create a lot of variance between runs. (this is redundant to the first thing in this list. By design, random or procedurally generated games create a lot of variance between runs.)So, realistically, your only requirements for a Rogue-Like is that it's procedurally generated and has a hardcore difficulty. So, in your opinion, XCOM 2 is a rogue-like. It's procedurally generated and has hardcore mode. However, Enter the Gungeon is not a Rogue-like and neither is Rogue itself bc neither one has a hardcore difficulty mode. Sounds like you're talking about games that are Isaac-like and not Rogue-like. Also, I would assume that you included the redundancies I mentioned bc you want longer, more professional-sounding sentences. That's fine, but you can't just shotgun filler out there. You need some insightful, accurate points as well. Good Luck, it was nice reading your article. You should keep at it. Have a good one.
+	
+Login to Reply or Like
+Ryan Ryan
+	
+9 Oct 2020 at 8:35 pm PST
+profile image 	
+This comment really comes across as obnoxious and elitist, with its own messy sentence structure to boot. In the "Arrival" section, the author of the article brings attention to the discourse around the definitions of a rogue-like, and how it has muddied over the years. From there he goes into his own definitions and expands on the different points with examples and more explanations. There's a difference between being redundant to fill space and reiterating a point for clarity, but based on your response it seems as though you can't tell. You also fail to mention his focus on "runs" for both rogue-likes and rogue-lites, which are key parts of both. Your example with XCOM 2 doesn't work because the game is focused on an overall story and progression, rather than individual runs over and over. The game never resets you back to square 1 at any point - Your soldiers stay with you throughout the whole game unless they die.There are some points in your comment where it seems like you're trying to give constructive criticism, but overall you seem to be nitpicking and missing the purpose behind his statements and examples. You should keep at it, though. Have a good one.
+	
+Login to Reply or Like
+
+Login to Comment
+
+
+
+Discover more from Informa Tech
+
+    Game Developers Conference
+    Independent Games Festival
+    Gamasutra Jobs
+    Game Developers Choice Awards
+    GDC Vault
+    Omdia
+    Game Career Guide
+
+Working With Us
+
+    Contact us
+    About Us
+    Advertise
+
+Follow gamasutra on Social
+
+alt text of the logo
+
+    Home
+    Cookies
+    CCPA: Do not sell my personal info
+    Privacy
+    Terms
+
+Copyright © 2021 Informa PLC Informa UK Limited is a company registered in England and Wales with company number 1072954 whose registered office is 5 Howick Place, London, SW1P 1WG.
