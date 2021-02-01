@@ -122,7 +122,7 @@ Currencies, crafting materials or ‘ammo’ must often be spent to perform an a
 
 A hand is dealt from your deck at the start of every encounter, so for the duration of the battle, your deck is your most valuable resource (apart from health points, of course), and for the duration of the turn, it's the hand you were dealt. You "spend" a card when you play it, and it goes into your discard pile. Your opponent can cast spells which effectively nullifies a card.
 
-You can collect or purchase relics along your journey, which are persistent, and have lasting effects (such as unique abilities) as long as you're alive. You can also collect or purchase potions, which are single use, and can be used to increase health or buff your next attack.
+You can gather gold after slaying enemies, and this can be used with the merchant. You can collect or purchase relics along your journey, which are persistent, and have lasting effects (such as unique abilities) as long as you're alive. You can also collect or purchase potions, which are single use, and can be used to increase health or buff your next attack.
 
 # Decisions
 
@@ -134,7 +134,7 @@ Slay The Spire offers tremendous levels player agency.
 
 At the start of a game, the player chooses one of 4 avatars, each with unique relics, cards, and abilities.
 
-The player chooses which cards to add to their decks at the end of every battle. You can very easily dilute your deck if you add each and every card along the way. The player chooses whether to spend their gold on cards, relics, or potions when visiting the merchant. The player chooses which branch to take when traversing the spire, e.g. do we visit the merchant next, or battle another enemy?
+The player chooses which new cards to add to their decks at the end of every battle. You can very easily dilute your deck if you add each and every card along the way. The player chooses whether to spend their gold on cards, relics, or potions when visiting the merchant. The player chooses which branch to take when traversing the spire, e.g. do we visit the merchant next, or battle another enemy?
 
 And most importantly, at each turn, the player chooses which cards to play.
 
@@ -186,7 +186,7 @@ Characters (player and NPC) have basic animations for attacks and spell casting,
 
 Particle effects aplenty as attacks and spells are executed, like lightning, splatter, etc.
 
-The hand of cards animate when you cycle from one card to the next, to clearly indicate which card might be played next. A played card flies across the screen into the discard pile.
+The hand of cards animate when you cycle from one card to the next, to clearly indicate which card might be played next. The highlighted card is telegraphed onto the enemy you want to attack (if it is an attack card). A played card flies across the screen into the discard pile.
 
 # Sound Design
 
@@ -200,7 +200,7 @@ Battle music is epic/cinematic strings with plenty of staccato.
 Menu music is forboding, telling of the possible gains or losses waiting on your path.
 When you go to the campsite to rest, you get soothing music with harp and lyre, which is a beautiful contrast to the horror that awaits you the following day.
 
-When you visit the merchant, the music brings the following ideas to mind: teasing, almost comical, rongue-in-cheek, melodramatic, somewhat suspenseful. It uses 3/3 timing signature (unlike all the other music), which feels like you're dancing around the merchant's bartering skills, even though the game doesn't include haggling as a mechanic.
+When you visit the merchant, the music brings the following ideas to mind: teasing, almost comical, tongue-in-cheek, melodramatic, somewhat suspenseful. It uses 3/3 timing signature (unlike all the other music), which feels like you're dancing around the merchant's bartering skills, even though the game doesn't include haggling as a mechanic.
 
 
 # Final thoughts
