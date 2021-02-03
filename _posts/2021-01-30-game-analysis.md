@@ -2,7 +2,7 @@
 layout: post
 title: "Game analysis"
 description: "Game analysis"
-tags: ma falmouth game-design
+tags: ma falmouth ma-game-development week2 game-design
 category: blog
 # disqus_comments: true
 thumb: /assets/posts/2021-01-30-game-analysis/thumb.jpg
@@ -18,7 +18,7 @@ There is a great number of very good games I've played over the years, but since
 These are typically the things that the player can do in the game. Some game mechanics operate on a moment-to-moment timescale, for example running and jumping, while others have a longer timescale, for example completing a level might happen every few minutes.
 {% endquote %}
 
-Actions in the battle scenes are represented by cards, which the player "plays" by dragging it onto the battle area from the "hand" at the bottom of the screen. When defeating a monster, the player collects spoils, which may include more gold, potions, or adding a card to their deck. In the map scene, the player can choose which branch of the path to explore next, and choices are monsters (or elite monsters with better wards), camp (to heal or upgrade), merchant (to buy new cards, relics, potions, or remove cards from deck), or question mark (random) {% cite smith_slay_2017 %}.
+Actions in the battle scenes are represented by cards, which the player "plays" by dragging it onto the battle area from the "hand" at the bottom of the screen. When defeating a monster, the player collects spoils, which may include more gold, potions, or adding a card to their deck. In the map scene, the player can choose which branch of the path to explore next, and choices are monsters (or elite monsters with better wards), camp (to heal or upgrade), merchant (to buy new cards, relics, potions, or remove cards from deck), or unknown location denoted by a question mark (random one of an event, a monster, the merchant, or a treasure Room) {% cite smith_slay_2017 %}. An event is a bit of lore which presents the player with more buffs and upgrades.
 
 The game is a constant balancing act of not reaching zero health, but advancing to upgrade cards, get more potions, collect more relics, and boost attributes (like maximum health).
 
@@ -152,7 +152,9 @@ The player is dealt a random hand every turn. A play-through is random as per th
 Firstly, what story does the game tell? Is it an adventure, a mystery or something else? Where and when does it take place, and what characters are there? Secondly, how does the game tell its story? Does it use images, cut-scenes, dialogue or gameplay?
 {% endquote %}
 
-Slay The Spire is an adventure with 3 default acts, and each act having many events. An event can be seen as a bit of story, e.g. the Big Fish event in Act 1 where the player must select one of three goodies dangling from the dungeon ceiling.
+Slay The Spire is an adventure in a functional world with 3 default acts, and each act having many events (available via the unknown locations denoted by a question mark). An event can be seen as a bit of story, e.g. the Big Fish event in Act 1 where the player must select one of three goodies (buffs, upgrades, etc) dangling from the dungeon ceiling. Or, for example when you meet the [Augmenter](https://slay-the-spire.fandom.com/wiki/Augmenter) during Act 2:
+
+![Slay The Spire Augmenter event](/assets/posts/2021-01-30-game-analysis/sts-augmenter.png)
 
 Each of the 4 playable characters have a little backstory. E.g. the Ironclad
 
@@ -161,6 +163,7 @@ The remaining soldier of the Ironclads. Sold his soul to harness demonic energie
 {% endquote %}
 
 The merchant talks to the player (using speech bubbles, not audio) when the player interacts with his wares, but there's no two-way dialogue. The chatter includes commentary on the wares, or commentary on the player, e.g. "I used to be like you" {% cite megacrit_slay_2017 %}.
+
 
 # Art Direction and Style
 
