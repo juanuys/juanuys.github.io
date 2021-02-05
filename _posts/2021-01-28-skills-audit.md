@@ -1,18 +1,18 @@
 ---
-layout: postcrj
+layout: post
 title: "Skills audit"
 description: "Skills audit"
 tags: ma falmouth crj ma-game-development week1
 category: blog
 # disqus_comments: true
-thumb: /assets/masters/crj/thumb.png
-week: 1
-module: game development
+# thumb: /assets/masters/crj/thumb.png
 ---
 
-This is week 1 of the module "game development". This week's challenge activity is a skills audit, and the spark forum prompts us to think about the roles within game development.
+This is week 1 of the module "game development". This week's challenge activity is a skills audit, and the spark forum prompts us to think about the roles within game development, which I [reflect on in a separate post]({% post_url 2021-01-28-skills-audit-reflection %}).
 
 # Skills audit
+
+## Questionnaire
 
 The first 13 skills were provided, but then I also add my own skills which I think I need to learn.
 
@@ -100,9 +100,9 @@ I've been playing a variety of games and paying special attention to game mechan
 
 I'm a big lover of books, and a bit of a book hoarder, so I've got a library to draw from, including design, illustration, art history, comics/cartoon anthologies, and even books not entirely focused on art and design, to hopefully make me a more well-rounded individual.
 
-# Roles in the game industry
+## Roles in the industry
 
-The seven game-development skills we cover in this module are
+We're asked to rate ourselves on the seven game-development skills we cover in this module:
 
 - Game design
 - Programming
@@ -112,35 +112,6 @@ The seven game-development skills we cover in this module are
 - Level design
 - Sound design
 
-We're asked to rate ourselves, and also specify which skills we're most excited to learn. Using [this logarithmic scale](http://jim-mcbeath.blogspot.com/2011/12/levels-of-expertise.html) to rate myself, I get a shallow T shape, and I indicate my focuses for this module using a ❤.
+Using [this logarithmic scale](http://jim-mcbeath.blogspot.com/2011/12/levels-of-expertise.html) to rate myself, I get a shallow T shape:
 
 ![Skills rating](/assets/posts/2021-01-28-skills-audit/game-dev-roles.png)
-
-This is what I answered on the uni forum:
-
-> Game design, and art. I'm not sure if animation will come in at all in the types of games I want to make. Level design for me so far has mostly boiled down to procedurally generating a puzzle layouts. Sounds I download from freesound.org and perhaps a tiny bit of mastering to get it to the same level. Narrative, nil so far, and possibly nil in the future.
-
-Nil? I was tired when I wrote that.
-
-Thinking about it a bit more, I am actually also quite interested in boosting my narrative design skills. I love writing short stories, and have a wacky imagination, so I feel I might spend some time in this area too.
-
-{% quote lionbridge_narrative_2020 %}
-In the game development process, narrative game design defines the game’s story structure and core emotional elements including theme, plot, character, and dialogue.
-{% endquote %}
-
-I did have a blast learning more about it in a [previous course](/tags#narrativedesign).
-
-# Conclusion
-
-I dismissed narrative design in a moment of weakness, but I have a growth mindset {% cite stanford_alumni_developing_2014 %} and will embrace everything (within limits).
-
-I will create a mood board with inspiration and ideas for this semester's game, as I tend to get distracted by new and shiny things when on the web. I have to find that feeling I feel when seeing my inspiration, and try to recreate that same feeling in the player when they play the game.
-
-Oh, how I wish I had the luxury of time to just read the Art of Game Design cover to cover {% cite schell_art_2019 %}.
-
-Also, I was reminded of the personal branding discussion from the previous module, and I decided this is something which will flesh out more as I really nail down what types of games I'll be making.
-
-
-# Bibliography
-
-{% bibliography --cited %}
