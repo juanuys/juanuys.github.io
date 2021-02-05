@@ -1,6 +1,6 @@
 ---
 layout: postcrj
-title: "Skills audit"
+title: "Reflecting on the skills audit"
 description: "Reflecting on the skills audit"
 tags: ma falmouth crj ma-game-development week1
 category: blog
