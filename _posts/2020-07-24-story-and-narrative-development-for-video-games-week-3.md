@@ -44,7 +44,7 @@ Look at the original spine you came up earlier, and compare, and you'll find it 
 
 - Dedicate to a routine.
 - spend the first 15 minutes reading (and not what you've written before)
-- spend the enxt 15 minutes writing the single line ideas (e.g. the whys)
+- spend the next 15 minutes writing the single line ideas (e.g. the whys)
 - take 2 minute break, and just stare at something. Clear your mind.
 - spend the rest of the time reviewing the idea sheets, and do the weaving
 - when time's up, stop. 

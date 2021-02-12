@@ -69,7 +69,7 @@ Define the protagonist/antagonist relationship:
 
 Connecting emotionally with the player/reader/audience is not enough - you need rising interest as the story unfolds, which brings up the idea of "rising actions" in a story (more on these in later notes). Tensions between pro/an-tagonist need to keep rising until the climactic resolving event. Things need to get worse and worse and worse for the hero before it gets better. You can see this in games - enemies get more challenging, but thanks to the idea of maintaining game balance, the protagonist manages to progress, maybe with better weapons, or upgrades, etc.
 
-And interesting exercise presented to the student is trying to figure out a more compelling narrative behind Pac-Man. Here's my attempt: {% post_url 2020-07-15-the-story-of-pac-man %}
+And interesting exercise presented to the student is trying to figure out a more compelling narrative behind Pac-Man. [Here's my attempt]({% post_url 2020-07-15-the-story-of-pac-man %}).
 
 
 Learn how to see the elements of narrative in existing stories, so it will guide you in understanding how story structure is used and help you create your own stories: find the "beats" of story structure, such as rising actions, in a traditional three-act structure.

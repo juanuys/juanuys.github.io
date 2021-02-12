@@ -38,7 +38,7 @@ This gives you a clear idea of who, of what, and where, and when, why, and how.
 
 Characters are our portals into the game world. The better we understand a character, the most engaged we are with the underlying story.
 
-(Unless, I think, you have a character you know nothing about, a mysterious character, who can be like an anonymous lens onto the world, or just a messenger. Maybe like first-person peripheral, like the narrator/witness who isn't the main character, e.g. Nick Carraway in Great Gatsby. Could this work for game worlds? Maybe this is somewhat done e.g. in Portal, with [GLaDOS](https://en.wikipedia.org/wiki/GLaDOS). Or maybe moreso even with games that actually have a narrator, which turns out to be a minor character (can't think of examples right now).)
+(Unless, I think, you have a character you know nothing about, a mysterious character, who can be like an anonymous lens onto the world, or just a messenger. Maybe like first-person peripheral, like the narrator/witness who isn't the main character, e.g. Nick Carraway in Great Gatsby. Could this work for game worlds? Maybe this is somewhat done e.g. in Portal, with [GLaDOS](https://en.wikipedia.org/wiki/GLaDOS). Or maybe more-so even with games that actually have a narrator, which turns out to be a minor character (can't think of examples right now).)
 
 It's a nice challenge to think of your non-story game's pieces as characters that have personality, emotion, and life.
 
@@ -46,7 +46,7 @@ If your game is going to have a story, define your character as deeply as possib
 
 ## Using secondary characters
 
-Even though the pro/an-tagonist dualism drives the plot of the story, often it makes sense to use seconday characters to help facilitate the story. E.g. your character comes to a fork in the road and can just read the sign that says "cave to the left", or instead the character could encounter the drunk village fool who tells a tale anout the cave as he's been there, and your character can learn about the cave's whereabouts that way. You can go deeper by not making the village fool readily available, but having to go to the tavern and seek him out by talking to the tavern keeper first. 
+Even though the pro/an-tagonist dualism drives the plot of the story, often it makes sense to use secondary characters to help facilitate the story. E.g. your character comes to a fork in the road and can just read the sign that says "cave to the left", or instead the character could encounter the drunk village fool who tells a tale about the cave as he's been there, and your character can learn about the cave's whereabouts that way. You can go deeper by not making the village fool readily available, but having to go to the tavern and seek him out by talking to the tavern keeper first. 
 
 So once you have thought of your game's spine, and you've been able to summarize your story line, and you've settled on how your primary characters drive the story, your next task is to think of the secondary characters that fill out and help tell that story, like we've just done with the village fool.
 
