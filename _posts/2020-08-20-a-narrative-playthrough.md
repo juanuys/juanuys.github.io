@@ -2,7 +2,7 @@
 layout: post
 title: "A narrative playthrough for a game world design"
 description: "Imagining myself as a player in a world for a game I may or may not be working on"
-tags: gamedesign superme narrativedesign
+tags: gamedesign superme narrative-design
 category: blog
 ---
 

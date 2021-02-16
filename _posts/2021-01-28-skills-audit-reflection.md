@@ -40,7 +40,7 @@ Thinking about it a bit more, I am actually also quite interested in boosting my
 In the game development process, narrative game design defines the game’s story structure and core emotional elements including theme, plot, character, and dialogue.
 {% endquote %}
 
-I did have a blast learning more about it in a [previous course](/tags#narrativedesign).
+I did have a blast learning more about it in a [previous course](/tags#narrative-design).
 
 # Conclusion
 
