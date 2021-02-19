@@ -14,7 +14,7 @@ Week 2's challenge activity is
 
 > Use the game design principles discussed this week to produce a proposal for the indie game prototype you would like to make in this module 
 
-The proposal is a living document, but I will reflect on the current version (Git commit hash `69b648a`) of the document here:
+The proposal is a [living document](https://github.com/juanuys/ccgdd/blob/master/analysis.md), but I will reflect on the current at-the-time-of-writing-this version (Git commit hash `69b648a`) of the document here:
 
 [https://github.com/juanuys/ccgdd/blob/69b648a/analysis.md](https://github.com/juanuys/ccgdd/blob/69b648a/analysis.md)
 
