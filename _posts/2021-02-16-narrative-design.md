@@ -109,6 +109,10 @@ E.M. Forster distinguished between flat and round characters in *Aspects of the 
 
 Even though there's a lot of stuff in the narrative design doc, I also felt it necessary to define as much of the characters and game world as possible, even if I don't end up using it. It helps filling plot gaps, and extra lore underpins what players see in the world, and helps the designers and developers have a common reference when questions are asked about the characters, world and story.
 
+# Reflection: connection with the protagonist
+
+I have found that in some of the card games I've played, since I'm not in control of the protagonist, I feel a bit detached from them, and they're almost just like an NPC, just there on the screen. I'm hoping that giving the protagonist more of a story will make the player feel more connected to them. This will be magnified by the comics in-between the battles which feature more of the protagonist's story.
+
 # Reflection: the hero's journey
 
 In the narrative design document's [Plot section](https://github.com/juanuys/ccgdd/blob/71b5983/narrative.md#plot), the story starts off with the protagonist already on the train, albeit having a hard time. Borrowing terms from Vogler {% cite vogler_writers_2020 -l 99-116 %}, public transport is the hero's weakness or "tragic flaw". When they get back home, they're a "wounded hero", but their companion re-energises them. Home is the "ordinary world" and public transport is the "special world".
