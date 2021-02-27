@@ -36,10 +36,13 @@ I'm not sure I agree fully. If you asked people what they wanted, you'd end up m
 
 Henry Ford; faster horses.
 
+But on the flipside, perhaps there is something about being an indie which I don't grok yet. Perhaps it's not about working on what you want. Perhaps it is not about making art that comes from the art. Perhaps it is about your studio being a finely tuned machine that can deliver games like a production line. 
+
+If my studio was a band, maybe it shouldn't try to sound like The Mars Volta or Tool, but rather Taylor Swift or Beyonce.
+
 # Reflection: four Fs
 
 Lee Petty's [Four Fs](https://youtu.be/NwXThTYbZY4?t=1587) {% cite mediaxstanford_elements_2017 %} was very helpful in nailing down some concepts early on. Otherwise, I do feel like art is very subjective. Sure, you learn about techniques and theory (colour, etc), but at the end of the day, what you come up with isn't Right or Wrong. Not everyone will like your style, but some might, and that's who matters to you.
-
 
 # Bibliography
 
