@@ -44,6 +44,16 @@ If my studio was a band, maybe it shouldn't try to sound like The Mars Volta or 
 
 Lee Petty's [Four Fs](https://youtu.be/NwXThTYbZY4?t=1587) {% cite mediaxstanford_elements_2017 %} was very helpful in nailing down some concepts early on. Otherwise, I do feel like art is very subjective. Sure, you learn about techniques and theory (colour, etc), but at the end of the day, what you come up with isn't Right or Wrong. Not everyone will like your style, but some might, and that's who matters to you.
 
+# Reflection: how much art do I need for my game?
+
+Let's take an example studio: [sokpop collective](https://sokpop.co/). They're a team of 4, and work on the games individually, which means each game takes one person 2 months. That's a tight cadence for any studio.
+
+Then let's look at [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley#:~:text=Barone%20developed%20the%20game%20by,programming%20and%20game%20design%20skills.), which was also made by one person, but took 4 years. [Gorogoa](https://en.wikipedia.org/wiki/Gorogoa#:~:text=The%20game%2C%20solely%20developed%20by,nearly%20six%20years%20to%20complete.) took 6 years, but the solo dev brought in extra help towards the end.
+
+One could argue that both Stardew Valley and Gorogoa has more art than the sokpop games (not to detract from the sokpop team at all - I love their stuff!), but it brings the effort into perspective.
+
+It's a lofty goal to make an "art game" but it will take a long time. One has to think long and hard whether one wants to "bet the farm" on a beautiful game that will take years to make, or if one would rather churn them out more like a well-oiled production line.
+
 # Bibliography
 
 {% bibliography --cited %}
