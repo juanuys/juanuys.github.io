@@ -8,6 +8,9 @@ new:
 run:
 	#@./run.sh
 	# bundle install
+	bundle exec jekyll serve
+
+runi:
 	bundle exec jekyll serve --incremental
 
 publish:

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Art direction"
 description: "Art direction"
-tags: ma falmouth crj week5 game-development art-direction art
+tags: ma falmouth crj week5 game-development art-direction art contumacious
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

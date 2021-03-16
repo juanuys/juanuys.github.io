@@ -18,8 +18,18 @@ cp $TEMPLATE $NEW
 read -p "A space-delimited list of tags:" TAGS
 TAGS=${TAGS:-life}
 
-gsed -i  "s/%TITLE%/$TITLE/" $NEW
-gsed -i  "s/%DESCRIPTION%/$TITLE/" $NEW
-gsed -i  "s/%TAGS%/$TAGS/" $NEW
+
+# TODO clean up
+if ! command -v gsed &> /dev/null
+then
+	sed -i  "s/%TITLE%/$TITLE/" $NEW
+	sed -i  "s/%DESCRIPTION%/$TITLE/" $NEW
+	sed -i  "s/%TAGS%/$TAGS/" $NEW
+else
+	gsed -i  "s/%TITLE%/$TITLE/" $NEW
+	gsed -i  "s/%DESCRIPTION%/$TITLE/" $NEW
+	gsed -i  "s/%TAGS%/$TAGS/" $NEW
+fi
+
 
 echo "New post ready for edits at $NEW"
