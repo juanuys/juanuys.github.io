@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Reading week"
 description: "Reading week"
-tags: ma falmouth crj game-development week6 game-jam 7drl
+tags: ma falmouth crj game-development week6 game-jam 7drl godot
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
@@ -19,7 +19,7 @@ Week 6 was supposed to be a welcome break from the busy schedule to catch up on 
 
 # Game jam
 
-The game jam was a long time coming. I [set a goal last year](/masters/goals#be-a-better-designer) to do at least one game jam a month (or, at least make a small game every month), but I've only managed [Santa Saunter](https://juanuys.com/games/santasaunter) in December, completely coming up dry in January and February. (Maybe I had "[dry January](https://alcoholchange.org.uk/get-involved/campaigns/dry-january)" on my mind.)
+The game jam was a long time coming. I [set a goal last year](/masters/goals#be-a-better-designer) to do at least one game jam a month (or, at least make a small game every month), but I've only managed [Santa Saunter](https://juanuys.com/games/santasaunter) in December, completely coming up dry in January and February.
 
 [Football Crawl](/games/football-crawl) ended up with a really interesting game mechanic, which is that you can kick a football and it would move continuously in a traditionally turn-based Roguelike setting. I discovered a few new (to me) and really nice [Tilemap](https://docs.godotengine.org/en/stable/tutorials/2d/using_tilemaps.html) features of [Godot engine](https://godotengine.org/), like auto-tiling with bitmasking, and navigation (for NPCs).
 
