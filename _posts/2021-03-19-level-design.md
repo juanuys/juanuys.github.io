@@ -16,15 +16,15 @@ I'll do both in this post.
 
 # Level design for Contumacious Commuter
 
-The level design doc is a [living document](https://github.com/juanuys/ccgdd/blob/master/level-design.md), but I will reflect on the *current-at-the-time-of-writing-this* version (Git commit hash `ad9a3e9`) of the document here:
+The level design doc is a [living document](https://github.com/juanuys/ccgdd/blob/master/level-design.md), but I will reflect on the *current-at-the-time-of-writing-this* version (Git commit hash `7c358c3`) of the document here:
 
-[https://github.com/juanuys/ccgdd/blob/ad9a3e9/level-design.md](https://github.com/juanuys/ccgdd/blob/ad9a3e9/level-design.md)
+[https://github.com/juanuys/ccgdd/blob/7c358c3/level-design.md](https://github.com/juanuys/ccgdd/blob/7c358c3/level-design.md)
 
 I'm swamped this week, so I have no time to reflect. I thought I'd just get a little bit done. As David Wehle would say, never have a zero percent day {% cite wehle_no_nodate %}.
 
 
 # Slay The Spire analysis
-
+`
 
 This is an analysis of Slay The Spire's level design, content design and environment art, in relation to the following criteria:
 
