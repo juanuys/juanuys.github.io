@@ -6,7 +6,7 @@ tags: ma falmouth crj week7 game-development animation godot contumacious
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
-week: 1
+week: 7
 module: game development
 ---
 

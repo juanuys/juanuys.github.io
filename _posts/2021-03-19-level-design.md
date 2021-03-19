@@ -6,7 +6,7 @@ tags: ma falmouth crj week8 game-development slay-the-spire level-design contuma
 category: blog
 # disqus_comments: true
 thumb: /assets/posts/2021-03-19-analysis-of-slay-the-spires-level-design/thumb.jpg
-week: 1
+week: 8
 module: game development
 ---
 
