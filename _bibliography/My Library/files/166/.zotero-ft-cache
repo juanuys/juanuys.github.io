@@ -1,0 +1,66 @@
+
+Artificial Intelligence Depot
+Visiting guest. Why not sign in ?
+	
+News, knowledge and discussion for the AI enthusiast.
+FEATURES 		COMMUNITY 		KNOWLEDGE 		SEARCH 	 
+FEATURES
+news +
+essays +
+tutorials +
+reviews +
+information +
+COMMUNITY
+message store +
+recent activity +
+project foundry +
+contribute +
+hosted sites +
+KNOWLEDGE
+artificial inte... +
+neural networks +
+genetic algorit... +
+reinforcement l... +
+THIS SITE
+welcome +
+site search +
+link to us +
+ 
+ 
+	
+Artificial Intelligence in Game Design
+Version: Printer Friendly
+Combat Oriented AI
+Tim Schreiner
+
+Be sure to check out AiGameDev.com if you're interesting in Game AI . Also see the Game AI Newsletter .
+
+E 3 (Electronic Entertainment Expo), one of the biggest trade shows in the video games industry, ended a few weeks ago. For many people, E3 is synonymous with cutting edge technology. Even with the buzz around all the new multiplayer games, the Best in Show went to id's Doom III (a decidedly single player game). In fact many other famous sequels, such as Deus Ex 2 and Unreal 2, chose a single player focus, offering little to no multiplayer support. It can be surmised that game designers know that AI is very important to good games. After careful consideration, I've narrowed AI down to its three most important roles in video games: Combat, Non-Combat & Analytical.
+Combat Oriented AI
+
+P robably the most often implemented form of AI, combat oriented AI can be seen in almost every shooter since the mid nineties. Designers of First Person Shooters depend on combat AI to make their games playable, let alone interesting. The evolution of combat AI was slow for many years. Most AI opponents were relegated to shambling forward, often right into the player's gunfire. It wasn't until Valve released Half-Life that combat AI took a major turn for the better. The infamous Marines showed a level of AI unseen in previous games. With different reactions for getting shot, spotting grenades and even a realistic awareness of the player, AI comrades and enemies, Half-Life quickly asserted itself as having the best AI in any game. After Half-Life, more and more games started to focus on the AI aspect of game design instead of just graphics. Today, combat AI's can be seen ducking around corners or behind boxes, tossing the player's grenades back, and even standing in for real players in multiplayer games. Still, combat AI's have plenty of room for improvement before they even get closed to replacing human opponents. Even though combat AI's can dodge incoming fire and shoot like a pro, there are four major things that human combatants offer over AI: knowledge of their environment, efficient use of teamwork, the ability to "hunt", and survival instincts.
+The Understanding & Exploitation of Terrain
+
+P lay any online game with solid maps and veteran players and you will see a plethora of different interactions with the game environment. Smart players inevitably find places to hind behind for cover, alternate routes to an important destination, even great spots for ambushes. I have never seen a Bot (Combat AI designed for multiplayer games) in any game utilize any of the above-mentioned functions without being explicitly trained to do so. The ability to dynamically interact with terrain will be a very important feature in future games.
+Efficient Use of Teamwork
+
+I n multiplayer games, it is custom for veteran or experienced players to routinely play in well-organized teams, called "Clans." For example, I'll use Counter-Strike or CS for short. CS is a modification of the above-mentioned Half-Life wherein players try to meet objectives within a time limit, often while being pursued by the enemy team. Teamwork is very important in CS, and as such CS has become a favorite of many Clans. The reason I use the example of Clans is that, although teamwork can be seen among non-Clan players, it tends to be more sporadic and self-serving at best. If Combat AI could be made to use teams, it would dramatically improve both their realism and efficiency, with certain variants of Combat AI becoming as revered as the Clans. It might, however, prove to be a complicated task to teach computers to work in teams, as even humans seem to find it difficult much of the time.
+The Ability to Hunt
+
+S ince the beginning of the First Person Shooter with id's Wolfenstein, Combat AI has stood in a perpetual state of Guard Mode. The player invariably steps onto the Combat AI's turf. Whether the player tries to sneak past them or go for a straight shoot 'em up, the Combat AI must decide how to react to the player in a very short time. This translates to too many scenes of déjà vu in almost every game. The important point about "Hunting," where it is up to the Combat AI to find you, is a very complex function, and one that would require both detailed sensors built into the Combat AI and the player's ability to realistically affect the environment, like footprints, etc.
+The Survival Instinct
+
+W hen I refer to survival instincts, I mean those actions intended solely to protect oneself, even when the possibility of getting "hurt" is nonexistent. For instance, players online can be observed to hide behind obstacles when they reload, or to run short distances at a time, or even to just stay out of an area known to be swarming with hostiles. Developers have started to code some survival motions into Combat AI's recently, such as hiding behind boxes when getting shot at, but there is still much room for improvement. The survival instinct, which at times might be referred to as cowardice, is probably the feature that makes a Combat AI appear the most human.
+
+T hese four characteristics of a great Combat AI, while important individually, make the game experience most believable when used together. In CS, for example, players stand on each other's backs to reach otherwise inaccessible points in the terrain. Similarly, if the Combat AI only hunted or hid, the experience would become dull. Ultimately, it remains to be seen whether any one of these features is fully achievable, let alone all four
+
+Remember you can visit the Message Store to discuss this essay . There are already 5 replies in the thread, why not join in?
+
+Next: Future Necessity
+
+Back to the Artificial Intelligence Depot .
+
+Artificial Intelligence
+This page and its content are © Copyright 2001-2003, Artificial Intelligence Depot. All rights reserved.
+Site owned and maintained by Alex J. Champandard.
+

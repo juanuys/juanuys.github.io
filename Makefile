@@ -5,12 +5,12 @@ all: run
 new:
 	@./new.sh
 
-run:
+runx:
 	#@./run.sh
 	# bundle install
 	bundle exec jekyll serve
 
-runi:
+run:
 	bundle exec jekyll serve --incremental
 
 publish:

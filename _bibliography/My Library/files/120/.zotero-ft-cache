@@ -1,0 +1,274 @@
+Informa
+
+Gamasutra: The Art & Business of Making Games spacer
+GAME JOBS
+updates Blogs contractors newsletter Game Career Guide
+SEARCH
+GO
+
+    ALL
+    CONSOLE/PC
+    SMARTPHONE/TABLET
+    INDEPENDENT
+    VR/AR
+    SOCIAL/ONLINE 
+
+Member Login
+	Email:   		
+Password:   	
+  	
+Forgot Password?   Sign Up
+
+     
+     
+     
+     
+
+arrow
+PROGRAMMING
+spacer
+ART
+spacer
+AUDIO
+arrow
+DESIGN
+arrow
+PRODUCTION
+arrow
+BIZ/MARKETING
+
+arrow Latest Jobs
+View All     RSS February 16, 2021
+
+    Guerrilla Games
+    Senior Tools Programmer
+    Guerrilla Games
+    Senior Cinematics Animator
+    Guerrilla Games
+    Technical Animator
+    Guerrilla Games
+    Senior Character Rigger
+    Guerrilla Games
+    Senior Technical Cinematic Animator
+    Guerrilla Games
+    Technical Cinematic Animator
+
+arrow Latest Blogs
+View All     Post     RSS February 16, 2021
+
+    What are your game's pre-release 'story beats'?
+    Designing for a Sense of Mystery and Wonder [ 1 ]
+    Implementing Raytraced Ambient Occlusion in The Riftbreaker
+    How Resident Evil Revelations 2 Showed Up Its Predecessors
+    Call for data: your Steam wishlist to follower ratio!
+
+arrow Press Releases
+February 16, 2021 Games Press
+
+View All     RSS
+arrow About
+
+    Editor-In-Chief:
+    Kris Graft
+    News Editor:
+    Alissa McAloon
+    Contributors:
+    Chris Kerr
+    Bryant Francis
+    Katherine Cross
+
+Contact Gamasutra
+Report a Problem
+Submit News
+Comment Guidelines
+Blogging Guidelines
+How We Work
+Download Media Kit
+Sponsor
+arrow Gama Network
+If you enjoy reading this site, you might also want to check out these UBM Tech sites:
+Game Career Guide
+Indie Games
+
+arrow Features
+ 
+Conversations From GDC Europe: Mark Cerny, Jonty Barnes, Jason Kingsley
+by John McLean-Foreman  [ Interview ]
+
+Post A Comment Share on Twitter
+RSS
+September 6, 2002
+ 
+
+Editor's Note: This article is the first in a series of interviews and round-ups from the GDC Europe, which was held August 27-29 in London, UK. In this first dispatch, John McLean-Foreman interviews three developers who spoke at the event: Mark Cerny, Jonty Barnes, and Jason Kingsley.
+
+Mark Cerny (Cerny Games)
+Session Title: "The Method -- A Model for Game Design"
+
+At the GDCE, Mark Cerny discussed the 'Method' of game development that he has developed during his 20 years of experience in games. Ideally, use of the Method allows for appropriate and necessary creativity to make its way into the project, while also minimizing the time and financial risk incurred by both developer and publisher.
+
+When making a game, why do you feel that pre-production is vital?
+	
+
+	
+	
+The GDC Europe / ECTS, which was held at Earls Court in London.
+
+Pre-production is vital because you need to figure out what your design is going to be before you build it. So, what we see very frequently is that nobody's quite sure what the game is, but tremendous effort is put into creating the assets, the art, animation and so forth for that game. That doesn't work. What happens is later on you end up putting all the pieces together and you find out that you have a game not worth playing. Then you throw it all out and start again. So, pre-production is about concentrating all that work that gets tossed out into the very first few months of the game.
+
+You mentioned during your speech that proper pre-production would cost about $1 million. How is anyone going to get that amount together?
+
+Well, we spend a lot more than a million dollars on these projects. Pre-production is probably about 30% of your total budget. I mean, you will be spending money, so why not do it in a responsible fashion? So that means figure out what [game] you have first and either make it or don't make it. Put all together, this really saves you money. As a publisher, it doesn't cost you money.
+	
+
+	
+	
+
+Mark Cerny
+
+But how are you going to get publishers to understand that? Traditionally a publisher wants the developer to absorb those costs.
+
+It's not that hard. Publishers really aren't adversarial in all of this – I've been on that side as well. Sony has been extremely supportive of our work in this fashion. I'm hoping through throwing my hat into the philosophical ring with my speech, to inspire a bit of motion and it [pre-production] will all catch on.
+
+How is a small development house going to compete? Obviously they're not going to have a million dollars for pre-development.
+
+Well, they'll have a deal with a publisher won't they?
+
+What if a development house has a new idea that hasn't been tried before?
+
+This is actually a very good way to go about it if you have a new idea. What you do is you show what it's going to be, and it'll allow the publisher to risk 30% of the budget rather than 100%. So, this is an excellent way to get those ideas into development.
+
+If a developer doesn't currently have a deal with a publisher, what can the developer do to get the publisher more involved in the project and put up the pre-production money?
+
+Sounds like you're asking me, "How do I, as a developer, sign a deal with a publisher?" That's really a separate issue. The whole dance of developers and publishers has been going on for many years and will continue to go on for many years. What I'm saying is that the developer and the publisher, once they decided to do a project, if they're interested in spending their time and money effectively, need to concentrate on good pre-production that shows where it's all going to head. It allows everyone to determine whether the project is worth completing. Half of the games that sell less than 50 thousand units, those should not, by and large, be made. They should be cut at the 30% of the budget mark.
+
+ 
+	
+
+	
+	
+
+Jonty Barnes
+
+Jonty Barnes (Lionhead Studios)
+Session Title: "Scripting In Black & White : We Are Not Making Movies"
+
+Jonty Barnes is the head of Black & White Studios, where he worked on AI programming in Dungeon Keeper , the gesture system in Black & White , and lead the team responsible for the implementation of the scripting language and story in Black & White .
+
+What did you talk about at GDCE 2002?
+
+My talk was titled "We Are Not Making Movies" and what the talk was about was how the computer game is different from making a movie. I also did a postmortem of Black and White -- how we made some mistakes, did some things right, and learned a hell of a lot.
+
+Apart from linear storytelling, how is a game different from a film?
+
+The thing about movies is that they're passive. If you buy a game, you buy it because you want to play a game. The great thing that games can do is that they can make it [the playing experience] personal to you. For example, in Black and White , what we did was we tried to reflect the player's alignment of how good and evil they were, allowed them to do anything within the constraints of the game world, and had little cutscenes which were conditional based on how the player did stuff. So, the goal is to try and allow the player to create the story. The thing about movies is that they are incredibly predefined. They're passive, the person is just going to sit back and try and get involved in being entertained in the world that they [movies] are.
+
+How do you keep the balance between a story affected by player actions and the dynamic qualities of a film?
+This is the incredibly hard thing. The thing that testing has given us loads of feedback on, and doing Black and White has given us loads of feedback on, is that while cutscenes are kind of nice and give the player a purpose in the game, you really want to keep them to a minimum and let the player play the game. The thing about stories is that they give the player an agenda. If Black and White didn't have a story, it would just be a great technology game. It would be, "Wow. I can do loads of cool things with my creature, I can do loads of cool things with these villagers, but what's the point?" If you don't have a point, if you don't have a clear message at the beginning of the game, "Why am I here? What am I trying to do?" then it's not so compelling.
+
+How do you find the right balance between a loose camera that can go anywhere in a videogame, and the predefined movements of a camera in a movie?
+
+I think it's more difficult in film to get the camera in all the right places. We have the ability, in theory, to put our cameras anywhere in the world. In fact, we can also create sets more cheaply. The thing that's very difficult, like I said about Black and White , is that you don't want cutscenes to interrupt the player. The player might decide to get on with the story in the middle of the night, so suddenly, your scene that worked beautifully in the day is now pitch black. So, you have to put in mechanisms to make it dynamic so that it's a well-lit scene for all occasions but isn't like car headlights behind the camera. There's a lot of work to be done, but it is great because you can make the experience personal to the player.
+
+What are the pros and cons of the way you use the camera?
+
+In Black and White , as I said in the talk, the camera tools dictated too much of how the cinema scenes would look. We tried to make it easier, but by making it easier it made it more defined, so [designers] couldn't realize what they wanted to do in the cutscenes. We had to create much better tools for that effect.
+
+The pros are that with the camera in Black and White , you could be anywhere and it would take you to a position, it would smooth [the movement] out, and you could orchestrate scenes that would be easier for script designers to work with. The cons are that if you want really good movie-quality cutscenes, you have to be able to define all the parts of the camera movement -- where the camera is, how it gets cut in, where the characters are -- in timelines. It's a very complicated process. So, if the pros were that it was easier, the cons were that it didn't look as good.
+
+Now, with games like Metal Gear Solid 2 , I think people went, "Wow! Bloody Hell! Metal Gear Solid 2 !" and now they're thinking, "Right. Everything's got to be like this." And they take it [the quality of MGS2 cutscenes] for granted.
+
+ 
+	
+
+	
+	
+
+Jason Kingsley
+
+Jason Kingsley (Rebellion)
+Session Title: "Ratings And Censorship: Making Sense of Videogame Ratings Development"
+
+Jason Kingsley is the CEO and creative director of Rebellion, which developed Aliens vs. Predator , The Mummy , and Rainbow Six, among others.
+
+What was your talk about?
+
+We did a panel discussion about censorship and classification. I actually thought it was going to be more about the censorship side of things and what should and shouldn't be censored, but the moderator took it in a slightly different direction, which was, "How are things rated?" and "What is considered and what isn't?"
+
+In [the United Kingdom], we've got two different systems: one is voluntary, and one is statutorily compulsory. You know, it's a criminal offense not to do it. And this statutory stuff only kicks in with certain extreme content like excretory, or genitourinary function, or human sexual function, or genitalia in close-up, and all sorts of things like that. They're fairly adult themes and issues where the government actually comes in and says, "Hang on, we need to see if this is suitable for distribution." Whereas the ELSPA (European Leisure Software Publishers Association Ltd.) ratings are more like guidelines for the consumer and are voluntary. But at the same time, the ELSPA ratings follow a fairly sensible pattern, a very similar pattern as to the film world about what is suitable and not to different audiences.
+
+How effective do you actually feel that ratings are?
+
+I think the ratings are actually fairly solidly adhered to. I think the issue comes with the enforcement of supply of the materials at the retail level [to minors] and on from there. I think the voluntary scheme allows people, allows parents anyway in that context, to judge whether something is suitable or not, to make a value judgement based on their knowledge of their own children or the people in their care. I think that's really what it's there for. I don't think it's to anybody's advantage to have something sold as a "15 [year old]" game when it should be an "18" game. I imagine that they'd have more complaints, which takes up time and money and customer support, so it's a commercially bad thing to do.
+
+Do you think that having a rating system is good or a waste of time?
+
+I think it's very, very good. I think it's very important to have a rating system, but I think the voluntary code is working at the moment. Again, it's up to enforcement. To a certain extent it's circumvented entirely by mail-order purchasing. Although to do that you usually have to have a credit card. Unless you've nicked your Dad's credit card, or your Mum's credit card, then there's no issue there. So, you tend to guarantee an older audience.
+
+Or there's downloading stuff off a warez site, which anybody can do. That's more to do with piracy than age rating. I don't think warez sites actually ask you if you're 18 or not for an "18" game. They don't care because they're already criminals.
+
+When do ratings become censorship?
+
+When they prevent adults from accessing content. I think, especially with a voluntary code, if a parent wants their child to view a "15"-rated game, then the parent can go into the shop to buy it. I think the censorship kicks in when the government decides what is and isn't suitable for adults to watch. That's the difference between "censorship" and "classification". Classification to my mind is a very good thing, but I think that censorship of extremes is sensible. Just like we do in the movies, basically.
+
+There's more censorship in this country than there is in the United States because I think that things in the USA are protected by the right to free speech, free expression, in that country's constitution. So, the protection is there, but again, I don't think that they allow everything. I think it's largely stuff between consenting adults. I don't know where acts with animals and things like that fall in the States. But that could be considered to be freedom of expression. I'm not quite sure. Luckily we haven't gone down that route with computer games yet. "Bestiality the game! Sim Sex Zoo!" The reptile house is particularly good. You can have the reptile house as a special downloadable extra (laughs).
+Related Jobs
+Guerrilla Games
+Guerrilla Games — Amsterdam, Netherlands
+[02.16.21]
+Senior Tools Programmer
+Guerrilla Games
+Guerrilla Games — Amsterdam, Netherlands
+[02.16.21]
+Senior Cinematics Animator
+Guerrilla Games
+Guerrilla Games — Amsterdam, Netherlands
+[02.16.21]
+Technical Animator
+Guerrilla Games
+Guerrilla Games — Amsterdam, Netherlands
+[02.16.21]
+Senior Character Rigger
+
+
+[ View All Jobs ]
+
+
+Top Stories
+Remedy had a record financial year despite lack of new releases
+Nintendo claims additional damages in White Cat Project lawsuit
+Valheim has crossed 367,000 concurrent players on Steam
+Blog: Designing for a sense of mystery and wonder
+Comments
+
+Login to Comment
+
+
+
+Discover more from Informa Tech
+
+    Game Developers Conference
+    Independent Games Festival
+    Gamasutra Jobs
+    Game Developers Choice Awards
+    GDC Vault
+    Omdia
+    Game Career Guide
+
+Working With Us
+
+    Contact us
+    About Us
+    Advertise
+
+Follow gamasutra on Social
+
+alt text of the logo
+
+    Home
+    Cookies
+    CCPA: Do not sell my personal info
+    Privacy
+    Terms
+
+Copyright © 2021 Informa PLC Informa UK Limited is a company registered in England and Wales with company number 1072954 whose registered office is 5 Howick Place, London, SW1P 1WG.
