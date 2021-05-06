@@ -21,3 +21,10 @@ The idea lives on as a card game, though. But that is sadly also a work in progr
 Behold, placeholder graphics and one SquiggleVision character:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ie2ft1DkUcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Feedback
+
+If you came here from the game to leave feedback, then thank you!
+
+The form is here -> [https://forms.gle/CArsNTDyGnfmG9gW7](https://forms.gle/CArsNTDyGnfmG9gW7)
+
