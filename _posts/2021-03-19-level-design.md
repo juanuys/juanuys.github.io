@@ -24,7 +24,6 @@ I'm swamped this week, so I have no time to reflect. I thought I'd just get a li
 
 
 # Slay The Spire analysis
-`
 
 This is an analysis of Slay The Spire's level design, content design and environment art, in relation to the following criteria:
 

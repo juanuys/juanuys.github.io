@@ -107,7 +107,7 @@ Besides, a story provides greater emotional satisfaction by providing a sense of
 
 E.M. Forster distinguished between flat and round characters in *Aspects of the Novel* {% cite forster_aspects_1985 -l 75 %}. It's common practice to create character checklists when developing a novel or other piece of creative writing, e.g. physical/biological (age, height, size, state of health, etc), psychological (intelligence, temperament, attitudes, self-knowledge, etc), interpersonal/cultural (family, friends, colleagues, etc) and personal history (major life events, including happiest and most traumatic) {% cite anderson_creative_2006 -l 74 %}.
 
-Even though there's a lot of stuff in the narrative design doc, I also felt it necessary to define as much of the characters and game world as possible, even if I don't end up using it. It helps filling plot gaps, and extra lore underpins what players see in the world, and helps the designers and developers have a common reference when questions are asked about the characters, world and story.
+Even though there's a lot of stuff in the narrative design doc, I also felt it necessary to define as much of the characters and game world as possible, even if I don't end up using it. It helps filling plot gaps, and extra lore underpins what players see in the world, and helps the designers and developers have a common reference when questions are asked about the characters, world and story. {% cite heussner_game_2015 %}
 
 # Reflection: connection with the protagonist
 

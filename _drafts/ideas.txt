@@ -2,3 +2,17 @@ https://blog.tuxedolabs.com/2021/02/22/background.html
 Focus on making a great game before you worry about marketing.
 > I think indie developers generally have a better chance of making a game that markets itself rather than trying to market a game that just isn’t very good.
 
+--
+
+UX checklist for gamedesign
+https://youtu.be/XIpDLa585ao?t=3048
+screenshot -> Screenshot 2021-01-29 at 15.20.29
+{% cite gdc_gamers_2017 %}
+
+
+
+# Foregoing shiny toys
+
+First and foremost, as always when starting a new game, I'm reminded of all the great tools and technologies out there, and I would love to try them all. For instance, Houdini VFX, where effects are typically designed to react to actions taking place in a shot and a procedural solution “automates” these reactions {% cite noauthor_houdini_nodate %}.
+
+But I know what I can do, and I want to continue only doing that, but better, and only really focus on becoming a better game designer. Play to your strengths, and all that.

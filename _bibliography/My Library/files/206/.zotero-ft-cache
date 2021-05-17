@@ -1,0 +1,354 @@
+Informa
+
+Gamasutra: The Art & Business of Making Games spacer
+GAME JOBS
+updates Blogs contractors newsletter Game Career Guide
+SEARCH
+GO
+
+    ALL
+    CONSOLE/PC
+    SMARTPHONE/TABLET
+    INDEPENDENT
+    VR/AR
+    SOCIAL/ONLINE 
+
+Member Login
+	Email:   		
+Password:   	
+  	
+Forgot Password?   Sign Up
+
+     
+     
+     
+     
+
+arrow Contents
+Rational Design: The Core of Rayman Origins
+
+    Page 1
+    Page 2
+    Page 3
+    Page 4
+    Page 5
+    Page 6
+    Page 7
+    Page 8
+
+arrow
+PROGRAMMING
+spacer
+ART
+spacer
+AUDIO
+arrow
+DESIGN
+arrow
+PRODUCTION
+arrow
+BIZ/MARKETING
+
+arrow Latest Jobs
+View All     RSS May 18, 2021
+
+    iD Tech
+    Online STEAM Instructor/Mentor
+    innogames
+    Senior Mobile Game Developer - Unity - New F2P Mobile Game - InnoGames
+    Sucker Punch Productions
+    Senior Systems Designer
+    Sucker Punch Productions
+    Senior Games Writer
+    Sucker Punch Productions
+    Combat Designer
+    Sucker Punch Productions
+    Senior Concept Artist
+
+arrow Latest Blogs
+View All     Post     RSS May 18, 2021
+
+    Steam sales for 'the other 50%' - a return! [ 1 ]
+    Composer Interview: GDC Showcase Game Music Q&A
+    The one game rating problem you really don't want to have
+    Steam tag trends, Epic & Valve lawsuit drama, & more
+    How To Get Started Playing Mystery Dungeon
+
+arrow Press Releases
+May 18, 2021 Games Press
+
+View All     RSS
+arrow About
+
+    Editor-In-Chief:
+    Kris Graft
+    News Editor:
+    Alissa McAloon
+    Contributors:
+    Chris Kerr
+    Bryant Francis
+    Katherine Cross
+
+Contact Gamasutra
+Report a Problem
+Submit News
+Comment Guidelines
+Blogging Guidelines
+How We Work
+Download Media Kit
+Sponsor
+arrow Gama Network
+If you enjoy reading this site, you might also want to check out these UBM Tech sites:
+Game Career Guide
+Indie Games
+
+arrow Features
+ 
+Rational Design: The Core of Rayman Origins
+by Chris McEntee  [ Design ]
+
+16 comments Share on Twitter
+RSS
+March 27, 2012 Article Start Page 1 of 8 Next
+ 
+
+[ In this extensive design article, Chris McEntee, NHTV  Game Architecture and Design student -- who worked on Rayman Origins as a designer at Ubisoft Montpelier -- examines the company's core design philosophy and explores the techniques used to create the lauded platformer .]
+
+"Form follows function" - Louis Sullivan
+
+"Less is more" - Ludwig Mies van der Rohe
+
+"Easy to learn and difficult to master" - Nolan Bushnell
+
+In my time with Ubisoft Montpellier, I have had the honor of working with a handful of talented designers who are experts in the process of rational design. Over the course of my internship and specialization, I have tried to absorb as much information on this design process as I possibly could.
+
+Paired with my extensive research into the subject, I feel that I have achieved a relatively decent grasp of the core concepts and have applied them in my own levels relatively well.
+
+Through this article I hope to provide a solid base on the idea of rational game design, as well as some personal insight and examples of my own so that perhaps more people can start to embrace the practice and produce - hopefully - more entertaining and thoroughly satisfying gameplay experiences.
+
+Conceived by Lionel Raynaud (Ubisoft worldwide content director) and Eric Couzian (Ubisoft game design conception director), and led by Olivier Palmieri (level design director on Rayman Origins ), Ubisoft developed an internal Design Academy for training their designers in the field of rational game design. While on the development team of Rayman Origins , I was able to work directly alongside Olivier Palmieri in his task of implementing rational design methods in the development process of Rayman Origins and picked up a strong understanding of the methodology from him along the way.
+
+Rational design is all about eliminating unnecessary information, making things inherently readable, understandable and apparent, introducing mechanics in an orderly and easily digestible fashion, and preserving the learning and difficulty curves of a game, known as macro flow.
+
+In principle, it is best to provide a player with significantly interesting and deep mechanics that are well explored and exploited through clever rationalized level design, rather than injecting the game full of one-shot gameplay mechanics to feign depth. A good mechanic, such as the portal gun in the Valve game Portal , can carry an entire game by itself with the addition of proper gameplay elements to help emphasize the usefulness and depth of the mechanic.
+
+We try, as designers, to overstuff our games with content, ideas and objectives because we think that makes it more clever or fun. I have come to understand the meaning of the three quotes at the top of this page, and fully believe in what they preach. When we rationalize our game systems and keep things simple but deep, we can truly create a good and meaningful gameplay experience that is also efficient for the team and easy to troubleshoot through iterative play-testing. I feel that rationalization is one of the keys to success in the game design field.
+
+
+The pipes and platforms in the middle of the ravine are constantly falling, meaning there is no safe spot for the player other than the top of the mountain.
+Objective
+
+For every game experience, a clearly defined objective or goal must be present; whether or not this goal strongly influences the player's actions directly is a different story, but the player must have a sense of purpose in the world they are traversing. In a platforming game like Rayman Origins , while there is a high-tier goal of "saving the world from darkness", there exist sub-objectives in every level that help to form a memorable and varied set of experiences throughout the game.
+
+Even in a game such as Minecraft where the player has free roam to explore and build whatever he wishes, he has goals that emerge from the game system that drive his experience in the game universe, such as building a mega-structure or stockpiling resources for later use.
+
+"…most game mechanics that don't feel deep enough feel that way because they have too many objectives and not enough meaningful skills." - Mike Stout, Evaluating Game Mechanics For Depth
+
+Make your objectives clear and explicit, and clearly mark the path to the objective with meaningful mechanics. Simple manipulation of time and space conditions can emphasize or set forth a new objective; a falling object sequence makes it clear that the player must climb rapidly, else he will fall down a ravine. His objective: climb without stopping. This is not told to him by an NPC, this is not explicitly stated, but it is made clear by the situation he has been faced with.
+
+Or take a different scenario where the player is in the belly of a beast, and he must escape before a column of fire burns him to a crisp; this is an objective, clear and concise, with clear consequences of failure, and gives him an immediate purpose: survive and escape. In the final section of this article, Motivation, it will become clear why the simple goal of survival works so easily in a game scenario.
+
+Many times in Rayman Origins did we force the player to move by pursuing him with a swarm of enemies, so as to change up the pacing and keep him moving and give him a more immediate and pressing objective. The opposite is true as well; there are chest chase maps where the player must chase down a treasure chest to obtain the treasure locked away inside. While the gameplay result is the same -- the player must be fast and keep moving -- the conceptual objective feels different. The player feels a drive to catch the chest that he does not feel while being pursued by a wall of flames, but the objective is clear.
+
+Objectives are all about what the player perceives as the purpose of his existence in the game world, and the feelings which the designer wishes him to associate with this experience.
+
+
+While the simplest way to access this golden collectible is by using the nearby bumper, players can choose to use the helping hands move on the safe ground directly under it, and stack their way to the same height.
+Atomic Design
+
+Atomic design, like the unimaginably small particles after which it has been named, is a very low level in game design wherein the designer examines the small influential factors and finds clear ways to harness their power in the pursuit of creating a learnable, balanced, fun and exciting experience.
+
+One of the core principles of atomic design is considering at all times the required skills and inputs for a given in-game situation. By breaking down the number and difficulty of inputs and the complexity of the skills involved, it is easier to rationalize the way in which challenges are given to the player, keeping them from being stuck in a sequence which he cannot escape from due to the level of complexity required that he has not yet obtained.
+
+Inputs such as holding down on the left analog stick and pressing the attack button, in that order, can actually be more difficult than a designer would instinctively think. Many players confuse the order of the inputs, or have a hard time simply managing two things in sync.
+
+When we start to realize that some of our gameplay mechanics may be harder to execute, we think more critically about the frequency in which this mechanic is required, and find ways to best combat the barrier for entry. This is an example of breaking down and analyzing a mechanic which is the basis of atomic design; once we have deconstructed our mechanics into their base inputs and parameters, we can start to combine raw inputs to build new mechanics from scratch. By building mechanics in this way, we can more easily control the inherent difficulty to execute it and be better prepared for level design and defining the game system.
+
+A game system refers to the balanced relationship between all the gameplay and mechanics of a game; the game system is, in essence, the game as a whole. Gameplay by definition is a group of mechanics that are related to the same subject, such as, for example, navigation, shooting or swimming. Mechanics are challenges that evolve in difficulty depending on the implementation of proper atomic parameters.
+Mechanics
+
+A game mechanic is a challenge based on a specific input and skill which can be altered by atomic parameters to increase the inherent difficulty of the challenge. To successfully define a mechanic, we must first define a skill to associate with it, so that we know what shall be challenged. A player skill is not the same as a character's skill or in-game abilities; player skills are something separate from the game world entirely, and are based on physical, mental or social actions that, when translated into proper inputs, allow the player to overcome a challenge.
+
+It is important to note that a mechanic by this definition is a challenge, and if no challenge is present, such as initiating dialogue with an NPC or accepting a choice within an interface, it is defined as an action instead. Mechanics are the critically important tools for developing good gameplay, flow and learning.
+Article Start Page 1 of 8 Next
+Related Jobs
+iD Tech
+iD Tech — N/A, California, United States
+[05.17.21]
+Online STEAM Instructor/Mentor
+innogames
+innogames — Hamburg, Germany
+[05.17.21]
+Senior Mobile Game Developer - Unity - New F2P Mobile Game - InnoGames
+Sucker Punch Productions
+Sucker Punch Productions — Bellevue, Washington, United States
+[05.14.21]
+Senior Systems Designer
+Sucker Punch Productions
+Sucker Punch Productions — Bellevue, Washington, United States
+[05.14.21]
+Senior Games Writer
+
+
+[ View All Jobs ]
+
+
+Top Stories
+Inside the fantastic murder-mystery design of Paradise Killer
+Game industry struggles to react to growing Palestinian death toll
+Steam sales for 'the other 50%' - a return!
+eBay is banning the sale of 'adult' video games in July
+Comments
+Vin St John
+	
+27 Mar 2012 at 11:51 am PST
+profile image 	
+This was a great write-up. Chris! Thanks for all the useful examples.
+	
+Login to Reply or Like
+2 likes
+Nicholas Muise
+	
+27 Mar 2012 at 3:37 pm PST
+profile image 	
+Fantastic Chris. I really appreciate the effort that went into putting this together. Well done!
+	
+Login to Reply or Like
+Brad Borne
+	
+27 Mar 2012 at 6:36 pm PST
+profile image 	
+Hm, I'd still like to know if The Fancy Pants Adventures had any influence on Origins.
+	
+Login to Reply or Like
+Craig Hauser
+	
+27 Mar 2012 at 8:07 pm PST
+profile image 	
+Fantastic article! Origins was my favorite game last year and I've been spending a week now trying to break it down and figure out what made it fun. This gives insight I probably never would have gotten otherwise.
+	
+Login to Reply or Like
+Tjien Twijnstra
+	
+28 Mar 2012 at 2:58 am PST
+profile image 	
+What a great opportunity you had Chris! Thanks for sharing.
+	
+Login to Reply or Like
+Jorge Diaz
+	
+28 Mar 2012 at 7:35 am PST
+profile image 	
+Great article
+	
+Login to Reply or Like
+Eric Schwarz
+	
+28 Mar 2012 at 9:13 am PST
+profile image 	
+This is a great write-up and I think clearly outlines a number of very critical concepts. Game design is too often understood in terms of macro-level ideas, but it's building a deep understanding of the mechanics that govern gameplay that really allow designers to produce the most effective scenarios. I've never played the Rayman games as much as I've liked, but all my time spent with them has suggested they are very well-designed games indeed. After reading this piece I feel like I have a better grip not just on Origins, but the central design concepts driving the series.
+
+Just one thing...
+
+"Not only color, but size can have a large influence on the clarity of a gameplay element; if an enemy is roughly the same scale as the player character, it is quite easily understood that they are of equal strength, and as such the player should be able to dispose of them with little effort."
+
+I realize we're talking about intuitive strength here, but shouldn't equal size suggest a fair challenge? I'd imagine enemies smaller than the player are the easily disposable ones - see goombas in Super Mario Bros. for the classic example.
+	
+Login to Reply or Like
+ashish pratap
+	
+29 Mar 2012 at 1:46 am PST
+profile image 	
+Nice Article Chris. Rayman Origin truly proves that Rational Game/Level Design is a very useful tool for designers indeed. I loved the game.
+	
+Login to Reply or Like
+Bhavin Sagar
+	
+29 Mar 2012 at 2:05 am PST
+profile image 	
+Very good article. But I'm still figuring practicing to adapt this method for social games. It will be great if you can give some inputs on that.
+	
+Login to Reply or Like
+Dan Felder
+	
+7 Apr 2012 at 11:19 am PST
+profile image 	
+Social Games need rational design almost more than most other titles. Social games are games in minutiae and need to produce very specific results. Rationally designing to produce those effects is crucial.
+	
+Login to Reply or Like
+Benjamin Hill
+	
+29 Mar 2012 at 2:21 am PST
+profile image 	
+A very good article and thoroughly great read. We apply a similar ethos when developing but I still feel that this article high-lighted many new points and placed them into words eloquently. I also though Rayman: Origins was one of the better games of last year and deserves to be recognised for its excellent level and game design rather than just its excellent art direction.
+	
+Login to Reply or Like
+Muir Freeland
+	
+4 Apr 2012 at 1:24 pm PST
+profile image 	
+This is my single favorite article to ever appear on this site. I love everything about it; I especially love that it's called "Rational Design," because a lot of people I've worked with treat quality design as some kind of weird enigma. It's just as much science as art, and it's awesome to read articles like this that treat the subject with equal parts process and passion.
+	
+Login to Reply or Like
+2 likes
+Mauricio Gehling
+	
+16 Apr 2012 at 1:23 pm PST
+profile image 	
+Awesome article for a fantastic game! I couldnÂ´t stop playing until get the platinum trophy. This article helped me understand why I enjoyed the game so much.
+	
+Login to Reply or Like
+Stefan Ehrhardt
+	
+13 Mar 2017 at 5:32 am PST
+profile image 	
+Thanks for this great article! Even in 2017 this still is a good read. I enjoyed reading through it a lot and I feel it gave me a good insight into the design concepts underlying not only the Rayman Series but generally into when, how and why to apply RLD methodologies.
+	
+Login to Reply or Like
+Patrice Thorrez
+	
+1 Mar 2018 at 8:21 am PST
+profile image 	
+"They are necessary for progressing to further worlds in the game"
+And that is the sole reason I abandonned Rayman Origins. It was just too much of a chore to go back to earrlier levels to be able to finish the game... should have let me continue! Why?!
+	
+Login to Reply or Like
+Valentin Capitaine
+	
+16 Jul 2020 at 1:07 pm PST
+profile image 	
+Great article, an excellent introduction to Rational Design. Thanks Chris!
+	
+Login to Reply or Like
+
+Login to Comment
+
+
+
+Discover more from Informa Tech
+
+    Game Developers Conference
+    Independent Games Festival
+    Gamasutra Jobs
+    Game Developers Choice Awards
+    GDC Vault
+    Omdia
+    Game Career Guide
+
+Working With Us
+
+    Contact us
+    About Us
+    Advertise
+
+Follow gamasutra on Social
+
+alt text of the logo
+
+    Home
+    Cookies
+    CCPA: Do not sell my personal info
+    Privacy
+    Terms
+
+Copyright © 2021 Informa PLC Informa UK Limited is a company registered in England and Wales with company number 1072954 whose registered office is 5 Howick Place, London, SW1P 1WG.

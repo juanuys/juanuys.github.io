@@ -1,0 +1,135 @@
+
+The GameDiscoverCo newsletter The GameDiscoverCo newsletter
+Subscribe
+
+    About
+    Archive
+    Help
+    Log in 
+
+Steam sales for 'the other 50%' - a return!
+We look at a good title's real numbers.
+Simon Carless 	17 hr ago	1 	Comment 	Share
+
+[The  GameDiscoverCo game discovery newsletter  is written by ‘how people find your game’ expert &  GameDiscoverCo  founder Simon Carless, and is a regular look at how people discover and buy video games in the 2020s.]
+
+Welcome back to the first free GameDiscoverCo newsletter of the week. Non-Plus subscribers, you missed a wideranging Friday subscriber newsletter where we chatted about ‘old person’ & skate simulators (!), why everyone is hyped for Days Gone again, and streaming trends for Hood & Resident Evil Village. ( Sign up to get it & more!)
+
+But in the meantime, let’s get on to this missive. And it starts with a look at real Steam stats for a smaller semi-professional game, something we love doing just to showcase the diversity of the video game market.
+Steam sales for ‘the other 50%’ - it’s back!
+
+While a lot of attention gets paid to Steam and console games that rack up big sales milestones - heck, we’ve run a case study on Academia: School Simulator’s $1 million Steam gross , and how The Riftbreaker picked up 250,000+ wishlists - we also love deep-diving into niche game sales.
+
+That’s why we looked at Bad Logic Studios’ games in late 2019 , despite the fact they had only sold a couple of hundred copies each. We explained it as “an interesting look at ‘the other [50%]’ of Steam - well made hobbyist or semi-pro games that don’t break out, despite being functional and decent quality.”
+
+And this time out, Laurie James from Sicklydove Games has been kind enough to give us full back-end Steam stats from his multiplayer party game Disobedient Sheep . And you can learn a lot, just in terms of resisting the temptation to dismiss low-selling games as ‘shovelware’.
+
+Many of these titles are decent, but Steam is crowded. So you should know how many copies they sell, and why! There is a whole class of semi-pro game devs - some of whom even publish on console - that you need to pay attention to. They make good games on very different budgets to full-time game developers and publishers.
+
+Starting out, here’s the lifetime Steam overview for the game since launching in April 2020:
+
+The title actually has 8 Steam reviews in total. So with 548 units sold, its Steam sales to reviews ratio is 68.5, ever so slightly above our generally agreed range of 20 to 60 sales per review.
+
+Here’s the game’s trailer - I like the British West Country-style narration, incidentally:
+
+Just for the record, the game’s Steam capsule description - which we think is pretty good - reads like this: “Disobedient Sheep is a frantic and lighthearted sheep herding party game for two to four players. Play as adorable sheepdogs and guide your hapless flock to victory in four different game-modes by avoiding anvils, dodging dynamite, and bailing on boulders.”
+
+When we asked Laurie about how and why he came to develop this title, he listed the following bulletpoints:
+
+    First game, first games industry experience
+
+    Developed over ~2.5 years, while working full-time as a software engineer
+
+    Started as a 'Let's learn how to make a game' side-project, with no commercial expectations
+
+    Increased expectations as I put more time into it, spent ~£4,000 UKP total on contractors, assets and event travel, but happy to see no return in the worst-case
+
+    Burned out a bit from working too much, just as a couple of publishing opportunities fell through (in retrospect, I think this was a good thing!)
+
+    Released April 2020 as Pay-What-You-Want on itch, and £6.99 on Steam;
+
+    2,365 Wishlists now, 1,500 at launch
+
+So overall, the game has 500 Steam sales, 64 returns (12.8%), $3,384 gross Steam Revenue, and has grossed about ~£80 UKP on Itch. And it had 1,567 wishlists on launch and 195 sales in the first week - a 0.125 multiple. (The all-time median is 0.2 , you may recall, but there’s a lot of variance - it’s well within that.)
+
+And the Steam reviews that do exist for Disobedient Sheep are pretty good, if agreeing that the game is frantic and casual. For example: “This game is completely mad and great fun in local multiplayer, especially with my young kids - it's simple enough for them to enjoy and doesn't really matter if you play it well or not.”
+
+Here’s the lifetime Steam sales for the game, I’ve roughly mapped the discount tracking from SteamDB directly underneath it, so you can see that the post-launch sales spikes all came from discounts:
+
+Finally, let’s take a look at the wishlists for the game, according to the Steam back end. It’s added 3,270 wishlists over its entire history, and has a balance of around 2,300 right now. (Which came in useful when the 1-year anniversary coincided with a 35% off discount .)
+
+Now, if you were to ask me why this game sold 500 copies, and not 5,000 copies, I would say the following:
+
+    Multiplayer only ‘party’ couch co-op games are often difficult to sell, even though they demo great at events, and Steam Remote Play allows remote play versions nowadays.
+
+    While the game has a really fun and clever shepherding mechanic, it does seem like it’s a bit lacking in depth. And median Steam time played of 13 minutes seems to back that up.
+
+    The visuals look well-done to me - I like the simple lowpoly art - but for core Steam audiences, they tend to prefer grittier art and content to super-cute art direction. (So maybe this would have been a slightly better fit on Switch.)
+
+But it’s not like this was a high-stakes ‘must make this game fit into the market, or else’ situation. Laurie wanted to make an entire game from scratch in his spare time, and he did it, and he’s made (most) of his money back! So that works just great for him. (Since then, Laurie just released ‘five-minute interactive experience reflecting on the fragility of our planet’ Strata on Itch, btw - go check it.)
+
+When I asked Laurie whether he considered the above factors, or whether saleability was really in his mind when he developed the game, he said: “When I decided to start the project, it was entirely about making a game that I wanted to exist. I didn't expect to be able to produce anything of sufficient quality that I could justify selling it.
+
+So genre saleability wasn't a concern at all. I'd worked on a farm before, and I think my thought process was pretty-much just: 'The concept sounds fairly unique, I think I could code a herding algorithm, I've been playing a lot of Overcooked, and sheep are beings of pure chaos.’”
+
+Concluding: games are a creative medium, and while we go on endlessly about market viability in the GameDiscoverCo newsletter, you can choose to make the kind of game you want to make, any time you want. If you do it in your spare time, it won’t bankrupt you. But yes, all ‘premium’ games are competing in the same market.
+
+So if you’re serious about succeeding from a business perspective, you have to make sure you’re thinking about what differentiates you from hobbyists or semi-pro devs. They make good games, and for many, a few hundred happy players is just fine by them!
+Two great decks on the state of the game business
+
+In general, paid research sometimes threads the needle between a) large-scale trends that are difficult to quantify, and b) ‘X thing will be big soon’ reports that take a hockey-stick approach to revenue. (The latter are not always accurate future predictors, but often good client justifications to invest in that area!)
+
+Anyhow, in the video game space, we have a couple of favorites we wanted to point out that absolutely don’t do this (haha!) They both have new presentations out that get ‘real’ with overarching trends.
+
+Firstly, Piers Harding-Rolls, who’s worked for a host of research companies like Screen Digest (and I worked with briefly at GDC’s parent company), is at the UK-based Ampere Analysis now, running their game research service . He just did a 30-minute presentation on ‘The Future Of Console Gaming’, and was kind enough to allow me to link a free video version of the talk for you all.
+
+The above slide from it is Piers’ attempt to quantify the long-term shift in one-off ‘premium’ game purchases, versus DLC/IAP, versus subscription revenue in the console space from 2014 to 2025. And I find myself agreeing - both to that analysis, and the below slide on how console subscription services are changing:
+
+Piers is a realist, and there’s also other good stuff on prospective Nintendo vs Sony vs. Xbox market share and what the big platforms are planning - so go check out the talk if you’d like.
+
+Secondly, we mention former Superdata Research founder Joost Van Dreunen - now just doing his newsletter and presumably plotting new things - quite a bit. But he has a recent ‘Video Games Industry Review - 2021’ presentation that we particularly liked for its high-level view of big companies in the game market.
+
+For example, I’ve rarely seen such a clear-headed overview of game revenue and valuation across the platform holders who are becoming more and more important for the game biz:
+
+And Joost’s look at trends for the future is also excellent, pointing out the platform-holder shift also creates challenges for IP ownership, for example:
+
+Anyhow, the whole thing is great, so if you didn’t read it yet, check it out at your leisure .
+Follow-ups: IEMA ratings, Valve lawsuit
+
+We’re going a little long here, so we’ll leave the links round-up to Wednesday’s newsletter. But we just have time for a couple of follow-ups to previous newsletters:
+
+Firstly, latest Wednesday’s ‘game ratings’ newsletter has been updated with the quote I received from the IEMA on ratings shifts removing games from the eShop: “We always recommend that developers and publishers are as thorough and accurate as possible when submitting for a rating assignment – whether that be via the IARC rating process or the traditional Long Form process – to avoid any potential problems once the game is released.”
+
+They continued: “We are always available to answer any questions about the process should they need additional information… It is worth mentioning that IARC has no input into specific storefront policies when ratings change due to incomplete or inaccurate disclosure during the ratings process.” So… perhaps asking Nintendo again if they can be a little more ‘relaxed’ about ratings changes kicking games off the store for long periods?
+
+Secondly, as a follow-up to discussions on the Valve antitrust lawsuit , Kyle Orland over at Ars Technica wrote an analysis on Steam’s ‘price parity’ rules , suggesting they are “not wreaking havoc on game prices”, and I was quoted in there as part of a much larger article. And here’s what I said:
+
+“Most game publishers in today's market seem to prefer the same pricing across many stores, no matter what platform cut they receive… Reduced platform cuts might give them more latitude for greater one-off discounts and other promotions. But price parity often appears to be a commercial decision for uniformity and ease of explanation.”
+
+Oh, and I also added: “Platform cut is really important, but in order to succeed as a platform, you need both a competitive cut and a mass of actual players.” Anyhow, not rubbishing / trashing the idea of better cut. (Better platform cut is great!) Just noting some of the realities…
+
+Finally for this newsletter, we just spotted - via Daniel Ahmad on Twitter - this intriguing Tencent cloud gaming controller designed for the Chinese market:
+
+Ahmad notes it “…comes with interchangeable parts that are tailored towards different games. One is for traditional console games, the other is for mobile games. This is because there are 700m+ mobile gamers in China. Cloud enables these to be played on TV etc.” Is this a future scenario for the West, or is this an Asia-specific trend? I wonder…
+
+[We’re  GameDiscoverCo , a new agency based around one simple issue: how do players find, buy and enjoy your premium PC or console game? You can  subscribe to GameDiscoverCo Plus  to get  access to exclusive newsletters, interactive daily rankings of every unreleased Steam game , and lots more besides.]
+1 	Comment 	Share
+Subscribe
+← Previous
+Top New Community What is The GameDiscoverCo newsletter? About
+Behind the dizzying ride to the top for Among Us Are you strapped in?
+Simon Carless
+Sep 11, 2020	8 	Comment 	Share
+Game refunds & the hidden costs of 'getting to net' on Steam Sorry, it's another numbers column.
+Simon Carless
+Aug 17, 2020	7 	Comment 2 	Share
+How do you fund that game prototype? The first step can be the hardest.
+Simon Carless
+Mar 1	4 	Comment 	Share
+See all
+Ready for more?
+Subscribe
+© 2021 Game Discovery Now LLC. See privacy , terms and information collection notice
+Publish on Substack
+This site uses cookies. To find out more, read our privacy policy ✖ Close
+This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts

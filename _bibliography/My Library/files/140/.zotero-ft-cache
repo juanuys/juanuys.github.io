@@ -1,59 +1,248 @@
 
-Skip to main content
-GOV.UK
-Service Manual Show or hide search
-Search on GOV.UK
-Search
-Coronavirus (COVID-19) National restrictions in England until 2 December
-Brexit transition Take action now for new rules in 2021
+To access this site, you must enable JavaScript.
 
-beta Complete our quick 5-question survey to help us improve our content .
+Skip to content
+Dashboard
 
-    Service manual
-
-Agile delivery
-
-How to work in an agile way: principles, tools and governance.
-Open all sections
-Understanding agile project management
-Introductions, methods, core features.
-Working with agile methods
-Workspaces, tools and techniques, user stories, planning.
-Governing agile services
-Principles, measuring progress, spending money.
-Phases of an agile project
-Discovery, alpha, beta, live and retirement.
-Join the community
-
-Find out what the cross-government community does and how to get involved.
-
-    Agile delivery community
-    Standards and assurance community
-    Product and service community
-
-Get notifications
-
-When any guidance within this topic is updated email
-Is this page useful?
-Maybe
-
-    Yes this page is useful
-    No this page is not useful
-
-Thank you for your feedback
-There is something wrong with this page
-Support links
-
+    Juan Uys
+    Account
+    Dashboard
+    Courses
+    Calendar
+    9 unread messages. 9
+    Inbox
+    History
     Help
-    Privacy
-    Cookies
-    Contact
-    Accessibility statement
-    Terms and conditions
-    Rhestr o Wasanaethau Cymraeg
-    Built by the Government Digital Service
 
-Open Government Licence
+    Game Development IGD720 20/21 Part-Time Study Block S2
+    Pages
+    Week 2: Introduction 
 
-All content is available under the Open Government Licence v3.0 , except where otherwise stated
-© Crown copyright
+    Home
+    Topics
+    Assignments
+    Discussions
+    Grades
+    Conferences
+    Collaborations
+    Talis Resource Lists
+    Chat 
+
+Week 2: Introduction
+
+Game Design
+
+Image source : unsplash.com  (Links to an external site.)
+ 
+Welcome
+
+This week we explore the game design process, and the principles that underpin it. Let’s start by trying to analyse the games that inspire us, to see what makes them tick. Here are some criteria we can use for analysing a game design:
+
+1. Game Mechanics
+	
+
+These are typically the things that the player can do in the game. Some game mechanics operate on a moment-to-moment timescale, for example running and jumping, while others have a longer timescale, for example completing a level might happen every few minutes.
+
+2. Genre
+	
+
+Games that rely on the same tropes and game mechanics are frequently grouped together into genres. Often these tropes originate from one or two foundational games, for example id Software’s Doom and QUAKE , in the case of first-person-shooters.
+
+3. Player Fantasy
+	
+
+What wish is the game fulfilling for the player? Does it give them a chance to experience something they can’t do in the real world?
+
+4. Platform and Controls
+	
+
+What hardware is the player using to view and interact with the game? How are the player’s inputs converted into actions within the game?
+
+5. Spatial Abstraction
+	
+
+How is space represented in the game? Is it three-dimensional or two-dimensional? Is the space divided into fixed grid squares, like a chess board, or is it a more realistic simulation of the real world?
+
+6. Avatar
+	
+
+What represents the player in the game? Are they controlling a particular character or object, or are they more of a disembodied overseer?
+
+7. Camera Perspective
+	
+
+How does the player view the game world? Are they looking through the eyes of their avatar, or from behind or above them? Is the camera free-moving or locked on a particular plane and angle?
+
+8. Goals and Scores
+	
+
+Giving the player something to aim towards is key to keeping them engaged in the experience.
+
+9. Progression and Variety
+	
+
+How does the game change as the player experiences it? For example, does it get harder as you go? Does the player go on a journey to different locations? Can they unlock new abilities that modify the gameplay in some way?
+
+10. Tension and Rest
+	
+
+Very few games keep the player in a frantic state all the time – providing relaxing periods without an imminent threat is an important part of keeping the player engaged.
+
+11. Obstacles and Penalties
+	
+
+For the game to provide an element of challenge, there must be something in the way of the player that they must overcome – and often a penalty for failure. Does skill or strategy determine success? Is there a balance of risk and reward?
+
+12. Resources
+	
+
+Currencies, crafting materials or ‘ammo’ must often be spent to perform an action, eg unlocking a new item, building a structure or using a weapon. The player may have a health resource that leads to a losing game state if depleted.
+
+13. Decisions
+	
+
+Making choices that have a meaningful impact on the game system is often a key factor in player engagement – and separates ‘deep’ games with millions of outcomes, from ‘shallow’ experiences with little player agency.
+
+14. Simulation and Chance
+	
+
+What factors are beyond the player’s control? Does the game live independently of the players actions? Are their virtual ‘dice rolls’ in the game that determine how it unfolds?
+
+15. Storytelling
+	
+
+Firstly, what story does the game tell? Is it an adventure, a mystery or something else? Where and when does it take place, and what characters are there? Secondly, how does the game tell its story? Does it use images, cut-scenes, dialogue or gameplay?
+
+16. Art Direction and Style
+	
+
+While not strictly a game design decision, the choice of visuals has a huge impact on how the player perceives the game.
+
+17. Animation and Visual Effects
+	
+
+A big part of ‘selling’ the game experience to the player is the visual polish that comes from the animation of characters and objects, and visual effects such as particle systems, shaders and post-processing.
+
+18. Sound Design
+	
+
+How do the sound effects, environmental ambience and music set the tone of the game?
+
+ 
+
+Here is an example game analysis, based on Westwood’s genre-defining, real-time, strategy game, Command & Conquer :
+
+1. Game Mechanics
+	
+
+Command soldiers and vehicles to explore a level and attack enemy units. Gather resources with ‘harvester’ units. Construct new buildings, troops and vehicles.
+
+2. Genre
+	
+
+Real-time strategy. Other notable games in this genre include Dune 2 , Warcraft 2 and Starcraft .
+
+3. Player Fantasy
+	
+
+“I am an army general, commanding military units on the battlefield.”
+
+4. Platform and Controls
+	
+
+PC platform – use the mouse to select units and issue commands.
+
+5. Spatial and Abstraction
+	
+
+A two-dimensional play-space divided into a fixed grid, where each combat unit occupies one grid square, and buildings span across multiple squares.
+
+6. Avatar
+	
+
+The player does not control a single character – the military base itself represents the player.
+
+7. Camera Perspective
+	
+
+Top-down oblique view with slightly tilted camera, allowing sides of units and buildings to be visible.
+
+8. Goals and Scores
+	
+
+Destroy the enemy base or complete a special objective on each level. Earn higher scores by winning the battle quickly, gathering more resources and destroying more enemy units.
+
+9. Progression and Variety
+	
+
+Unlock new missions and unit types, encounter different enemy types. Reveal new narrative content after each mission.
+
+10. Tension and Rest
+	
+
+Relaxed exploration and building phase, interspersed with high-tension enemy attack waves. Narrative cut scenes between levels also allow the player to relax between missions.
+
+11. Obstacles and Penalties
+	
+
+‘Fog of war’ covers areas you have not yet explored, restricting visibility of those areas. Enemy units attack your units and try to destroy your base. Enemy harvesters compete for the same resources as you. Destruction of your base resets current stage.
+
+12. Resources
+	
+
+Money is earned by harvesting ‘tiberium’ crystals from the level with ‘harvester’ units. Money can be spent to buy new units. Units and buildings have individual health bars, and are destroyed when health reaches zero.
+
+13. Decisions
+	
+
+The player decides which structures to build, which units to build, when to build them, and how many to build. They decide where to place defences and when to launch attacks.
+
+14. Simulation and Chance
+	
+
+The enemy AI general will harvest resources, build units and launch attacks autonomously. There is no randomness in the game system – the system is suitably complex already that outcomes are unpredictable.
+
+15. Storytelling
+	
+
+Full motion video mission briefings and news broadcasts between missions tell the unfolding story. Text-based mission descriptions put the player goals in a narrative context.
+
+16. Art Direction and Style
+	
+
+Gritty, realistic, modern war imagery with futuristic elements. Military hardware is the focus. 3D models rendered to 2D sprites, with pixel art for smaller characters. Muddy greens, browns and greys for the environment. Brighter, more saturated, yellows and blues used for units.
+
+17. Animation and Visual Effects
+	
+
+Units have idle, move and attack animations. Structures have construction animations. Blood spurts when troops take damage. Explosions when vehicles are destroyed.
+
+18. Sound Design
+	
+
+Units have unique, realistic, attack sounds, destruction sounds and construction sounds. Units have voice ‘barks’ when being issued commands. Energetic rock music plays in the background.
+
+In the Spark activity, you will have a chance to analyse a game of your own choosing in terms of the design criteria provided.
+Weekly Learning Objectives
+
+This week is Game Design.
+
+By the end of this week, you will be able to:
+
+    Identify game design principles.
+    Analyse existing games in terms of game design principles.
+    Apply game design principles to create original game concepts.
+    Evaluate the scope of a game concept.
+
+ 
+Readings and Bibliography
+
+Remember to allow yourself time during your studies to complete the weekly reading lists. Reading around the topics each week enhances and broadens your understanding of them. To access the weekly reading list, please use the Talis Resource Lists tab in the menu on the left hand side.
+
+References made in this week’s materials will be listed here, if any. For references made in lecture videos, please see the lecture slides below the videos.
+
+    Game Maker’s Toolkit (nd) . Available at: https://www.youtube.com/c/MarkBrownGMT/about  (Links to an external site.) [Accessed 19 November 2020].
+    GDC (2020). The Gamer’s Brain, Part 3: The UX of Engagement and Immersion (or Retention) . Available at: The Gamer's Brain, Part 3: The UX of Engagement and Immersion (or Retention)  (Links to an external site.) [Accessed 19 November 2020].
+    Brains, UX & Games – Celia Hodent (nd) Available at: https://celiahodent.com/about  (Links to an external site.) [Accessed 19 November 2020].
+
+Previous Previous Module: Week 1: Orientation Next Next: Week 2: Spark Forum
