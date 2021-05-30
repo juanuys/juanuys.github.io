@@ -7,7 +7,7 @@ category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
 week: 1
-module: game development
+module: co-creative development
 ---
 
 Does a SMART goal come out of this?

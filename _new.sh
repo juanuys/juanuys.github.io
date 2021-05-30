@@ -33,3 +33,5 @@ fi
 
 
 echo "New post ready for edits at $NEW"
+
+mkdir -p assets/posts/${DATE}-${KEBAB%?}
