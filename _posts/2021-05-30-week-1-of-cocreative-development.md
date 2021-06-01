@@ -36,7 +36,7 @@ I interpret:
 
 A high [Openness](https://en.wikipedia.org/wiki/Openness_to_experience) (imagination, aesthetics, etc) score comes as no surprise - I'm doing the Indie Game Dev course, after all (which makes the high [Conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) score useful, as I'll be organised and determined to finish it. Or, that's the aim, at least!). Low [Extraversion](https://en.wikipedia.org/wiki/Extraversion_and_introversion) goes hand-in-hand with my desire for a simple, quiet life, and in fact: I can tinker away quietly for hours in my home office (as much as a life with wife and 2 kids allows; my friends come third, haha!). Average [Agreeableness](https://en.wikipedia.org/wiki/Agreeableness) makes sense, as I tend balance my needs with those of others. I was surprised to see some [Neuroticism](https://en.wikipedia.org/wiki/Neuroticism), which is probably due to Covid, Brexit, having ageing parents, etc. I'll try and pay less attention to the news from now on.
 
-# First chat with josh
+# First chat with Josh
 
 Josh and I threw some ideas around, and kind of circled back to doing something audio-related a couple of times (I spend way too much time staring at screens!). Josh was keen on starting with accessibility first this time around, and is something he has [reflected on before](https://skoobin.design/2021/04/04/uxd720-week-9-web-design/).
 
