@@ -18,7 +18,7 @@ Rugged individualists -- and there are many, especially at the top -- cannot con
 
 Could it make more sense to form a "working group", rather than a "team"? Perhaps some collective introspection can shed light on this. Katzenburg goes on to define "team" and espouses the virtues of a team being a sum greater than its parts:
 
-{% katzenbach_wisdom_2015 -A -l 41 %}
+{% quote katzenbach_wisdom_2015 -A -l 41 %}
 A team is a small number of people with complementary skills who are committed to a common purpose, performance goals, and approach for which they hold themselves mutually accountable.
 {% endquote %}
 
@@ -26,7 +26,7 @@ I'm looking forward to working with a subset of my own cohort and also the the [
 
 # Spark forum
 
-We're tasked with taking a personality test, e.g. at [Truity](https://www.truity.com/).  We've long known that the Meyers Briggs test is completely meaningless }% cite stromberg_why_2014 %}, {% cite pittenger_utility_1993 %}, so I opted for the Big 5 instead. I only found out afterwards that [it is also flawed](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Critique) {% cite block_contrarian_1995 %}.
+We're tasked with taking a personality test, e.g. at [Truity](https://www.truity.com/).  We've long known that the Meyers Briggs test is completely meaningless {% cite stromberg_why_2014 %}, {% cite pittenger_utility_1993 %}, so I opted for the Big 5 instead. I only found out afterwards that [it is also flawed](https://en.wikipedia.org/wiki/Big_Five_personality_traits#Critique) {% cite block_contrarian_1995 %}.
 
 My result:
 
