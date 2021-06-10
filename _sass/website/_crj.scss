@@ -1,3 +1,20 @@
 .crj-breakdown-child > p > a {
     color: nth($reds, 4)
 }
+
+.ma-module-tag {
+    display: flex;
+    padding: 5px;
+}
+.ma-module-tag.GDD710 {
+    background-color: #1986ff;
+    color: white !important;
+}
+.ma-module-tag.IGD720 {
+    background-color: #fff456;
+    color: #333  !important;
+}
+.ma-module-tag.GDD730 {
+    background-color: #8317ff;
+    color: white  !important;
+}

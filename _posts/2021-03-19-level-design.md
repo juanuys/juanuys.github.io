@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/posts/2021-03-19-analysis-of-slay-the-spires-level-design/thumb.jpg
 week: 8
 module: game development
+code: IGD720
 ---
 
 During week 8 we looked at level design, and were given two tasks: analyise levels, content and environment art for one of our favourite games, but then please design the levels, environments, mission and quests for our own game.

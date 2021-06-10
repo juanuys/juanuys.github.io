@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 9
 module: game development
+code: IGD720
 ---
 
 During week 9, we're tasked with completing a first pass of sound design for our game.

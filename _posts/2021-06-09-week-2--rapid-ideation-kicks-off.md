@@ -6,8 +6,9 @@ tags: ma falmouth crj week2 rapid-ideation prototyping twine
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
-week: 1
+week: 2
 module: co-creative development
+code: GDD730
 ---
 
 We've formed a team. Meet The Falmouth Foulmouths:

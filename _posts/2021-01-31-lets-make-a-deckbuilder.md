@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/posts/2021-01-31-lets-make-a-deckbuilder/thumb.png
 week: 2
 module: game development
+code: IGD720
 ---
 
 Week 2's challenge activity is 

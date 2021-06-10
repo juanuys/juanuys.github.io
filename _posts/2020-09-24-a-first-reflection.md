@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 1
 module: development practice
+code: GDD710
 ---
 
 Myself and the cohort had a chance to meet one another and get a glimpse into each others' backgrounds. What struck us is the breadth and depth of skills the other students have. Some of us felt inferior and unprepared, or perhaps not worthy of being here.

@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 2
 module: development practice
+code: GDD710
 ---
 
 From the topics this week, these two prompts:

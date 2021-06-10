@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 7
 module: development practice
+code: GDD710
 ---
 
 This is a reflection on the first [rapid ideation session]({% post_url 2020-10-27-game-jam %}). We ask these questions:

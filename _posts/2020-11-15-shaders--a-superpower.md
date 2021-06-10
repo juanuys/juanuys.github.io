@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 8
 module: development practice
+code: GDD710
 ---
 
 We're almost at the end of our second rapid ideation session.

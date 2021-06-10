@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 4
 module: game development
+code: IGD720
 ---
 
 {% quote skolnick_video_2014 %}

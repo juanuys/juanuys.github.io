@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 3
 module: game development
+code: IGD720
 ---
 
 This week is programming week, and the challenge activity is to create an interactive ‘grey box’ prototype.

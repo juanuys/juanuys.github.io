@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 5
 module: development practice
+code: GDD710
 ---
 
 This week we're asked to reflect on our present situation, using the 3 perspectives below.

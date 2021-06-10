@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 1
 module: co-creative development
+code: GDD730
 ---
 
 Does a SMART goal come out of this?

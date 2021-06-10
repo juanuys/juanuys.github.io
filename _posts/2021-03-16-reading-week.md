@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 6
 module: game development
+code: IGD720
 ---
 
 Week 6 was supposed to be a welcome break from the busy schedule to catch up on [my game](/tags#contumacious), but instead I filled my new-found time with more busywork:

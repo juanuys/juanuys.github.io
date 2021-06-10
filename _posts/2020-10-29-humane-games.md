@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 6
 module: development practice
+code: GDD710
 ---
 
 The cohort and I had an informal discussion on our Discord today about "tech for good".

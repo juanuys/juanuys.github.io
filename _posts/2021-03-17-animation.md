@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 7
 module: game development
+code: IGD720
 ---
 
 Week 7 is all about animation.

@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 12
 module: development practice
+code: GDD710
 ---
 
 [Yesterday I posted]({% post_url 2020-12-07-a-final-reflection-for-development-practice %}) about the up-coming game for the final masters project, and I wasn't sure about what to make. What I know is that I do want to make something important, with a special message. Not quite sure what it is yet.

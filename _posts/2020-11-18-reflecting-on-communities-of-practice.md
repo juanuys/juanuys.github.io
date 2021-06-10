@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 9
 module: development practice
+code: GDD710
 ---
 
 During week 9 we discuss communities of practice.

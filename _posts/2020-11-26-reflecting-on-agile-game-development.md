@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 10
 module: development practice
+code: GDD710
 ---
 
 During week 10 we learnt more about the agile process and the various practices.

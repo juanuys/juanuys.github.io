@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 5
 module: game development
+code: IGD720
 ---
 
 Week 5 is all about art direction, and we're tasked with developing an art direction document.

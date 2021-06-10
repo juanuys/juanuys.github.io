@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 12
 module: development practice
+code: GDD710
 ---
 
 Week 12 is entitled Finale, and I'll cap things off by doing a tiny retrospective, and the week 12 challenge.

@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 1
 module: co-creative development
+code: GDD730
 ---
 
 I've now started the 3rd module of the [masters](https://www.falmouth.ac.uk/study/online/postgraduate/indie-game-development), called **co-creative development**. We'll go deep on the concept of teamwork. TBH, I've always considered myself a bit of a loner, and always thought it would be cool to be one of those devs who made an entire hit game themselves (and the music!).

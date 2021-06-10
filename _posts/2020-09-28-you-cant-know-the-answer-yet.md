@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 2
 module: development practice
+code: GDD710
 ---
 
 Week 2 is all about creativity.

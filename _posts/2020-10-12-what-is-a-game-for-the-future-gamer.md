@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 4
 module: development practice
+code: GDD710
 ---
 
 I'm reading [Sid Meier's Memoir!](https://civilization.com/en-GB/news/entries/sid-meier-s-memoir-a-life-in-computer-games-is-now-available/). He talks about what he thinks videogames ought to be. The context: he was thinking of the concept for [Pirates!](https://2k.com/en-US/game/sid-meiers-pirates/) after having created many flight simulators.

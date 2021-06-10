@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/posts/2020-10-28-development-practice-retrospective/thumb.jpg
 week: 6
 module: development practice
+code: GDD710
 ---
 
 One of the tasks this 6th week is

@@ -7,6 +7,7 @@ category: blog
 # disqus_comments: true
 # thumb: /assets/masters/crj/thumb.png
 module: development practice
+code: GDD710
 ---
 
 And here on this last day of week 5, I manage to squeeze in the challenge activity (no, not the game jam). Phew!

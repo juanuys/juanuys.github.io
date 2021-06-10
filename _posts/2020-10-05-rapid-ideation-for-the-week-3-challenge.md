@@ -7,6 +7,7 @@ category: blog
 # disqus_comments: true
 thumb: /assets/posts/2020-10-05-rapid-ideation-for-the-week-3-challenge/thumb.jpg
 module: development practice
+code: GDD710
 ---
 
 The challenge for week 3 of development practice is

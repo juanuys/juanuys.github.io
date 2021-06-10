@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 4
 module: development practice
+code: GDD710
 ---
 
 During [week 2 we applied some of the ideation techniques]({% post_url 2020-09-28-lets-scamper-some-art %}) we discussed in the course.

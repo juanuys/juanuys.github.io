@@ -27,7 +27,12 @@ says albert einstein
 <!-- <small class="highlight"><abbr title="critical reflective journal">crj</abbr> week {{ post.week }}</small> -->
 <!-- <abbr title="critical reflective journal" style="background-color: #1986ff; color: white;">crj week {{ post.week }}</abbr> -->
 
-<small style="background-color: #1986ff; color: white; display: flex;"><abbr title="critical reflective journal">CRJ</abbr>&nbsp; week {{ post.week }}</small>
+<!-- style="background-color: #1986ff; color: white; display: flex;" -->
+<small class="ma-module-tag {{post.code}}">{{post.code}} &mdash; week {{ post.week }}</small>
+
+<!--<br>
+<small style="background-color: pink; color: #333; display: flex; position: absolute; bottom: 10px; right: 20px; font-weight: bold; font-size: 1.5em;"><abbr title="critical reflective journal">CRJ</abbr></small>
+-->
 
 {% endif %}
 </div>

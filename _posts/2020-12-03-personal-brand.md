@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 11
 module: development practice
+code: GDD710
 ---
 
 During week 11 of development practice, we touch a bit on workplace readiness, which I felt was valuable *even if* the point of doing the MA is to teach you more about starting up an indie studio (instead of finding a job in gamedev). I guess it's good to keep your options open, and you might need to do a bit of freelancing to tide you over when the studio goes through a dry patch.

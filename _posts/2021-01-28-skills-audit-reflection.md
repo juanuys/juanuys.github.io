@@ -8,6 +8,7 @@ category: blog
 thumb: /assets/masters/crj/thumb.png
 week: 1
 module: game development
+code: IGD720
 ---
 
 What follows is a reflection on my [skills audit]({% post_url 2021-01-28-skills-audit %}).
