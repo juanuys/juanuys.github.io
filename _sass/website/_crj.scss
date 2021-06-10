@@ -1,3 +1,5 @@
+$paired: cbrew('paired', 12);
+
 .crj-breakdown-child > p > a {
     color: nth($reds, 4)
 }
@@ -7,14 +9,14 @@
     padding: 5px;
 }
 .ma-module-tag.GDD710 {
-    background-color: #1986ff;
-    color: white !important;
+    background-color: nth($paired, 1);
+    color: #333 !important;
 }
 .ma-module-tag.IGD720 {
-    background-color: #fff456;
-    color: #333  !important;
+    background-color: nth($paired, 2);
+    color: white  !important;
 }
 .ma-module-tag.GDD730 {
-    background-color: #8317ff;
-    color: white  !important;
+    background-color: nth($paired, 3);
+    color: #333  !important;
 }
