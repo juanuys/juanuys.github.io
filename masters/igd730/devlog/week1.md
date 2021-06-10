@@ -1,4 +1,10 @@
 
+# 2021-06-01
+
+- Met with team on Microsoft Teams chat
+- Set up first tech task list
+- Team (Josh, Luis, Oli, myself) agreed to go with my audio game idea
+
 # 2021-05-29
 
 - Familiarise myself with assignments

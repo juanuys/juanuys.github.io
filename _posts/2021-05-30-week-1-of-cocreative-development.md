@@ -16,13 +16,15 @@ I've now started the 3rd module of the [masters](https://www.falmouth.ac.uk/stud
 Rugged individualists -- and there are many, especially at the top -- cannot contribute to real team performance without taking responsibility for their peers and letting their peers assume responsibility for them. Yet they instinctively believe that "if you want a job done right, do it yourself." It is against their nature to rely on others for the really important tasks in life.
 {% endquote %}
 
-Could it make more sense to form a "working group", rather than a "team"? Perhaps some collective introspection can shed light on this. Katzenburg goes on to define "team" and espouses the virtues of a team being a sum greater than its parts:
+Could it make more sense to form a "working group", rather than a "team"? Perhaps some collective introspection can shed light on this. Katzenbach goes on to define "team" and espouses the virtues of a team being a sum greater than its parts:
 
 {% quote katzenbach_wisdom_2015 -A -l 41 %}
 A team is a small number of people with complementary skills who are committed to a common purpose, performance goals, and approach for which they hold themselves mutually accountable.
 {% endquote %}
 
 I'm looking forward to working with a subset of my own cohort and also the the [UX](https://www.falmouth.ac.uk/study/online/postgraduate/ux-design) cohort. We'll bring together a mix of technical and functional expertise, problem-solving and decision-making skills, and interpersonal skills.
+
+And we'll have more fun than if we did it all by ourselves. Right? Right! {% cite katzenbach_wisdom_2015 -l 12 %}
 
 # Spark forum
 

@@ -1,3 +1,13 @@
+#!/usr/bin/env bash
+
+ARG=${1:-not}
+
+if [ "$ARG" != "not" ]; then
+	INC="--incremental"
+else
+	INC=""
+fi
+
 # first step
 false && docker run --rm --name juanuys-com -p 4000:4000 --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:3 jekyll serve
 
@@ -5,7 +15,7 @@ false && docker run --rm --name juanuys-com -p 4000:4000 --volume="$PWD:/srv/jek
 false && docker commit juanuys-com juanuys-com-jekyll
 
 # step 3, run
-true && docker run --rm --name juanuys-com -p 4000:4000 --volume="$PWD:/srv/jekyll" -it juanuys-com-jekyll jekyll serve --incremental
+true && docker run --rm --name juanuys-com -p 4000:4000 --volume="$PWD:/srv/jekyll" -it juanuys-com-jekyll jekyll serve $INC
 
 # Why? The hub image installs gems on each run, and the new image has them all (and starts up quicker)
 
