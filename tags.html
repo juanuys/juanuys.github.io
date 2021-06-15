@@ -22,7 +22,7 @@ title: Posts by tag
       <ul>
       {% for post in posts %}
         {% if post.tags contains t %}
-        <li>
+        <li data-url="{{ post.url }}">
           <span class="date">{{ post.date | date: "%Y-%m-%d"  }}</span>
 
           {% if post.week %}<span class="date">Week {{ post.week }} &mdash;</span>{% endif %}
@@ -43,20 +43,72 @@ title: Posts by tag
 var parent = document.getElementById('tags_container');
 
 function getTag() {
-	var parts = document.URL.split('#');
-  return (parts.length > 1) ? parts[1] : null;
+  var parts = document.URL.split('#');
+  let it = (parts.length > 1) ? parts[1] : null;
+  return it;
 }
 
 var tag = getTag();
 
 if (tag !== null) {
+  // the <li> above's data-url will be used as a key into this obj:
+  var elementsToRender = {};
+
+  var tags = tag.split("+");
   var children = parent.children
   for (var i=0; i < children.length; i++) {
-    var child = children[i];
-    if (child.id !== tag) {
-      child.style = 'display: none;'
+    var childDiv = children[i];
+    // might be better to hide everything at once?
+    childDiv.style = 'display: none;';
+
+    var hasTag = false;
+    for (var j=0; j<tags.length; j++) {
+      hasTag = hasTag | (childDiv.id === tags[j]);
+    }
+    // this div has the tag, so add its child <li> to elementsToRender,
+    // but with a count, so we can filter the high counts afterwards.
+    if (hasTag) {
+      // childDiv
+      var lis = childDiv.querySelectorAll('li');
+      for (var j=0; j<lis.length; j++) {
+        var li = lis[j];
+        var key = li.dataset.url;
+        if (key in elementsToRender) {
+          elementsToRender[key].count++;
+        } else {
+          elementsToRender[key] = {
+            element: li,
+            count: 1,
+          }
+        }
+      }
     }
   }
+
+  // filter the list of elements to render
+  elementsToRender = Object.values(elementsToRender).filter((obj) => {
+    return obj.count === tags.length;
+  }).map(obj => obj.element)
+  // render the elements
+  var ul = document.createElement('ul');
+  parent.prepend(ul);
+  for (var i=0; i<elementsToRender.length; i++) {
+    ul.appendChild(elementsToRender[i]);
+  }
+  var header = document.createElement('p');
+  if (tags.length === 1) {
+    header.innerText = "Showing post(s) for tag:";
+  } else {
+    header.innerText = "Showing post(s) which has these tags in common:";
+  }
+  for (var i=0; i<tags.length; i++) {
+    var tag = tags[i];
+    var span = document.createElement('span');
+    span.className = 'tag-header';
+    span.innerText = tag;
+    parent.prepend(span);
+  }
+  parent.prepend(header);
 
   // also offer the opportunity to see all tags
   var seeAll = document.createElement('a');

@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-ARG=${1:-not}
+ARG=${1:-inc}
 
-if [ "$ARG" != "not" ]; then
+if [ "$ARG" == "inc" ]; then
 	INC="--incremental"
 else
 	INC=""

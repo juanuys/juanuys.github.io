@@ -1,7 +1,7 @@
 ---
 layout: postcrj
-title: "Week 1 of co-creative development"
-description: "Week 1 of co-creative development"
+title: "Team forming"
+description: "Week 1 - team forming"
 tags: ma falmouth crj teamwork week1
 category: blog
 # disqus_comments: true

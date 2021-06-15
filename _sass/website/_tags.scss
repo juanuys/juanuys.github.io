@@ -31,4 +31,17 @@ $reds: cbrew('reds', 9);
 .tags > ul > li:nth-child(7n+7) > a { color: darken(nth($reds, 8), 50%); }
 .tags > ul > li:nth-child(7n+8) > a { color: darken(nth($reds, 9), 50%); }
 
-
+/* tags.html */
+.tag-header {
+	background-color: nth($paired, 11);
+	padding: 5px;
+	margin-right: 20px;
+}
+#tags_container {
+	p {
+		margin: 20px 0;
+	}
+	ul {
+		margin-top: 20px;
+	}
+}
