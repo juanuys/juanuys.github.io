@@ -24,34 +24,6 @@ Answer these questions pertaining to the goal:
 
 # Goals
 
-## Be a better artist
-
-Set on 2020-12-07.
-
-| Component | Description |
-| --------- + ----------- |
-| Specific | I became a better artist... |
-| Measurable | ...when my players started complimenting my games' artwork on social media. |
-| Achievable | I reached this point by doing a variety of online art courses, ranging from pixel art to colour theory. |
-| Relevant / Realistic | My games were more successful as a result of having better artwork and unique art styles. |
-| Time-bound | I achieved this milestone towards the end of 2021. |
-| Emotional attachment | Players see your game before they experience it, so having my art lauded felt like a great accomplishment. |
-| Reward | The income from my games increased, as well-timed screenshots and GIFs drove more wishlists. |
-
-## Become more fluent with [Shaders/GLSL](https://en.wikipedia.org/wiki/Shader)
-
-Set on 2020-11-15
-
-| Component | Description |
-| --------- + ----------- |
-| Specific | I became more fluent with the shaders... |
-| Measurable | ...when I discovered that I can sketch a special effect as fluently as I can illustrate a character in my head using pencil and paper. |
-| Achievable | I knew I crossed a major hurdle when one of my shaders that I put on [shadertoy](https://www.shadertoy.com/) over a weekend got 20K views. |
-| Relevant / Realistic | Really getting fluent with shaders gave me a new superpower, as I could achieve awesome VFX across any game engine and platform. |
-| Time-bound | I reached this level by end-2022. |
-| Emotional attachment | Being a shader pro comes with a level of prestige, as its consider an arcane art, where most practitioners still copy/paste shaders off the web and hope for the best. |
-| Reward | The reward was in the mastery of shaders itself. |
-
 ## Become more fluent with a game engine
 
 Set on 2020-10-25.
@@ -80,6 +52,47 @@ Set on 2020-10-25.
 | Emotional attachment | When I didn't become a better designer, making games became just another computer programming exercise. |
 | Reward | The reward was in the outcome itself: more people liked my games, which means I could afford to make games full-time. |
 
+## Become more fluent with [Shaders/GLSL](https://en.wikipedia.org/wiki/Shader)
+
+Set on 2020-11-15
+
+| Component | Description |
+| --------- + ----------- |
+| Specific | I became more fluent with the shaders... |
+| Measurable | ...when I discovered that I can sketch a special effect as fluently as I can illustrate a character in my head using pencil and paper. |
+| Achievable | I knew I crossed a major hurdle when one of my shaders that I put on [shadertoy](https://www.shadertoy.com/) over a weekend got 20K views. |
+| Relevant / Realistic | Really getting fluent with shaders gave me a new superpower, as I could achieve awesome VFX across any game engine and platform. |
+| Time-bound | I reached this level by end-2022. |
+| Emotional attachment | Being a shader pro comes with a level of prestige, as its consider an arcane art, where most practitioners still copy/paste shaders off the web and hope for the best. |
+| Reward | The reward was in the mastery of shaders itself. |
+
+## Be a better artist
+
+Set on 2020-12-07.
+
+| Component | Description |
+| --------- + ----------- |
+| Specific | I became a better artist... |
+| Measurable | ...when my players started complimenting my games' artwork on social media. |
+| Achievable | I reached this point by doing a variety of online art courses, ranging from pixel art to colour theory. |
+| Relevant / Realistic | My games were more successful as a result of having better artwork and unique art styles. |
+| Time-bound | I achieved this milestone towards the end of 2021. |
+| Emotional attachment | Players see your game before they experience it, so having my art lauded felt like a great accomplishment. |
+| Reward | The income from my games increased, as well-timed screenshots and GIFs drove more wishlists. |
+
+## Project delivery
+
+Set on 2020-06-21.
+
+| Component | Description |
+| --------- + ----------- |
+| Specific | I became more focused on team project delivery... |
+| Measurable | ...when my team started hitting more milestones more often. |
+| Achievable | I helped the team achieve this by dedicating 30 minutes a week to ensuring that current progress matches the team's commitments until project completion. |
+| Relevant / Realistic | My team was more successful as a result of meeting more milestones. |
+| Time-bound | We had a streak of met milestones throughout the entire module, which ended in August 2021. |
+| Emotional attachment | Being on a winning team feels great. |
+| Reward | My winning team achieved our goals, which is rewarding in itself. |
 
 <!--
 ## Template

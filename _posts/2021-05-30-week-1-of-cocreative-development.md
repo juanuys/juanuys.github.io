@@ -11,6 +11,8 @@ module: co-creative development
 code: GDD730
 ---
 
+([devlog](/masters/gdd730/week1))
+
 I've now started the 3rd module of the [masters](https://www.falmouth.ac.uk/study/online/postgraduate/indie-game-development), called **co-creative development**. We'll go deep on the concept of teamwork. TBH, I've always considered myself a bit of a loner, and always thought it would be cool to be one of those devs who made an entire hit game themselves (and the music!).
 
 {% quote katzenbach_wisdom_2015 -l 88 %}
@@ -43,7 +45,9 @@ A high [Openness](https://en.wikipedia.org/wiki/Openness_to_experience) (imagina
 
 Josh and I threw some ideas around, and kind of circled back to doing something audio-related a couple of times (I spend way too much time staring at screens!). Josh was keen on starting with accessibility first this time around, and is something he has [reflected on before](https://skoobin.design/2021/04/04/uxd720-week-9-web-design/).
 
-Stay tuned. We're find more team members, and hopefully we'll have a better idea of what we're building by the end of next week.
+# Other
+
+I've realised this week how organisational I really am. I created the team space on Microsoft Teams, then set up the first tech task list, and organised the first meeting with [Doodle](https://doodle.com/en/).
 
 # Bibliography
 

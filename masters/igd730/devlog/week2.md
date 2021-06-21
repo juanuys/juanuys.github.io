@@ -1,3 +1,14 @@
+---
+title: "GDD730 week 2"
+name: gdd730week2
+layout: home
+description: "Week notes"
+permalink: /masters/gdd730/week2
+# thumb: /assets/masters/about/thumb.jpg
+pagetype: masters-hidden
+rank: 100
+---
+
 # 2021-06-10
 
 - Made a team logo for fun. (No worries if it's just a placeholder, and Maciej whips up something more pro.)
@@ -6,7 +17,7 @@
 # 2021-06-09
 
 - Worked on Twine prototype some more, and made audio work.
-- Team meeting tonight at 8PM
+- Organised Team meeting tonight at 8PM via Doodle
 
 # 2021-06-07
 

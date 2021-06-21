@@ -1,3 +1,13 @@
+---
+title: "GDD730 week 1"
+name: gdd730week1
+layout: home
+description: "Week notes"
+permalink: /masters/gdd730/week1
+# thumb: /assets/masters/about/thumb.jpg
+pagetype: masters-hidden
+rank: 100
+---
 
 # 2021-06-01
 

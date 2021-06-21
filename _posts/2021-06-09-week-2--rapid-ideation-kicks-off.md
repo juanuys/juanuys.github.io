@@ -11,6 +11,8 @@ module: co-creative development
 code: GDD730
 ---
 
+([devlog](/masters/gdd730/week2))
+
 We've formed a team. Meet The Falmouth Foulmouths:
 
 [![the Falmouth Foulmouths](/assets/posts/2021-06-09-week-2--rapid-ideation-kicks-off/falmouth-foulmouths.png)](https://github.com/The-Falmouth-Foulmouths/top-trumps)
@@ -51,7 +53,7 @@ We thought it a good idea to prototype a narrative-heavy game in Twine {% cite n
 
 # My cons
 
-I'm a dreamer and might drift off now and again. My fix is to rewatch our recorded video chats, then find missed information, create missing tasks, etc. But, I also turn this con into a pro by having my notebook handy and jotting everything down sharpish so I can get back to the conversation, and a bonus is that my idea isn't lost.
+I'm a dreamer. Sometimes, not too often, I might drift off a bit during conversation (don't we all?). My fix is to rewatch our recorded video chats, then find missed information, create missing tasks, etc. But, I also turn this con into a pro by having my notebook handy and jotting everything down sharpish so I can get back to the conversation, and a bonus is that my idea isn't lost.
 
 # Conclusion
 
