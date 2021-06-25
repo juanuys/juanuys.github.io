@@ -9,6 +9,10 @@ pagetype: masters-hidden
 rank: 100
 ---
 
+# 2021-06-22
+
+- Work on voice synthesis task, and generate a couple of samples, and share with team for feedback
+
 # 2021-06-21
 
 - Posted team Rapid Ideation Plan to Canvas
