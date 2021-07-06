@@ -11,8 +11,6 @@ module: co-creative development
 code: GDD730
 ---
 
-([devlog](/masters/gdd730/week1))
-
 I've now started the 3rd module of the [masters](https://www.falmouth.ac.uk/study/online/postgraduate/indie-game-development), called **co-creative development**. We'll go deep on the concept of teamwork. TBH, I've always considered myself a bit of a loner, and always thought it would be cool to be one of those devs who made an entire hit game themselves (and the music!).
 
 {% quote katzenbach_wisdom_2015 -l 88 %}
@@ -48,6 +46,26 @@ Josh and I threw some ideas around, and kind of circled back to doing something 
 # Other
 
 I've realised this week how organisational I really am. I created the team space on Microsoft Teams, then set up the first tech task list, and organised the first meeting with [Doodle](https://doodle.com/en/).
+
+# Week development log
+
+## 2021-06-01
+
+- Met with team on Microsoft Teams chat
+- Set up first tech task list
+- Team (Josh, Luis, Oli, myself) agreed to go with my audio game idea
+
+## 2021-05-29
+
+- Familiarise myself with assignments
+- Sent team a Doodle so we can have our first all-hands meeting
+- Created team space on Microsoft Teams (as an experiment)
+
+## 2021-05-28
+
+- Had impromptu chat with Josh
+- We brainstormed some initial ideas, and missed Maciej's absence
+
 
 # Bibliography
 

@@ -11,8 +11,6 @@ module: co-creative development
 code: GDD730
 ---
 
-([devlog](/masters/gdd730/week2))
-
 We've formed a team. Meet The Falmouth Foulmouths:
 
 [![the Falmouth Foulmouths](/assets/posts/2021-06-09-week-2--rapid-ideation-kicks-off/falmouth-foulmouths.png)](https://github.com/The-Falmouth-Foulmouths/top-trumps)
@@ -58,6 +56,26 @@ I'm a dreamer. Sometimes, not too often, I might drift off a bit during conversa
 # Conclusion
 
 Onwards and upwards. We're just getting started, and I can't wait to see what we come up with.
+
+# Week development log
+
+## 2021-06-10
+
+- Made a team logo for fun. (No worries if it's just a placeholder, and Maciej whips up something more pro.)
+- Continue with Twine spike
+
+## 2021-06-09
+
+- Worked on Twine prototype some more, and made audio work.
+- Organised Team meeting tonight at 8PM via Doodle
+
+## 2021-06-07
+
+- Set up Github org for team
+- Set up initial Twine repo so we can collaborate on the story
+- Looking into Twine as a "game engine" for our project
+- Created "Rapid Ideation Plan" doc in Microsoft Teams with initial points pre-filled.
+- Continue with Twine "spike" to see if images, swipe gestures, and audio would work
 
 
 # Bibliography

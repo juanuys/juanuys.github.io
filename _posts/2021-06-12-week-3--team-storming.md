@@ -11,8 +11,6 @@ module: co-creative development
 code: GDD730
 ---
 
-([devlog](/masters/gdd730/week3))
-
 Welcome to week 3 where we pay attention to the team storming phase. Conflict might arise {% cite tuckman_developmental_1965 %}, so we're made more aware of this. 
 
 # A new SMART goal
@@ -52,6 +50,26 @@ For instance, the black hat comes up a lot: we reign in scope creep, as the risk
 # My organisational tendencies
 
 Again, I take minutes during chats, but I've realised I ought to use the last 5 minutes to summarise the meeting (and write down in a doc while screen-sharing, so team can raise concerns, and correct me if I write down the wrong thing). I'll employ this after the next meeting, and hopefully turn it into a habit.
+
+# Week development log
+
+## 2021-06-18
+
+- create Team Charter doc in teams, with most information pre-filled 
+
+## 2021-06-15
+
+- Reign in scope creep (idea: producing episodic content for this module, but we agree to mention it in the pitch as a business model)
+
+## 2021-06-13
+
+- Prototype: simultaneous audio (narrator + SFX)
+- Reign in scope creep (idea: build platform instead of a game)
+
+## 2021-06-12
+
+- Work on prototype: implement swipe gestures
+- distill week's lectures, and see how the information applies to my team
 
 
 # Bibliography

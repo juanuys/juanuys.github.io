@@ -15,6 +15,9 @@ says albert einstein
 
 
 {% for post in site.posts %}
+{% if post.tags contains "draft" %}
+<!-- skipping draft post -->
+{% else %}
 {% if post.tags contains "ma" %}
 {% if post.thumb %}
 <div class="box altbox" style="background: url('{{post.thumb}}') no-repeat center/cover;" markdown="1">
@@ -36,6 +39,7 @@ says albert einstein
 
 {% endif %}
 </div>
+{% endif %}
 {% endif %}
 {% endfor %}
 
