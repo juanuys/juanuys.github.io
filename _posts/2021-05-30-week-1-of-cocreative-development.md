@@ -23,6 +23,8 @@ Could it make more sense to form a "working group", rather than a "team"? Perhap
 A team is a small number of people with complementary skills who are committed to a common purpose, performance goals, and approach for which they hold themselves mutually accountable.
 {% endquote %}
 
+Note that a "working group" doesn't have these stated properties {% cite katzenbach_wisdom_2015 -A -l 88 %}, which makes it unsuitable for this module.
+
 I'm looking forward to working with a subset of my own cohort and also the the [UX](https://www.falmouth.ac.uk/study/online/postgraduate/ux-design) cohort. We'll bring together a mix of technical and functional expertise, problem-solving and decision-making skills, and interpersonal skills.
 
 And we'll have more fun than if we did it all by ourselves. Right? Right! {% cite katzenbach_wisdom_2015 -l 12 %}
