@@ -25,6 +25,13 @@ Had team catch-up. We decided to cut it short, as we all have some personal work
 
 I participated some more in the team retrospectives I created on EasyRetro {% cite funretro_improve_nodate %}, and noticed another suggestion to turn our product into a platform. Judging by how far we got in 6 weeks, and the fact that we have 6 weeks left, immediately sounded some alarm bells as this being something we should attempt to implement, but rather allude to in our pitch as a future income stream.
 
+## 2021-07-16 Friday
+
+We had a team catch-up, during which we did a SWOT analysis {% cite noauthor_swot_nodate %}. I feel like we didn't have enough knowledge of our own company, our competitors, and the market to make informed analyses. We did, however, get through the exercise, and came up with a few actionable points, so we were glad we did the analysis in the end. 
+
+Looking into SWOT analysis a bit more introduced me to similar concepts like WOTS-UP analysis, and TOWS analysis {% cite noauthor_history_nodate %}. 
+
+
 # Bibliography
 
 {% bibliography --cited %}
