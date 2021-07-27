@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Intellectual property"
 description: "Week 8 - intellectual property"
-tags: ma falmouth crj week8 
+tags: ma falmouth crj week8 draft
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
