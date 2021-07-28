@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Practice pitch week"
 description: "Week 6 - practice pitch week"
-tags: ma falmouth crj week6 draft
+tags: ma falmouth crj week6
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
@@ -11,7 +11,74 @@ module: co-creative development
 code: GDD730
 ---
 
-(draft)
+During week 6, we get our practice pitch ready for our guest panel consisting of industry professionals. We're going to pretend that we're after *funding* for our product.
+
+Core to the pitch is this:
+{% quote schell_art_2019 %}
+And when you pitch your game, you are entering into a negotiation of power, where you are going to try to get what you want, while you convince someone else that your game is going to help them get what they want.
+{% endquote %}
+
+Just to be clear:
+- what you want: *money* to make the game with
+- what they want: a return on investment, i.e. *more money* than they put in
+
+I've worked on a few pitches of my own over the years:
+- as part of internal projects at companies I've worked at, to sell an idea to management
+- working with my cofounders on our startup pitches (luckily, I've been on tech duties, while the CEO did the pitching, but I learnt a lot)
+
+# Nail the vision and the logline
+
+Before you start a pitch, you start with why {% cite sinek_commencer_2015 %}. You need to be able to articulate why you want to create a particular IP, and come up with (and agree on, as a team) a coherent vision {% cite gdc_forging_nodate %}.
+
+Iterate on, and nail down the logline (a one-sentence 30-ish word summary or description of the game) {% cite noauthor_screenwriting_nodate %}, as this will be the initial hook that sets your audience up for the rest of the presentation. (Loglines are also something I've had a bit of practice writing in a [previous course]({% post_url 2020-07-18-story-and-narrative-development-for-video-games-week-1 %}).)
+
+# What goes in the pitch
+
+The pitch document itself has to cover these facets {% cite schell_art_2019 -l 526 %}, {% cite hacura_how_2021 %}, {% cite gdc_30_nodate %}:
+- state the platform, audience, and genre
+- don't bore them with your game's story {% cite gdc_30_nodate %}, but instead convey the [fantasy]({% post_url 2021-01-30-game-analysis %}#player-fantasy) your game fullfills: who am I, where am I, what am I trying to do {% cite noauthor_gdc_nodate %}?
+- state the "X for/with Y", or give your game "handles", e.g. DOOM but with geriatrics
+- show, don't tell. Have the prototype ready. From highest to lowest importance (where available): video with greatest hits, a working prototype, screenshots, mockups. BTW, if you do show a prototype, don't show the easy stuff, but show the USPs (e.g. your character can open a door) or show the stuff which is mitigating your risks {% cite gdc_30_nodate %}.
+- make your pitch pitchable by them. Once someone in the room is hooked, they need to go an sell it to their superiors, and you won't always be on hand.
+- know all the design details, like how many hours of gameplay, how long does it take to finish a level, etc
+- know the schedule, how long it will take to make (this will depend on where you are with the game, e.g. still in pre-production), and when each milestone will be hit (e.g. first playable, alpha, beta, launch, etc)
+- financials. How much will production cost? Break down how many people are on it, how many hours they're on it. How much money will the game make? Base the answer on comparable titles, and give a reasonable *range*.
+- state the risks. Like technical, legal, etc.
+- introduce the team. The investors are not just investing in the idea, but mostly the people. If it's a large team, focus on the core team, the heavy hitters. If you don't have a team, have a roadmap of how you're going to use the funding to hire the right people. Have a team {% cite gdc_30_nodate %}! 
+- when you show art, show great art. If not, show very obvious placeholder graphics, otherwise bad art might be mistaken for your vision or final art {% cite gdc_30_nodate %}.
+- select the right/appropriate audience (e.g. don't pitch a mobile game to a console publisher), and then know your audience (e.g. don't pitch a walking sim to an FPS publisher, or if they're already making a walking sim), and then know the individuals in the panel (don't be a stalker, but it helps to win over individuals with carefully crafted content)
+
+And very essential to the pitch are: is this game worth making, and can this team make it {% cite gdc_30_nodate %}?
+
+# Pitch tips
+
+(Mostly from "30 things I hate about your pitch" {% cite gdc_30_nodate %}.)
+
+- Be nice. The publisher/developer relationship is going to be a long one, so give them assurance they're going to be working with someone nice
+- Be humble. Not everyone knows who you are, or may have played your previous games.
+- Don't get annoyed when they ask questions. You should be happy, as they're interested, and it gives you another opportunity to be clear and explain something.
+- Make the pitch accessible. Large projector, or if remote, have a clear high-res video. Speak clearly. 
+- Bring headphones (if the pitch area is going to be noisy), because audio is important too. (Don't bring earbuds - they won't put it in their ears.)
+- Be sharp. Dress the part. Be clean, smell nice. Don't be drunk, hungover, or high.
+- Be professional. Don't trash other companies or games. (Be it competing developers, or publishers whom you've worked with or turned you down before.)
+
+Convey these 4 things {% cite noauthor_gdc_nodate %}:
+- type of game, e.g. "3D underwater exploration game"
+- coolest thing about it, e.g. "you can reverse time"
+- give context/fantasy
+- give an example of how it plays, e.g. not "you possess NPCs" but rather "I can possess an enemy, throw him into a friend, and knock them both into a landmine before I switch back to my own body and watch them blow up"
+
+Finally, be enthusiastic, honest. Sell your hook. Know your scope.
+
+# Pitch mistakes
+
+(Mostly from "how to explain your game to an asshole" {% cite noauthor_gdc_nodate %}.)
+
+- relying on game footage or screenshots and not explaining the game. You have no idea how others think or how they interpret things, so spell it out.
+- thinking that to explain your game, you should explain your artistic intent, e.g. if you say "it's a game about loss". DOOM might be a game about loss, right? Your message/theme/artistic intent won't tell them anything about how to play the game or what makes it different.
+- (mentioned earlier) Thinking your story explains the game. It doesn't.
+- saying it's innovative. You: "my game is innovative". Them: "wow, that sounds really innovative". Unlikely, right?
+
 
 # Week development log
 
