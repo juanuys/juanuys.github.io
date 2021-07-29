@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Industry Insight 1"
 description: "Week 9 - Industry Insight 1"
-tags: ma falmouth crj week9 draft
+tags: ma falmouth crj week9 
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
@@ -35,31 +35,19 @@ As much as I dislike seeing so much wealth rise to the top on a daily basis, per
 
 # Work-life balance
 
-I've [quoted]({% post_url 2020-10-21-yesterday-today-and-tomorrow%}) Roald Dahl before. Go to [his website]
-(https://www.roalddahl.com/create-and-learn/write/roald-dahl-on-writing) and skip to the section labelled "What is your work routine?" (or, listen to it [here](https://youtu.be/99Q8MaoNvTM))
-He only writes for 2 hours a day. But, it is deep, focused work.
+I've [quoted]({% post_url 2020-10-21-yesterday-today-and-tomorrow%}) Roald Dahl before. Go to [his website](https://www.roalddahl.com/create-and-learn/write/roald-dahl-on-writing) and skip to the section labelled "What is your work routine?" (or, listen to it [here](https://youtu.be/99Q8MaoNvTM))
+He only writes for 4 hours a day (2 in the morning, and 2 in the afternoon). But, it is deep, focused work {% cite dahl_how_1988 %}.
 
-I think this is all human beings are capable of. Anyone who sits in an office for 8 or 9 hours a day are fooling themselves and their micro-managing middle-managers. You do 2 hours of focused work, if you're lucky, and the rest of the time is spent on water cooler chatter, meetings, reading the news, going for a long poo so your can swipe through your phone in peace, etc. I'd rather just spend the 2 hours working, and spend the other 6 hours on my own terms.
+I think this is all human beings are capable of. Anyone who sits in an office for 8 or 9 hours a day are fooling themselves and their micro-managing middle-managers. You do a few hours of focused work, if you're lucky, and the rest of the time is spent on water cooler chatter, meetings, reading the news, going for a long poo so your can swipe through your phone in peace, etc. I'd rather just spend the 2 hours working, and spend the other 6 hours on my own terms.
 
 
-# Not an interruption-driven culture
+# Not an interruption-driven culture, as remote as possible
 
-TODO
-
-# As remote as possible
-
-I like to be in quiet surroundings, and on my own, when working.
-TODO:
-- Eudamonia machine
-- Roald Dahl's shed: https://www.youtube.com/watch?v=nQkz_X1Rg60
+Interruptions are aplenty, and bad for our productivity {% cite noauthor_interruptions_2018 %}. I won't allow interruptions at all in my fictitious organisation, and everyone would be tucked away deep inside their Eudaimonia Machine {% cite murray_eudaimonia_2020 %}, in the inner chambers, where deep work happens. (They're free to come out, of course!) Or, their own little Roald Dahl writing hut {% cite telling_tales_with_carl_ashmore_roald_nodate %} (which was actually inspired by Dylan Thomas {% cite noauthor_inside_nodate %})
 
 # Tips from the industry
 
-## Spry Fox
-
-https://flex.falmouth.ac.uk/courses/913/pages/week-9-spry-fox-innovate-in-your-pants?module_item_id=54740
-
-Lots of good tips, but here are the ones specifically about remote teamwork:
+Lots of good tips from Spry Fox {% cite fray_innovating_2014 %}, but here are the ones specifically about remote teamwork:
 
 - Keep prototypes so small that you only need max 2 people on it initially (e.g. designer + programmer, or a lone technical designer)
 - No paper prototypes (as the team is remote, digital prototypes work better)
@@ -77,6 +65,11 @@ Started preparing for the 3 minute demo video for the final submission:
 - all imported into a new iMovie project
 - started a doc on Google Docs detailing the plan for the video
 
+## The rest of the week
+
+I'm waiting on the rest of the team for their assets so I can start making the 3 minute demo video. I feel frustrated, because everything will be ready just as I am about to *move again* (on July 31st), this time to an AirBN in Stroud, for one month. The move will disrupt my free time over the weekend, and the early part of the following week.
+
+Meanwhile, I'm researching pitch decks so we can make an impact with our final assignment. (And updating blogs, of course!)
 
 # Bibliography
 
