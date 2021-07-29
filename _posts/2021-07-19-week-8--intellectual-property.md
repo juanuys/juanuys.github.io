@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Intellectual property"
 description: "Week 8 - intellectual property"
-tags: ma falmouth crj week8 draft
+tags: ma falmouth crj week8 
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
@@ -46,7 +46,7 @@ However, let's briefly discern between criminal law and civil law:
 
 - deals with crimes and punishments
 - law sets out things which are considered unacceptable
-- brought about the the state itself e.g. the police (via the Crown Prosecution Service)
+- brought about by the state itself e.g. the police (via the Crown Prosecution Service)
 
 ## Civil law
 
@@ -63,6 +63,8 @@ Specific areas of law I'm to be mindful of: copyright, trademark, patent, and de
 # Final thoughts
 
 Here is [Lady Justice](https://en.wikipedia.org/wiki/Lady_Justice), holding the scales with which she measures the strengths of a case's support and opposition. The blindfold represents impartiality, the ideal that justice should be applied without regard to wealth, power, or other status. (I originally thought that the blindfold meant that the judge and jury can't have all the facts, and goes by evidence and the accounts of witnesses, unless - of course - they have proof.)
+
+![Lady Justice, at the top of the Old Bailey](/assets/posts/2021-07-19-week-8--intellectual-property/lady-justice.jpg)
 
 As a final thought on The Law, this quote really drives home my impression of Lady Justice's blindfold:
 
