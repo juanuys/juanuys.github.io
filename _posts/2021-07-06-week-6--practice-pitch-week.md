@@ -43,7 +43,7 @@ The pitch document itself has to cover these facets {% cite schell_art_2019 -l 5
 - know all the design details, like how many hours of gameplay, how long does it take to finish a level, etc
 - know the schedule, how long it will take to make (this will depend on where you are with the game, e.g. still in pre-production), and when each milestone will be hit (e.g. first playable, alpha, beta, launch, etc)
 - financials. How much will production cost? Break down how many people are on it, how many hours they're on it. How much money will the game make? Base the answer on comparable titles, and give a reasonable *range*.
-- state the risks. Like technical, legal, etc.
+- state the risks. Like technical, legal, etc. Also definitely state how we're mitigating risks.
 - introduce the team. The investors are not just investing in the idea, but mostly the people. If it's a large team, focus on the core team, the heavy hitters. If you don't have a team, have a roadmap of how you're going to use the funding to hire the right people. Have a team {% cite gdc_30_nodate %}! 
 - when you show art, show great art. If not, show very obvious placeholder graphics, otherwise bad art might be mistaken for your vision or final art {% cite gdc_30_nodate %}.
 - select the right/appropriate audience (e.g. don't pitch a mobile game to a console publisher), and then know your audience (e.g. don't pitch a walking sim to an FPS publisher, or if they're already making a walking sim), and then know the individuals in the panel (don't be a stalker, but it helps to win over individuals with carefully crafted content)
