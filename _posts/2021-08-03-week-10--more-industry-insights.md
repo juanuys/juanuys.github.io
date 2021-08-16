@@ -1,6 +1,6 @@
 ---
 layout: postcrj
-title: "More industry insights"
+title: "Industry Insight 2"
 description: "Week 10 - more industry insights"
 tags: ma falmouth crj week10 
 category: blog
@@ -31,7 +31,7 @@ I suppose being the boss fits in with the original mentality I had coming into t
 
 So, the plan for my career is to start our solo, but collaborate as much as possible, and once I gain some traction, find those individuals with whom I can tackle more longer-term projects.
 
-UPDATE 2021-09-08: I had a catchup with my [personal tutor](https://twitter.com/iainlobb/) today, and he said that he worked with collectives in the past: it would start out grand, with the 4 co-founders being very successful, but soon 3 of them would notice that one of them isn't pulling all their weight, so they would oust the underperforming individual. Then, not before long, 2 of the remaining 3 would yet again notice a lack in performance in one of the individuals, and so on, until there is only one left. It sounds like being on par with 3 or 4 other individuals ALL THE TIME is difficult, as people have different rhythms, different "life events", etc, so something like this is bound to happen. Perhaps it's best, then, to apply "worker collective" systems to short-lived projects/collaborations, then.
+UPDATE 2021-09-08: I had a catchup with my [personal tutor](https://twitter.com/iainlobb/) today, and he said that he worked with collectives in the past: it would start out grand, with the 4 co-founders being very successful, but soon 3 of them would notice that one of them isn't pulling all their weight, so they would oust the underperforming individual. Then, not before long, 2 of the remaining 3 would yet again notice a lack in performance in one of the individuals, and so on, until there is only one left. It sounds like being on par with 3 or 4 other individuals ALL THE TIME is difficult, as people have different rhythms, different "life events", etc, so something like this is bound to happen. Perhaps it's best, then, to apply "worker collective" systems to short-lived projects/collaborations.
 
 # Weekly development log
 

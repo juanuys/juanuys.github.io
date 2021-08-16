@@ -31,7 +31,7 @@ I really do think I'm more likely to do gamedev on my own, and collaborate every
 
 # Worker collective
 
-As much as I dislike seeing so much wealth rise to the top on a daily basis, perhaps starting a collective will be quite hard indeed. Or it won't happen easily. I think relationships that end up in partnerships like these take a lot of time, so perhaps the collective will gestate.
+As much as I dislike seeing so much wealth rise to the top on a daily basis, perhaps starting a collective will be quite hard indeed. Or it won't happen easily. I think relationships that end up in partnerships like these take a lot of time, so perhaps the "collective" idea will gestate.
 
 # Work-life balance
 
