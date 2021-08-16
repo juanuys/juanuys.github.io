@@ -41,6 +41,19 @@ In conclusion, the plan for the future stays the same as I've [mentioned before]
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/o3c_pJ_CLJQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Spark forum
+
+Here's my answer to this week's spark forum on personal branding:
+
+>  Perhaps there's a spectrum of personal branding. On the hard-core side you have folks who has an expertly Photoshopped full body shot making up their website's landing page, and they have things like agents and PR. Then on the other side you have folks like me whose personal brand merely boils down to what profile picture you use, and which 6 words make up your Twitter bio.
+> 
+> On the hard-core side, a personal brand sounds too much like a prison; something you have to keep up even if you've moved on personally. Unless the personal brand is "renaissance (wo)man" and re-inventing oneself every now and then is expected.
+> 
+> That all said, I'm nowhere near known on the web. I don't know how I feel about public exposure, fame, etc and what one needs to do to maintain all that.
+> 
+> For now, I have a couple of low-key web presences, and basically try and keep sensitive subjects out of what I say online (e.g. politics, religion). I want Me to be about the work that I do and nothing else. 
+
+
 # Bibliography
 
 {% bibliography --cited %}
