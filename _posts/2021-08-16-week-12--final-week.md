@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Final week"
 description: "Week 12 - final week"
-tags: ma falmouth crj week12 draft
+tags: ma falmouth crj week12
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
@@ -10,6 +10,8 @@ week: 12
 module: co-creative development
 code: GDD730
 ---
+
+{% cite alejandro_i_cremades_how_nodate %}
 
 # Did my team like the project?
 
@@ -36,6 +38,12 @@ game filtered through a large number of people would be anything other than blan
 p4
 
 People with strong personalities, people with poor verbal skills, or people who just don’t like creating in a group setting shouldn’t be forced into it. We weighted our groups heavily toward people with a lot of group design experience, well ahead of game design experience.
+
+
+# My next steps
+
+Be myself. You are your happiness. Bhagavad Gita (Hindu text): a person who is happy has achieved the self. In other words, authetically being yourself brings joy.
+
 
 
 
