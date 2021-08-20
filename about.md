@@ -3,7 +3,7 @@ layout: home
 permalink: /about/
 ---
 
-Hi, I'm Juan <span style="color: gray;">(pronounced like the French *Jean*)</span> and I live in North London.
+Hi, I'm Juan <span style="color: gray;">(pronounced like the French *Jean*)</span> and I live in Cheltenham.
 
 I [help companies](https://uys.io/cv/) with web technologies by day, and get up to all sorts of mischief by night, like [making stuff](https://uys.io/portfolio/), [drawing pictures](/doodles/), and writing short stories whilst dabbing my teary eyes with my wonderful collection of rejection letters.
 
