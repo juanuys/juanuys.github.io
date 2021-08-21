@@ -34,6 +34,8 @@ How does it apply to my practice? Games nowadays have a setting that lets you ex
 
 We're asked to define The Law before we're given a definition, so we can reflect on the difference. So, using only my experience and current understanding of the world: the law is a set of rules and regulations that a society agrees on and that governs how that society operates, and if said individual contravenes said rules and regulations, the society can judge the individual (jury of peers, and an appointed judge) and determine punishment for the breach via the legal system (a fine, jail, or in some societies: a death sentence, or having your hands chopped off).
 
+(UPDATE funny story - I just got a jury summons!)
+
 We're then given a definition of social contract:
 
 > Social contract: individuals have consented, either explicitly or tacitly, to surrender some of their freedoms and submit to the authority (of the ruler, or to the decision of a majority) in exchange for protection of their remaining rights or maintenance of the social order.
@@ -82,9 +84,9 @@ And vice versa.
 
 I caught up on Friday's new content on Intellectual Property.
 
-I also did some work on the product. I added some tasks in Pivotal tracker to record the next set up voice narration.
+I also did some work on the product. I added some tasks in Pivotal tracker to record the next set of voice narration.
 
-Supervisor catch-up in the evening, after which I recorded some more ambient sounds for our game, and started working on the plan for our assignment's 3 minute demo video.
+Supervisor catch-up in the evening, after which I recorded some more ambient sounds for our game, and started working on the plan for our assignment's 3-minute demo video.
 
 ## 2021-07-20 Tuesday
 

@@ -11,13 +11,13 @@ module: co-creative development
 code: GDD730
 ---
 
-We're now in the penultimate week of this module.
+We're now in the penultimate week of this module. A question and a prompt from the spark forum:
 
-> Can you recall a significant moment during the project’s development?
+Question: *Can you recall a significant moment during the project’s development?*
 
 There's was a moment a few weeks ago where we noticed that an individual's tasks weren't progressing, but we've put in the necessary backups to lessen the impact of this.
 
-> Consider carrying out a final retrospective to highlight the successes of your project, while taking care to review the challenges (if any) that may have impacted overall progress.
+Prompt: *Consider carrying out a final retrospective to highlight the successes of your project, while taking care to review the challenges (if any) that may have impacted overall progress.*
 
 I've scheduled a final retro a half hour before our final supervisor catchup on Monday 2021-08-16.
 
@@ -83,7 +83,7 @@ I spent most of the day getting my task done, and consulted Knezovic's [Mobile G
 
 ## 2021-08-10 Wednesday
 
-I spent most of the day on my own main task, which is getting the 3-minute demo video (for the group submission) done. I have to say, I'm extremely proud of what the team have achieved. Josh' sterling creative writing, narrated by Luis' soothing voice, underpinned by Maciej's wonderful artwork, all brought together in a nice package with <span title="Oli did bugger-all, but his Unity ideas sounded promising.">the promise</span> of Oli's Unity skills.
+I spent most of the day on my own main task, which is getting the 3-minute demo video (for the group submission) done. I have to say, I'm extremely proud of what the team have achieved. Josh' sterling creative writing, narrated by Luis' soothing voice, underpinned by Maciej's wonderful artwork, all brought together in a nice package with <span title="Sadly, Oli didn't get the to the Unity stuff, but his ideas sounded promising.">the promise</span> of Oli's Unity skills.
 
 ## 2021-08-11 Thursday
 

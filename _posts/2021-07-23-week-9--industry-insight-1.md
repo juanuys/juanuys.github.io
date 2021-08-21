@@ -19,7 +19,7 @@ In the week 9 spark forum, we're asked to imagine starting up as a team. Here's 
 >
 > The "& Partners" in our name is exactly what it says on the tin: we'll be a [worker collective](https://en.wikipedia.org/wiki/Worker_cooperative#Worker_collectives). (This is an idea I've thrown around on our Discord, as too much money goes to the top nowadays.)
 >
-> CYOA is trademarked by ChooseCo, so I'll slogan will have to be "Choose Your Own Misadventure", with lots of Grimm/horror themes. Logo? I'll let Maciej worry about that one.
+> CYOA is trademarked by ChooseCo, so our slogan will have to be "Choose Your Own Misadventure", with lots of Grimm/horror themes. Logo? I'll let Maciej worry about that one.
 >
 > How to find success: make good stories. Neil Gaiman is a super nice chap, so it might be worth trying to approach him to get some celebrity cred. Have really good sound design, binaural audio, plenty of [ASMR](https://en.wikipedia.org/wiki/ASMR) vibes. Promote eye health, as you're not necessarily staring at your device for this one - you can "play" with your eyes closed.
 
@@ -38,7 +38,7 @@ As much as I dislike seeing so much wealth rise to the top on a daily basis, per
 I've [quoted]({% post_url 2020-10-21-yesterday-today-and-tomorrow%}) Roald Dahl before. Go to [his website](https://www.roalddahl.com/create-and-learn/write/roald-dahl-on-writing) and skip to the section labelled "What is your work routine?" (or, listen to it [here](https://youtu.be/99Q8MaoNvTM))
 He only writes for 4 hours a day (2 in the morning, and 2 in the afternoon). But, it is deep, focused work {% cite dahl_how_1988 %}.
 
-I think this is all human beings are capable of. Anyone who sits in an office for 8 or 9 hours a day are fooling themselves and their micro-managing middle-managers. You do a few hours of focused work, if you're lucky, and the rest of the time is spent on water cooler chatter, meetings, reading the news, going for a long poo so your can swipe through your phone in peace, etc. I'd rather just spend the 2 hours working, and spend the other 6 hours on my own terms.
+I think this is all human beings are capable of. Anyone who sits in an office for 8 or 9 hours a day are fooling themselves and their micro-managing middle-managers. You do a few hours of focused work, if you're lucky, and the rest of the time is spent on water cooler chatter, meetings, reading the news, going for a long poo so your can swipe through your phone in peace, etc. I'd rather just spend the 3 or 4 hours working, and spend the rest of the day on my own terms.
 
 
 # Not an interruption-driven culture, as remote as possible
@@ -58,10 +58,10 @@ Lots of good tips from Spry Fox {% cite fray_innovating_2014 %}, but here are th
 
 ## 2021-07-25 Sunday
 
-Started preparing for the 3 minute demo video for the final submission:
-- have all art downloaded and in Dropbox
-- have all SFX downloaded and in Dropbox
-- have all ambient sound (forest + footsteps) downloaded and in Dropbox
+Started preparing for the 3-minute demo video for the final submission:
+- have all art downloaded and in a central location
+- have all SFX downloaded and in a central location
+- have all ambient sound (forest + footsteps) downloaded and in a central location
 - all imported into a new iMovie project
 - started a doc on Google Docs detailing the plan for the video
 

@@ -49,6 +49,7 @@ I'm a big fan of the Essentialism mindset {% cite mckeown_essentialism_2014 %}, 
 
 - the plan was always to prototype in Twine, then make the polished product in Unity, taking advantage of the audio spatializer SDK {% cite technologies_unity_nodate-1 %} as a replacement for expensive binaural audio equipment, so the escape hatch was to use Twine if the Unity stuff didn't work out
 - I found audio synthesis services, where an AI voice reads any text you give it in a convincing manner. This was our escape hatch if we ran out of time recording the narrations
+- one of the team [raised the idea of building a distribution platform]({% post_url 2021-07-10-week-7--performing %}#2021-07-13-tuesday) as part of the project, where we can release our episodic content. This was going to be too much work, and it's a better idea to see if the story has legs on established distribution platforms first
 
 ## We pivoted on tools
 
@@ -110,7 +111,7 @@ Luckily, none of us have anything against group work, or had poor verbal skills.
 
 # Working virtually and trusting totally
 
-I've been a pro-remote worker since before the pandemic, having spent most of my working time in a home office, or a coworking space of my choosing. Having been a company founder myself, I've seen remote workers and different ways of communication "from the other side" so to speak, and it has opened my eyes to how to be a better worker and better communicator.
+I've been a pro-remote worker since before the pandemic, having spent most of my working time in a home office, or a coworking space of my choosing. Having been a company founder myself, I've seen remote workers and different ways of communication "from the other side" so to speak (as the "boss"/client for whom the work is being done), and it has opened my eyes to how to be a better worker and better communicator.
 
 Dhawan {% cite dhawan_digital_2021 -A %} discusses a "digital body language", of which one of the concepts are "trusting totally". To foster such an environment, one has to show vulnerability, but also empower others to take ownership of their ideas.
 
@@ -146,6 +147,8 @@ Published [draft #3](https://youtu.be/1ITDmPWtRkQ) of our 3-minute demo video. I
 I ran a quick retro before the supervisor catchup.
 
 During the supervisor catch-up, it became clear that none of us had really understood one of the assignment deliverables, which was the "pitch planning doc". After the catch-up, I created the doc right way, adding placeholder sections, and filling out those sections I was responsbile for.
+
+(I thought the planning docs were the intermediate work-product that leads up to the final doc, but I was wrong.)
 
 ## 2021-08-17 Tuesday
 

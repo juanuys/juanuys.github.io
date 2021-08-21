@@ -31,7 +31,7 @@ I might feel a tiny bit of absence of trust, since I'm chiseling away at the pro
 
 I don't think I have a fear of conflict. For me, what matters is the team's mission, and how we accomplish it. I like to get to the point on matters regarding the project, and want all discussions to be ego-free.
 
-I am very committed to the team and the project, and I hope I'm showing it by providing continuous updates in the MS Teams channels. I'm the others are very committed too.
+I am very committed to the team and the project, and I hope I'm showing it by providing continuous updates in the MS Teams channels. I'm sure the others are very committed too.
 
 There seems to be no avoidance of accountability in this team, and I'm not sure if anyone is inattentive of results, but time will tell.
 

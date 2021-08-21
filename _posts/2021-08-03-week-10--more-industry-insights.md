@@ -37,7 +37,7 @@ UPDATE 2021-09-08: I had a catchup with my [personal tutor](https://twitter.com/
 
 # 2021-08-01 Sunday
 
-Worked some more on the "3 minute demo video". iMovie doesn't label the imports, so it's a slow-ish process of playing a bit of every imported clip to know what it relates to, before dragging it into the edit area.
+Worked some more on the "3-minute demo video". iMovie doesn't label the imports, so it's a slow-ish process of playing a bit of every imported clip to know what it relates to, before dragging it into the edit area.
 
 # 2021-03-02 Monday
 
