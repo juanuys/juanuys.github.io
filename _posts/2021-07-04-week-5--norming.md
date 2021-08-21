@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Team norming"
 description: "Week 5 - Norming"
-tags: ma falmouth crj week5
+tags: ma falmouth crj week5 teamwork ma-co-creative
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

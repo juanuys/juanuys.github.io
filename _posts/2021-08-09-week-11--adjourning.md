@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Adjourning"
 description: "Week 11 - adjourning"
-tags: ma falmouth crj week11 
+tags: ma falmouth crj week11 teamwork ma-co-creative
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

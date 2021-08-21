@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Practice pitch week"
 description: "Week 6 - practice pitch week"
-tags: ma falmouth crj week6
+tags: ma falmouth crj week6 teamwork ma-co-creative
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

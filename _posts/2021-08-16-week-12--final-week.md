@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Final week"
 description: "Week 12 - final week"
-tags: ma falmouth crj week12
+tags: ma falmouth crj week12 teamwork ma-co-creative
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
