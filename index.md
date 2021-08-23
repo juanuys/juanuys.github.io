@@ -3,15 +3,16 @@ layout: home
 ---
 
 
-Hi, I'm Juan Uys and I'm a freelance computer programmer.
+Hi, I'm Juan Uys, and I'm an 🕹️ indie games developer 🕹️.
 
-I'm a sort of digital wanderer, pottering around and trying new stuff every day.
+I'm currently spending one day a week on making games and [learning more about the craft](masters), but the plan is to make games full time. Please help me make this possible and...
 
-Like [making games](games) and other [bits and bobs](made), keeping some semblance of a [blog](blog), or [doodling](doodles) the odd... doodle. <span style="color: #e8e8e8">Badly.</span>
+<a href="https://www.patreon.com/bePatron?u=50212350" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-Please [say hi](about).
+I spend the rest of my week at the lovely [Offworld Live](https://offworld.live/), where we build 360 video streaming game engine plugins for virtual productions and content creators.
 
-I also maintain a Falmouth masters [critical reflective journal](masters).
+Please [say hi](about), play some of my [games](games), read some of my [words](blog), check out my [hacks](made), or enjoy the odd [doodle](doodles).
+
 
 {% comment %}
 <!-- ![Life is... stepping in gum. On a hot day.](/assets/doodles/original/2020-06-17-me.png) -->
