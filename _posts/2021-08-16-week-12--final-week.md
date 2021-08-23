@@ -43,7 +43,7 @@ We kept spirits high through-out and none of us ever harboured ill feelings towa
 
 For example, I focused on the Twine {% cite noauthor_twine_2009 -A %} prototype, and didn't <span title="In fact, no-one ended up doing any Unity *tsk tsk*">get involved at all in the Unity aspect of it</span>, or Josh/Luis discussed the UX/research work amongst themselves, and it worked out well.
 
-Recall that I did quite a deep dive of Twine in the early weeks of the project, and I wrote extensively about my Twine-focused learning and experimentation during [week 2]{% post_url 2021-06-09-week-2--rapid-ideation-kicks-off %} and [week 4]({% post_url 2021-06-22-week-4-pitching %}).
+Recall that I did quite a deep dive of Twine in the early weeks of the project, and I wrote extensively about my Twine-focused learning and experimentation during [week 2]({% post_url 2021-06-09-week-2--rapid-ideation-kicks-off %}) and [week 4]({% post_url 2021-06-22-week-4-pitching %}).
 
 That said, Twine is now well and truly a part of my future toolbox. I'm also glad that my general experience as a programmer has been a boon for my Twine learning, as I could read and grasp the documentation quickly, and incorporate 3rd-party tools like SugarCube {% cite noauthor_sugarcube_nodate -A %}, jQuery Mobile {% cite jsfoundation_jquery_nodate -A %}, and Apache Cordova {% cite noauthor_apache_nodate -A %} to bolster the Twine base.
 
