@@ -33,6 +33,16 @@ All the below are taken from the [UK Business Angels Association](https://ukbaa.
 - conversely, live pitches have the benefit of the presenter being able to "read the room" and adapting on the fly
 - pre-recorded pitches can benefit from more dynamic content. It's a video, after all! This will make it more engaging
 
+# More fun with Twine
+
+As the go-to Twine {% cite noauthor_twine_2009 -A %} developer on our team, I've been flexing my muscle a bit as of late trying to get the more advanced features to work, like registering the mobile long-tap event to restart the game, or playing simultaneous audio streams at certain times during the experience.
+
+Again, the SugarCube {% cite noauthor_sugarcube_nodate -A %} story format did most of the heavy lifting, but I had to apply some programming chops, and get jQuery mobile {% cite jsfoundation_jquery_nodate %} integrated with SugarCube to get some of the more advanced gestures to work. The SugarCube documentation is very well written, and it takes me absolutely no time at all to find the feature I need, and implement it.
+
+I did some additional research to figure out how to get a Twine app to run on mobile, and stumbled upon Apache Cordova {% cite noauthor_apache_nodate %}. It turns out, Apache Cordova is an evolution of an older product called PhoneGap, which is something I've tinkered with about 10 years before.
+
+This is great news, and means that even if we didn't have enough time for a Unity implementation, we had enough tools to make the Twine app run on mobile and tablet, which is our main target platform.
+
 # Week development log
 
 ## 2021-06-22

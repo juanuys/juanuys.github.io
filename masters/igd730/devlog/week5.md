@@ -1,2 +1,0 @@
-I moved house this week (one of many moves this year).
-Time was mostly spent packing, moving things to storage, then spending a few nights in a hotel before the new (temporary) flat became available, and then more un-storaging and un-packing.

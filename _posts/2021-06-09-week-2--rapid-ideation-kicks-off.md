@@ -33,11 +33,19 @@ I'll copy from the initial idea doc:
 
 > A radio soap opera, like you would hear on regular radio; listen with earphones (or stereo) as content will be [binaural](https://en.wikipedia.org/wiki/Binaural_recording) for extra immersion; played from device with a touchscreen, where the touchscreen will act as input device; the listener will be able to lie on their bed, or be slumped down on the sofa, with their eyes closed, and only generally need to tap on the left or right side of the screen (or swipe left/right) to action binary choices (like go left/right, say yes/no, choose narrative branch A or B); for those who want to have their eyes open, there will be static visuals on the screen, that perhaps moving across the screen by way of the [Ken Burns effect](https://en.wikipedia.org/wiki/Ken_Burns_effect). 
 
-We thought it a good idea to prototype a narrative-heavy game in Twine {% cite noauthor_twine_2009 -A %}, and our initial/ongoing prototype is viewable [here](https://the-falmouth-foulmouths.github.io/twine/). Twine seems to be a go-to tool for narrative prototyping, or even making full-fledged games in. Even one of our inspirations, [Bandersnatch](https://www.netflix.com/title/80988062), used it:
+We thought it a good idea to prototype a narrative-heavy game in Twine {% cite noauthor_twine_2009 -A %}, as it seems to be an industry-standard tool for narrative prototyping {% cite beardshaw_three_2020 %}. Our initial/ongoing prototype is viewable [here](https://the-falmouth-foulmouths.github.io/twine/). Twine seems to be a go-to tool for narrative prototyping, or even making full-fledged games in. Even one of our inspirations, [Bandersnatch](https://www.netflix.com/title/80988062), used it:
 
 {% quote rubin_how_2018 %}
 [...] written in the videogame programming language Twine, which Brooker had taught himself because it was the only way to capture the intra-linked complexity of all the various tributaries and recursions of the Bandersnatch story.
 {% endquote %}
+
+# Learning Twine
+
+During the first module, I was a bit enamoured with a game called Disco Elysium {% cite noauthor_disco_nodate %}, and came across a piece of fan art in the form of a Twine game {% cite noauthor_re-hearsed_nodate %}, for which the source code was also available {% cite pepers_disco_2021 %}.
+
+Being the geek that I am, I downloaded the source code at once, loaded it up in Twine, and started experimenting. It's during this experimentation phase that I was introduced to the powerful story format for Twine called SugarCube {% cite noauthor_sugarcube_nodate %}, which gives you a whole library of powerful macros to work with, like playing audio, working with events, and much more.
+
+I ended up using Twine and SugarCube for our prototype, as it allowed me to get started very quickly. It also had the benefit of having a large support community (there's a SugarCube channel on the Twine Discord), and the prototype could immediately be [hosted](https://the-falmouth-foulmouths.github.io/twine/) on Github Pages and be interacted with.
 
 # How I fit in
 
