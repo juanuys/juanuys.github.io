@@ -45,7 +45,7 @@ For example, I focused on the Twine {% cite noauthor_twine_2009 -A %} prototype,
 
 Recall that I did quite a deep dive of Twine in the early weeks of the project, and I wrote extensively about my Twine-focused learning and experimentation during [week 2]({% post_url 2021-06-09-week-2--rapid-ideation-kicks-off %}) and [week 4]({% post_url 2021-06-22-week-4-pitching %}).
 
-That said, Twine is now well and truly a part of my future toolbox. I'm also glad that my general experience as a programmer has been a boon for my Twine learning, as I could read and grasp the documentation quickly, and incorporate 3rd-party tools like SugarCube {% cite noauthor_sugarcube_nodate -A %}, jQuery Mobile {% cite jsfoundation_jquery_nodate -A %}, and Apache Cordova {% cite noauthor_apache_nodate -A %} to bolster the Twine base.
+That said, Twine is now well and truly a part of my future toolbox. I'm also glad that my general experience as a programmer has been a boon for my Twine learning, as I could read and grasp the documentation quickly, and incorporate 3rd-party tools like SugarCube {% cite noauthor_sugarcube_nodate %}, jQuery Mobile {% cite jsfoundation_jquery_nodate %}, and Apache Cordova {% cite noauthor_apache_nodate %} to bolster the Twine base.
 
 ## We kept the scope small
 
