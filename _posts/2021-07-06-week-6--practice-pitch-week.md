@@ -79,6 +79,17 @@ Finally, be enthusiastic, honest. Sell your hook. Know your scope.
 - (mentioned earlier) Thinking your story explains the game. It doesn't.
 - saying it's innovative. You: "my game is innovative". Them: "wow, that sounds really innovative". Unlikely, right?
 
+# Technical research
+
+The UX sub-team have done a bunch of their own user research, and it's [looking good](https://drive.google.com/drive/folders/12x8c08fItrZ905pkS2LOWJLsFxe6QcSO). The insights which are particularly important to me are that the users we researched all own a mobile device, which is what we're targeting for our experience.
+
+Also, more of them *listen* than *read* (although the vast majority of them *watch*, i.e. film and TV), but the fact that they are listeners of podcasts and music is good for us as we're delivering an audio-first experience.
+
+As for play-testing, I conducted some very light conceptual testing with friends and family who are already audio-book and podcast consumers, showing them the Twine demo on my mobile device, and getting them to listen and interact with it. 
+
+All of them liked the demo. The biggest feature request was for the game to select a random path after a timeout, just in case they're listening to the experience whilst driving or doing the laundry. 
+
+I did not implement this feature in the Twine demo, but I will push for the Unity team (aka Oli) to implement this in our Unity-based final product.
 
 # Week development log
 
