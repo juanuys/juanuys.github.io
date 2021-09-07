@@ -13,11 +13,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll/scholar
-collections:
-  doodles:
-    name: draw things
-    output: true
-    permalink: /:collection/:path
 scholar:
   style: harvard-falmouth-university
   bibliography: My Library.bib
