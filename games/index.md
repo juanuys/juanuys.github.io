@@ -14,6 +14,13 @@ for your enjoyment
 
 </div>
 
+<div class="box altbox">
+<h1>
+<a href="https://opyate.itch.io" style="position: absolute; top: 50px; ">my itch.io</a>
+</h1>
+
+</div>
+
 {% assign pages_ordered_by_rank = (site.pages | sort: 'rank' ) %}
 
 {% for p in pages_ordered_by_rank %}
