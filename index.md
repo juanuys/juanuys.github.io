@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-Hi, I'm Juan Uys, and I'm an 🕹️ indie games developer 🕹️.
+Hi, I'm <span title="pronounced like the French *Jean*">Juan</span> Uys, and I'm an 🕹️ indie games developer 🕹️.
 
 I'm currently spending one day a week on making games and [learning more about the craft](masters), but the plan is to make games full time. Please help me make this possible and...
 
