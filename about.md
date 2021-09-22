@@ -48,6 +48,7 @@ Let's continue...
 
 # More links
 
+- <a rel="me" href="https://mastodon.art/@uys">Mastodon</a>
 - [This site's RSS feed](/feed.xml)
 - [Doodles](/doodles/)
 - [Some quotes I've been collecting](/quotes)
