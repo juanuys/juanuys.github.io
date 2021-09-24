@@ -91,7 +91,7 @@ The platform will be PC, as that's what I know, but as a stretch goal, I'll try 
 
 # Form a team around creating a game proof of concept
 
-[Maciej](https://www.artstation.com/mattruszala) and I have chatted about working together. Again! :-) He's an exceptional artist, and as we know with games: first impressions are what it's all about. 
+[Maciej](https://www.artstation.com/mattruszala) and I have chatted about working together. Again! :-) He's an exceptional artist, and as we know with games: first impressions are what it's all about.
 
 # Bibliography
 
