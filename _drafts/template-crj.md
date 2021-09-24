@@ -2,13 +2,13 @@
 layout: postcrj
 title: "%TITLE%"
 description: "%DESCRIPTION%"
-tags: ma falmouth crj %TAGS%
+tags: ma falmouth crj igd740 %TAGS%
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
 week: 1
-module: co-creative development
-code: GDD730
+module: indie game startup
+code: IGD740
 ---
 
 Does a SMART goal come out of this?
