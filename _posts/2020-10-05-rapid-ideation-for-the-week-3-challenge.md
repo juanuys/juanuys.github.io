@@ -2,7 +2,7 @@
 layout: post
 title: "Rapid ideation for the week 3 challenge."
 description: "Rapid ideation for the week 3 challenge."
-tags: ma falmouth week3 development-practice ideation disco-elysium
+tags: ma falmouth week3 ma-development-practice gdd710 ideation disco-elysium
 category: blog
 # disqus_comments: true
 thumb: /assets/posts/2020-10-05-rapid-ideation-for-the-week-3-challenge/thumb.jpg

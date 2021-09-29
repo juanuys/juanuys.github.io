@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Team forming"
 description: "Week 1 - team forming"
-tags: ma falmouth crj teamwork week1 ma-co-creative
+tags: ma falmouth crj teamwork week1 ma-co-creative gdd730
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

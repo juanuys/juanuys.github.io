@@ -2,7 +2,7 @@
 layout: postcrj
 title: "A first reflection."
 description: "My very first reflection for week 1."
-tags: ma falmouth crj week1 development-practice crj-affective crj-interpersonal crj-cognitive
+tags: ma falmouth crj week1 ma-development-practice gdd710 crj-affective crj-interpersonal crj-cognitive
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Reflection on ethics"
 description: "Reflection on ethics"
-tags: ma falmouth crj week8 development-practice ethics crj-affective crj-interpersonal crj-cognitive crj-procedural
+tags: ma falmouth crj week8 ma-development-practice gdd710 ethics crj-affective crj-interpersonal crj-cognitive crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

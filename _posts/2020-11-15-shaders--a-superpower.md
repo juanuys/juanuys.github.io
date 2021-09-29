@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Shaders - a superpower."
 description: "Shaders - a superpower."
-tags: ma falmouth crj development-practice week8 shaders crj-interpersonal crj-procedural
+tags: ma falmouth crj ma-development-practice gdd710 week8 shaders crj-interpersonal crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Reading week"
 description: "Reading week"
-tags: ma falmouth crj ma-game-development week6 game-jam 7drl godot
+tags: ma falmouth crj ma-game-development igd720 week6 game-jam 7drl godot
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

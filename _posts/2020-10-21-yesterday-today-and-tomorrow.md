@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Yesterday, today, and tomorrow."
 description: "Yesterday, today, and tomorrow."
-tags: ma falmouth crj week5 development-practice crj-dispositional crj-interpersonal crj-cognitive
+tags: ma falmouth crj week5 ma-development-practice gdd710 crj-dispositional crj-interpersonal crj-cognitive
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Pitching"
 description: "Week 4 - Pitching"
-tags: ma falmouth crj week4 teamwork ma-co-creative
+tags: ma falmouth crj week4 teamwork ma-co-creative gdd730
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

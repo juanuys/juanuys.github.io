@@ -2,28 +2,27 @@
 layout: postcrj
 title: "%TITLE%"
 description: "%DESCRIPTION%"
-tags: ma falmouth crj igd740 %TAGS%
+tags: ma falmouth crj igd740 ma-indie-startup week%WEEK% %TAGS%
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
-week: 1
+week: %WEEK%
 module: indie game startup
 code: IGD740
 ---
 
-Does a SMART goal come out of this?
-Draw informed conclusions. (use literature)
+Welcome to week %WEEK% of the module _indie game startup_.
 
 # Bibliography
 
 {% bibliography --cited %}
 
-
-
 # ------------------------------------------
 # -- everything below here can be deleted --
 # ------------------------------------------
 
+Does a SMART goal come out of this?
+Draw informed conclusions. (use literature)
 
 # Summary
 

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Level design"
 description: "Level design for Contumacious Commuter, and an analysis of Slay The Spire's level design"
-tags: ma falmouth crj week8 ma-game-development slay-the-spire level-design contumacious
+tags: ma falmouth crj week8 ma-game-development igd720 slay-the-spire level-design contumacious
 category: blog
 # disqus_comments: true
 thumb: /assets/posts/2021-03-19-analysis-of-slay-the-spires-level-design/thumb.jpg

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Animation"
 description: "Animation"
-tags: ma falmouth crj week7 ma-game-development animation godot contumacious
+tags: ma falmouth crj week7 ma-game-development igd720 animation godot contumacious
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

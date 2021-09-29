@@ -2,7 +2,7 @@
 layout: post
 title: "Game analysis"
 description: "Game analysis"
-tags: ma falmouth ma-game-development week2 game-design
+tags: ma falmouth ma-game-development igd720 week2 game-design
 category: blog
 # disqus_comments: true
 thumb: /assets/posts/2021-01-30-game-analysis/thumb.jpg

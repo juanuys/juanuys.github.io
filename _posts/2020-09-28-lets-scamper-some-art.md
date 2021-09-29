@@ -2,7 +2,7 @@
 layout: post
 title: Let's scamper some art
 description: "Modifying, rearranging, eliminating and adapting trees"
-tags: ma falmouth week2 development-practice scamper art
+tags: ma falmouth week2 ma-development-practice gdd710 scamper art
 category: blog
 thumb: /assets/posts/2020-09-28-lets-scamper-some-art/thumb.jpg
 module: development practice

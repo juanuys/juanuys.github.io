@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Sound design"
 description: "Sound design"
-tags: ma falmouth crj week9 sound-design sfx audio contumacious ma-game-development
+tags: ma falmouth crj week9 sound-design sfx audio contumacious ma-game-development igd720
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Team ideation"
 description: "Week 2 - team ideation"
-tags: ma falmouth crj week2 rapid-ideation prototyping twine teamwork ma-co-creative
+tags: ma falmouth crj week2 rapid-ideation prototyping twine teamwork ma-co-creative gdd730
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

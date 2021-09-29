@@ -15,6 +15,9 @@ KEBAB=$(echo $TITLE | tr -cd '[:alnum:][:space:]' | tr [:upper:] [:lower:] | tr 
 NEW=_posts/${DATE}-${KEBAB%?}.md
 cp $TEMPLATE $NEW
 
+read -p "Week number:" WEEK
+WEEK=${WEEK:-99}
+
 read -p "A space-delimited list of tags:" TAGS
 TAGS=${TAGS:-life}
 
@@ -25,10 +28,12 @@ then
 	sed -i  "s/%TITLE%/$TITLE/" $NEW
 	sed -i  "s/%DESCRIPTION%/$TITLE/" $NEW
 	sed -i  "s/%TAGS%/$TAGS/" $NEW
+	sed -i  "s/%WEEK%/$WEEK/" $NEW
 else
 	gsed -i  "s/%TITLE%/$TITLE/" $NEW
 	gsed -i  "s/%DESCRIPTION%/$TITLE/" $NEW
 	gsed -i  "s/%TAGS%/$TAGS/" $NEW
+	gsed -i  "s/%WEEK%/$WEEK/" $NEW
 fi
 
 

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "A final reflection for development practice."
 description: "A final reflection for development practice."
-tags: ma falmouth crj week12 development-practice crj-affective crj-cognitive crj-procedural
+tags: ma falmouth crj week12 ma-development-practice gdd710 crj-affective crj-cognitive crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

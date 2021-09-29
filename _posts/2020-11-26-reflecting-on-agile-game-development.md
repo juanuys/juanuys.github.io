@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Reflecting on agile game development"
 description: "Reflecting on agile game development"
-tags: ma falmouth crj week10 development-practice agile crj-interpersonal crj-procedural
+tags: ma falmouth crj week10 ma-development-practice gdd710 agile crj-interpersonal crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

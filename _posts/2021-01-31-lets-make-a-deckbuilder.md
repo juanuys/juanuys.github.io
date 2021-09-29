@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Let's make a deck-builder."
 description: "Let's make a deck-builder."
-tags: ma falmouth ma-game-development week2 game-design deck-builder contumacious
+tags: ma falmouth ma-game-development igd720 week2 game-design deck-builder contumacious
 category: blog
 # disqus_comments: true
 thumb: /assets/posts/2021-01-31-lets-make-a-deckbuilder/thumb.png

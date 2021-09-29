@@ -2,7 +2,7 @@
 layout: postcrj
 title: "The indie games industry"
 description: "Week 1 - The indie games industry"
-tags: ma falmouth crj startup
+tags: ma falmouth crj startup ma-indie-startup igd740
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

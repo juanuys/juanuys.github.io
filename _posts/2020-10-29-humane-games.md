@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Humane games"
 description: "Humane games"
-tags: ma falmouth crj week6 development-practice humanetech crj-affective crj-interpersonal crj-cognitive
+tags: ma falmouth crj week6 ma-development-practice gdd710 humanetech crj-affective crj-interpersonal crj-cognitive
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

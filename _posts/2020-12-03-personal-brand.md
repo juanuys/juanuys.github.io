@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Personal brand"
 description: "Personal brand"
-tags: ma falmouth crj week11 development-practice crj-dispositional crj-procedural
+tags: ma falmouth crj week11 ma-development-practice gdd710 crj-dispositional crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

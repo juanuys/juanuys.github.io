@@ -2,7 +2,7 @@
 layout: postcrj
 title: "More thoughts on the final project game."
 description: "More thoughts on the final project game."
-tags: ma falmouth crj week12 development-practice game-design superme crj-affective crj-procedural
+tags: ma falmouth crj week12 ma-development-practice gdd710 game-design superme crj-affective crj-procedural
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

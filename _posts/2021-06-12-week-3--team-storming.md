@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Team storming"
 description: "Week 3 - team storming"
-tags: ma falmouth crj week3 teamwork ma-co-creative
+tags: ma falmouth crj week3 teamwork ma-co-creative gdd730
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

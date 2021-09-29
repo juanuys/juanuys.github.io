@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Reflecting on the skills audit"
 description: "Reflecting on the skills audit"
-tags: ma falmouth crj ma-game-development week1
+tags: ma falmouth crj ma-game-development igd720 week1
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

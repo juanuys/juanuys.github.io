@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Prototype"
 description: "Prototype"
-tags: ma falmouth crj week3 ma-game-development prototype contumacious
+tags: ma falmouth crj week3 ma-game-development igd720 prototype contumacious
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

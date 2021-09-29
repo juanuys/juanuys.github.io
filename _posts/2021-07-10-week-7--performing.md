@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Performing"
 description: "Week 7 - Performing"
-tags: ma falmouth crj week7 teamwork ma-co-creative
+tags: ma falmouth crj week7 teamwork ma-co-creative gdd730
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Reflect on Rapid Ideation session 1"
 description: "Reflect on Rapid Ideation session 1"
-tags: ma falmouth crj development-practice week7 crj-dispositional systems-based-design crj-cognitive crj-procedural
+tags: ma falmouth crj ma-development-practice gdd710 week7 crj-dispositional systems-based-design crj-cognitive crj-procedural
 category: blog 
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

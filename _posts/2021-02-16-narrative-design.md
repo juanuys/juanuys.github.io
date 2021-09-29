@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Narrative design"
 description: "Narrative design"
-tags: ma falmouth crj week4 ma-game-development narrative-design contumacious
+tags: ma falmouth crj week4 ma-game-development igd720 narrative-design contumacious
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

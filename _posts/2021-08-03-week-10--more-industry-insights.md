@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Industry Insight 2"
 description: "Week 10 - more industry insights"
-tags: ma falmouth crj week10 teamwork ma-co-creative
+tags: ma falmouth crj week10 teamwork ma-co-creative gdd730
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Development practice retrospective"
 description: "Development practice retrospective"
-tags: ma falmouth week6 retrospective development-practice crj crj-dispositional crj-cognitive
+tags: ma falmouth week6 retrospective ma-development-practice gdd710 crj crj-dispositional crj-cognitive
 category: blog
 # disqus_comments: true
 thumb: /assets/posts/2020-10-28-development-practice-retrospective/thumb.jpg

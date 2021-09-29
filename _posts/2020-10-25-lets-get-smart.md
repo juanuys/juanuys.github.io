@@ -2,7 +2,7 @@
 layout: post
 title: "Let's get SMART."
 description: "Let's get SMART."
-tags: ma falmouth development-practice week5 smart-goals okr timferriss
+tags: ma falmouth ma-development-practice gdd710 week5 smart-goals okr timferriss
 category: blog
 # disqus_comments: true
 # thumb: /assets/masters/crj/thumb.png

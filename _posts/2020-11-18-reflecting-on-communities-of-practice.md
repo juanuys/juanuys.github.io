@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Reflecting on communities of practice"
 description: "Reflecting on communities of practice"
-tags: ma falmouth crj week9 development-practice eudaimonia-machine crj-interpersonal crj-procedural crj-affective
+tags: ma falmouth crj week9 ma-development-practice gdd710 eudaimonia-machine crj-interpersonal crj-procedural crj-affective
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png

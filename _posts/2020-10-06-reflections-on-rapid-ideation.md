@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Reflections on rapid ideation"
 description: "Reflections on rapid ideation"
-tags: ma falmouth crj week3 development-practice ideation crj-affective
+tags: ma falmouth crj week3 ma-development-practice gdd710 ideation crj-affective
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
