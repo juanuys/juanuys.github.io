@@ -26,21 +26,22 @@
 h1, h2, h3, h4, h5, h6 {
 	padding-left: 8px;
 	margin-top: 30px;
+	font-family: Arial, Helvetica, sans-serif !important;
 }
 
 h1 {
 	font-size: $base-font-size * 1.4 !important;
-	background-color: nth($plato-brand, 2);
+	background-color: nth($paired, 8);
 }
 
 h2 {
 	font-size: $base-font-size * 1.2 !important;
-	background-color: nth($plato-brand, 1);
+	background-color: nth($paired, 7);
 }
 
 h3 {
 	font-size: $base-font-size * 1.1 !important;
-	background-color: nth($plato-brand, 4);
+	background-color: lighten(nth($paired, 7), 15%);
 }
 
 // div.body > h1 {
