@@ -32,6 +32,11 @@ These numbers need to be taken with a grain of salt, as the market shifts every 
 
 More recently, the sections below have been pulled together into a more recent analysis, with the main take-away that it depends in which year a game was released {% cite noauthor_how_nodate %}.
 
+Also, Simon Carless sums up the below methods in a couple of spreadsheets so you can just plug in your own numbers {% cite carless_estimating_2021 %}:
+
+- [https://docs.google.com/spreadsheets/d/11tNEABOKuJxX9kTLJ08DyEMf1UC3cbLdejRtmjgLBDI/](https://docs.google.com/spreadsheets/d/11tNEABOKuJxX9kTLJ08DyEMf1UC3cbLdejRtmjgLBDI/)
+- [https://docs.google.com/spreadsheets/d/1_cG9zDn_fzy6EhClcCpxKAWDVyb_SNaARCKsXChAvKo/edit#gid=0](https://docs.google.com/spreadsheets/d/1_cG9zDn_fzy6EhClcCpxKAWDVyb_SNaARCKsXChAvKo/edit#gid=0)
+
 ## When week 1 sales is known
 
 Jake Birkett {% cite birkett_grey_2015 -A %} utilises the Boxleitner method: year one sales is equal to three times the week one sales. So, if week one sold 10 shillings, then year one would sell 30 shillings. Keep in mind that the range is more like 2-10x, rather than just 3 {% cite birkett_you_2018 %}
