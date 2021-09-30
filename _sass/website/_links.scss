@@ -1,0 +1,27 @@
+a {
+    color: $brand-color;
+    background-color: lighten($brand-color, 50%);
+    text-decoration: none;
+  
+    &:visited {
+      color: lighten(#800080 , 0%);
+      background-color: lighten(#800080 , 70%);
+        // background-color: none !important;
+    }
+  
+    &:hover {
+      text-decoration: underline;
+    }
+  
+    .social-media-list &:hover {
+      text-decoration: none;
+  
+      .username {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  li > a {
+    background-color: transparent;
+  }
