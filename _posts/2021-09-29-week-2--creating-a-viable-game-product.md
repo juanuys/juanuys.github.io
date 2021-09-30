@@ -30,6 +30,8 @@ These numbers need to be taken with a grain of salt, as the market shifts every 
 - can you execute as well as they did? (what was their budget? marketing?)
 - are players "monogamous" to this game in particular? (loyal) {% cite brace_yourself_games_how_2018 %}
 
+More recently, the sections below have been pulled together into a more recent analysis, with the main take-away that it depends in which year a game was released {% cite noauthor_how_nodate %}.
+
 ## When week 1 sales is known
 
 Jake Birkett {% cite birkett_grey_2015 -A %} utilises the Boxleitner method: year one sales is equal to three times the week one sales. So, if week one sold 10 shillings, then year one would sell 30 shillings. Keep in mind that the range is more like 2-10x, rather than just 3 {% cite birkett_you_2018 %}
