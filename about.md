@@ -59,11 +59,42 @@ Let's continue...
 
 # Photos
 
-![70s baby](/assets/about/70sbaby-512.png)
-![Boy gamer](/assets/about/boygamer-512.png)
-![I'm an African David Foster Wallace](https://cdn.opyate.com/photos/juancubs.jpg)
+<div class="boxes">
+<div class="box altbox" style="background-image: url('/assets/about/70sbaby-512.png');">
+<a href="/assets/about/70sbaby-512.png" style="position: absolute; bottom: 10px; right: 10px;">70s baby</a>
+</div>
 
-# Obligatory GIF, as I'm never done
+<div class="box altbox" style="background-image: url('/assets/about/boygamer-512.png');">
+<a href="/assets/about/boygamer-512.png" style="position: absolute; bottom: 10px; right: 10px;">80s kid</a>
+</div>
+
+<div class="box altbox" style="background-image: url('https://cdn.opyate.com/photos/juancubs.jpg');">
+<a href="https://cdn.opyate.com/photos/juancubs.jpg" style="position: absolute; bottom: 10px; right: 10px;">African David Foster Wallace</a>
+</div>
+
+<div class="box altbox" style="background-image: url('/assets/about/kili.jpg');">
+<a href="/assets/about/kili.jpg" style="position: absolute; bottom: 10px; right: 10px;">Kilimanjaro 2010</a>
+</div>
+
+<div class="box altbox" style="background-image: url('/assets/about/hackday-champ.jpg');">
+<a href="/assets/about/hackday-champ.jpg" style="position: absolute; bottom: 10px; right: 10px;">Net-A-Porter Hackday champ 2011</a>
+</div>
+
+<div class="box altbox" style="background-image: url('/assets/about/bt-retailweek-award.jpg');">
+<a href="/assets/about/bt-retailweek-award.jpg" style="position: absolute; bottom: 10px; right: 10px;">BT technology award 2011</a>
+</div>
+
+<div class="box altbox" style="background-image: url('/assets/posts/2013-07-19-failed-startup-2/sw2012.jpg');">
+<a href="/assets/posts/2013-07-19-failed-startup-2/sw2012.jpg" style="position: absolute; bottom: 10px; right: 10px;">Startup Weekend winner 2011</a>
+</div>
+
+<div class="box altbox" style="background-image: url('/assets/about/wayra.jpg');">
+<a href="/assets/about/wayra.jpg" style="position: absolute; bottom: 10px; right: 10px;">Wayra incubator winner 1 of 16, 2012</a>
+</div>
+
+</div>
+
+# The Future
 
 ![Under construction](/assets/about/under-construction.gif)
 
