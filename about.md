@@ -69,7 +69,7 @@ Let's continue...
 </div>
 
 <div class="box altbox" style="background-image: url('https://cdn.opyate.com/photos/juancubs.jpg');">
-<a href="https://cdn.opyate.com/photos/juancubs.jpg" style="position: absolute; bottom: 10px; right: 10px;">African David Foster Wallace</a>
+<a href="https://cdn.opyate.com/photos/juancubs.jpg" style="position: absolute; bottom: 10px; right: 10px;">African DFW</a>
 </div>
 
 <div class="box altbox" style="background-image: url('/assets/about/kili.jpg');">
