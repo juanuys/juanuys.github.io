@@ -115,7 +115,7 @@ Genre mashups might work really well here, as your target player might love both
 
 ### Genre twisting
 
-E.g. [Braid](https://store.steampowered.com/app/26800/Braid/'s reversal or time, or [Max Payne](https://www.rockstargames.com/games/maxpayne)'s slowing of time, or [Superhot](https://superhotgame.com/)'s time only moving when you do (and it had a striking art style).
+E.g. [Braid](https://store.steampowered.com/app/26800/Braid/)'s reversal or time, or [Max Payne](https://www.rockstargames.com/games/maxpayne)'s slowing of time, or [Superhot](https://superhotgame.com/)'s time only moving when you do (and it had a striking art style).
 
 How to: look at a common genre, and see which of its tropes you can twist.
 Then see if that idea is both Surprising and Desirable.
