@@ -15,6 +15,14 @@ Just like a company has a mission statement, I think an individual should have v
 
 # Values
 
+## For the players
+
+Inspired by Wlad Marhulets {% cite marhulets_gamedev_2020 -A %}.
+
+- We'll adopt a transparent, customer-first approach, facilitating fast response using direct and honest communication, and patching bugs immediately. 
+- We will be grateful to our players for giving us their precious time.
+- We will keep our promises.
+
 ## [Do no harm]({% post_url 2016-11-14-do-no-harm %})
 
 My output will not cause any harm. This is a tall order, and can be very tricky to achieve. For instance, I might make [a game featuring cockerels](/games/cornwars), and one of my players might suffer from [alektorophobia](https://www.researchgate.net/publication/329315754_A_rare_case_report_of_alektorophobia_in_an_adult_male).
