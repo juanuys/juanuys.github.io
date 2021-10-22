@@ -34,6 +34,14 @@ There is a wealth of information and guides out there on how to market your game
 
 I guess the missing piece of the pie is now just how to differentiate yourself in this very crowded market.
 
+# Assumptions during market research
+
+I read a marketing book more applicable to regular businesses who sell widgets in multiple markets, and have historical sales. (cite)
+
+https://www.gamedeveloper.com/production/postmortem-toem
+
+A good thing to keep in mind is currency fluctuations.
+
 # Bibliography
 
 {% bibliography --cited %}
