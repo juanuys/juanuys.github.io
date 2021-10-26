@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Building awareness of your game"
 description: "Week 4 - Building awareness of your game"
-tags: ma falmouth crj igd740 ma-indie-startup week4 marketing draft
+tags: ma falmouth crj igd740 ma-indie-startup week4 marketing 
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
@@ -30,18 +30,16 @@ As this challenge forms part of our assignment, I'll keep my notes private for n
 
 # Differentiation
 
-There is a wealth of information and guides out there on how to market your game. Every game developer today knows exactly which channels are available to them, knows the tone and voice of those channels, has plenty of examples of marketing via those channels, and has access to plenty of blog posts and post mortems by other developers about how not to do marketing, or which pitfalls to avoid.
+There is a wealth of information and guides out there on how to market your game. Every game developer today knows exactly which channels are available to them, knows the tone and voice of those channels, has plenty of examples of marketing via those channels, and has access to plenty of blog posts and post-mortems (post-morta?) by other developers about how not to do marketing, or which pitfalls to avoid.
 
 I guess the missing piece of the pie is now just how to differentiate yourself in this very crowded market.
 
 # Assumptions during market research
 
-I read a marketing book more applicable to regular businesses who sell widgets in multiple markets, and have historical sales. (cite)
+I read a marketing book more applicable to regular businesses who sell widgets in multiple markets, and have historical sales, so the assumptions made there didn't feel natural to indie gamedev, like "assume currency doesn't fluctuate".
+
+But then I read this article:
 
 https://www.gamedeveloper.com/production/postmortem-toem
 
-A good thing to keep in mind is currency fluctuations.
-
-# Bibliography
-
-{% bibliography --cited %}
+A good thing to keep in mind is currency fluctuations. The TOEM developer got funding, but it was not in their own currency, and they lost some funding this way, as the exchange dipped against them.
