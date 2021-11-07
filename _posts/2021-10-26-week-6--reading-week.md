@@ -13,13 +13,6 @@ code: IGD740
 
 Welcome to week 6 of the module _indie game startup_.
 
-By the end of this week, you will be able to:
-
-- Catch up on the recommended materials from the reading list.
-- Research market data relevant to your business plan.
-- Work on each individual element of the business plan.
-- Prepare your business plan for submission.
-
 # A quick reflection
 
 There was a lot of work to do during this last few weeks, researching the market, writing the marketing plan and business plan, and so forth.
