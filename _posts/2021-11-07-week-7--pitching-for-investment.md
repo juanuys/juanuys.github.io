@@ -1,6 +1,6 @@
 ---
 layout: postcrj
-title: "Week 7 - Pitching for investment"
+title: "Pitching for investment"
 description: "Week 7 - Pitching for investment"
 tags: ma falmouth crj igd740 ma-indie-startup week7 
 category: blog
