@@ -47,6 +47,12 @@ Or, perhaps the next shift in gaming is making games more energy efficient? GPUs
 
 There's a lot more to explore around climate change awareness in gaming, and much more to explore around what the next zeitgeist can be.
 
+Suggested further reading:
+
+- [Video games get serious about climate change](https://www.dw.com/en/can-video-games-inspire-climate-action/a-57357630)
+- [The many ways video game development impacts the climate crisis](https://www.theverge.com/2020/5/5/21243285/video-games-climate-crisis-impact-xbox-playstation-developers)
+- [Video games industry levels up in fight against climate change](https://www.unep.org/news-and-stories/press-release/video-games-industry-levels-fight-against-climate-change)
+
 # Bibliography
 
 {% bibliography --cited %}
