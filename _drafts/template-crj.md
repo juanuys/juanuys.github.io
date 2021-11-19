@@ -2,7 +2,7 @@
 layout: postcrj
 title: "%TITLE%"
 description: "%DESCRIPTION%"
-tags: ma falmouth crj igd740 ma-indie-startup week%WEEK% %TAGS%
+tags: ma falmouth crj igd740 ma-indie-startup week%WEEK% %TAGS% draft
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
