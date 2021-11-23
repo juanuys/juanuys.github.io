@@ -37,7 +37,3 @@ So, yes - my best bet is to just have a go at it myself, as I'm not interested a
 I've been pottering around a lot in Godot lately, but also played a bit of [Fallen London](https://www.fallenlondon.com) and wondered if I'm in a good position to make a web-based game.
 
 The webdev skills are there, and one of my bigger ideas have been mulling around in my head since 2006/2007, so perhaps it's a good idea to get something going, which I can contribute to every now and then. Grow the world; grow the story; think about monetisation later.
-
-# Bibliography
-
-{% bibliography --cited %}
