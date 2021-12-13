@@ -5,7 +5,7 @@ layout: game
 description: "My 2021 7DRL entry"
 permalink: /games/football-crawl
 thumb: /assets/games/footballcrawl/thumb.png
-category: game
+category: game, 7drl
 builtwith: godot
 pagetype: game
 rank: 100

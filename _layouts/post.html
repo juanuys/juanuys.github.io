@@ -13,21 +13,25 @@ layout: default
 
     <h1 class="title">{{ page.title }}</h1>
 
-    <div>
-      <div style="float: left; padding-right: 20px;">tags:</div>
+    <div>      
+      {% assign tags_size = page.tags | size %}
 
-      <div class="tags">
-        <ul>
-        {% for tag in page.tags %}
-        {% if forloop.index > 4 %}
-          <li><a title="tag: {{tag}}" href="/tags#{{tag}}" style="color:white;">{{ tag }}</a></li>
-        {% else %}
-          <li><a title="tag: {{tag}}" href="/tags#{{tag}}">{{ tag }}</a></li>
-        {% endif %}
-          
-        {% endfor %}
-        </ul>
-      </div>
+      {% if tags_size > 0 %}
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          {% for tag in page.tags %}
+          {% if forloop.index > 4 %}
+            <li><a title="tag: {{tag}}" href="/tags#{{tag}}" style="color:white;">{{ tag }}</a></li>
+          {% else %}
+            <li><a title="tag: {{tag}}" href="/tags#{{tag}}">{{ tag }}</a></li>
+          {% endif %}
+            
+          {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
     </div>
     
 
