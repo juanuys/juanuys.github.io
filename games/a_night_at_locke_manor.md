@@ -52,18 +52,20 @@ For the press kits, everyone kept recommending Rami Ismail's **presskit()** to m
 
 Firstly, I wanted to know about all the different puzzle types one could conceivably implement in a video game. From my own experience with games, I first came up with my own list:
 
-> memory games, matching puzzles
-> number puzzles, equations, ciphers, dates
-> Logic: matching symbols, items looking out of place, repeated themes, combination puzzles
-> Text puzzles: crossword, missing letters, riddles, dates
-> Spatial puzzles: combining items to form new items, perspective puzzles, keys
-> Light + colour puzzles: switch lights off and on, combine colours, cast shadows, UV paint or blood, differently coloured panes of glass
-> Sound: clues in lyrics, clues in ambient noise, playing chimes in order, dial tones
-> Hidden objects: hollowed-out books, drawers, inside anything
-> Visual: clues in paintings and pictures, things looking out-of-place, jigsaws, perspective
-> Electricity: circuits, buzzers, magnets
-> Codes: ciphers, Morse code, musical scales, number theory
-> Physics: fire + ice, weights, heat, cracking/shattering glass
+```
+memory games, matching puzzles
+number puzzles, equations, ciphers, dates
+Logic: matching symbols, items looking out of place, repeated themes, combination puzzles
+Text puzzles: crossword, missing letters, riddles, dates
+Spatial puzzles: combining items to form new items, perspective puzzles, keys
+Light + colour puzzles: switch lights off and on, combine colours, cast shadows, UV paint or blood, differently coloured panes of glass
+Sound: clues in lyrics, clues in ambient noise, playing chimes in order, dial tones
+Hidden objects: hollowed-out books, drawers, inside anything
+Visual: clues in paintings and pictures, things looking out-of-place, jigsaws, perspective
+Electricity: circuits, buzzers, magnets
+Codes: ciphers, Morse code, musical scales, number theory
+Physics: fire + ice, weights, heat, cracking/shattering glass
+```
 
 Then my search expanded, and I found a a bunch of useful resources, for example:
 
@@ -95,21 +97,32 @@ The modding engine had some limitations, in that you couldn't have custom sound,
 
 I couldn't quite create the ambience I wanted to, but this was fine, as I only wanted to validate the gameplay.
 
-After a couple of playtesting sessions with family, I think I reached a point where the start of the game is quite clear about what's happening, and what you're supposed to do. In fact, the game starts with you facing the door head-on, with a note stuck to the door explicitly telling you that this is the way out, and that the key is in the box to your side.
+To help me reach my goal of making the game intuitive just by playing it, I employed some family and friends as playtesters. After a couple of playtesting sessions, I think I reached a point where the start of the game is quite clear about what's happening, and what you're supposed to do. In fact, the game starts with you facing the door head-on, with a note stuck to the door explicitly telling you that this is the way out, and that the key is in the box to your side. 
 
 I then go on to show one of the Tarot cards already slotted into the device. The card is interactive, and you can pick it up.
 
 # Result
 
-<iframe width="1857" height="1054" src="https://www.youtube.com/embed/Q5HKB460E_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Gameplay video
+
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/Q5HKB460E_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Screenshots
 
 ![Screenshot 1](/assets/games/a_night_at_locke_manor/screenshot-1.png)
+
 ![Screenshot 2](/assets/games/a_night_at_locke_manor/screenshot-2.png)
+
 ![Screenshot 3](/assets/games/a_night_at_locke_manor/screenshot-3.png)
+
 ![Screenshot 4](/assets/games/a_night_at_locke_manor/screenshot-4.png)
+
 ![Screenshot 5](/assets/games/a_night_at_locke_manor/screenshot-5.png)
+
 ![Screenshot 6](/assets/games/a_night_at_locke_manor/screenshot-6.png)
+
 ![Screenshot 7](/assets/games/a_night_at_locke_manor/screenshot-7.png)
+
 
 # Bibliography
 
