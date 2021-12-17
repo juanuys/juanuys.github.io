@@ -38,6 +38,7 @@ It would also demarcate each prototype to answer its own questions (Shell's prot
 - [press release](/assets/games/a_night_at_locke_manor/press-release.pdf)
 - [v1 of studio press kit](https://juanuys.com/fake-presskit/) ([snapshot 2021-12-13](/assets/games/a_night_at_locke_manor/presskit-studio-v1.png))
 - [v1 of game press kit](https://juanuys.com/fake-presskit/a_night_at_locke_manor) using art from my gameplay prototype, and placeholder art for everything else ([snapshot 2021-12-13](/assets/games/a_night_at_locke_manor/presskit-game-v1.png))
+- [v1 of the 3-5 minute video](https://youtu.be/Q5HKB460E_M)
 
 The reason our social media presence only includes Twitter, and not the myriad of other offerings (like Youtube, TikTok, etc), is because I'm on Twitter, and it's the channel I feel most comfortable using. Also, as solo gamedevs or small studios, we'll be quickly overwhelmed by community management and marketing tasks, which will leave no time for actually making games {% cite jonas_tyroller_how_2019 -l 11:37 %}.
 
@@ -72,6 +73,8 @@ Then my search expanded, and I found a a bunch of useful resources, for example:
 
 I spent the next few days/weeks immersing myself in the above resources.
 
+Secondly, I set myself a goal to achieve with the game prototype, which was to make the game so intuitive, that the players will know exactly what they need to do just by playing the game, and have a clear mental model from the get-go {% cite macklin_games_2016 -l 93-95 %}.
+
 ## Design
 
 Before building anything, like implementing the level, placing all the objects (locks, keys, etc), and linking them (i.e. which cards activate which slots), I designed the puzzle using Miro {% cite noauthor_miro_nodate -A %}. This gave me a good overview of how many keys (or Tarot cards) I would need, and how long it would take me to implement the level.
@@ -79,6 +82,8 @@ Before building anything, like implementing the level, placing all the objects (
 At first, I designed a more elaborate puzzle, which you first have to find a key hidden in a book, and then that key unlocks a box containing a subset of the Tator cards (see screenshot underneath). However, I simplified the design to just be a handful of cards scattered about the room, and 8 of those cards fit in one lock, which reveals the final key.
 
 ![Puzzle design in Miro](/assets/games/a_night_at_locke_manor/miro-puzzle-design.png)
+
+I tied the Tarot cards to individual notes in the world, to be found by the player, and the [writing for the notes](/assets/games/a_night_at_locke_manor/puzzles.pdf) was to serve as clues for the player so they know *which* Tarots to use, and *in which order* to place the Tarots.
 
 # Implementation
 
@@ -96,7 +101,7 @@ I then go on to show one of the Tarot cards already slotted into the device. The
 
 # Result
 
-TODO Youtube embed of gameplay video.
+<iframe width="1857" height="1054" src="https://www.youtube.com/embed/Q5HKB460E_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Screenshot 1](/assets/games/a_night_at_locke_manor/screenshot-1.png)
 ![Screenshot 2](/assets/games/a_night_at_locke_manor/screenshot-2.png)
