@@ -79,9 +79,11 @@ Secondly, I set myself a goal to achieve with the game prototype, which was to m
 
 ## Design
 
-Before building anything, like implementing the level, placing all the objects (locks, keys, etc), and linking them (i.e. which cards activate which slots), I designed the puzzle using Miro {% cite noauthor_miro_nodate -A %}. This gave me a good overview of how many keys (or Tarot cards) I would need, and how long it would take me to implement the level.
+Before building anything, like implementing the level, placing all the objects (locks, keys, etc), and linking them (i.e. which cards activate which slots), I designed the puzzle using Miro {% cite noauthor_miro_nodate %}. This gave me a good overview of how many keys (or Tarot cards) I would need, and how long it would take me to implement the level.
 
-At first, I designed a more elaborate puzzle, which you first have to find a key hidden in a book, and then that key unlocks a box containing a subset of the Tator cards (see screenshot underneath). However, I simplified the design to just be a handful of cards scattered about the room, and 8 of those cards fit in one lock, which reveals the final key.
+In general, I find going straight to pen & paper, or a tool like Miro, invaluable to structuring my thoughts before blocking anything out in a game engine. I was inspired by this "off-line" process years ago (back in 2007) when I learnt of the film *Shoot 'Em Up*, in which writer and director [Michael Davis](https://twitter.com/opyate/status/1471968415900446720) sketched out entire animatics of the film and pitching the film as sketches via iMovie {% cite davis_writers_2015 %}.
+
+At first, I designed a more elaborate puzzle, which you first have to find a key hidden in a book, and then that key unlocks a box containing a subset of the Tarot cards (see screenshot underneath). However, I simplified the design to just be a handful of cards scattered about the room, and 8 of those cards fit in one lock, which reveals the final key.
 
 ![Puzzle design in Miro](/assets/games/a_night_at_locke_manor/miro-puzzle-design.png)
 
