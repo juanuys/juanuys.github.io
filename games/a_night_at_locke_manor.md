@@ -53,18 +53,18 @@ For the press kits, everyone kept recommending Rami Ismail's **presskit()** to m
 Firstly, I wanted to know about all the different puzzle types one could conceivably implement in a video game. From my own experience with games, I first came up with my own list:
 
 ```
-memory games, matching puzzles
-number puzzles, equations, ciphers, dates
-Logic: matching symbols, items looking out of place, repeated themes, combination puzzles
-Text puzzles: crossword, missing letters, riddles, dates
-Spatial puzzles: combining items to form new items, perspective puzzles, keys
-Light + colour puzzles: switch lights off and on, combine colours, cast shadows, UV paint or blood, differently coloured panes of glass
-Sound: clues in lyrics, clues in ambient noise, playing chimes in order, dial tones
-Hidden objects: hollowed-out books, drawers, inside anything
-Visual: clues in paintings and pictures, things looking out-of-place, jigsaws, perspective
-Electricity: circuits, buzzers, magnets
-Codes: ciphers, Morse code, musical scales, number theory
-Physics: fire + ice, weights, heat, cracking/shattering glass
+- memory games, matching puzzles
+- number puzzles, equations, ciphers, dates
+- Logic: matching symbols, items looking out of place, repeated themes, combination puzzles
+- Text puzzles: crossword, missing letters, riddles, dates
+- Spatial puzzles: combining items to form new items, perspective puzzles, keys
+- Light + colour puzzles: switch lights off and on, combine colours, cast shadows, UV paint or blood, differently coloured panes of glass
+- Sound: clues in lyrics, clues in ambient noise, playing chimes in order, dial tones
+- Hidden objects: hollowed-out books, drawers, inside anything
+- Visual: clues in paintings and pictures, things looking out-of-place, jigsaws, perspective
+- Electricity: circuits, buzzers, magnets
+- Codes: ciphers, Morse code, musical scales, number theory
+- Physics: fire + ice, weights, heat, cracking/shattering glass
 ```
 
 Then my search expanded, and I found a a bunch of useful resources, for example:
