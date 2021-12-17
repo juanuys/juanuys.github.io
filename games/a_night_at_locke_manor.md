@@ -13,6 +13,8 @@ rank: 10
 
 # A Night At Locke Manor
 
+2021-12-17
+
 ## Team approach
 
 **A Night At Locke Manor** is the title of the game we made for the [IGD740](/tags#igd740) assignment. As the course was focused on the business side of gamedev, I took the prototyping mindset to developing the product, with a view to deliver something which can be used as part of a pitch to convince funders to give us money to turn the idea into a game.
@@ -106,6 +108,8 @@ I then go on to show one of the Tarot cards already slotted into the device. The
 # Result
 
 ## Gameplay video
+
+I [scripted](/assets/games/a_night_at_locke_manor/gameplay-video.pdf) and recorded the first 3 minutes of our gameplay video, which is available here:
 
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/Q5HKB460E_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
