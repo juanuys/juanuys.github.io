@@ -11,6 +11,26 @@ pagetype: game
 rank: 10
 ---
 
+Table of contents:
+
+ - [A Night At Locke Manor](#a-night-at-locke-manor)
+    - [Team approach](#team-approach)
+    - [What I delivered](#what-i-delivered)
+- [The game](#the-game)
+    - [Research](#research)
+    - [Design](#design)
+    - [Implementation](#implementation)
+    - [Result](#result)
+        - [Gameplay video](#gameplay-video)
+        - [Screenshots](#screenshots)
+- [Press release](#press-release)
+- [The Steam page](#the-steam-page)
+- [Social media presence](#social-media-presence)
+- [Pitch deck](#pitch-deck)
+- [Trailer](#trailer)
+- [Bibliography](#bibliography)
+
+
 # A Night At Locke Manor
 
 2021-12-17
@@ -133,7 +153,17 @@ I [scripted](/assets/games/a_night_at_locke_manor/gameplay-video.pdf) and record
 
 # Press release
 
-For the press release, I tried to find the most recent best practices about wording and layout online. I mixed and matched pointers from Aaron Marsden {% cite marsden_last_2018 -A %} and Alexis Santos {% cite santos_guide_2018 -A %}, but in the end made sure that I communicated all the most important information.
+For the press release, I tried to find the most recent best practices about wording and layout online. I mixed and matched pointers from Aaron Marsden {% cite marsden_last_2018 -A %} and Alexis Santos {% cite santos_guide_2018 -A %}, but in the end made sure that I communicated all the most important information:
+
+- title
+- price
+- availability
+- logline or summary
+- what the game is about
+- links to press kits
+- contact details
+- call to action
+
 
 I didn't include too much studio information, as this press release is about the game, and the studio information can already [be found online](https://juanuys.com/fake-presskit/), with the link shared in the press release.
 
@@ -155,7 +185,7 @@ Wlad Marhulets recommends you choose a social media channel that you're on alrea
 
 As an indie, I don't have much time, so will be foregoing all the channels which require too much work, like video creation. That includes Youtube, TikTok, etc.
 
-I created a real presence on Twitter, as [I'm already on there](https://twitter.com/opyate): [https://twitter.com/untitled__team](https://twitter.com/untitled__team)
+As [I'm already on Twitter](https://twitter.com/opyate), I decided to create a presence there: [https://twitter.com/untitled__team](https://twitter.com/untitled__team)
 
 Please follow that account to see all the tweets, as they are currently protected. The snapshot I shared at the start of this post won't show any animated GIFs.
 
