@@ -191,6 +191,8 @@ Please follow that account to see all the tweets, as they are currently protecte
 
 To be effective on Twitter, you need to share animated GIFs and the odd video. We haven't made any videos, but if we did, we'd upload the video natively to Twitter, instead of sharing a Youtube link, as Twitter would auto-play native videos.
 
+Conversely, for future games, I will definitely experiment with other channels, as I discovered quite recently that Twitter consistently doesn't work for a lot of studios, and that it's mostly an echo chamber of gamedevs {% cite zukowski_what_2021 %}.
+
 # Pitch deck
 
 We went [in-depth on pitching in the previous module]({% post_url 2021-07-06-week-6--practice-pitch-week %}), so I won't re-iterate my learnings and research here. Please see that blog post for more information and the relevant citations.
