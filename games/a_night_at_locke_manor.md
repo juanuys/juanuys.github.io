@@ -189,7 +189,7 @@ As [I'm already on Twitter](https://twitter.com/opyate), I decided to create a p
 
 Please follow that account to see all the tweets, as they are currently protected. The snapshot I shared at the start of this post won't show any animated GIFs.
 
-To be effective on Twitter, you need to share animated GIFs and the odd video. We haven't made any videos, but if we did, we'd upload the video natively to Twitter, instead of sharing a Youtube link, as Twitter would auto-play native videos.
+To be effective on Twitter, you need to share animated GIFs and the odd video. We upload videos natively to Twitter, instead of sharing a Youtube link, as Twitter would auto-play native videos.
 
 Conversely, for future games, I will definitely experiment with other channels, as I discovered quite recently that Twitter consistently doesn't work for a lot of studios, and that it's mostly an echo chamber of gamedevs {% cite zukowski_what_2021 %}.
 
@@ -208,6 +208,8 @@ Most resources on making game trailers point to Derek Lieu''s website {% cite li
 - let the actions happen in sync with the music's rhythm
 
 There are many more guidelines and some "rules", but in the end, these are meant to be broken, and you're meant to be creative, otherwise all trailers would feel the same.
+
+I made the trailer and gameplay video using a free one-week trial of Adobe Premiere, as the Mac and iMovie I usually use is getting very old and slow. I initially tried Blender's video editing capabilities, but [Blender's engine is quite old and doesn't benefit from GPU-powered hardware acceleration](https://blender.stackexchange.com/a/190769/137178) like the more modern offerings.
 
 # Bibliography
 
