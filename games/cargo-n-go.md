@@ -7,7 +7,7 @@ permalink: /games/cargo
 thumb: /assets/games/cargo/thumb.png
 category: jam
 builtwith: phaserjs
-pagetype: game
+# pagetype: game
 rank: 50
 blogpost: 2020-10-27-game-jam
 ---
