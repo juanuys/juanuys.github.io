@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Research question"
 description: "Research question"
-tags: ma falmouth crj gdo750 ma-final-major-project week3 life draft
+tags: ma falmouth crj gdo750 ma-final-major-project week3 life
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
