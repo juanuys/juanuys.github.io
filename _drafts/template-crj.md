@@ -2,16 +2,16 @@
 layout: postcrj
 title: "%TITLE%"
 description: "%DESCRIPTION%"
-tags: ma falmouth crj igd740 ma-indie-startup week%WEEK% %TAGS% draft
+tags: ma falmouth crj gdo750 ma-final-major-project week%WEEK% %TAGS% draft
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
 week: %WEEK%
-module: indie game startup
-code: IGD740
+module: final major project
+code: GDO705
 ---
 
-Welcome to week %WEEK% of the module _indie game startup_.
+Welcome to week %WEEK% of the module _final major project_.
 
 # Bibliography
 
