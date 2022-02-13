@@ -2,7 +2,7 @@
 layout: postcrj
 title: "Research question"
 description: "Research question"
-tags: ma falmouth crj gdo750 ma-final-major-project week3 life
+tags: ma falmouth crj gdo750 ma-final-major-project week3
 category: blog
 # disqus_comments: true
 thumb: /assets/masters/crj/thumb.png
@@ -19,7 +19,7 @@ My research supervisor is [Dr. Jeff Howard](https://www.falmouth.ac.uk/staff/dr-
 
 We're tasked with envisioning the project, and planning our time over the next few months. More importantly, we have to come up with a research question.
 
-McCombes {%cite -A mccombes_developing_2019 %} suggest that all research questions should be
+McCombes {%cite mccombes_developing_2019 -A %} suggest that all research questions should be
 
 - **Focused** on a single problem or issue
 - **Researchable** using primary and/or secondary sources
@@ -44,7 +44,7 @@ I immediately scoped it down to be a survivor game, where you have to survive an
 
 I was quite excited by the reduced scope, and immediately started on a prototype, which can be played here: [https://opyate.itch.io/polar](https://opyate.itch.io/polar).
 
-The pivot to a survivor game isn't completely out of the blue, though. Chris Zukowski writes about an untapped opportunity in the Steam marketplace, which is the high-action, very-fun arcade type game which can be sold for £2, and streamers will say "just buy this", and folks would skip the dreaded wishlist, because, well, the game is only £2 {% cite -A zukowski_vampire_2022 %}.
+The pivot to a survivor game isn't completely out of the blue, though. Chris Zukowski writes about an untapped opportunity in the Steam marketplace, which is the high-action, very-fun arcade type game which can be sold for £2, and streamers will say "just buy this", and folks would skip the dreaded wishlist, because, well, the game is only £2 {% cite zukowski_vampire_2022 -A %}.
 
 So, that's the second part: can I make a game very cheaply, that is a lot of fun, and I can convince enough influences to play it, and get a bunch of players to *just buy it*?
 
@@ -54,7 +54,7 @@ Note that I'm keeping the polar bear and her sheet of ice. It's still the last p
 
 My gaming habits have changed drastically over the years. I have 2 young children, a demanding job, and also doing this masters, so when I do game, it has to be quick and meaningful.
 
-I would, as Celia Hodent describes it, always feel downgraded as a player whenever I revisit a complex game after some time away {% cite -A hodent_gamers_2018 -l 49 %}:
+I would, as Celia Hodent describes it, always feel downgraded as a player whenever I revisit a complex game after some time away {% cite hodent_gamers_2018 -A -l 49 %}:
 
 ![The player forgetting curve](/assets/posts/2022-02-13-research-question/hodent.png)
 
