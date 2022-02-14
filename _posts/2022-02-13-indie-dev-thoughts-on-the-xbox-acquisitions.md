@@ -36,6 +36,8 @@ The market is getting bigger {% cite wallach_50_2020 %}, so I do think there's a
 
 Who knows? Perhaps AAA will one day turn into a cesspit of generic, pay-to-win, lootbox-ridden grindfests, where games are launched incomplete and you have to buy £1,000 of IAP to get the full experience.
 
+Will this happen? Likely, as all these acquired studios now report to the same board, and damned be the C-suite who don't deliver the double-digit percentage points of *growth* this board will likely demand.
+
 If that happens, players will come back home to good old gaming, and us indies will await them with open arms.
 
 # Bibliography
