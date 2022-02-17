@@ -8,6 +8,11 @@ category: blog
 # thumb: /assets/masters/crj/thumb.png
 ---
 
+*TL;DR*
+
+> I'm not worried about the acquisitions. There's a large enough player base that wants a large variety, so there's room for all game developers, large and small. I'm a solo dev, and my indie income is diversified (freelance work, games in stores, Patreon), and I have no commitments (like team salaries). I don't think my patrons are going away anytime soon either, and in fact, it's slowly growing. My 1,000 true fans, so to speak: https://kk.org/thetechnium/1000-true-fans/
+
+
 [75 billion dollars](https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/) is the new [7.5 billion dollars](https://www.bbc.co.uk/news/54233235) {% cite noauthor_microsoft_2020 %} {% cite noauthor_microsoft_2022 %}, and some indies are scared.
 
 It's easy to agree with Tanya X Short about publishers being less interested in indies, but then there's the counter argument by Sarah Bond that indies will benefit as their games will be stumbled-upon by folks who would not normally purchase indie games {% cite baraniuk_microsofts_2022 %}. 
