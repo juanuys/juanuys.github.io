@@ -9,7 +9,7 @@ I'm currently spending one day a week on making games and [learning more about t
 
 <a href="https://www.patreon.com/bePatron?u=50212350" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-I spend the rest of my week at the lovely [Offworld Live](https://offworld.live/), where we build 360 video streaming game engine plugins for virtual productions and content creators.
+I spend the rest of my week at the fabulous [Climate Policy Radar](https://climatepolicyradar.org/), where we're building an open data service to help save Mother Earth.
 
 Please [say hi](about), play some of my [games](games), read some of my [words](blog), check out my [hacks](made), or enjoy the odd [doodle](doodles).
 
