@@ -86,7 +86,7 @@ We're already on the right track, as the question is:
 - **Researchable**: playtesting and surveying of a known demographic (time poor arcade game players)
 - **Feasible**: the game has a very small scope, and can be quickly made
 - **Specific**: the issue is climate change, and the demographic is time poor arcade game players
-- **Complex**: the climate change message can be quite complex, and the player can be accfected on many levels, and even be mobilised to effect change in their own lives
+- **Complex**: the climate change message can be quite complex, and the player can be affected on many levels, and even be mobilised to effect change in their own lives
 - **Relevant**: the artefact is a game (I'm a gamedev), and the issue is climate change (arguably the most important issue of the time)
 
 # Bibliography
