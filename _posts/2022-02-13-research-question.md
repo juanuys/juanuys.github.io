@@ -46,7 +46,7 @@ I was quite excited by the reduced scope, and immediately started on a prototype
 
 The pivot to a survivor game isn't completely out of the blue, though. Chris Zukowski writes about an untapped opportunity in the Steam marketplace, which is the high-action, very-fun arcade type game which can be sold for £2, and streamers will say "just buy this", and folks would skip the dreaded wishlist, because, well, the game is only £2 {% cite zukowski_vampire_2022 -A %}.
 
-So, that's the second part: can I make a game very cheaply, that is a lot of fun, and I can convince enough influences to play it, and get a bunch of players to *just buy it*?
+So, that's the second part: can I make a game very cheaply, that is a lot of fun, and I can convince enough influencers to play it, and get a bunch of players to *just buy it*?
 
 Note that I'm keeping the polar bear and her sheet of ice. It's still the last piece of ice in the world, but everyone wants it, and she will defend it until the end.
 
