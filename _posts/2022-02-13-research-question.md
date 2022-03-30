@@ -58,7 +58,7 @@ I would, as Celia Hodent describes it, always feel downgraded as a player whenev
 
 ![The player forgetting curve](/assets/posts/2022-02-13-research-question/hodent.png)
 
-Therefore, I would like my games to respectful of people's time.
+Therefore, I would like my games to be respectful of people's time.
 
 ## Part 3.1
 
