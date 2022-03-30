@@ -99,7 +99,7 @@ The game will have at its core an important message about climate change, and ha
 - extreme weather will threaten the raft and its crew, like heat waves (which also threatens the ice), tidal waves, storms, etc
 - the raft will pick up other strays in search of a new icy home, and this will reinforce the message that there is strength in numbers
 
-We don't want un unsubtle, heavy-handed, didactic message.
+We don't want an unsubtle, heavy-handed, didactic message.
 
 
 The idea of "the mechanic/medium is the message" is further underpinned by ideas from literature:
