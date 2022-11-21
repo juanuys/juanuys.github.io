@@ -5,13 +5,21 @@ layout: home
 
 Hello, I'm <span title="pronounced like the French *Jean*">Juan</span> Uys, and I'm an 🕹️ indie games developer 🕹️.
 
-I'm currently spending one day a week on making games and [learning more about the craft](masters), but the plan is to make games full time. Please help me make this possible and...
+- [about me](about)
+- [now](now)
+- [games](games)
+- [blog](blog)
+- [doodles](doodles)
+- [hacks](made)
 
+
+I also recently completed a [masters](masters).
+
+
+
+<!--
 <a href="https://www.patreon.com/bePatron?u=50212350" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
-I spend the rest of my week at the fabulous [Climate Policy Radar](https://climatepolicyradar.org/), where we're building an open data service to help save Mother Earth.
-
-Please [say hi](about), play some of my [games](games), read some of my [words](blog), check out my [hacks](made), or enjoy the odd [doodle](doodles).
+-->
 
 
 {% comment %}
