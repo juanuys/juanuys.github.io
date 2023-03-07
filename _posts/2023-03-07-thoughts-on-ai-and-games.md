@@ -22,7 +22,7 @@ This made me think about where AI fits into a creative person's life.
 First, an exploration of the tools that are out there, and where it is being used. There are plenty of examples in the wild, but I highlight just a few from recent memory below.
 
 We're seeing great advancements in AI content generation and process automation:
-- image generation (e.g. [stable diffusion](https://beta.dreamstudio.ai/), [everyone's favourite image-imagining Discord bot](https://midjourney.com/), [SD with in/out-painting](https://layer.ai/), [generation and training](https://www.scenario.gg/), [generation, training + in/out-painting](https://leonardo.ai/), [suites of tools](https://runwayml.com/), [another Discord bot](https://www.bluewillow.ai/, and more))
+- image generation (e.g. [stable diffusion](https://beta.dreamstudio.ai/), [everyone's favourite image-imagining Discord bot](https://midjourney.com/), [SD with in/out-painting](https://layer.ai/), [generation and training](https://www.scenario.gg/), [generation, training + in/out-painting](https://leonardo.ai/), [suites of tools](https://runwayml.com/), [another Discord bot](https://www.bluewillow.ai/), and more)
 - animation (e.g. [animation software](https://cascadeur.com/), [paintings to video](https://ebsynth.com/), [motion capture](https://plask.ai/), [webcam to mocap](https://www.rokoko.com/products/video), and more)
 - automated QA (e.g. [modl](https://modl.ai/))
 - 3D (e.g. [textured meshes from text prompts](https://www.nasir.lol/clipmesh))
@@ -35,6 +35,11 @@ And as such, more and more games being made with the assistance AI technology, e
 - [https://play.aidungeon.io/](https://play.aidungeon.io/) - text adventure game generator, released back in 2019
 - and the countless games popping up on itch which uses AI-generated content outright
   
+  Looking at all these advances, it's easy to feel
+  - as the person who usually composes the music, MusicLM will take my job
+  - as the person who usually draws the art, Midjourney will take my job
+  - and so forth
+  
 # Where does AI fit into my future?
 
 I think AI is just a tool.
@@ -42,11 +47,6 @@ I think AI is just a tool.
 New tools have popped up in creatives' lives throughout history. Photographers got digital cameras and Photoshop. We went from quills to pens to typewriters to PCs to laptops. The personal computer benefitted basically everyone. Those inventions didn't take our jobs, it made us better at our jobs. 
 
 Anecdote: a friend studied photography back in 2002, and looked down on digital cameras: there was something about going through the slog of developing the prints in a dark room yourself that imparted more artistry on the photographs, and that anyone with a digital camera was "cheating". Also, don't even get him started on digital image manipulation. However, fast forward a couple of decades, and client work is being done purely digitally. It's cheaper and more efficient.
-
-
-(This is not my friend's photography, BTW. This is Picture For Women by Jeff Wall. It makes you think - why is the woman and bench not being reflected in the mirror? Is there even a mirror?)
-
-![Jeff Wall - Picture For Women](/assets/posts/2023-03-07-thoughts-on-ai-and-games/jeff-wall.jpg)
 
 Anecdote: a family member stopped working as a secretary in the 80s (typewriters, fax, photocopies) to spend more time with kids. She only tried to re-enter the job market in the mid-2000s out of necessity, but never re-skilled in the interim. Needless to say, the attempt was short-lived. It's a sad case of "the world has gone me by".
 
@@ -72,6 +72,6 @@ You don't have to go back to uni to study statistics and applied math, and learn
 
 However, do seek out the tools that are making a splash in your specific corner of the industry. Try it; play with it. See what it does. Maybe even incorporate it into your toolkit, and become an expert in it. (Because your colleagues will, and they'll be better prepared tomorrow.)
 
-**But, realise that there's a fundamental part of being human that it will never replace (well, at least not yet 😉), and that's your ability to dream and come up with unique solutions to problems.** You can still things the Old Way, maybe in your spare time, for fun. But the New Way will get you to your goals more quickly, and let you focus on the important stuff which only a human brain (and heart!) can bring to the table.
+**But, realise that there's a fundamental part of being human that it will never replace (well, at least not yet 😉), and that's your ability to dream and come up with unique solutions to problems.** You can still do things the Old Way, maybe in your spare time, for fun. But the New Way will get you to your goals more quickly, and let you focus on the important stuff which only a human brain (and heart!) can bring to the table.
 
 *PS I would have liked to have written this on a typewriter, to hear the clickety clack of the keys, and to end up with a beautiful artifact which I can smell and hold in my hands. God forbid I need to do a search-and-replace, though...*
