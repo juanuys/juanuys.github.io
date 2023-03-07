@@ -74,4 +74,4 @@ However, do seek out the tools that are making a splash in your specific corner 
 
 **But, realise that there's a fundamental part of being human that it will never replace (well, at least not yet 😉), and that's your ability to dream and come up with unique solutions to problems.** You can still things the Old Way, maybe in your spare time, for fun. But the New Way will get you to your goals more quickly, and let you focus on the important stuff which only a human brain (and heart!) can bring to the table.
 
-* PS I would have liked to have written this on a typewriter, to hear the clickety clack of the keys, and to end up with a beautiful artifact which I can smell and hold in my hands. God forbid I need to do a search-and-replace, though...*
+*PS I would have liked to have written this on a typewriter, to hear the clickety clack of the keys, and to end up with a beautiful artifact which I can smell and hold in my hands. God forbid I need to do a search-and-replace, though...*
