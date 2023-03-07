@@ -64,6 +64,8 @@ I think it's that 90% that can be automated away, but the 10% that will remain a
 
 Fundamentals in art, the ability to draw, knowing how to integrate art with the game engine: these are all just a means to an end, which is the product (the game; the thing that tells the story, that has the message).
 
+However, the product can be the most beautiful thing in the world, but if it's not well-designed (I'm *not* saying well-drawn), then it will fall flat.
+
 # Now what?
 
 You don't have to go back to uni to study statistics and applied math, and learn everything from the basic [McCulloch-Pitts neuron](https://en.wikipedia.org/wiki/Artificial_neuron) all the way to the latest deep learning techniques.
