@@ -70,8 +70,11 @@ However, the product can be the most beautiful thing in the world, but if it's n
 
 You don't have to go back to uni to study statistics and applied math, and learn everything from the basic [McCulloch-Pitts neuron](https://en.wikipedia.org/wiki/Artificial_neuron) all the way to the latest deep learning techniques.
 
-However, do seek out the tools that are making a splash in your specific corner of the industry. Try it; play with it. See what it does. (Because your colleagues will, and they'll be better prepared tomorrow.)
+However, do seek out the tools that are making a splash in your specific corner of the industry. Try it; play with it. See what it does. Maybe even incorporate it into your toolkit, and become an expert in it. (Because your colleagues will, and they'll be better prepared tomorrow.)
 
-**But, realise that there's a fundamental part of being human that it will never replace, and that's your ability to dream and come up with unique solutions to problems.**
+**But, realise that there's a fundamental part of being human that it will never replace, and that's your ability to dream and come up with unique solutions to problems.** You can still things the Old Way, maybe in your spare time, for fun. But the New Way will get you to your goals more quickly, and let you focus on the important stuff which only a human brain (and heart!) can bring to the table.
 
 (Well, at least not yet 😉)
+
+
+*((I would have liked to have written this on a typewriter, to hear the clickety clack of the keys, and to end up with a beautiful artifact which I can smell and hold in my hands. God forbid I need to do a search-and-replace, though...))*
