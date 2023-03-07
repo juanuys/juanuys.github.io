@@ -56,7 +56,7 @@ So, just like digital cameras, Photoshop, and laptops, AI is just a tool that wo
 
 When I work on art for a game, I spend a fair amount of time just doodling in a notebook. I'm "designing", using colour, composition, and shape to communicate something through the piece of art. I think about The Message, the themes that underpin it.
 
-Then comes the multi-hour process where I'm pushing a pen around on a Wacom tablet for a few hours. Then importing it into the game engine, where it becomes part of the scene.
+Then comes the bit where I'm pushing a pen around on a Wacom tablet for a few hours. Then importing it into the game engine, where it becomes part of the scene.
 
 What usually happens is that the ideating/designing phase takes about 10%, and the work/process/creation takes about 90%. (There might be some iteration going on to fine-tune the design.)
 
