@@ -139,7 +139,7 @@ There you have it. It took me three weeks but a few thousand pounds less than th
 
 I also relish the thought of not having to put my art equipment away when wrap up the day.
 
-**UPDATE** A few more snaps following the [new desk](/2016/11/20/my-new-85-standing-desk/) and a litte tidying.
+**UPDATE** A few more snaps following the [new desk]({% post_url 2016-11-20-my-new-85-standing-desk %}) and a litte tidying.
 
 ![window side](/assets/posts/2016-10-17-my-new-home-office/complete-1.jpg)
 ![window up](/assets/posts/2016-10-17-my-new-home-office/window-above.jpg)
