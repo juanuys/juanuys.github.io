@@ -17,7 +17,7 @@ It's not all positive, though. The big question on everyone's mind is whether [A
 
 This made me think about where AI fits into a creative person's life.
 
-# AI in use in the game dev right now
+# AI in use in game dev right now
 
 First, an exploration of the tools that are out there, and where it is being used. There are plenty of examples in the wild, but I highlight just a few from recent memory below.
 
