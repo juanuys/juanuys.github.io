@@ -4,7 +4,7 @@ title: "A quick thought on AI and games"
 description: "A quick thought on AI and games"
 tags: ai ml deeplearning gamedev
 category: blog
-# disqus_comments: true
+disqus_comments: true
 thumb: /assets/posts/2023-03-07-thoughts-on-ai-and-games/thumb.png
 ---
 
@@ -75,3 +75,25 @@ However, do seek out the tools that are making a splash in your specific corner 
 **But, realise that there's a fundamental part of being human that it will never replace (well, at least not yet 😉), and that's your ability to dream and come up with unique solutions to problems.** You can still do things the Old Way, maybe in your spare time, for fun. But the New Way will get you to your goals more quickly, and let you focus on the important stuff which only a human brain (and heart!) can bring to the table.
 
 *PS I would have liked to have written this on a typewriter, to hear the clickety clack of the keys, and to end up with a beautiful artifact which I can smell and hold in my hands. God forbid I need to do a search-and-replace, though...*
+
+# Extra thoughts 2023-03-07
+
+(Extra thoughts I had after watching [this video](https://www.youtube.com/watch?v=GOwxXj1EIXM).)
+
+## I'm not devaluing established techniques
+
+Just some context: I'm just a guy with day job and family/kids who has almost no time for indie dev. I'm so-so on the illustration front. I also can't afford any artists to help me with game art at the moment. So, I'm looking for tooling to help speed up my own processes. 
+
+I'm not devaluing anything any artist does using traditional/established techniques. I think our work with paintbrush on canvas, or stylus on tablet, or fingers on synthesiser/piano - it all springs from the heart, from a seed of inspiration, brought to fruition with honed craft and many years of training.
+
+But these new AI tools are getting better, and will be more commonplace in the near future. You might as well embrace it.
+
+## There's a place for AI-generated content
+
+Like I said, I'm an unknown indie gamedev with no means to employ dedicated craftspeople to do things for me. I, for one, would like more tools with which to get my message/idea out quicker.
+
+And then one day, when I have more success, I'd love to involve more artists and musicians in my projects.
+
+If you grep my blog for "collective" or even "[worker collective](https://github.com/juanuys/juanuys.github.io/search?q=worker+collective)" (especially [this post]({% post_url 2021-08-03-week-10--more-industry-insights%}#worker-collectives)), you'll quickly see that I'm quite anti-corporate-greed. I would LOVE to start a worker collective one day, and share in the success equally.
+
+So, in conclusion, AI-generated art might help the little guy get a leg up (just like they currently do with asset packs and royalty-free music) if we can figure out [AI copyright](https://arstechnica.com/information-technology/2023/02/us-copyright-office-withdraws-copyright-for-ai-generated-comic-artwork/), but the large media houses are real scumbags if they think they can lay off their workforce and use AI-generated art instead, just so that they can make an extra buck.
