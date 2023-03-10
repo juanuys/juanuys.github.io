@@ -10,6 +10,7 @@ thumb: /assets/posts/2023-03-07-thoughts-on-ai-and-games/thumb.png
 
 *Tl;DR: AI is just a tool, and as a creative, you need to identify what these tools are, and start paying attention to them.*
 
+*Update 2023-03-10: don't read my ramblings below; just watch [this](https://youtu.be/rswxcDyotXA)*
 
 I am a data/ML engineer by day, and an indie micro studio by night, so not only am I familiar with AI/ML and deep learning in my professional life, but I'm also fully aware of the advances being made in the creative industries using AI.
 
