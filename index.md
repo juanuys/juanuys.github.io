@@ -13,7 +13,15 @@ Hello, I'm <span title="pronounced like the French *Jean*">Juan</span> Uys, and 
 - [hacks](made)
 
 
-I also recently completed a [masters](masters).
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('opyate', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#f45d22',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
 
 
