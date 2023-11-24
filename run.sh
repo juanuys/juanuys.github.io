@@ -8,6 +8,8 @@ else
 	INC=""
 fi
 
+echo $INC
+
 # first step
 false && docker run --rm --name juanuys-com -p 4000:4000 --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:3 jekyll serve
 
