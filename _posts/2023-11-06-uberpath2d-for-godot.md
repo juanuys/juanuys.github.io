@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "QuickTextureButton for Godot"
-description: "I made a QuickTextureButton for Godot"
+title: "UberPath2D for Godot"
+description: "I made a Path2D add-on for Godot"
 tags: imadeathing gamedev godot tools
 category: blog
 thumb: /assets/posts/2023-11-06-uberpath2d-for-godot/thumb.png
