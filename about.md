@@ -11,7 +11,7 @@ At [opyate@gmail.com](mailto:opyate@gmail.com?subject=collaboration)
 
 <div class="boxes">
 <div class="box altbox" style="background-image: url('/assets/about/twitter.png');">
-<a href="https://twitter.com/opyate" style="position: absolute; bottom: 10px; right: 10px;">Twitter</a>
+<a href="https://mastodon.art/@uys" style="position: absolute; bottom: 10px; right: 10px;">Mastodon</a>
 </div>
 
 <div class="box altbox" style="background-image: url('/assets/about/soundcloud.png');">
