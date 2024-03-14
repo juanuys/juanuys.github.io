@@ -3,16 +3,16 @@ layout: home
 ---
 
 
-Hello, I'm <span title="pronounced like the French *Jean*">Juan</span> Uys, and I'm an 🕹️ indie games developer 🕹️.
+Hello, I'm <span title="pronounced like the French *Jean*">Juan</span> Uys, and welcome to my little corner on the Internet.
 
-- [about me](about)
-- [now](now)
-- [games](games)
-- [blog](blog)
-- [doodles](doodles)
-- [hacks](made)
+- [about me](🤸🏻 about)
+- [now](🕰️ now)
+- [games](🕹️ games)
+- [blog](📜 blog)
+- [doodles](🖌️ doodles)
+- [hacks](🤖 made)
 
-<a href='https://ko-fi.com/D1D2QPJ4G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy me a cup of steaming hot goodness at ko-fi.com' /></a>
+<!-- <a href='https://ko-fi.com/D1D2QPJ4G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy me a cup of steaming hot goodness at ko-fi.com' /></a> -->
 
 
 

@@ -4,6 +4,12 @@ layout: home
 
 Here's what I'm doing right [now](https://nownownow.com/about)...
 
+# 2024-03-14
+
+I've spent the last year diving deep into the world of NLP and language models, which is a great addition to the [computer vision expertise I've built up via pdfcrun.ch](https://pdfcrun.ch). I'm embarking on a few new apps that will leverage these skills, and the plan is time-box each prototype to 1 week, with a view to gather some metrics and decide on the next steps. It's great to get into the [maker and product-focused mindset again](/tags#startup).
+
+I'm reading [David Deutsch](https://www.daviddeutsch.org.uk/books/) and I'm about half way through Fabric (taking it slow 😂).
+
 # 2023-02-22
 
 The new home office is completed. Thread [here](https://mastodon.art/@uys/109522808559217269).
