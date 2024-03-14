@@ -57,7 +57,7 @@ It would also demarcate each prototype to answer its own questions (Shell's prot
 - [v2 of our pitch deck](/assets/games/a_night_at_locke_manor/pitch-deck-v2.pdf) including including some extra sections, this time with art by Maciej
 - [v1 of the concept video for the game](TODO)
 - [v1 of the trailer](https://youtu.be/fOYsRSwqDmc)
-- [v1 of the game's Steam page](https://juanuys.com/fake-steam-page/) which included my gameplay prototype's art, and placeholder art for the capsule image ([snapshot 2021-12-13](/assets/games/a_night_at_locke_manor/steam-page-v1.png))
+- [v1 of the game's Steam page](/assets/posts/2021-11-26-week-10--creating-a-store-presence/A_Night_At_Locke_Manor_on_Steam.png) which included my gameplay prototype's art, and placeholder art for the capsule image ([snapshot 2021-12-13](/assets/games/a_night_at_locke_manor/steam-page-v1.png)) (I had to remove the link to the static site for the fake Steam page, because Google got their pants in a twist and reported me as being deceptive 🤷)
 - a social media presence, which only includes a [Twitter account](https://twitter.com/untitled__team) with tweets showing my own art, and a custom designed team avatar, which is a mash-up of our faces ([snapshot 2021-12-13](/assets/games/a_night_at_locke_manor/social-media-v1.png))
 - [press release](/assets/games/a_night_at_locke_manor/press-release.pdf)
 - [v1 of studio press kit](https://juanuys.com/fake-presskit/) ([snapshot 2021-12-13](/assets/games/a_night_at_locke_manor/presskit-studio-v1.png))

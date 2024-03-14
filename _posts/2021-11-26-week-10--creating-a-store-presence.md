@@ -22,7 +22,7 @@ By the end of this week, you will be able to:
 
 # Everything's coming together
 
-I made a [fake Steam page](https://juanuys.com/fake-steam-page/) for our fake game, and now [you can too](https://github.com/juanuys/fake-steam-page). Thanks again, Mr. Zukowski - your course was a great help here {% cite zukowski_how_nodate %}.
+I made a [fake Steam page](/assets/posts/2021-11-26-week-10--creating-a-store-presence/A_Night_At_Locke_Manor_on_Steam.png) for our fake game, and now [you can too](https://github.com/juanuys/fake-steam-page) (I had to remove the link to the static site for the fake Steam page, because Google got their pants in a twist and reported me as being deceptive 🤷). Thanks again, Mr. Zukowski - your course was a great help here {% cite zukowski_how_nodate %}.
 
 Gameplay is finally screenshottable/GIFable, so by the time you see the above Steam page, it might have the final screenshots in there. In any case, here's a little sneak peek:
 
