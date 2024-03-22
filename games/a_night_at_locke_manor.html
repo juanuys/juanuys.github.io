@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/games">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /games
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">A Night At Locke Manor</h1>
+
+    <div>      
+      
+
+      
+    </div>
+    
+
+    <info datetime="">
+        
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>Table of contents:</p>
+
+<ul>
+  <li><a href="#a-night-at-locke-manor">A Night At Locke Manor</a>
+    <ul>
+      <li><a href="#team-approach">Team approach</a></li>
+      <li><a href="#what-i-delivered">What I delivered</a></li>
+    </ul>
+  </li>
+  <li><a href="#the-game">The game</a>
+    <ul>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#design">Design</a></li>
+      <li><a href="#implementation">Implementation</a></li>
+      <li><a href="#result">Result</a>
+        <ul>
+          <li><a href="#gameplay-video">Gameplay video</a></li>
+          <li><a href="#screenshots">Screenshots</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#press-release">Press release</a></li>
+  <li><a href="#the-steam-page">The Steam page</a></li>
+  <li><a href="#social-media-presence">Social media presence</a></li>
+  <li><a href="#pitch-deck">Pitch deck</a></li>
+  <li><a href="#trailer">Trailer</a></li>
+  <li><a href="#bibliography">Bibliography</a></li>
+</ul>
+
+<h1 id="a-night-at-locke-manor">A Night At Locke Manor</h1>
+
+<p>2021-12-17</p>
+
+<h2 id="team-approach">Team approach</h2>
+
+<p><strong>A Night At Locke Manor</strong> is the title of the game we made for the <a href="/tags#igd740">IGD740</a> assignment. As the course was focused on the business side of gamedev, I took the prototyping mindset to developing the product, with a view to deliver something which can be used as part of a pitch to convince funders to give us money to turn the idea into a game.</p>
+
+<p>As such, the game didn’t need to be a full game, but could rather get away with being elaborate smoke &amp; mirrors <a class="citation" href="#unity_best_2018">(Unity 2018)</a>.</p>
+
+<p>For this reason, I didn’t immediately reach for <a href="https://godotengine.org/">my game engine of choice</a>, but rather made a mod using an existing engine which already specialises in the <em>escape room</em> experience, called Escape Simulator by Pine Studio 
+ <a class="citation" href="#pine_studio_escape_2021">(2021)</a>.</p>
+
+<p>At the beginning of the module, I floated the idea with Maciej that I should make a <em>gameplay prototype</em> and that he should make an <em>art prototype</em> <a class="citation" href="#macklin_games_2016">(Macklin and Sharp 2016: 184-199)</a>, because that would decouple us more and allow us to each flex their strongest skills (mine, development and design; his, art and visual design) without being blocked by other members of the team at any point (Shell’s prototyping tip #5: parallelise prototypes productively <a class="citation" href="#schell_art_2019">(2019: 110)</a>).</p>
+
+<p>It would also demarcate each prototype to answer its own questions (Shell’s prototyping tip #1: answer a question <a class="citation" href="#schell_art_2019">(2019: 109)</a>): does my prototype prove that the gameplay works? And does Maciej’s prototype prove that the art style works?</p>
+
+<h2 id="what-i-delivered">What I delivered</h2>
+
+<p><em>Note that the below documents are just copies of said documents at the time of writing this post. The submission via the uni portal would include all the latest copies.</em></p>
+
+<ul>
+  <li><a href="/assets/games/a_night_at_locke_manor/pitch-deck-v1.pdf">v1 of our pitch deck</a> including all text and placeholder art</li>
+  <li><a href="/assets/games/a_night_at_locke_manor/pitch-deck-v2.pdf">v2 of our pitch deck</a> including including some extra sections, this time with art by Maciej</li>
+  <li><a href="TODO">v1 of the concept video for the game</a></li>
+  <li><a href="https://youtu.be/fOYsRSwqDmc">v1 of the trailer</a></li>
+  <li><a href="/assets/posts/2021-11-26-week-10--creating-a-store-presence/A_Night_At_Locke_Manor_on_Steam.png">v1 of the game’s Steam page</a> which included my gameplay prototype’s art, and placeholder art for the capsule image (<a href="/assets/games/a_night_at_locke_manor/steam-page-v1.png">snapshot 2021-12-13</a>) (I had to remove the link to the static site for the fake Steam page, because Google got their pants in a twist and reported me as being deceptive 🤷)</li>
+  <li>a social media presence, which only includes a <a href="https://twitter.com/untitled__team">Twitter account</a> with tweets showing my own art, and a custom designed team avatar, which is a mash-up of our faces (<a href="/assets/games/a_night_at_locke_manor/social-media-v1.png">snapshot 2021-12-13</a>)</li>
+  <li><a href="/assets/games/a_night_at_locke_manor/press-release.pdf">press release</a></li>
+  <li><a href="https://juanuys.com/fake-presskit/">v1 of studio press kit</a> (<a href="/assets/games/a_night_at_locke_manor/presskit-studio-v1.png">snapshot 2021-12-13</a>)</li>
+  <li><a href="https://juanuys.com/fake-presskit/a_night_at_locke_manor">v1 of game press kit</a> using art from my gameplay prototype, and placeholder art for everything else (<a href="/assets/games/a_night_at_locke_manor/presskit-game-v1.png">snapshot 2021-12-13</a>)</li>
+  <li><a href="https://youtu.be/Q5HKB460E_M">v1 of the 3-5 minute video</a></li>
+</ul>
+
+<p>The reason our social media presence only includes Twitter, and not the myriad of other offerings (like Youtube, TikTok, etc), is because I’m on Twitter, and it’s the channel I feel most comfortable using. Also, as solo gamedevs or small studios, we’ll be quickly overwhelmed by community management and marketing tasks, which will leave no time for actually making games <a class="citation" href="#jonas_tyroller_how_2019">(Jonas Tyroller 2019: 11:37)</a>.</p>
+
+<p>For the press kits, everyone kept recommending Rami Ismail’s <strong>presskit()</strong> to me <a class="citation" href="#ismail_presskit_nodate">(Ismail n.d.)</a>. It is a PHP file, however, and I don’t host a PHP site. I ended up making a tool called <strong>presskittie()</strong> that allows you to generate a static version of the press kit locally, and then optionally deploy it to Github pages <a class="citation" href="#uys_presskittie_2021">(Uys 2021)</a>. With Rami’s blessing, I shared the tool with my cohort, and more widely:</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Need a press kit for your <a href="https://twitter.com/hashtag/indiegame?src=hash&amp;ref_src=twsrc%5Etfw">#indiegame</a> but don&#39;t have a PHP website?<br /><br />I wrapped <a href="https://twitter.com/tha_rami?ref_src=twsrc%5Etfw">@tha_rami</a>&#39;s presskit() up in some fur over here<a href="https://t.co/MNOl3zT2eg">https://t.co/MNOl3zT2eg</a></p>&mdash; Juan Uys (@opyate) <a href="https://twitter.com/opyate/status/1469337927369076755?ref_src=twsrc%5Etfw">December 10, 2021</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h1 id="the-game">The game</h1>
+
+<h2 id="research">Research</h2>
+
+<p>Firstly, I wanted to know about all the different puzzle types one could conceivably implement in a video game. From my own experience with games, I first came up with my own list:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- memory games, matching puzzles
+- number puzzles, equations, ciphers, dates
+- Logic: matching symbols, items looking out of place, repeated themes, combination puzzles
+- Text puzzles: crossword, missing letters, riddles, dates
+- Spatial puzzles: combining items to form new items, perspective puzzles, keys
+- Light + colour puzzles: switch lights off and on, combine colours, cast shadows, UV paint or blood, differently coloured panes of glass
+- Sound: clues in lyrics, clues in ambient noise, playing chimes in order, dial tones
+- Hidden objects: hollowed-out books, drawers, inside anything
+- Visual: clues in paintings and pictures, things looking out-of-place, jigsaws, perspective
+- Electricity: circuits, buzzers, magnets
+- Codes: ciphers, Morse code, musical scales, number theory
+- Physics: fire + ice, weights, heat, cracking/shattering glass
+</code></pre></div></div>
+
+<p>Then my search expanded, and I found a a bunch of useful resources, for example:</p>
+
+<ul>
+  <li>a <a href="https://discord.gg/awuHNeNh">Discord server</a> which specialises in everything related to escape rooms</li>
+  <li>a <a href="https://docs.google.com/document/d/1lwSTxIews8azOqzHEy0vyoSrX7orx55pRImXWuBVkjU/edit">collection of topics</a> specifically related to escape rooms, maintained by Brett Kuehner <a class="citation" href="#kuehner_escape_nodate">(n.d.)</a></li>
+  <li><a href="https://thecodex.ca/">the website</a> of one of the seemingly most vocal escape room designers, Errol Elumir <a class="citation" href="#elumir_codex_nodate">(n.d.)</a></li>
+</ul>
+
+<p>I spent the next few days/weeks immersing myself in the above resources.</p>
+
+<p>Secondly, I set myself a goal to achieve with the game prototype, which was to make the game so intuitive, that the players will know exactly what they need to do just by playing the game, and have a clear mental model from the get-go <a class="citation" href="#macklin_games_2016">(Macklin and Sharp 2016: 93-95)</a>.</p>
+
+<h2 id="design">Design</h2>
+
+<p>Before building anything, like implementing the level, placing all the objects (locks, keys, etc), and linking them (i.e. which cards activate which slots), I designed the puzzle using Miro <a class="citation" href="#noauthor_miro_nodate">(“Miro \Textbar Online Whiteboard for Visual Collaboration” n.d.)</a>. This gave me a good overview of how many keys (or Tarot cards) I would need, and how long it would take me to implement the level.</p>
+
+<p>In general, I find going straight to pen &amp; paper, or a tool like Miro, invaluable to structuring my thoughts before blocking anything out in a game engine. I was inspired by this “off-line” process years ago (back in 2007) when I learnt of the film <em>Shoot ‘Em Up</em>, in which writer and director <a href="https://twitter.com/opyate/status/1471968415900446720">Michael Davis</a> sketched out entire animatics of the film and pitching the film as sketches via iMovie <a class="citation" href="#davis_writers_2015">(Davis 2015)</a>.</p>
+
+<p>At first, I designed a more elaborate puzzle, which you first have to find a key hidden in a book, and then that key unlocks a box containing a subset of the Tarot cards (see screenshot underneath). However, I simplified the design to just be a handful of cards scattered about the room, and 8 of those cards fit in one lock, which reveals the final key.</p>
+
+<p><img src="/assets/games/a_night_at_locke_manor/miro-puzzle-design.png" alt="Puzzle design in Miro" /></p>
+
+<p>I tied the Tarot cards to individual notes in the world, to be found by the player, and the <a href="/assets/games/a_night_at_locke_manor/puzzles.pdf">writing for the notes</a> was to serve as clues for the player so they know <em>which</em> Tarots to use, and <em>in which order</em> to place the Tarots.</p>
+
+<h2 id="implementation">Implementation</h2>
+
+<p>Apart from building a level in Escape Simulator, I did some light modding by retexturing some of the objects. Some of the textures can be seen here:</p>
+
+<p><img src="/assets/games/a_night_at_locke_manor/textures.png" alt="Some of the textures used for the game" /></p>
+
+<p>The modding engine had some limitations, in that you couldn’t have custom sound, lights, or objects. (All these are planned features, though.)</p>
+
+<p>I couldn’t quite create the ambience I wanted to, but this was fine, as I only wanted to validate the gameplay.</p>
+
+<p>To help me reach my goal of making the game intuitive just by playing it, I employed some family and friends as playtesters. After a couple of playtesting sessions, I think I reached a point where the start of the game is quite clear about what’s happening, and what you’re supposed to do. In fact, the game starts with you facing the door head-on, with a note stuck to the door explicitly telling you that this is the way out, and that the key is in the box to your side.</p>
+
+<p>I then go on to show one of the Tarot cards already slotted into the device. The card is interactive, and you can pick it up.</p>
+
+<h2 id="result">Result</h2>
+
+<h3 id="gameplay-video">Gameplay video</h3>
+
+<p>I <a href="/assets/games/a_night_at_locke_manor/gameplay-video.pdf">scripted</a> and recorded the first 3 minutes of our gameplay video, which is available here:</p>
+
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/Q5HKB460E_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h3 id="screenshots">Screenshots</h3>
+
+<p><img src="/assets/games/a_night_at_locke_manor/screenshot-1.png" alt="Screenshot 1" /></p>
+
+<p><img src="/assets/games/a_night_at_locke_manor/screenshot-2.png" alt="Screenshot 2" /></p>
+
+<p><img src="/assets/games/a_night_at_locke_manor/screenshot-3.png" alt="Screenshot 3" /></p>
+
+<p><img src="/assets/games/a_night_at_locke_manor/screenshot-4.png" alt="Screenshot 4" /></p>
+
+<p><img src="/assets/games/a_night_at_locke_manor/screenshot-5.png" alt="Screenshot 5" /></p>
+
+<p><img src="/assets/games/a_night_at_locke_manor/screenshot-6.png" alt="Screenshot 6" /></p>
+
+<p><img src="/assets/games/a_night_at_locke_manor/screenshot-7.png" alt="Screenshot 7" /></p>
+
+<h1 id="press-release">Press release</h1>
+
+<p>For the press release, I tried to find the most recent best practices about wording and layout online. I mixed and matched pointers from Aaron Marsden <a class="citation" href="#marsden_last_2018">(2018)</a> and Alexis Santos <a class="citation" href="#santos_guide_2018">(2018)</a>, but in the end made sure that I communicated all the most important information:</p>
+
+<ul>
+  <li>title</li>
+  <li>price</li>
+  <li>availability</li>
+  <li>logline or summary</li>
+  <li>what the game is about</li>
+  <li>links to press kits</li>
+  <li>contact details</li>
+  <li>call to action</li>
+</ul>
+
+<p>I didn’t include too much studio information, as this press release is about the game, and the studio information can already <a href="https://juanuys.com/fake-presskit/">be found online</a>, with the link shared in the press release.</p>
+
+<p>The press release isn’t addressed at any particular journalist, but any press outreach would be more personal, as this press release is really just informational.</p>
+
+<h1 id="the-steam-page">The Steam page</h1>
+
+<p>For the <a href="https://juanuys.com/fake-steam-page/">Steam page</a>, I took all my pointers from Chris Zukowski’s free course on how to make a Steam page <a class="citation" href="#zukowski_how_nodate">(n.d.)</a>. These include:</p>
+
+<ul>
+  <li>using verbs in the short description, as potential players want to know <em>what</em> they’ll be doing in the game, and don’t care about any lore yet at this point</li>
+  <li>using the long description area (called “About this game”) to show more animated GIFs of the game, as no-one will read long textual descriptions of the game. (An established narrative-rich franchise might write more words here.)</li>
+  <li>having one trailer which gets straight into the action. Chris references the trailer-master <a href="https://www.derek-lieu.com/">Derek Lieu</a> quite heavily here, whom I’ll talk about separately. The value that Chris adds here is that he ran some experiments and saw that potential players skip through trailers until they see gameplay, as they want to quickly verify if it’s a game for them, and something they might like playing.</li>
+  <li>choosing the right tags, so that Steam matches you with the top-selling games that inspired you. This way, if someone is searching for the known game, chances are you’ll be shown in the same search result for that game. (Please note that I made a mock-up of a Steam page, so couldn’t play around with tags until I got a desired result.)</li>
+  <li>showing varied screenshots. You want to show different scenes and UI so the player knows your game has depth and content.</li>
+</ul>
+
+<h1 id="social-media-presence">Social media presence</h1>
+
+<p>Wlad Marhulets recommends you choose a social media channel that you’re on already, that you’re comfortable using, and where you know the tone of voice <a class="citation" href="#marhulets_gamedev_2020">(2020)</a>. The last thing you must do is take the same message, and post it on every social media channel. Your message will come over as flat in most places, and you’ll just end up getting ignored.</p>
+
+<p>As an indie, I don’t have much time, so will be foregoing all the channels which require too much work, like video creation. That includes Youtube, TikTok, etc.</p>
+
+<p>As <a href="https://twitter.com/opyate">I’m already on Twitter</a>, I decided to create a presence there: <a href="https://twitter.com/untitled__team">https://twitter.com/untitled__team</a></p>
+
+<p>Please follow that account to see all the tweets, as they are currently protected. The snapshot I shared at the start of this post won’t show any animated GIFs.</p>
+
+<p>To be effective on Twitter, you need to share animated GIFs and the odd video. We upload videos natively to Twitter, instead of sharing a Youtube link, as Twitter would auto-play native videos.</p>
+
+<p>Conversely, for future games, I will definitely experiment with other channels, as I discovered quite recently that Twitter consistently doesn’t work for a lot of studios, and that it’s mostly an echo chamber of gamedevs <a class="citation" href="#zukowski_what_2021">(Zukowski 2021)</a>.</p>
+
+<h1 id="pitch-deck">Pitch deck</h1>
+
+<p>We went <a href="/blog/2021/07/06/week-6-practice-pitch-week.html">in-depth on pitching in the previous module</a>, so I won’t re-iterate my learnings and research here. Please see that blog post for more information and the relevant citations.</p>
+
+<h1 id="trailer">Trailer</h1>
+
+<p>Most resources on making game trailers point to Derek Lieu’’s website <a class="citation" href="#lieu_how_nodate">(n.d.)</a>. Some of the pointers include:</p>
+
+<ul>
+  <li>get straight to the action, and don’t bore potential players with logos, especially if you’re unknown (no-one cares about your studio logo)</li>
+  <li>remove UI (I couldn’t do this, as I was using an inflexible modding engine)</li>
+  <li>pay attention to pacing. Show a blast of action in the first few seconds, then cool it down, then rise again towards the end, then stop before anything is revealed (to tease), then perhaps show something funny at the end as a reward. (I couldn’t show a blast of action, as it’s not an action game, but I did attempt a little crescendo, in which you can hear the protagonist ask where they are, then looking around corners, to drive the tension up, with some tense music and the Hollywood trope of making the screen go black and hearing heart-beat sounds. I also didn’t show anything funny at the end, as it didn’t feel appropriate.)</li>
+  <li>show verbs, and show what the player will be doing. I show the protagonist picking up objects, inspecting items, etc</li>
+  <li>let the actions happen in sync with the music’s rhythm</li>
+</ul>
+
+<p>There are many more guidelines and some “rules”, but in the end, these are meant to be broken, and you’re meant to be creative, otherwise all trailers would feel the same.</p>
+
+<p>I made the trailer and gameplay video using a free one-week trial of Adobe Premiere, as the Mac and iMovie I usually use is getting very old and slow. I initially tried Blender’s video editing capabilities, but <a href="https://blender.stackexchange.com/a/190769/137178">Blender’s engine is quite old and doesn’t benefit from GPU-powered hardware acceleration</a> like the more modern offerings.</p>
+
+<h1 id="bibliography">Bibliography</h1>
+
+<ol class="bibliography"><li><span id="noauthor_miro_nodate">“Miro \Textbar Online Whiteboard for Visual Collaboration.” n.d. Available at: https://miro.com/ [accessed 13 Dec 2021].</span></li>
+<li><span id="davis_writers_2015">DAVIS, Michael. 2015. “WRITERS ON WRITING: Michael Davis on Shoot ‘Em Up.” <i>Script Magazine</i>. Available at: https://scriptmag.com/features/writers-writing-shoot-em-up [accessed 17 Dec 2021].</span></li>
+<li><span id="elumir_codex_nodate">ELUMIR, Errol. n.d. “The Codex.” <i>the Codex</i>. Available at: https://thecodex.ca/ [accessed 13 Dec 2021].</span></li>
+<li><span id="ismail_presskit_nodate">ISMAIL, Rami. n.d. “Presskit() - Spend Time Making Games, Not Press.” Available at: https://dopresskit.com/ [accessed 13 Dec 2021].</span></li>
+<li><span id="kuehner_escape_nodate">KUEHNER, Brett. n.d. “Escape Room Design Links.” <i>Google Docs</i>. Available at: https://docs.google.com/document/d/1lwSTxIews8azOqzHEy0vyoSrX7orx55pRImXWuBVkjU/edit?disco=AAAARqSOxKI&amp;usp=gmail_thread&amp;ts=618fdaed&amp;usp=embed_facebook [accessed 13 Dec 2021].</span></li>
+<li><span id="lieu_how_nodate">LIEU, Derek. n.d. “How to Make a Trailer — Derek Lieu Creative - Game Trailer Editor.” <i>Derek Lieu Creative</i>. Available at: https://www.derek-lieu.com/start-here [accessed 20 Dec 2021].</span></li>
+<li><span id="macklin_games_2016">MACKLIN, Colleen and John SHARP. 2016. <i>Games, Design and Play: a Detailed Approach to Iterative Game Design</i>. First edition. Boston, MA ; San Francisco, CA: Addison-Wesley.</span></li>
+<li><span id="marhulets_gamedev_2020">MARHULETS, Wlad. 2020. <i>Gamedev: 10 Steps to Making Your First Game Successful</i>. 1st ed. Unfold Publishing.</span></li>
+<li><span id="marsden_last_2018">MARSDEN, Aaron. 2018. “The Last ‘How To Write A Game Dev Press Release’ Post You’Ll Ever Need.” <i>Powerspike</i>. Available at: https://medium.com/powerspike/the-last-how-to-write-a-game-dev-press-release-post-youll-ever-need-796aab9d7848 [accessed 20 Dec 2021].</span></li>
+<li><span id="santos_guide_2018">SANTOS, Alexis. 2018. “A Guide to Launching Indie Games, Part Three: Getting Press.” <i>binPress</i>. Available at: https://www.binpress.com/guide-launching-indie-games-3/ [accessed 20 Dec 2021].</span></li>
+<li><span id="schell_art_2019">SCHELL, Jesse. 2019. <i>The Art of Game Design: a Book of Lenses</i>. Third edition. Boca Raton: Taylor &amp; Francis, a CRC title, part of the Taylor &amp; Francis imprint, a member of the Taylor &amp; Francis Group, the academic division of T&amp;F Informa, plc.</span></li>
+<li><span id="pine_studio_escape_2021">STUDIO, Pine. 2021. “Escape Simulator.” <i>Escape Simulator</i>. Available at: https://escapesimulator.com [accessed 13 Dec 2021].</span></li>
+<li><span id="uys_presskittie_2021">UYS, Juan. 2021. “Presskittie().” Available at: https://github.com/juanuys/presskittie [accessed 13 Dec 2021].</span></li>
+<li><span id="zukowski_how_nodate">ZUKOWSKI, Chris. n.d. “How To Make A Steam Page.” Available at: https://www.progamemarketing.com/p/howtomakeasteampage [accessed 3 Dec 2021].</span></li>
+<li><span id="zukowski_what_2021">ZUKOWSKI, Chris. 2021. “What Worked in 2021? A Summary of Game Dev Postmortems – How To Market A Game.” Available at: https://howtomarketagame.com/2021/12/27/what-worked-in-2021/ [accessed 28 Dec 2021].</span></li>
+<li><span id="jonas_tyroller_how_2019">JONAS TYROLLER. 2019. “How to Market Your Indie Game!” Available at: https://www.youtube.com/watch?v=UwjbLFImXOg [accessed 13 Dec 2021].</span></li>
+<li><span id="unity_best_2018">UNITY. 2018. “Best Practices for Fast Game Design in Unity - Unite LA.” Available at: https://www.youtube.com/watch?v=NU29QKag8a0 [accessed 6 Feb 2021].</span></li></ol>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>
