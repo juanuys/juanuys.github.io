@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /made/
+permalink: /thanks/
 ---
 <div class="boxes">
 

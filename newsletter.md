@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /made/
+permalink: /newsletter/
 ---
 <div class="boxes">
 
