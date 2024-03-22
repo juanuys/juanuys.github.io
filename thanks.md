@@ -2,20 +2,22 @@
 layout: home
 permalink: /thanks/
 ---
+
+
+🙏 Thanks! 🙏
+
+
 <div class="boxes">
 
 <div class="box box2">
 
-welcome, curious soul
+<p>wee worded whimsies</p>
 
-adventure in words awaits
+<p>soon to grace your inbox, friend</p>
 
-together, we grow
+<p>or your spam folder 😭</p>
 
 </div>
-
-🙏 Thanks! 🙏
-
 
 {% for i in (1..30) %}
 

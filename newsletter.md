@@ -2,17 +2,6 @@
 layout: home
 permalink: /newsletter/
 ---
-<div class="boxes">
-
-<div class="box box2">
-
-letters unfold truths
-
-whimsy amidst vast insights
-
-minds bloom, stars align
-
-</div>
 
 If the [feed](/feed.xml) doesn't tickle your fancy (or you just don't use RSS readers), feel free to subscribe to my newsletter. I'll send you an email whenever I post something new. No spam, I promise.
 
@@ -20,9 +9,9 @@ If the [feed](/feed.xml) doesn't tickle your fancy (or you just don't use RSS re
 <h2>Signup Form</h2>
 <form id="signupForm">
     <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name" required><br>
+    <input type="text" id="name" name="name" required placeholder="Name Surname"><br>
     <label for="email">Email:</label><br>
-    <input type="email" id="email" name="email" required><br><br>
+    <input type="email" id="email" name="email" required placeholder="Email address"><br><br>
     <input type="submit" value="Submit">
 </form>
 
@@ -46,6 +35,20 @@ If the [feed](/feed.xml) doesn't tickle your fancy (or you just don't use RSS re
     });
 </script>
 
+
+<div class="boxes">
+
+<div class="box box2">
+
+
+<p>stream of consciousness</p>
+
+<p>much the same as you see here</p>
+
+<p>but now your inbox</p>
+
+
+</div>
 
 {% for i in (1..30) %}
 
