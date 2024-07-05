@@ -10,6 +10,8 @@ thumb: /assets/posts/2023-03-07-thoughts-on-ai-and-games/thumb.png
 
 *Tl;DR: AI is just a tool, and as a creative, you need to identify what these tools are, and start paying attention to them.*
 
+*Update 2024-07-05: Andrew Huang [says everything I didn't have the words for](https://youtu.be/FHOAeFkoVLw) when I wrote this.*
+
 *Update 2023-11-24: Jonas Tyroller also has a [sober view](https://youtu.be/qOArU7hpHtw?si=w2IE6DhkM3pKxHqk) on all of this.*
 
 *Update 2023-03-10: don't read my ramblings below; just watch [this](https://youtu.be/rswxcDyotXA)*
