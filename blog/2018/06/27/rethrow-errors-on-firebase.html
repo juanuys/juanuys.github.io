@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/firebase" class="tag">firebase</a><a href="/tag/nodejs" class="tag">nodejs</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Re-throw errors on Firebase</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: firebase" href="/tags#firebase">firebase</a></li>
+          
+            
+          
+          
+            <li><a title="tag: nodejs" href="/tags#nodejs">nodejs</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2018-06-27">
+        2018-06-27
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p><em>TL;DR</em> jump to the <a href="#conclusion">conclusion</a>.</p>
+
+<p>Behold 3 Firebase triggers.</p>
+
+<p>The main differences are:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">deletemeSwallow</code> does not re-throw the error in the <code class="language-plaintext highlighter-rouge">catch</code> block, i.e. it “swallows” the error</li>
+  <li><code class="language-plaintext highlighter-rouge">deletemeRethrow</code> re-throws the error in the <code class="language-plaintext highlighter-rouge">catch</code> block</li>
+  <li><code class="language-plaintext highlighter-rouge">deletemeNoCatch</code> has no catch block, so any errors will propagate up the call-stack naturally</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>exports.deletemeSwallow = functions.pubsub.topic('deleteme').onPublish((payload) =&gt; {
+  return new Promise(resolve =&gt; {
+    console.log('I am deletemeSwallow')
+    if (Buffer.from(payload.data, 'base64').toString() === 'fail') {
+      throw new Error('You want me to fail')
+    }
+    resolve(payload)
+  }).then(payload =&gt; {
+    return console.log('superfluous then block', payload)
+  }).catch(err =&gt; {
+    console.error('I am just going to swallow the error', err)
+    // throw err   &lt;-- Gulp!
+  })
+})
+
+exports.deletemeRethrow = functions.pubsub.topic('deleteme').onPublish((payload) =&gt; {
+  return new Promise(resolve =&gt; {
+    console.log('I am deletemeRethrow')
+    if (Buffer.from(payload.data, 'base64').toString() === 'fail') {
+      throw new Error('You want me to fail')
+    }
+    resolve(payload)
+  }).then(payload =&gt; {
+    return console.log('superfluous then block', payload)
+  }).catch(err =&gt; {
+    console.error('I am going to rethrow the error', err)
+    throw err
+  })
+})
+
+exports.deletemeNoCatch = functions.pubsub.topic('deleteme').onPublish((payload) =&gt; {
+  return new Promise(resolve =&gt; {
+    console.log('I am deletemeNoCatch')
+    if (Buffer.from(payload.data, 'base64').toString() === 'fail') {
+      throw new Error('You want me to fail')
+    }
+    resolve(payload)
+  }).then(payload =&gt; {
+    return console.log('superfluous then block', payload)
+  })
+})
+</code></pre></div></div>
+
+<h1 id="happy-path">Happy path</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gcloud pubsub topics publish deleteme --message "as you were, soldier"
+</code></pre></div></div>
+
+<p>Given a happy path, this is what we see in the logs - all functions exit with <code class="language-plaintext highlighter-rouge">'OK'</code>.</p>
+
+<p><a href="/assets/posts/2018-06-27-rethrow-errors-on-firebase/success.png"><img src="/assets/posts/2018-06-27-rethrow-errors-on-firebase/success.png" alt="success" /></a></p>
+
+<h1 id="forced-failure">Forced failure</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gcloud pubsub topics publish deleteme --message "fail"
+</code></pre></div></div>
+
+<p>Given a forced failure, this is what we see in the logs:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">deletemeNocatch</code> exited with <code class="language-plaintext highlighter-rouge">'error'</code>, which is correct considering the error propagated up the call-stack unhindered</li>
+  <li><code class="language-plaintext highlighter-rouge">deletemeRethrow</code> exited with <code class="language-plaintext highlighter-rouge">'error'</code>, which is correct considering the error was re-thrown as we’re not recovering from it in the <code class="language-plaintext highlighter-rouge">catch</code> block</li>
+  <li><code class="language-plaintext highlighter-rouge">deletemeSwallow</code> <strong>incorrectly exited with</strong> <code class="language-plaintext highlighter-rouge">'OK'</code> because clearly the <code class="language-plaintext highlighter-rouge">catch</code> block does not recover from the error - it just <em>swallows</em> the error.</li>
+</ul>
+
+<p><a href="/assets/posts/2018-06-27-rethrow-errors-on-firebase/failure.png"><img src="/assets/posts/2018-06-27-rethrow-errors-on-firebase/failure.png" alt="forced failure" /></a></p>
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>If an error happens in your Firebase trigger business logic, and you <code class="language-plaintext highlighter-rouge">catch</code> at any point in your Promise chain, you must either recover from the error, or re-throw the error so that Firebase can exit with the error status.</p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2018/03/16/on-startups-side-projects-and-hacks.html">&laquo; On Startups, side projects, and hacks.</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2019/04/05/a-code-doodle.html">A code doodle. &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

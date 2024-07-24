@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/nn" class="tag">nn</a><a href="/tag/coursera" class="tag">coursera</a><a href="/tag/deeplearning" class="tag">deeplearning</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Week 4 of Neural Networks and Deep Learning</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: nn" href="/tags#nn">nn</a></li>
+          
+            
+          
+          
+            <li><a title="tag: coursera" href="/tags#coursera">coursera</a></li>
+          
+            
+          
+          
+            <li><a title="tag: deeplearning" href="/tags#deeplearning">deeplearning</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2017-11-24">
+        2017-11-24
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><h1 id="deep-neural-network">Deep Neural Network</h1>
+
+<h2 id="deep-l-layer-neural-network">Deep L-layer neural network</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/7dP6E/deep-l-layer-neural-network">Video #1</a> says that a deep neural network has 1+ hidden layers. The more layers, the deeper. Deep nets can solve problems that shallow nets just can’t. It recaps some notation from the previous week.</p>
+
+<h2 id="forward-propagation-in-a-deep-neural-network">Forward propagation in a deep neural network</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/MijzH/forward-propagation-in-a-deep-network">Video #2</a> shows what forward prop looks like in a deep net. Ng notes that a foor-loop would be necessary when applying <strong>Z = WA + b</strong> for each layer, so vectorisation can’t be applied here.</p>
+
+<p><img src="/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/deep-net-forward-prop.png" alt="deep net forward prop" /></p>
+
+<h2 id="getting-your-matrix-dimensions-right">Getting your matrix dimensions right</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/Rz47X/getting-your-matrix-dimensions-right">Video #3</a> says a nice way to ensure your model is bug-free is asserting the matrix dimensions are correct through-out.</p>
+
+<p>For a hidden layer of weights, the dimension would be <strong>Wl = (nl , nl-1)</strong>
+A hidden layer bias vector would be <strong>bl = (nl, 1)</strong>
+The derivatives of <em>w</em> and <em>b</em> would have the same dimensions.</p>
+
+<p>For <strong>Z = WX + b</strong>  we have: <code class="language-plaintext highlighter-rouge">(n1, 1) = (n1, n0) . (n0, 1) + (n1, 1)</code></p>
+
+<p><img src="/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/dimensions.png" alt="dimensions" /></p>
+
+<p>And vectorised:</p>
+
+<p>For <strong>Z = WX + b</strong>  we have: <code class="language-plaintext highlighter-rouge">(n1, m) = (n1, n0) . (n0, m) + (n1, 1)</code> and then the <em>b</em> vector becomes <code class="language-plaintext highlighter-rouge">(n1,m)</code> thanks to Python broadcasting.</p>
+
+<p><img src="/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/vectorised-dimensions.png" alt="vectorised dimensions" /></p>
+
+<h2 id="why-deep-representations">Why deep representations?</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/rz9xJ/why-deep-representations">Video #4</a> provides some intuition as to why deep nets are better than shallow nets for some problems.</p>
+
+<p>Going from left to right through the hidden layers, the left layer would detect small features like vertical or horizontal lines. The next layer might combine these lines and use them as building blocks for detecting larger features, like an eye or a nose. The next layer goes further by combining eyes and noses into faces.</p>
+
+<p>(as an aside, this is where Capsule Networks make networks better in the sense that an eye a nose in a certain configuration can vote about what the surrounding face is, whereas currently a neural net would still classify a face as a face if you swap a face’s nose and mouth, for instance.)</p>
+
+<p><img src="/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/building-blocks.png" alt="building blocks" /></p>
+
+<p>Ng also mentions a result from circuit theory, but he doesn’t find the result very useful for intuiting about the usefulness of deep VS shallow nets, so I won’t note it here.</p>
+
+<h2 id="building-blocks-of-deep-neural-networks">Building blocks of deep neural networks</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/uGCun/building-blocks-of-deep-neural-networks">Video #5</a> shows the building blocks, which is basically the single layer stuff from the previous week, but extrapolated out over l1, l2, …, ln.</p>
+
+<p><img src="/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/forward-and-backward-functions.png" alt="forward and backward functions" /></p>
+
+<h2 id="forward-and-backward-propagation">Forward and backward propagation</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/znwiG/forward-and-backward-propagation">Video #6</a> discusses implementing the steps from the previous videos.</p>
+
+<p>Again, it’s the formulas from the previous week, but extrapolated over layers l1, l2, …, ln. (the un-avoidable for-loop)</p>
+
+<h3 id="forward">Forward</h3>
+
+<p><img src="/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/forward.png" alt="forward" /></p>
+
+<h3 id="backward">Backward</h3>
+
+<p><img src="/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/backward.png" alt="backward" /></p>
+
+<h3 id="summary">Summary</h3>
+
+<p>As <em>X</em> is the input for forward, what is the input for backward? This would be the derivative of the loss, <code class="language-plaintext highlighter-rouge">L(yhat, y)</code>, which can be shown to be <code class="language-plaintext highlighter-rouge">dal = -y/a + (1-y)/(1-a)</code> but for the vectorised version <code class="language-plaintext highlighter-rouge">dAl</code>.</p>
+
+<p><img src="/assets/posts/2017-11-24-week-4-of-neural-networks-and-deep-learning/combined.png" alt="combined" /></p>
+
+<h2 id="parameters-vs-hyperparameters">Parameters VS Hyperparameters</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/TBvb5/parameters-vs-hyperparameters">Video #7</a> says that parameters are <em>W</em> and <em>b</em>. Hyperparameters are learning rate, iterations, number of hiden layers, number of hidden units per layer. choice of activation function, etc.</p>
+
+<p>Later: momentum term, minibatch size, regularisation parameters, etc.</p>
+
+<p>Applied deep learning is a very empirical process.</p>
+
+<p>It’s difficult to know the best configuration in advance, so iterate a lot. You can build a sense of hyperparameters across applications.</p>
+
+<p>Also, what works today might not apply to tomorrow. E.g. GPUs change, inputs change.</p>
+
+<p>Active area of research.</p>
+
+<h2 id="what-does-this-have-to-do-with-the-brain">What does this have to do with the brain?</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/obJnR/what-does-this-have-to-do-with-the-brain">Video #8</a> says the answer is “not a whole lot”. Shows an analogy between a single logistical unit and a biological neuron.</p>
+
+<h1 id="things-to-look-forward-to">Things to look forward to</h1>
+
+<p>In the <a href="https://www.coursera.org/learn/deep-neural-network">next course</a></p>
+
+<ul>
+  <li>Tuning hyper-parameters, and iterating models</li>
+  <li>Regularisation</li>
+  <li>Early stopping, and optimisation</li>
+</ul>
+
+<p>During the exams, when training models some models had worse results when too many iterations were used. Lower iterations gives better accuracy on the test set. This is called “early stopping”. Early stopping is a way to prevent overfitting.</p>
+
+<p>And… we’ll be learning <a href="https://www.tensorflow.org/">Tensorflow</a>.
+Being a dual-Clojure/Python dev, I’ve actually spent most of my time with <a href="https://github.com/thinktopic/cortex">Cortex</a>, so I’m excited to expand my toolbox.</p>
+
+<p>References in exam:</p>
+
+<p>http://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython</p>
+
+<p>And that <a href="https://coursera.org/verify/BBJ5HZJJ7QZS">wraps up</a> the first course.</p>
+
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2017/11/23/week-3-of-neural-networks-and-deep-learning.html">&laquo; Week 3 of Neural Networks and Deep Learning</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2017/11/25/my-deep-reinforcement-learning-hardware-one-year-on.html">My deep reinforcement learning hardware, one year on &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

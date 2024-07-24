@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Read Receipts for the rest of us</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2012-01-25">
+        2012-01-25
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>Or, more correctly: Read Receipts for geeks who use <a href="http://www.iterm2.com/">iTerm</a> and/or <a href="http://growl.info/">Growl</a>.</p>
+
+<h1 id="read-receipt">Read receipt</h1>
+
+<p>So, the Interwebs is down, or the proxy is packing up, or you can’t log in to server X, or <insert generic="" technical="" issue="" here="">. You fire off an email to the sysadmins explaining the problem, and now you’re waiting for a reply.</insert></p>
+
+<p>It just so happens that I had a bit of technical trouble today, and fired off an email to someone who can help. I love metrics, and in this case I wanted to know exactly when the sysadmin is looking at my cry for help so I can actually pop over to their side of the office and badger them to fix it (nah, I’m not really like that ;-)</p>
+
+<p>What you need is a Read Receipt notification which tells you that they read your email.</p>
+
+<h1 id="the-rest-of-us">The rest of us</h1>
+
+<p>If you’re in my situation, you:</p>
+
+<ul>
+  <li>don’t use MS products, hence no Read Receipts in your email client</li>
+  <li>even if your mail client does support Read Receipts, you haven’t switched it on, because it’s a faff</li>
+  <li>don’t work in an office where there’s a reliable ticketing system, so you don’t immediately know if your request is being actioned.</li>
+  <li>work with people who reject read receipt requests anyway</li>
+</ul>
+
+<h1 id="the-hack">The hack</h1>
+
+<p>Put a link in the email that they can click on. The trick is to get them to click on it, e.g.</p>
+
+<p><img width="381px" src="http://funkshional.files.wordpress.com/2012/01/email.png" alt="Links are made for clicking on" /></p>
+
+<p>Notice the link http://10.5.2.113:9999/</p>
+
+<p>We now have to make sure it points to something, and more importantly, make sure you get an alert if the link is clicked.</p>
+
+<h1 id="cats-to-the-rescue">Cats to the rescue</h1>
+
+<p>In this example, I’m using <a href="http://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html">cat</a>, <a href="http://en.wikipedia.org/wiki/Netcat">netcat</a> and a <a href="http://icanhascheezburger.com/">lolcat</a> (swap the lolcat out with a screenshot of your actual issue). I prepend the command with <a href="http://www.gnu.org/software/bash/manual/html_node/Pipelines.html">time</a> which causes timing statistics to be printed for the command once it finishes.</p>
+
+<p>Open a shell, and host the image with:</p>
+
+<p><a href="https://gist.github.com/opyate/6375611#catserver">https://gist.github.com/opyate/6375611#catserver</a></p>
+
+<p><strong>UPDATE</strong></p>
+
+<p>In retrospect, you can serve something up repeatedly by putting it in a <code class="language-plaintext highlighter-rouge">while (true)</code> loop:</p>
+
+<p><a href="https://gist.github.com/opyate/6375611#holding-page">https://gist.github.com/opyate/6375611#holding-page</a></p>
+
+<p><img width="381px" src="http://funkshional.files.wordpress.com/2012/01/start.png" alt="Serve the cat with cat and netcat" /></p>
+
+<p>Now, you’ve sent the email and hosted the image. In the meanwhile, you carry on with your other work.</p>
+
+<h1 id="what-the-sysadmin-sees">What The Sysadmin sees</h1>
+
+<p>The Sysadmin clicks on your link, et voila:</p>
+
+<p><img width="381px" src="http://funkshional.files.wordpress.com/2012/01/what-they-see.png" alt="My all-important screenshot of my technical issue" /></p>
+
+<h1 id="what-you-see">What you see</h1>
+
+<p>A Growl notification:</p>
+
+<p><img width="328px" src="http://funkshional.files.wordpress.com/2012/01/growl.png" alt="Your read receipt" /></p>
+
+<p>And, the iTerm tab in which you ran the cat command’s title will flare up. This is a feature of iTerm that can be disabled with <em>Preferences &gt; Appearance &gt; Color</em> tab labels on activity. Here’s what it looks like for me:</p>
+
+<p><img width="381px" src="http://funkshional.files.wordpress.com/2012/01/meanwhile.png" alt="Read receipt part II" /></p>
+
+<p>Click on the tab and see the proof that the image has been served. Even better, the time command will tell you how long it took for The Sysadmin to click on your link (one minute and three seconds, in my case):</p>
+
+<p><img width="381px" src="http://funkshional.files.wordpress.com/2012/01/end.png" alt="They took a minute to respond, shock horror!" /></p>
+
+<p>Now, run over there and start badgering.</p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2012/01/17/a-dream-and-a-lesson.html">&laquo; A dream and a lesson</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2012/02/24/be-careful-what-you-type.html">Be careful what you type when using a terminal emulator… &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

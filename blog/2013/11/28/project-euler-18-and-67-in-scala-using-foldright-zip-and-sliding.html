@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/scala" class="tag">scala</a><a href="/tag/tech" class="tag">tech</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Project Euler 18 and 67 in Scala using foldRight, zip and sliding</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: scala" href="/tags#scala">scala</a></li>
+          
+            
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2013-11-28">
+        2013-11-28
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>I’ve recently applied to <a href="http://www.toptal.com/?ref=14568">Toptal</a> and sucked miserably at the entry exam. My algo chops were blunt and I thought I’d rectify it by revisiting <a href="http://projecteuler.net/">Project Euler</a>. With the startup last year and the baby this year I just haven’t been able to find the time for programming challenges, but that has to change.</p>
+
+<p>Looking at my Project Euler source directory, I saw that I left it at <a href="http://projecteuler.net/problem=17">problem 17</a>, so next up will be <a href="http://projecteuler.net/problem=18">18</a>. The problem description, however, mentions that the <a href="http://projecteuler.net/problem=67">problem repeats itselt as 67</a>, but with a bigger input that will run 20 billion years if you go the brute force route.</p>
+
+<p>I worked a little on this problem last night, and decided to by-pass the brute force solution completely. It was a bit late, though, and I pulled my eyelids open far enough to make it to bed. I then went on to dream about the damn problem all night. I knew there had to be a simple bottom-up fold-based solution, and the <em>voila</em> moment came for me when I realised I had to seed the fold computation with the base layer in the triangle.</p>
+
+<p>Here you go:</p>
+
+<p><a href="https://gist.github.com/opyate/7689573">https://gist.github.com/opyate/7689573</a></p>
+
+<h1 id="a-little-explanation">A little explanation</h1>
+
+<p>The triangle is represented as a nested list, like so: <strong>List(List(1), List(2, 3), List(4, 5, 6))</strong> and so forth.</p>
+
+<pre>
+
+     1
+    / \
+   2   3
+  / \ / \
+ 4   5   6    &lt;- this is the "base layer" in my explanation.
+</pre>
+
+<p>Since you need to add the maximum of the two immediate children to the layer above, a foldRight wouldn’t give me all the info I need in the curent iteration. Foldright for me means “the data is coming FROM the right”, i.e. <strong>List(4, 5, 6)</strong> will be processed first, then <strong>List(2, 3)</strong> but at no point in the iteration will they be available together so I can do the sum. <strong>List(4, 5, 6)</strong> would need to come into the iteration with <strong>List(2, 3)</strong> in another way, and I realised I can use the foldRight’s accumulator for that by seeding the foldRight with the base layer in the triangle (aka the last list <strong>List(4, 5, 6)</strong>).</p>
+
+<p>The easiest way was to just seed the foldRight with a list of zeros one element larger than the base layer. You then break it up into pairs using <strong>sliding(2,1)</strong>, take the max of the pairs, and sum the max with the corresponding (thanks to <strong>zip</strong>) element in the layer above.</p>
+
+<pre>
+
+      1
+     / \
+    2   3
+   / \ / \
+  4   5   6
+ / \ / \ / \
+0   0   0   0    &lt;- this becomes the new "base layer", or "seed"
+</pre>
+
+<p>No mutable state; no recursion; simple to understand. As <a href="http://www.applied-duality.com">Erik Meijer</a> would say: “baby code”.</p>
+
+<p><img src="https://opyate.com/assets/photograms/original/2013-11-28-i-sometimes-dream-about-programming--then-i-come-up-with-solutions-like-these-.jpg" alt="algorithming" /></p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2013/11/10/the-quickest-way-to-get-started-with-dev-vms.html">&laquo; A webwords Chef cookbook</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2013/12/13/heuristics.html">Heuristics &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

@@ -1,0 +1,5 @@
+version: '3.8'
+
+services:
+  jekyll:
+    command: jekyll serve --incremental
