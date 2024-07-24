@@ -4,6 +4,12 @@ layout: home
 
 Here's what I'm doing right [now](https://nownownow.com/about)...
 
+# 2024-07-24
+
+I'm still working on one of the ideas I had in March (more on that later), but got side-tracked into a project for the [FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) (revamping Travel Alerts). I'm also writing a very short story of a little girl and an abandoned train station (inspired by my daughter, who's quite the writer herself). I plan to add some pictures to it and make a short picture book.
+
+I'm reading the [Broken Earth series by N. K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin#Broken_Earth_series).
+
 # 2024-03-14
 
 I've spent the last year diving deep into the world of NLP and language models, which is a great addition to the [computer vision expertise I've built up via pdfcrun.ch](https://pdfcrun.ch). I'm embarking on a few new apps that will leverage these skills, and the plan is time-box each prototype to 1 week, with a view to gather some metrics and decide on the next steps. It's great to get into the [maker and product-focused mindset again](/tags#startup).
