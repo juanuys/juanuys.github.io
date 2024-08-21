@@ -48,15 +48,19 @@ Let's continue...
 
 # More links
 
-- [a gamedev portfolio](https://uys.io/gamedev/)
+- [pdfcrun.ch, my day-job](https://pdfcrun.ch)
+- [gamedev, my night-job](https://uys.io/gamedev/)
 - <a rel="me" href="https://mastodon.art/@uys">Mastodon</a>
 - [This site's RSS feed](/feed.xml)
 - [Doodles](/doodles/)
 - [Some quotes I've been collecting](/quotes)
-- [Old CV](https://uys.io/cv/)
+- [My CV](https://uys.io/cv/)
 - [Old grab-bag of web-shizzle I made](https://uys.io/portfolio/)
 - [Ancient Flickrs](https://flickr.com/photos/opyate)
+
+<!--
 - [You call this music!?](https://www.last.fm/user/opyate/library/artists)
+-->
 
 # Photos
 
