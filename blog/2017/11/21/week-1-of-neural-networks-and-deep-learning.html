@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/nn" class="tag">nn</a><a href="/tag/coursera" class="tag">coursera</a><a href="/tag/deeplearning" class="tag">deeplearning</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Week 1 of Neural Networks and Deep Learning</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: nn" href="/tags#nn">nn</a></li>
+          
+            
+          
+          
+            <li><a title="tag: coursera" href="/tags#coursera">coursera</a></li>
+          
+            
+          
+          
+            <li><a title="tag: deeplearning" href="/tags#deeplearning">deeplearning</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2017-11-21">
+        2017-11-21
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><h1 id="introduction-to-deep-learning">Introduction to Deep Learning</h1>
+
+<p>These are my notes on week #1 of the <a href="https://www.coursera.org/learn/neural-networks-deep-learning/">Introduction to Deep Learning</a> Coursera MOOC.</p>
+
+<h2 id="overview">Overview</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/Cuf2f/welcome">Video #1</a> runs through an overview of all 5 courses in the specialisation.</p>
+
+<h2 id="what-is-a-neural-network">What is a Neural Network?</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/eAE2G/what-is-a-neural-network">Video #2</a> asks <em>What Is A Neural Network</em>?
+E.g. Taking samples of house size (x) and their house price (y) can be plotted as a straight line using linear regression. Since the house price can never be negative, the curve ends up looking like _/
+This simple graph is a neural network: given an input size, an output price can be predicted.
+This graph appears frequently in NN literature, and is known as a <strong>ReLU</strong> (Rectified Linear Unit).</p>
+
+<p>Input house size can be expanded to many more features like ZIP code, number of bedrooms, etc - “home features”.</p>
+
+<h2 id="supervised-learning">Supervised learning</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2c38r/supervised-learning-with-neural-networks">Video #3</a> talks about Supervised Learning.
+It discusses different applications, and which type of NN is best suited, e.g.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Input (x)</th>
+      <th>Output (y)</th>
+      <th>Application</th>
+      <th>Type</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Home features</td>
+      <td>Price</td>
+      <td>Real estate</td>
+      <td>Standard NN</td>
+      <td>Structured (e.g. CSV)</td>
+    </tr>
+    <tr>
+      <td>Ad, user info</td>
+      <td>Click? (0/1)</td>
+      <td>Online ads</td>
+      <td>Standard NN</td>
+      <td>Structured</td>
+    </tr>
+    <tr>
+      <td>Image</td>
+      <td>Classification</td>
+      <td>Photo tagging</td>
+      <td>CNN</td>
+      <td>Unstructured</td>
+    </tr>
+    <tr>
+      <td>Audio</td>
+      <td>Text transcript</td>
+      <td>Speech recog</td>
+      <td>RNN (because it’s 1-dimensional time-series)</td>
+      <td>Unstructured</td>
+    </tr>
+    <tr>
+      <td>English</td>
+      <td>Chinese</td>
+      <td>Machine translation</td>
+      <td>RNN (also sequence data)</td>
+      <td>Unstructured</td>
+    </tr>
+    <tr>
+      <td>Image, Radar</td>
+      <td>Position of other cars</td>
+      <td>Autonomous driving</td>
+      <td>Custom/Hybrid</td>
+      <td>Unstructured</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="why-is-deep-learning-taking-off">Why is Deep Learning taking off?</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/praGm/why-is-deep-learning-taking-off">Video #4</a> asks why deep learning is taking off. (well, I’ve personally been fascinated with neural nets since the late nineties, but here we go…).
+Answer: data is getting larger, and NNs are more performant at data scale.
+Ng briefly touches on why the signoid is dropping out of favour and being replaced by ReLU: The sigmoid has a 0 gradient in the two outermost regions (the tails of the curve) which slows down training, because if you implement gradient descent, and the gradient is 0, then the parameters just change very slowly. Whereas with the ReLU, the gradient is 1 for all positive values. (the fact that the left region has a 0 slope and how it impacts training will probably become more apparent in later videos, but I suspect some manner of pruning/drop-out will come into play here.)</p>
+
+<h2 id="about-the-course">About the course</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/6A3es/about-this-course">Video #5</a> talks about the curriculum again.</p>
+
+<h2 id="resources">Resources</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/2PhD4/course-resources">Video #6</a> mentions course resources:</p>
+
+<ul>
+  <li><a href="https://www.coursera.org/learn/neural-networks-deep-learning/discussions">forum</a></li>
+  <li>yup, that’s it</li>
+</ul>
+
+<h2 id="heroes-of-deep-learning">Heroes of Deep Learning</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview">Video #7</a> the last, optional video is an interview with <a href="https://en.wikipedia.org/wiki/Geoffrey_Hinton">Geoffrey Hinton</a>, which I can wholeheartedly recommend. Interestingly, at the 12h30 mark Geoffrey notes that he was working on variational methods, and it just so happens that people in statistics were also working on the same problem, but they didn’t know about it at the time. (Which goes to show that we can all do with better communication, and/or opening our eyes more often.)
+Around the 23m mark Hinton touches on <a href="https://www.youtube.com/watch?v=rTawFwUvnLE">Capsule Networks</a>, which is something I’m also excited about.</p>
+
+<p>Advice:</p>
+
+<ul>
+  <li>read the literature, but not too much of it!</li>
+  <li>notice what everyone does wrong, and do it right</li>
+</ul>
+
+<p>Around the 36m mark, Hinton says the thing which is on <a href="https://medium.com/@karpathy/software-2-0-a64152b37c35">everyone’s</a> lips right now: we’re not programming computers anymore, we’re <em>showing</em> computers.</p>
+
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2017/11/20/neural-networks-refresher.html">&laquo; Neural Networks refresher</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2017/11/22/week-2-of-neural-networks-and-deep-learning.html">Week 2 of Neural Networks and Deep Learning &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

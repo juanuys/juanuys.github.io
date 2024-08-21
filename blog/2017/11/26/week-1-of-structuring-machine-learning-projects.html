@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/nn" class="tag">nn</a><a href="/tag/coursera" class="tag">coursera</a><a href="/tag/deeplearning" class="tag">deeplearning</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Week 1 of Structuring Machine Learning Projects</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: nn" href="/tags#nn">nn</a></li>
+          
+            
+          
+          
+            <li><a title="tag: coursera" href="/tags#coursera">coursera</a></li>
+          
+            
+          
+          
+            <li><a title="tag: deeplearning" href="/tags#deeplearning">deeplearning</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2017-11-26">
+        2017-11-26
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><h1 id="introduction-to-ml-strategy">Introduction to ML Strategy</h1>
+
+<h2 id="why-ml-strategy">Why ML Strategy?</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/yeHYT/why-ml-strategy">Video #1</a> talks about the motivation: you’ve worked on your cat classifier model, and only achieve 90% accuracy.</p>
+
+<p>You have ideas how to improve:</p>
+
+<ul>
+  <li>collect more data</li>
+  <li>collect more diverse training set</li>
+  <li>train algo longer with gradient descent</li>
+  <li>try Adam instead of gradient descent</li>
+  <li>try a bigger/smaller network</li>
+  <li>try dropout</li>
+  <li>Add L2 regularisation</li>
+  <li>change the architecture
+    <ul>
+      <li>activation functions</li>
+      <li>hidden units</li>
+      <li>etc</li>
+    </ul>
+  </li>
+</ul>
+
+<p>You might choose poorly and waste time.</p>
+
+<p>This course will teach you strategies to point you in the direction of the more promising things to try.</p>
+
+<h2 id="orthogonalisation">Orthogonalisation</h2>
+
+<p>In <a href="https://www.coursera.org/learn/machine-learning-projects/lecture/FRvQe/orthogonalization">Video #2</a> talks about orthogonalisation, which is knowing which change effects which outcome.</p>
+
+<p>An analog is an old-fashion monitor which has distinct knobs for adjusting each of the picture</p>
+<ul>
+  <li>width</li>
+  <li>height</li>
+  <li>trapezoidal shape</li>
+  <li>x offset</li>
+  <li>y offset</li>
+  <li>brightness</li>
+  <li>contrast</li>
+</ul>
+
+<p>Now imagine you had only one knob, which - when fiddled adjusts the picture in this way:</p>
+
+<p><code class="language-plaintext highlighter-rouge">0.3 * height + 0.1 * width + 8 * brightness + 0.5 * trapezoidal ... etc</code></p>
+
+<p>This knob would be impossible to use.</p>
+
+<p>So, Orthogonalisation means that the monitor designers designed the knobs and underlying circuitry so that each knob does only one thing.</p>
+
+<p>The chain of outcomes we’d like to perform well, in order, are:</p>
+
+<ul>
+  <li>fit the training set well on cost function</li>
+  <li>fit dev set well on cost function</li>
+  <li>fit test set well on cost function</li>
+  <li>performs well in real world</li>
+</ul>
+
+<p>Each of these steps would have different “knobs” you can try, e.g.</p>
+
+<ul>
+  <li>“bigger network” or “Adam” for training set</li>
+  <li>“regularisation” for dev set</li>
+  <li>“bigger dev set” for test set</li>
+  <li>“change dev set” or “change cost function” for real world</li>
+</ul>
+
+<p>Ng notes that “early stopping” is less orthogonalised because it changes both how well you fit the training set, because of you stop early, you fit the training set less well. It also improves dev set performance. So, it does two things.</p>
+
+<h1 id="setting-up-your-goal">Setting up your goal</h1>
+
+<h2 id="single-number-evaluation-metric">Single number evaluation metric</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/wIKkC/single-number-evaluation-metric">Video #3</a> shows a single number which you can look at to help you choose a classifier to iterate on.</p>
+
+<h3 id="example-1">Example 1</h3>
+
+<p>Instead of looking at both <a href="https://www.kdnuggets.com/faq/precision-recall.html">Precision and Recall</a>. (Ng mentions don’t worry too much about the definitions for now, hence my own link)</p>
+
+<p>The one number to look at is the F1 score. The hand-wavy way to think of it is the “average of Precision and Recall” says Ng. More accurately, it’s the Harmonic Mean of P and R: <code class="language-plaintext highlighter-rouge">2 / (1/P + 1/R)</code>. F1 becomes your single real number evaluation metric.</p>
+
+<h3 id="example-2">Example 2</h3>
+
+<p>Your app targets four regions, and your classifier gives different error rates for each region. A single real number metric hear could just be the average of those four numbers and then the classifier with the lowest average error is the better one.</p>
+
+<p>A dev set and a single real number evaluation metric will help you make better choices with your classifiers.</p>
+
+<h2 id="satisficing-and-optimising-metric">Satisficing and Optimising metric</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/uNWnZ/satisficing-and-optimizing-metric">Video #4</a> shows that you needn’t build a hacky cost function to help you make a decision, e.g. <code class="language-plaintext highlighter-rouge">accuracy - 0.5 * running_time</code>, but instead of say something like “I’m happy with any running time below 100ms, after which I’ll choose the most accurate”.</p>
+
+<p>In this case, “running time” is satisficing, and “accuracy” is optimising.</p>
+
+<p>You’ll have one optimising metric, and one or more satisficing metrics.</p>
+
+<p><img src="/assets/posts/2017-11-26-week-1-of-structuring-machine-learning-projects/optimising-satisficing.png" alt="Satisficing and Optimising metric" /></p>
+
+<h2 id="traindevtest-set-distributions">Train/dev/test set distributions</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/78P8f/train-dev-test-distributions">Video #5</a> shows the train/dev/test set distributions.</p>
+
+<p>Dev set is aka the “hold-out cross validation set”.</p>
+
+<p><strong>Choose a dev set and test set from the same distribution to reflect the data you expect to see in the future AND consider important to do well on.</strong></p>
+
+<p>E.g. if you’re targetting US and China with your app, don’t make the dev set US, and the test set China, because you’ll end up with moving targets.</p>
+
+<h2 id="size-of-dev-and-test-sets">Size of dev and test sets</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/HOby4/size-of-the-dev-and-test-sets">Video #6</a> shows how old-school heuristics like a 70%/30% split on train/test doesn’t really make sense if you have big data.</p>
+
+<p>Set your test set to be big enough to give high confidence in the overall performance of your system.</p>
+
+<p>The set you’re tuning/iterating on is the dev set, although this was previously called test set. Which brings us to: sometimes you mighn’t need a test set, just a train/dev set, because a large enough dev set means you might not overfit it too badly. Ng says he still prefers a test set in all cases.</p>
+
+<h2 id="when-to-change-devtest-sets-and-metrics">When to change dev/test sets and metrics</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/Ux3wB/when-to-change-dev-test-sets-and-metrics">Video #7</a> says you might have put your target in the wrong place, so it would be a good idea to move the target, i.e. change the dev/test sets, or redefine the error metric in your code (put a very low weight on porn images so it doesn’t activate a cat prediction).</p>
+
+<p>So far we’ve discussed how to <strong>define</strong> a metric to evaluate classifiers, but now we’ll talk about how to <strong>do well</strong> on this metric. Aka we’ve determined where to place the target, but now we’ll focus on how to hit the bull’s eye a bit better. That might be optmising the cost function J that your network is optimising.</p>
+
+<h1 id="comparing-to-human-level-performance">Comparing to human-level performance</h1>
+
+<h2 id="why-human-level-performance">Why human-level performance?</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/FWkpo/why-human-level-performance">Video #8</a> talks about why human-level performance matters as a comparison to machine-level performance.</p>
+
+<p>It talks about Bayes optimal error, the best possible error. E.g. the perfect error might not be zero if an image is just too blurry to classify.</p>
+
+<p>Human tasks are still valuable if the ML is poor, e.g.</p>
+
+<ul>
+  <li>getting labelled data from humans</li>
+  <li>manual error analysis</li>
+  <li>better analysis of bias/variance (which we’ll talk about later)</li>
+</ul>
+
+<p>Knowing how well humans do can help you reduce bias and variance.</p>
+
+<h2 id="avoidable-bias">Avoidable bias</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/LG12R/avoidable-bias">Video #9</a> shows that you can use bias reduction techniques when the human error is much lower than your training error, or variance reduction/avoidance techniques/tactics when the human error is near the training error, but the dev error is still a way off.</p>
+
+<p>Bias reduction techniques could be training a larger network or running the training set for longer.</p>
+
+<p>Variance reduction techniques could be regularisation or increasing the training set.</p>
+
+<p>Human error is a good proxy for Bayes error in image classification, because eyesight our stronger sense.</p>
+
+<p>The difference between human/Bayes error and the training error is called the <strong>avoidable bias</strong>: keep improving your training performance until you reach Bayes error. (you can’t go further, because Bayes error is the theoretical limit)</p>
+
+<p>The difference between training error and dev error is the <strong>variance</strong>.</p>
+
+<p><img src="/assets/posts/2017-11-26-week-1-of-structuring-machine-learning-projects/avoidable-bias.png" alt="screenshot" /></p>
+
+<h2 id="understanding-human-level-performance">Understanding human-level performance</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/XInVm/understanding-human-level-performance">Video #10</a> asks how would you define “human level error” if you have a range of humans, e.g. when looking at an X-ray to make a diagnoses, how would Joe Bloggs VS doctor VS experienced doctor VS TEAM of experienced doctors perform and which one of those is your “human level performance”.</p>
+
+<p>Depending on the context, the answer could be to go with the Bayes proxy, i.e. with the lowest error if you want to diagnose correctly. Or the context could be to have a low-level “see a specialist” recommender which could fare as well as a typical doctor.</p>
+
+<p><img src="/assets/posts/2017-11-26-week-1-of-structuring-machine-learning-projects/which-human-level.png" alt="screenshot" /></p>
+
+<p>Ng applies this “choice” of humans to the bias/variance decision, e.g. whichever human level you choose, if the training error is far off, focus on avoidable bias.</p>
+
+<h2 id="surpassing-human-level-performance">Surpassing human-level performance</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/LiV7n/surpassing-human-level-performance">Video #10</a> mentions that ML surpass humans in structured data problems which aren’t perception tasks. E.g. humans do well with vision and audio, but a machine can clearly fare better at pouring over (lots of) structured data. However, ML is getting better at perception problems too now.</p>
+
+<h2 id="improving-your-model-performance">Improving your model performance</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/4IPD6/improving-your-model-performance">Video #11</a> summaries that we’ve now learned about</p>
+
+<ul>
+  <li>orthogonalisation</li>
+  <li>how to set up dev/test sets</li>
+  <li>human level performance as a proxy for Bayes error</li>
+  <li>how to estimate avoidable bias and variance</li>
+</ul>
+
+<p>This session pulls it together into a set of guidelines:</p>
+
+<p><img src="/assets/posts/2017-11-26-week-1-of-structuring-machine-learning-projects/guidelines.png" alt="guidelines" /></p>
+
+<p>This week’s Heroes of Deep Learning <a href="https://www.coursera.org/learn/machine-learning-projects/lecture/Ggkxn/andrej-karpathy-interview">video</a> features <a href="http://karpathy.github.io/">Andrej Karpathy</a>.</p>
+
+<p>And that’s a wrap for week 1.</p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2017/11/25/my-deep-reinforcement-learning-hardware-one-year-on.html">&laquo; My deep reinforcement learning hardware, one year on</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2017/11/27/week-2-of-structuring-machine-learning-projects.html">Week 2 of Structuring Machine Learning Projects &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

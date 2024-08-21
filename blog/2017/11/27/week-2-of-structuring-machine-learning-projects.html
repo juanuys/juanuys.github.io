@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/nn" class="tag">nn</a><a href="/tag/coursera" class="tag">coursera</a><a href="/tag/deeplearning" class="tag">deeplearning</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Week 2 of Structuring Machine Learning Projects</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: nn" href="/tags#nn">nn</a></li>
+          
+            
+          
+          
+            <li><a title="tag: coursera" href="/tags#coursera">coursera</a></li>
+          
+            
+          
+          
+            <li><a title="tag: deeplearning" href="/tags#deeplearning">deeplearning</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2017-11-27">
+        2017-11-27
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>The objectives for this week are:</p>
+
+<ul>
+  <li>Understand what multi-task learning and transfer learning are</li>
+  <li>Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets</li>
+</ul>
+
+<h1 id="error-analysis">Error Analysis</h1>
+
+<h2 id="carrying-out-error-analysis">Carrying out error analysis</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/GwViP/carrying-out-error-analysis">Video #1</a> talks about error analysis where you look at problems where your dev set misclassifies, e.g. if you’re getting 10% error  (90% accuracy) which might still lead to a “ceiling” of performance.</p>
+
+<p>Pick ~100 misclassified samples (just to get a sense of the problem), and figure out which categories contribute most to misclassification (e.g. cats are misclassified more as great cats than being misclassified as cat-looking dogs) and focus on that category for the greatest bang for buck.</p>
+
+<h2 id="cleaning-up-incorrectly-labelled-data">Cleaning up incorrectly labelled data</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/IGRRb/cleaning-up-incorrectly-labeled-data">Video #2</a> talks about what to do if you have mislabelled samples.</p>
+
+<p>In your training set, you could just leave it as-is if the errors aren’t too many, and a bit random. Deep learning algorithms are quite robust against random errors, but not systematic errors, i.e. all yellow cats are mislabelled as golden retrievers.</p>
+
+<p>For dev/test set, you can add another category to your error analysis called “mislabelled”, and again: only fix mislabelling if it contributes significantly to the misclassification.</p>
+
+<h2 id="build-your-first-system-quickly-then-iterate">Build your first system quickly, then iterate</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/jyWpn/build-your-first-system-quickly-then-iterate">Video #3</a> talks about error analysis before starting out on a new project. Build the first version quickly, then iterate.</p>
+
+<ul>
+  <li>set dev/test set and metric (set the target)</li>
+  <li>build initial system quickly (hit the target)</li>
+  <li>next steps prioritised from bias/variance analysis, error analysis</li>
+</ul>
+
+<h1 id="mismatched-training-and-devtest-set">Mismatched training and dev/test set</h1>
+
+<h2 id="training-and-testing-on-different-distributions">Training and testing on different distributions</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/Xs9IV/training-and-testing-on-different-distributions">Video #4</a> says deep learning works well on a lot of data, and teams tend to chuck all data they can find into a project. There are some subtleties.</p>
+
+<p>E.g. lots (200K) of data from webpages (professionally shot and framed), and less (10K) data from mobile photography look different (latter is low-res and blurry). If you app focuses on mobile market, you might just want to pay attention to the latter set. But the latter set is smaller.</p>
+
+<p>Things you shouldn’t do is combine, randomly shuffle (same distribution) and split. The dev/test will still have a low number of mobile photos.</p>
+
+<p>Instead, do: dev/test set all be mobile images, and the training set could be anything else, with some mobile images.</p>
+
+<p>The big question is, how many of the mobile images should go into train, and how many into dev/test?</p>
+
+<p>The recommendation is something like 2K of the mobile-only images into dev/test (because this is the “real” data you care about in your app) and 8K mixed in with pro photos in training so that <strong>the training set contains enough REAL data to avoid having a data-mismatch problem</strong>.</p>
+
+<h2 id="bias-and-variance-with-mismatched-data-distributions">Bias and Variance with mismatched data distributions</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/ht85t/bias-and-variance-with-mismatched-data-distributions">Video #5</a> explores the counterpoint where you shouldn’t really use all the data you have. E.g. you can have dev and training data from different distributions, but a dev error of 10% and a training error of 1% - how do you know if your algorithm is fine?</p>
+
+<p>Tease out these 2 effects (different distribution and variance problem) by <strong>making a new training-dev set</strong>, which has the same distribution as the training set, but is not used for training.</p>
+
+<p>You could now have training 1%, training-dev 9% and dev 10% errors, and you can now conclude that you have a variance problem (1% - 9%) because training and training-dev are from the same distribution.</p>
+
+<p>You could now have training 1%, training-dev 1.5% and dev 10% errors, and you can now conclude that you don’t have a variance problem, but a <strong>data mismatch problem</strong>.</p>
+
+<p>The principles are:</p>
+
+<p><img src="/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/principles.png" alt="principles" /></p>
+
+<h2 id="addressing-data-mismatch">Addressing data mismatch</h2>
+
+<p>There aren’t very super-systematic things for fixing data mismatch, but <a href="https://www.coursera.org/learn/machine-learning-projects/lecture/biLiy/addressing-data-mismatch">Video #6</a> discusses a few things you can try.</p>
+
+<p>There might be some tell-tale things related to your application’s context which you can focus on to understand the difference between your training and dev/test sets. I.e. for voice navigation apps you can focus on ambient car noise and focus on getting street numbers right. So, collect similar training data, or simulate car noise in related data (e.g. combine audio of car noise with someone querying for a street address). This is called <strong>artificial data synthesis</strong>.</p>
+
+<p>Be careful adding 1 hour of car noise to 10,000 hours of sound clips, because the model might overfit to the car noise. (My intuition: Try modifying the car clip: slow/fast, pitch up/down, generate similar white noise, etc.)</p>
+
+<p>Be careful not to overfit to synthesised data.</p>
+
+<h1 id="learning-from-multiple-tasks">Learning from multiple tasks</h1>
+
+<h2 id="transfer-learning">Transfer learning</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/WNPap/transfer-learning">Video #7</a> talks about re-purposing your neural networks.</p>
+
+<p>You can take a network trained for image recognition, and delete the output node and the last set of weights, and randomly initialise those weights and re-train on X-ray data. Or re-train more layers. Or add more layers and and then a new output node.</p>
+
+<p>This is called <strong>pre-training</strong>, and then using the X-ray data is <strong>fine-tuning</strong>. The image recognition network has learnt a lot about images and the structure of images (lines, dots, curves, etc), and this knowledge might come in useful in the X-ray images.</p>
+
+<p>Another example is an audio transcript network and <strong>transferring</strong> to a wakeword/triggerword system.</p>
+
+<p>Transfer learning works well if you <strong>have a lot of data for the problem you are transferring from</strong>, but don’t have as much data <strong>for the problem you are transferring to</strong>.</p>
+
+<p>It doesn’t work well if your <em>root stock</em> had an equal amount or fewer samples that your target samples.</p>
+
+<p><img src="/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/transfer-learning-summary.png" alt="transfer learning summary" /></p>
+
+<h2 id="multi-task-learning">Multi-task learning</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/l9zia/multi-task-learning">Video #8</a></p>
+
+<p>Let’s say your autonomous car need to detect these 4 things:</p>
+
+<ul>
+  <li>pedestrians</li>
+  <li>cars</li>
+  <li>stop signs</li>
+  <li>traffic lights</li>
+</ul>
+
+<p>(clearly this is a non-exhaustive list)</p>
+
+<p>Where previously Y was a <code class="language-plaintext highlighter-rouge">(1,m)</code> matrix, it is now a <code class="language-plaintext highlighter-rouge">(4,m)</code> matrix.</p>
+
+<p>Using this image as an input sample, you can see there’s 2 of the 4 features visible: stop sign and car.</p>
+
+<p><img src="/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/multi-task-input-sample.png" alt="multi-task input sample" /></p>
+
+<p>You now train a NN to predict these values of Y. Yhat is now a 4 dimensional value for Y. Four output nodes.</p>
+
+<p>Unlike softmax regression, this image can have multiple labels.</p>
+
+<p>You <em>could</em> train 4 networks to predict these 4 things individually, but the base of the network can be shared because you’re detecting all objects, so the low-level features at the start of the network can be shared and this NN will give better performance.</p>
+
+<p>For incomplete/unlabelled samples (e.g. you have training data where they didn’t bother to label whether there’s a car in the photo or not) you can just omit this term from the summation when calculating the loss.</p>
+
+<p><img src="/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/multi-task-architecture.png" alt="multi-task architecture" /></p>
+
+<p><img src="/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/when-multi-task-makes-sense.png" alt="when multi-task makes sense" /></p>
+
+<h1 id="end-to-end-deep-learning">End-to-end deep learning</h1>
+
+<h2 id="what-is-end-to-end-deep-learning">What is end-to-end deep learning?</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/k0Klk/what-is-end-to-end-deep-learning">Video #9</a> says that end-to-end is one of the most exciting recent developments in NN. Briefly: deep neural nets replacing previously multi-stage processing systems (sometimes obsoleting entire areas of research previously dedicated to subsystems).</p>
+
+<p>E.g. audio -&gt; MFCC for features -&gt; ML for phonemes -&gt; words -&gt; transcript.
+A NN can just go from audio to transcript.</p>
+
+<p>The old pipeline works well if you don’t have a lot of data, but deep learning trumps multi-stage if you have a lot of data.</p>
+
+<p>However, a multi-step approach might work better in some cases. E.g. face recognition. Instead of going from a photo (where the person can be near/far or anywhere in the photo) to identity, instead have stage 1 where you detect where the face is, and stage 2 which takes the zoomed-in face and compares this with all employee photos on file.</p>
+
+<p>So, this is better because</p>
+
+<ul>
+  <li>each individual problem is simpler and easier to solve</li>
+  <li>you have a lot of data for each of the two subtasks:
+    <ul>
+      <li>there are a lot of photos labelled with WHERE a face is in the photo</li>
+      <li>there are a lot of photos of faces, and you can add your own labelled as “employee”</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/face-recognition.png" alt="face recognition" /></p>
+
+<h2 id="whether-to-use-end-to-end-deep-learning">Whether to use end-to-end deep learning</h2>
+
+<p><a href="https://www.coursera.org/learn/machine-learning-projects/lecture/H56eb/whether-to-use-end-to-end-deep-learning">Video #10</a> discusses what to weight up when deciding whether to use end-to-end or not.</p>
+
+<p><img src="/assets/posts/2017-11-27-week-2-of-structuring-machine-learning-projects/pros-and-cons-of-end-to-end.png" alt="pros and cons" /></p>
+
+<p>Key question: <strong>do you have sufficient data to learn a function of the complexity needed to map x to y?</strong></p>
+
+<p>The Heroes of Deep Learning interviews <a href="https://www.coursera.org/learn/machine-learning-projects/lecture/kR8gk/ruslan-salakhutdinov-interview">feature</a> <a href="https://en.wikipedia.org/wiki/Russ_Salakhutdinov">Ruslan Salakhutdinov</a>, director of AI research at Apple.</p>
+
+<p>Ng poses the PhD VS industry question again, and I like Russ’ answer: academia would let you work on anything, any crazy idea, but industry allows you to see first-hand the effect of your work, and you’ll have more resources, like compute and multi-disciplinary teams to help in different ways. You can do amazing research in either setting.</p>
+
+<p>And that wraps up the Structuring ML Projects course.</p>
+
+<p><strong>UPDATE</strong> <a href="https://coursera.org/verify/2GKJ2FB5YYER">achievement unlocked</a></p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2017/11/26/week-1-of-structuring-machine-learning-projects.html">&laquo; Week 1 of Structuring Machine Learning Projects</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2018/01/25/pdfcrunch.html">pdfcrun.ch &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

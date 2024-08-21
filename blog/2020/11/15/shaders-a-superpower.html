@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+      <a class="site-title" rel="author" href="/masters/">
+        <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /masters
+      </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/ma" class="tag">ma</a><a href="/tag/falmouth" class="tag">falmouth</a><a href="/tag/crj" class="tag">crj</a><a href="/tag/ma-development-practice" class="tag">ma-development-practice</a><a href="/tag/gdd710" class="tag">gdd710</a><a href="/tag/week8" class="tag">week8</a><a href="/tag/shaders" class="tag">shaders</a><a href="/tag/crj-interpersonal" class="tag">crj-interpersonal</a><a href="/tag/crj-procedural" class="tag">crj-procedural</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Week 8 &mdash; Shaders - a superpower.</h1>
+
+    <div>
+      <div style="float: left; padding-right: 20px;">tags:</div>
+
+      <div class="tags">
+        <ul>
+        
+        
+          <li><a title="tag: ma" href="/tags#ma">ma</a></li>
+        
+          
+        
+        
+          <li><a title="tag: falmouth" href="/tags#falmouth">falmouth</a></li>
+        
+          
+        
+        
+          <li><a title="tag: crj" href="/tags#crj">crj</a></li>
+        
+          
+        
+        
+          <li><a title="tag: ma-development-practice" href="/tags#ma-development-practice">ma-development-practice</a></li>
+        
+          
+        
+        
+          <li><a title="tag: gdd710" href="/tags#gdd710" style="color:white;">gdd710</a></li>
+        
+          
+        
+        
+          <li><a title="tag: week8" href="/tags#week8" style="color:white;">week8</a></li>
+        
+          
+        
+        
+          <li><a title="tag: shaders" href="/tags#shaders" style="color:white;">shaders</a></li>
+        
+          
+        
+        
+          <li><a title="tag: crj-interpersonal" href="/tags#crj-interpersonal" style="color:white;">crj-interpersonal</a></li>
+        
+          
+        
+        
+          <li><a title="tag: crj-procedural" href="/tags#crj-procedural" style="color:white;">crj-procedural</a></li>
+        
+          
+        
+        </ul>
+      </div>
+    </div>
+    
+
+    <info datetime="2020-11-15">
+        2020-11-15
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>We’re almost at the end of our second rapid ideation session.</p>
+
+<p>This time around I’m making a bit of a mix of puzzle game and art installation with another student in the cohort. It involves 3D graphics and a special effect: orthographically projecting graphics onto the sides of a set of cubes.</p>
+
+<p>I’m using an off-the-shelf library called <code class="language-plaintext highlighter-rouge">three-projected-material</code> <a class="citation" href="#fugaro_marcofugarothree-projected-material_2020">(Fugaro 2020)</a>, albeit heavily modified as it has some bugs.</p>
+
+<p>I’m using orthographic (or parallel/oblique) projection, as opposed to perspective projection <a class="citation" href="#torralba_advances_2016">(Torralba 2016)</a>. As such, the projected texture is supposed to only appear on one face, but as you can see in the screenshot below, the texture “smears” along the side of some of the cubes in some instances:</p>
+
+<p><img src="/assets/posts/2020-11-15-shaders--a-superpower/orthographic-projection.png" alt="Orthographic projection" /></p>
+
+<p>The bug is with the library’s shaders, but I haven’t been able to figure it out. More importantly, I’ve been wanting to project different textures onto the other sides of the cubes (to give some depth to the puzzle), but the library doesn’t have support for this, and again: the answer lies in the shader code.</p>
+
+<p>Shaders have been around for a long time, having roots in Pixar’s Reyes Image Rendering Architecture from 1987 which has initially used for post-processing in films <a class="citation" href="#cayanan_pixars_2013">(Cayanan 2013)</a>, <a class="citation" href="#cook_proceedings_1987">(Cook et al. 1987: 95-102)</a>.</p>
+
+<p>Learning shaders is like acquiring a superpower which transcends game engines and target platforms:</p>
+
+<blockquote><p>...the revolutionary computational technique, fragment shaders, that is taking digitally generated images to the next level. You can think of it as the equivalent of Gutenberg's press for graphics.</p><cite><a class="citation" href="#gonzalez_vivo_book_2015">(Gonzalez Vivo 2015)</a></cite></blockquote>
+
+<p>I’ve long been aware of the power of shaders, and have even suggested it to a fellow student during a webinar when he mentioned his game’s graphics are too dark, and he wants it to look more cartoony (and presuming he’d have to recreate all the graphics assets):</p>
+
+<p><img src="/assets/posts/2020-11-15-shaders--a-superpower/suggest-shader.png" alt="Me suggesting a shader in the webinar" /></p>
+
+<p>I’ve decided to knuckle down on shaders. I’ve created a <a href="/masters/goals#become-more-fluent-with-shadersglsl">SMART goal</a> and have assembled this list of resources to start with:</p>
+
+<ul>
+  <li><a href="https://thebookofshaders.com/">https://thebookofshaders.com/</a></li>
+  <li><a href="http://stack.gl/">http://stack.gl/</a></li>
+  <li><a href="https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/">https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/</a></li>
+  <li><a href="https://notes.underscorediscovery.com/shaders-a-primer/">https://notes.underscorediscovery.com/shaders-a-primer/</a></li>
+</ul>
+
+<p>Of course, shader math is all about linear algebra and trigonometry <a class="citation" href="#gonzalez_vivo_book_2015">(Gonzalez Vivo 2015)</a>, so I’d also have to dust off some old high school / uni maths 101 books…</p>
+
+<h1 id="bibliography">Bibliography</h1>
+
+<ol class="bibliography"><li><span id="cayanan_pixars_2013">CAYANAN, Raymond. 2013. “Pixar’s RenderMan Turns 25 (Exclusive).” <i>fxguide</i>. Available at: https://www.fxguide.com/fxfeatured/pixars-renderman-turns-25/ [accessed 15 Nov 2020].</span></li>
+<li><span id="cook_proceedings_1987">COOK, Robert L., Loren CARPENTER and Ed CATMULL. 1987. <i>Proceedings of SIGGRAPH ’87: 14th Annual Conference</i>. Association for Computing Machinery.</span></li>
+<li><span id="fugaro_marcofugarothree-projected-material_2020">FUGARO, Marco. 2020. “Marcofugaro/Three-Projected-Material.” Available at: https://github.com/marcofugaro/three-projected-material [accessed 15 Nov 2020].</span></li>
+<li><span id="gonzalez_vivo_book_2015">GONZALEZ VIVO, Patricio. 2015. “The Book of Shaders.” <i>The Book of Shaders</i>. Available at: https://thebookofshaders.com/00/ [accessed 15 Nov 2020].</span></li>
+<li><span id="torralba_advances_2016">TORRALBA, Antonio. 2016. “Advances in Computer Vision.” Available at: http://6.869.csail.mit.edu/fa16/lecture/lecture11stereoHomogenousCoord.pdf [accessed 15 Nov 2020].</span></li></ol>
+</div>
+    <div class="breaker"></div>
+    <div class="breaker"></div>
+    <div>
+      <p>
+        <em>
+          This post is part of my <a href="/tags#crj">critical reflective journal</a> and was written during <a href="/tags#week8">week 8</a> of the module <span class="highlight">development practice</span>.
+        </em>
+      </p>
+      <p>
+        <em>
+          Unlabelled images are Copyright 2020 Juan M Uys, and are for decorative purposes only.
+        </em>
+      </p>
+    </div>
+    <div class="breaker"></div>
+    <div class="breaker"></div>
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2020/11/11/reflection-on-ethics.html">&laquo; Reflection on ethics</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2020/11/18/reflecting-on-communities-of-practice.html">Reflecting on communities of practice &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/clojure" class="tag">clojure</a><a href="/tag/clojurescript" class="tag">clojurescript</a><a href="/tag/canvas" class="tag">canvas</a><a href="/tag/websocket" class="tag">websocket</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Untitled Maze Game</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: clojure" href="/tags#clojure">clojure</a></li>
+          
+            
+          
+          
+            <li><a title="tag: clojurescript" href="/tags#clojurescript">clojurescript</a></li>
+          
+            
+          
+          
+            <li><a title="tag: canvas" href="/tags#canvas">canvas</a></li>
+          
+            
+          
+          
+            <li><a title="tag: websocket" href="/tags#websocket">websocket</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2020-06-24">
+        2020-06-24
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>Untitled Maze Game is a maze game (duh!) in which you try to find the exit before the Infected get you.</p>
+
+<p>It is not the “<a href="http://designersnotebook.com/Columns/005_Bad_Game_Designer_1/005_bad_game_designer_1.htm">undeserving of a Twinkie</a>” kind of maze game. In fact, you can see some surrounding corridors as you navigate it, and you can see where you’ve been (breadcrumbs?). The point is to run “everywhere” until you find an exit, or run “away” from an Infected when you encounter one.</p>
+
+<p>It’s a work in progress, so handle with care. Future features:</p>
+<ul>
+  <li>at least one Infected bot will be in a room when you join</li>
+  <li>once you’re Infected, you have to infect others to stay alive</li>
+  <li>score board</li>
+</ul>
+
+<p>Made with</p>
+<ul>
+  <li>clojure</li>
+  <li>clojurescript</li>
+  <li>websockets</li>
+  <li>HTML canvas</li>
+</ul>
+
+<p>I was going to use Haxe and OpenFL and the <a href="/games/haxe-maze">maze lib</a> I made, but I already know how to do websockets well in Clojure, so there you go.</p>
+
+<p><img src="/assets/games/untitledmazegame/screenshot.png" alt="Obligatory screenshot" /></p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2019/10/11/add-tag-pages-to-your-jekyll-blog-without-plugins.html">&laquo; Add tag pages to your Jekyll blog without plugins.</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2020/06/25/game-uis-i-would-like-to-try.html">Game UIs I would like to try &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

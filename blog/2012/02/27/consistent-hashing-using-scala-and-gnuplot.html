@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/scala" class="tag">scala</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Consistent hashing with Scala</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: scala" href="/tags#scala">scala</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2012-02-27">
+        2012-02-27
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>I recently got into <a href="http://basho.com/products/riak-overview/">Riak</a>, and subsequently <a href="http://en.wikipedia.org/wiki/Consistent_hashing">Consistent Hashing</a>, and found the referenced <a href="http://www.lexemetech.com/2007/11/consistent-hashing.html">Java implementation</a> quite a delightful and informative read.</p>
+
+<p>As any hacker would, I thought I’d implement it in my current favourite language: Scala. Half-way through I realised that Scala’s TreeMap is as slow as a geriatric slug on a salted snowed-in street. So, I did the <code class="language-plaintext highlighter-rouge">import java.util.{TreeMap =&gt; JTreeMap}</code> thing and got cracking:</p>
+
+<p>The gist can be found here: <a href="https://gist.github.com/1927001">https://gist.github.com/1927001</a></p>
+
+<h1 id="how-many-virtual-nodes">How many virtual nodes?</h1>
+
+<p>Systems using consistent hashing needs the “virtual nodes” parameter tuned so as to find a sweet spot where you get good mixing of cached objects amongst nodes (i.e. all nodes store a somewhat equal amount of stuff).</p>
+
+<p>The gist above, when run, will generate a file called “dat” in the current directory, which can be fed into <a href="http://www.gnuplot.info/">gnuplot</a> to show the standard deviation (as a percentage of the mean) for certain sizes of vnode.</p>
+
+<p>As per the lexemetech.com article, a value not higher than 5% or 10% is preferable, and for 10 nodes, this amounts to about 100 or 200 vnodes. Let’s verify this.</p>
+
+<h1 id="gnuplot">gnuplot</h1>
+
+<p>Using a terminal, run gnuplot in the same location as “dat”, and you’ll see this prompt: <code class="language-plaintext highlighter-rouge">gnuplot&gt;</code></p>
+
+<p>Now, copy/paste this entire bit of code into the terminal:</p>
+
+<p><a href="https://gist.github.com/opyate/1927001#gnuplot">https://gist.github.com/opyate/1927001#gnuplot</a></p>
+
+<p>Here’s the plot:</p>
+
+<p><img src="http://funkshional.files.wordpress.com/2012/02/plot1.png" alt="The plot" /></p>
+
+<p>As you can see, for a large amount of vnodes, the percentage tends to 1%.</p>
+
+<p>You can see this more easily by inputting this into the gnuplot prompt:</p>
+
+<p><a href="https://gist.github.com/opyate/1927001#gnuplot-amend">https://gist.github.com/opyate/1927001#gnuplot-amend</a></p>
+
+<p>According to my plot, I start to get a low SD around 50 vnodes (5 times my number of nodes), but then this could just be because my hashing function mixes better than the one used by lexemetech.</p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2012/02/24/programmers-bill-of-rights-2012.html">&laquo; Programmer’s Bill Of Rights 2012</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2012/07/31/semantic-web-deep-dive.html">Semantic Web Deep Dive &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

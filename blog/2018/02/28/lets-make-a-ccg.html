@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/contumacious" class="tag">contumacious</a><a href="/tag/gamedev" class="tag">gamedev</a><a href="/tag/ccg" class="tag">ccg</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Let's make a CCG!</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: contumacious" href="/tags#contumacious">contumacious</a></li>
+          
+            
+          
+          
+            <li><a title="tag: gamedev" href="/tags#gamedev">gamedev</a></li>
+          
+            
+          
+          
+            <li><a title="tag: ccg" href="/tags#ccg">ccg</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2018-02-28">
+        2018-02-28
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>Previously, I <a href="/blog/2018/02/23/fleshing-out-the-idea.html">concluded</a> (excitedly, mind you) that a Magic-style <abbr title="Collectible Card Game">CCG</abbr> might be the way to go.</p>
+
+<p>Recap:</p>
+
+<blockquote>
+  <p>A card could be “nail varnish” of class “smell”. It could carry medium attack points (since it stings the sinuses quite a bit), and since the smell hangs around quite a bit, it could have high “toughness” too. I can also be a “range” weapon, because it affects everyone in close proximity. (The smell starts losing potency when you’re further away.)</p>
+</blockquote>
+
+<p>I’m a bigger fan of Hearthstone, but the beautifully tactile Magic cards have always made me smile.</p>
+
+<p>I can opine, ideate, research, and analyse until <a href="https://en.wikipedia.org/wiki/Coleoidea">coleoids</a> grow a ninth (or eleventh) tentacle, but now seems like a good time to start making cards!</p>
+
+<h1 id="a-few-notes">A few notes</h1>
+
+<p>I’ll build the individual cards by hand, and balance them as I start playing with them. But first, a few notes before starting. I guess I’m ideating again; borrowing from the greats.</p>
+
+<h2 id="screw-screw">Screw screw</h2>
+
+<p>Unlike Magic (or like Hearthstone) I won’t have Basic Land cards. I want to avoid whatever “screw” these games suffer from. Each player will get one mana per turn, and max out at N.</p>
+
+<p>Also, we can’t call it mana, because this isn’t a fantasy game. Perhaps money, credit, or ticket stubs?</p>
+
+<h2 id="heroes">Heroes</h2>
+
+<p><abbr title="Contumacious Commuter">CC</abbr> will have heroes. Each hero will have a special ability that will replenish with every turn. A hero will represent a class, or a class might have multiple heroes - not sure.</p>
+
+<h2 id="classes">Classes</h2>
+
+<p>There will be multiple classes (like the 5 colours of Magic). This could be “bus, train, tram” or competing travel operators. Probably “bus, train, tram” etc as these are things everyone can relate to, and my travel operators mightn’t be inventive enough.</p>
+
+<h2 id="cards">Cards</h2>
+
+<p>Cards can be specific to a class, or neutral.</p>
+
+<p>Cards will be</p>
+<ul>
+  <li>creatures <em>(well… commuters)</em></li>
+  <li>weapon</li>
+  <li>trap</li>
+  <li>taunt (i.e. the opponent MUST attack this card first)</li>
+</ul>
+
+<p>No spell cards, since this is not a fantasy game.</p>
+
+<p>Some cards have “charge” and take effect straight away. Otherwise, cards need 1 turn to “warm up”.</p>
+
+<p>Some cards summon other cards automatically, just like Hearthstone’s Battlecry.</p>
+
+<p>Cards can be “secretive” (like traps) which the opponent won’t know about when played. (e.g. these cards are played face down)</p>
+
+<p>Some cards will have an “adjacency” stat, e.g. Foo can give the 2 neighbouring cards +1/+1. (that’s one extra health and one extra defense) For this reason, it’s good to think of a rule which dictates in which “layout” cards are played, e.g. in a single row, or in any grid formation you like.</p>
+
+<p>Since kindnesses are also something you can exhibit in a public space (like smiling at someone, or offering a handkerchief), kindness cards will exist which will be a neutraliser against the weapon cards.</p>
+<h1 id="enoughs-enough---lets-make-a-few-cards">Enough’s enough - let’s make a few cards!</h1>
+
+<p>Resisting the urge to go online and buy new stationary, I just grab a white PostIt stack and I have a pen in my coat pocket.</p>
+
+<p>A few scribbles later, and this:</p>
+
+<p><img src="/assets/posts/2018-02-28-lets-make-a-ccg/sample-cards.jpg" alt="sample cards" /></p>
+
+<p>An example play would be (ignoring mana for a moment):</p>
+
+<ul>
+  <li>the opponent draws “chews gum” and “elbow wrestle”</li>
+  <li>you draw “winks” and “nail varnish”</li>
+  <li>the opponent plays “chews gum”, but it has no effect yet, because it needs a turn to warm up</li>
+  <li>you play “winks”, and since it’s a Kindness, it has a neutralising effect and is effective immediately. You target the opponent’s “chews gum” and remove both cards from the area</li>
+  <li>the opponent plays “elbow wrestle”, and it needs a turn to warm up</li>
+  <li>you play “nail varnish”, and it needs a turn to warm up</li>
+  <li>the opponent draws/plays something else (doesn’t matter for now), but “elbow wrestle” takes effect</li>
+  <li>the opponent attacks your “nail varnish” with their “elbow wrestle”. “nail varnish” loses one health, and its counter attack destroys “elbow wrestle” which removes “elbow wrestle” from the board but leaves “nail varnish” with 1 health remaining</li>
+  <li>you draw/play something else (doesn’t matter for now), and your “nail varnish” takes effect, subtracting 2 health for ALL the cards and heroes currently in play</li>
+</ul>
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>That little play session was actually quite fun, and I am quite eager to get started on more cards.</p>
+
+<p>I’ll now have a think whether an automated solution earlier in the process might speed things up, e.g. a bit of code to turn data and images into beautiful cards.</p>
+
+<p>Stay chooned.</p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2018/02/27/i-am-a-salt-beef-sandwich.html">&laquo; I am a salt beef sandwich.</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2018/03/01/a-card-maker.html">A card maker. &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

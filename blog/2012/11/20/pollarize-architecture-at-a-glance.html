@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/scala" class="tag">scala</a><a href="/tag/architecture" class="tag">architecture</a><a href="/tag/pollarize" class="tag">pollarize</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Pollarize architecture at a glance</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: scala" href="/tags#scala">scala</a></li>
+          
+            
+          
+          
+            <li><a title="tag: architecture" href="/tags#architecture">architecture</a></li>
+          
+            
+          
+          
+            <li><a title="tag: pollarize" href="/tags#pollarize">pollarize</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2012-11-20">
+        2012-11-20
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p><em>X-posted from the pollarize.me blog</em></p>
+
+<h1 id="genesis">Genesis</h1>
+
+<p>Pollarize was <a href="http://thenextweb.com/uk/2012/03/26/the-winner-of-startup-weekend-london-is-pollarize-me/">bourne</a> out of a 54 hour hacking stint at Startup Weekend in March 2012. The Thursday night before that weekend, I thought about the various tech I knew and wanted to have a good idea how to kickstart our hack before putting pen to paper on the Friday night.</p>
+
+<p><img src="http://media.tumblr.com/tumblr_mdsg3ecowA1ryyv9k.png" /></p>
+
+<p>The decision was made: Pollarize was going to be a Spring MVC web app running on an Amazon EC2 instance. I was going to worry about the database later, and maybe get away with using an in-memory map or something for the data.</p>
+
+<p>Come Friday night, I felt a bit different. Why not learn something new, I thought. Besides, AWS might be a bit clunky for a weekend hack. And I’ve heard good things about the Play! framework, and the v2 was released just a few months before.</p>
+
+<h1 id="today">Today</h1>
+
+<p>Fast forward 7 months, over 200 deploys, and over 1,000 commits. This is what our API looks like now:</p>
+
+<p><img src="http://i.imgur.com/bd1Bh.png" width="100%" /></p>
+
+<h2 id="core">Core</h2>
+
+<p>The core app is a lightweight <a href="http://www.playframework.org/documentation/2.0.1/Home">Play! 2.0 (Scala edition)</a> web app which exposes a JSON web API, and it makes transactional writes to our operational <a href="https://postgres.heroku.com/">Postgres</a> database. Most other (unimportant) write operations happen via fire-and-forget calls to other modules via <a href="http://akka.io/">Akka</a>. The IDs for these data is pre-chosen, so subsequent calls will be idempotent.</p>
+
+<h2 id="mongodb">MongoDB</h2>
+
+<p>All writes to the operational database is fired off to a <a href="https://www.mongolab.com/home">MongoDB</a> actor, which serves as the read-only cache for API reads. The data in MongoDB is already in the format the caller will consume, so it is extremely quick. The cache can be rebuilt asynchronously with the click of a button.</p>
+
+<h2 id="media">Media</h2>
+
+<p>The media module accepts profile pictures and poll images, and we use <a href="http://blitline.com/">Blitline</a> to get them into our signature circular format (and different sizes), and then we store the results in <a href="http://aws.amazon.com/s3/">Amazon S3</a> and expose it to the world via <a href="http://aws.amazon.com/cloudfront/">Cloudfront</a>. If you have any image processing to be done, definitely give Blitline a shot: they’re very helpful and the API is a lot of fun to play with.</p>
+
+<h2 id="notify">Notify</h2>
+
+<p>Notifications is triggered via an Akka scheduled job in the case of poll expiry, and via events in the case of registration, password reset, poll creation from people you follow and follow notifications (yes, we’re a tiny social network). In general we use email via <a href="http://www.mailgun.com/">Mailgun</a>’s simple API, <a href="http://www.pubnub.com/">Pubnub</a> for web users, and <a href="http://urbanairship.com/">Urban Airship</a> for our mobile users.</p>
+
+<h2 id="other">Other</h2>
+
+<p>We played with some other tech but those were chucked out for various reasons. <a href="http://redistogo.com/">Redis</a> is awesome, and we used it initially for our social network, but in our case it was just another piece of your architecture to worry about. Our social network now happily lives in our operational database where it belongs. One day, if Postgres buckles under the graph, we’ll reconsider. Then there’s <a href="http://www.cloudamqp.com/">RabbitMQ</a>. It’s beautifully stable, and has a very good monitoring plugin, but once again: it’s one more thing to manage, and besides, Akka mailboxes will suffice for now.
+You bet your PaaS we’re using Heroku</p>
+
+<p>Heroku has been great for getting started. Have an idea? Code it, commit, push, et voilà. No worrying about builds, deploys or anything like that: one less operational hassle to worry about when you’re building features. However, we do have a chunky $5,000 AWS credit, and I’m slowly but surely creating <a href="http://puppetlabs.com/">Puppet</a> manifests for all our components (<a href="http://vagrantup.com/">Vagrant</a> has been great for testing this locally), but this is still a nice-to-have for the size of our user base, so I’m really just hacking at this in the in-between moments.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>So, there you have it. Our architecture at a glance. There will be some more detail later down the line. In fact, I’m already drafting a Play! best practices, jotting down everything I’m learning along the way. Questions and comments on the back of a postcard.</p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2012/10/15/adding-sms-functionality-with-twilio.html">&laquo; Adding SMS functionality with Twilio</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2013/02/23/pretty-ip.html">Pretty IP &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>
