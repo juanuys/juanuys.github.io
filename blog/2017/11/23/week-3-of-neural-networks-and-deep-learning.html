@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/nn" class="tag">nn</a><a href="/tag/coursera" class="tag">coursera</a><a href="/tag/deeplearning" class="tag">deeplearning</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Week 3 of Neural Networks and Deep Learning</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: nn" href="/tags#nn">nn</a></li>
+          
+            
+          
+          
+            <li><a title="tag: coursera" href="/tags#coursera">coursera</a></li>
+          
+            
+          
+          
+            <li><a title="tag: deeplearning" href="/tags#deeplearning">deeplearning</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2017-11-23">
+        2017-11-23
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><h1 id="shallow-neural-networks">Shallow Neural Networks</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/qg83v/neural-networks-overview">Video #1</a> says superscript square brackets refers to the layer, as opposed to superscript round brackets which refers to an input sample.</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/overview.png" alt="screenshot" /></p>
+
+<h2 id="neural-network-representation">Neural network representation</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/GyW9e/neural-network-representation">Video #2</a> mentions input layer (<em>a</em> superscript square bracket zero), hidden layer (<em>a</em> superscript square bracket one, with each neuron having a subscript 1..n), output layer (<em>a</em> superscript square bracket two), and target prediction which is just equal to the last layer. This described a 2-layer network.</p>
+
+<p>Note for <em>a[1]</em> the weights are <em>w[1]</em> of dimension (4,3) and the bias is <em>b[1]</em> with dimension (4,1). The output node has <em>w[2]</em> of (1,4) and <em>b[2]</em> of (1,1).</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/representation.png" alt="screenshot" /></p>
+
+<h2 id="computing-a-neural-networks-output">Computing a neural network’s output</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/GyW9e/neural-network-representation">Video #3</a> says that our new representation of a neural net’s hidden layer contains more than one of the single-node logistic regression node we studied in week 2.</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/hidden.png" alt="screenshot" /></p>
+
+<p>Again, the trick is to not for-loop over the 1+ new nodes, but to vectorise a solution.</p>
+
+<p>To compute this 2-layer network, you need these 4 formulas:</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/4formulas.png" alt="screenshot" /></p>
+
+<h2 id="vectorising-across-multiple-examples">Vectorising across multiple examples</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/ZCcMM/vectorizing-across-multiple-examples">Video #4</a> is like before, but vectorising across many training examples.</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/vectorising-with-forloop.png" alt="screenshot" /></p>
+
+<p>Vectorising the for-loop. A[1]’s first column refers to the first training example, and the first row of the first column refers to the activation in the first hidden node. The next row refers to the activation of the first training example in the second hidden node.</p>
+
+<p>Similarly, <em>A[1]</em>’s second column refers to the second training example, and the first row of the second column refers to the activation of the second training example in the first hidden node, and so forth.</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/vectorising-without-forloop.png" alt="screenshot" /></p>
+
+<h2 id="explanation-for-vectorised-implementation">Explanation for vectorised implementation</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/Y20qP/explanation-for-vectorized-implementation">Video #5</a> just adds an explanation to the previous concept.</p>
+
+<h2 id="activation-functions">Activation functions</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/4dDC1/activation-functions">Video #6</a> notes that thus far in the course we’ve been using sigmoid activation function, but reveals alternatives. The first candidate being <em>tanh</em> or the hyperbolic tangent, which Ng notes is almost always a better choice than sigmoid (because <em>tanh</em> yields a 0 mean, and sigmoid a 0.5 mean, so <em>tanh</em> centers your data, but doesn’t elaborate further)</p>
+
+<p>The exception is to use the sigmoid function on an output layer which does binary classification, where you’d like a prediction between 0 and 1.</p>
+
+<p>The downside to <em>tanh</em> (which is the same for sigmoid) is that the slope is zero when <em>z</em> is very large or very small and this <strong>can slow down gradient descent</strong>.</p>
+
+<p>Which brings us to <em>ReLU</em>. The derivative is 0 when <em>z</em> is negative, and for positive <em>z</em> the slope is just very distinct from 0, so your network learns much faster, and this works well in practice.</p>
+
+<p>There’s also “leaky ReLU” which has a slight slope for negative <em>z</em></p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/actvation-function-summary.png" alt="screenshot" /></p>
+
+<p>Ng ends with a note that we’re spoilt for choice when it comes to which hyperparameters, activations, loss, etc to use, and you have to “try them all” to see which suits your application the best. Time to get a second GPU, then.</p>
+
+<h2 id="why-do-you-need-non-linear-activation-functions">Why do you need non-linear activation functions?</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/OASKH/why-do-you-need-non-linear-activation-functions">Video #7</a> asks “why need an activation function at all?”</p>
+
+<p>We try and experiment where we just set <em>a</em> to <em>z</em>. <em>yhat</em> then just becomes a linear function of your features <em>x</em> and the model is no more expressive than just standard logistic regression. The hidden layer becomes useless, because a composition of a linear function is itself just a linear function.</p>
+
+<p>However, if your output is a real number (not a classification), e.g. like predicting a house price, then you don’t want a linear activation function.</p>
+
+<h2 id="derivatives-of-activation-functions">Derivatives of activation functions</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/qcG1j/derivatives-of-activation-functions">Video #8</a> reminds us that back-prop uses the slope of the activation functions.</p>
+
+<p>Sigmoid slopes at high and low are 0, and the slope at z=0 is 1/4.</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/sigmoid-slope.png" alt="screenshot" /></p>
+
+<p>Tanh slope is 0 at high and low, and 1 at z=0.</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/tanh-slope.png" alt="screenshot" /></p>
+
+<p>ReLU has slope 0 for z&lt;0 and 1 for z&gt;=0.</p>
+
+<p>Leaky ReLU has slope 0.01 for z&lt;0 and 1 for z&gt;=0.</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/relu-slope.png" alt="screenshot" /></p>
+
+<h2 id="gradient-descent-for-neural-networks">Gradient descent for neural networks</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/Wh8NI/gradient-descent-for-neural-networks">Video #9</a> is the crib sheet for the formulas for a one hidden layer neural network.</p>
+
+<p>A note on matrix dimensions:
+For a network with the first layer size nx = n0, the hidden layer size n1, and the output size n2 (or 1), the dimensions will be as follows:</p>
+
+<ul>
+  <li>W1 = (n1, n0)</li>
+  <li>b1 = (n1, 1) (aka an n1 dimensional vector, or an n1-by-1 dimensional matrix, or column vector)</li>
+  <li>W2 = (n2, n1)</li>
+  <li>b2 = (n2, 1)</li>
+</ul>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/cribsheet-onehidden-nn.png" alt="screenshot" /></p>
+
+<h2 id="backpropagation-intuition-optional">Backpropagation intuition (optional)</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/6dDj7/backpropagation-intuition-optional">Video #10</a> explains the cribsheet from the previous video. Worth a watch.</p>
+
+<p><img src="/assets/posts/2017-11-23-week-3-of-neural-networks-and-deep-learning/summary-gradient-descent.png" alt="screenshot" /></p>
+
+<p>And with that Ng notes that we’ve just seen the most difficult part of neural networks: deriving these functions.</p>
+
+<h2 id="random-initialisation">Random initialisation</h2>
+
+<p><a href="https://www.coursera.org/learn/neural-networks-deep-learning/lecture/XtFPI/random-initialization">Video #11</a> starts of with stating that initialising weights to zero for logistic regression was OK (because it’s single node), but for a neural network it won’t work: you end up with a symmetry problem - all nodes compute the same thing. The bias can be initialised to zero.</p>
+
+<pre>
+# very small random values
+W1 = np.random.randn((nx,m)) * 0.01
+b1 = np.zero((nx,1))
+</pre>
+
+<p>Why small initial values? Large initial values will be on the outskirts of sigmoid or tanh, and have zero-ish slope, so the network trains very slowly (less of an issue if you don’t use sigmoid or tanh).</p>
+
+<p>0.01 is OK for a shallow network, but next week will discuss why you might want to use smaller values (epsilon?).</p>
+
+<h2 id="what-else-ive-learned">What else I’ve learned</h2>
+
+<p>The model we built by hand in the previous week’s’ exam can be summarised in these few lines using <a href="http://scikit-learn.org/stable/">sklearn</a>:</p>
+
+<pre>
+clf = sklearn.linear_model.LogisticRegressionCV()
+clf.fit(X.T, Y.T)
+LR_predictions = clf.predict(X.T)
+
+# plot
+plot_decision_boundary(lambda x: clf.predict(x), X, Y)
+plt.title("Logistic Regression")
+</pre>
+
+<p>Logistic regression doesn’t work on a dataset that isn’t linearly separable. A classification problem IS linearly separable, but we’ll now encounter problems that aren’t.</p>
+
+<p>Neural networks are able to learn even highly non-linear decision boundaries, unlike logistic regression. The techniques learnt during this week can still lead to overfitted models (when using many iterations), but in later weeks we will learn about regularisation, which lets you use very large models (such as n_h = 50) without much overfitting.</p>
+
+<p>References from exam:</p>
+
+<p>http://scs.ryerson.ca/~aharley/neural-networks/
+http://cs231n.github.io/neural-networks-case-study/</p>
+
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2017/11/23/the-purpose-of-life-isnt-to-be-happy.html">&laquo; The purpose of life isn't to be happy</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2017/11/24/week-4-of-neural-networks-and-deep-learning.html">Week 4 of Neural Networks and Deep Learning &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

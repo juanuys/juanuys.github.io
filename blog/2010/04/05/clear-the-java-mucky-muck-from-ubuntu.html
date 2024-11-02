@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/java" class="tag">java</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Clear the Java mucky muck from Ubuntu.</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: java" href="/tags#java">java</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2010-04-05">
+        2010-04-05
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><h1 id="java-on-ubuntu">Java on Ubuntu</h1>
+
+<p>This article is for Java developers who use Ubuntu as a development platform who wants to install Sun’s range of tools manually, instead of installing it with Synaptic/aptitude/apt-get. The commands in this article was tested on Ubuntu 8.04 “Hardy Heron” and assumes knowledge of the <a href="http://www.debian.org/doc/FAQ/ch-customizing.en.html#s-diverse">Debian alternatives system</a>.</p>
+
+<p>The benefits of installing it manually are:</p>
+
+<ul>
+  <li>you choose exactly which version of the JDK you install</li>
+  <li>you choose which tools you enable, e.g. jhat</li>
+</ul>
+
+<h1 id="cleaning-up">Cleaning up</h1>
+
+<p>Depending on what you’ve installed before, you may be left with a mixture of non-Sun tools, like <a href="http://gcc.gnu.org/java/">gcj</a> or the Eclipse Java compiler. We’re going to remove these, install our own, then tell Ubuntu where to find the newly installed tools.</p>
+
+<p>The below is just a sample of things that may or may not be installed on your machine. Use Synaptic Package Manager instead, and search for “java” and remove accordingly.</p>
+
+<p><a href="https://gist.github.com/opyate/6325468#remove-1">https://gist.github.com/opyate/6325468#remove-1</a></p>
+
+<p>You may need to completely remove the historical alternatives:</p>
+
+<p><a href="https://gist.github.com/opyate/6325468#remove-2">https://gist.github.com/opyate/6325468#remove-2</a></p>
+
+<p>As you can see, not only do I use java and javac, but also jhat, jvisualvm, etc.</p>
+
+<p>I’m going to digress and explain the commands I used in the code snippet above. The <code class="language-plaintext highlighter-rouge">!!:gs/A/B/</code> command basically means <em>repeat the previous command, but replace A with B, all occurrences</em>, as opposed to the <code class="language-plaintext highlighter-rouge">^A^B</code> command which will only replace the first occurrence. More weird and wonderful commands can be found at <a href="http://www.commandlinefu.com/commands/browse">commandlinefu.com</a>.</p>
+
+<h1 id="install">Install</h1>
+
+<p>Install the JDK. For the purposes of this discussion, let’s set the <code class="language-plaintext highlighter-rouge">JAVA_HOME</code> environment variable to the location where you installed the JDK to, e.g. <code class="language-plaintext highlighter-rouge">JAVA_HOME=/opt/jdk/jdk1.6.0_14</code></p>
+
+<p>Tell the alternatives system where it can find the new utilities:</p>
+
+<p><a href="https://gist.github.com/opyate/6325468#install">https://gist.github.com/opyate/6325468#install</a></p>
+
+<p>And a quick test:</p>
+
+<p><a href="https://gist.github.com/opyate/6325468#version-check">https://gist.github.com/opyate/6325468#version-check</a></p>
+
+<p>The same can now be done for your other tools, like Ant and Maven.</p>
+
+<p><img src="https://opyate.com/assets/photograms/original/2013-08-24-the-inclusion-of-jpda-was-a-fond-memory-.jpg" alt="java on ubuntu" /></p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2009/07/10/semantic-web.html">&laquo; Semantic Web — exciting times!</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2010/09/07/just-do-it.html">Just do it. &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

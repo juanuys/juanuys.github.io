@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/imadeathing" class="tag">imadeathing</a><a href="/tag/code" class="tag">code</a><a href="/tag/art" class="tag">art</a><a href="/tag/genart" class="tag">genart</a><a href="/tag/javascript" class="tag">javascript</a><a href="/tag/canvas" class="tag">canvas</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">A code doodle.</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: imadeathing" href="/tags#imadeathing">imadeathing</a></li>
+          
+            
+          
+          
+            <li><a title="tag: code" href="/tags#code">code</a></li>
+          
+            
+          
+          
+            <li><a title="tag: art" href="/tags#art">art</a></li>
+          
+            
+          
+          
+            <li><a title="tag: genart" href="/tags#genart">genart</a></li>
+          
+            
+          
+          
+            <li><a title="tag: javascript" href="/tags#javascript" style="color:white;">javascript</a></li>
+          
+            
+          
+          
+            <li><a title="tag: canvas" href="/tags#canvas" style="color:white;">canvas</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2019-04-05">
+        2019-04-05
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>Video talk-through available <a href="https://www.youtube.com/watch?v=wsC0j5DH7QQ">here</a>.</p>
+
+<p>Update: also see <a href="https://generativeartistry.com/">this nice resource</a> and <a href="https://news.ycombinator.com/item?id=23621022">related discussion</a>.</p>
+
+<!-- <canvas id="canvas" style="width:100%; height: 100%"></canvas> -->
+
+<script>
+  var parentDiv = document.getElementsByClassName("all")[0];
+  var closeButton = document.createElement("input");
+  closeButton.classList.add("closeButton");
+  closeButton.value = "X";
+  closeButton.onclick = function() {
+    parentDiv.remove();
+  };
+  parentDiv.insertBefore(closeButton, parentDiv.firstChild);
+  
+  var canvas = document.createElement('canvas');
+  canvas.id = 'the-canvas';
+  canvas.height = window.innerHeight;
+  canvas.width = window.innerWidth;
+  document.body.prepend(canvas);
+
+  var ctx = canvas.getContext('2d');
+
+  var animate = null;
+
+  function stop() {
+    animate = false;
+  }
+
+  function start() {
+    animate = true;
+
+    var spacing = 20;
+    var numOfLines = canvas.height / spacing;
+
+    var startOffset = spacing / 2;
+    var quarter = (canvas.width - spacing) / 4;
+
+    ctx.lineWidth = 10;
+
+    var isInViewport = function isInViewport(elem) {
+      var bounding = elem.getBoundingClientRect();
+      //  If the bottom is in view but the top isn't then it's visible
+      return bounding.bottom >= 0 && bounding.bottom <= (window.innerHeight || document.documentElement.clientHeight) || bounding.top >= 0 && bounding.top <= (window.innerHeight || document.documentElement.clientHeight);
+    };
+
+    function line(diff, n, hue) {
+
+      var p = Math.random() * 100
+
+      for (let y = 0; y < numOfLines; y++) {
+
+        // yDiv will be a value between 0 and 1 (from first row to last)
+        var yDiv = y / numOfLines;
+
+        // Math.sin((Math.PI / 180) * degrees) => 0,0 90,1 180,0 270,-1, 360,0
+        // so we get a value which fluctuates between 1 and -1
+
+        var firstYShift = Math.sin(yDiv * Math.PI * 6) * (Math.sin(diff * n * 2) * 31);
+        var secondYShift = Math.sin(yDiv * Math.PI * 5) * (Math.sin(diff * n * 4) * 37);
+        var thirdYShift = Math.sin(yDiv * Math.PI * 4) * (Math.sin(diff * n * 6) * 43);
+        var firstXShift = Math.sin(yDiv * Math.PI * 3) * (Math.sin(diff * n * 8) * 77);
+        var secondXShift = Math.sin(yDiv * Math.PI * 2) * (Math.sin(diff * n * 10) * 91);
+        var thirdXShift = Math.sin(yDiv * Math.PI) * (Math.sin(diff * n * 12) * 101);
+
+        ctx.strokeStyle = 'hsla(' + hue + ', 100%, 50%, 0.4)';
+        ctx.beginPath();
+        ctx.moveTo(startOffset, y * spacing + startOffset);
+        ctx.lineTo(startOffset + quarter + firstXShift, y * spacing + startOffset + firstYShift);
+        ctx.lineTo(startOffset + quarter * 2 + secondXShift, y * spacing + startOffset + secondYShift);
+        ctx.lineTo(startOffset + quarter * 3 + thirdXShift, y * spacing + startOffset + thirdYShift);
+        ctx.lineTo(canvas.width - startOffset, y * spacing + startOffset);
+        ctx.stroke();
+      }
+    }
+
+    var counter = 0;
+    var hue1 = 0;
+    var hue2 = 0;
+
+    function step() {
+      if (!animate) return;
+      if (!isInViewport(canvas)) return;
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+      counter++;
+
+      line(counter, 0.001, hue1);
+
+      line(counter * 2, 0.0001, hue2);
+
+      hue1 += 1;
+      hue2 += 0.1;
+
+      window.requestAnimationFrame(step);
+    }
+
+    window.requestAnimationFrame(step);
+  };
+
+  window.addEventListener('resize', function () {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    stop();
+    start();
+  });
+
+  start();
+</script>
+
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2018/06/27/rethrow-errors-on-firebase.html">&laquo; Re-throw errors on Firebase</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2019/04/08/cracking-the-mi5-puzzle.html">Cracking the MI5 puzzle. &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

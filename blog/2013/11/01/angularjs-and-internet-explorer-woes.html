@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/angularjs" class="tag">angularjs</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">AngularJS and Internet Explorer woes</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: angularjs" href="/tags#angularjs">angularjs</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2013-11-01">
+        2013-11-01
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p><em>Aka endless clicking on crossbrowsertesting.com and why I love being a backend programmer.</em></p>
+
+<p>A few weeks ago, one of my clients tasked me with building a public-facing single page app for their credit monitoring business. They’ve heard good things about <a href="http://angularjs.org/">AngularJS</a> and said they wouldn’t mind if I learned it on the job. (I love those kinds of clients!)</p>
+
+<p>At this point we’ve already solidified the backend API (<a href="http://scala-lang.org/">Scala</a> + <a href="http://www.playframework.com/documentation/2.1.x/ScalaHome">Play! 2.1.3</a>) and felt like getting my hands dirty with our good friend Javascript.</p>
+
+<h1 id="at-first-it-was-easy">At first, it was easy</h1>
+
+<p>I knocked the first version out quickly and got it working on the latest Chrome and Firefox on a Macbook Air. As we all know, my setup represents a small slice of humanity, so onto cross-browser testing I went.</p>
+
+<h1 id="and-then-it-wasnt">And then, it wasn’t</h1>
+
+<p>I’ve been solely a backend programmer for a good few years now, and I soon remembered why: building something for to work with every browser/platform combination in the world is a royal <acronym title="Pain In The Bottom">PITA</acronym>. I wasn’t going to give up, though, and <a href="http://crossbrowsertesting.com">the tool I used to achieve this goal</a> comes with an A+ thumb’s up 5 stars from me. I was saved the cost and effort of running every other major browser/platform combination.</p>
+
+<p>But, still — this is how it all panned out: load the page, load dev tools, and then the clicking begins. The endless clicking through thousands of lines of AngularJS and jQuery code to find the point where things fall over, and then just before the Eureka moment, the connection would drop. Or IE devtools would throw a wobbly and loose its place in the source code. All of this via a Flash frame stuck with IE devtools. IE DEVTOOLS, people! Not fun.</p>
+
+<p>Which is why this isn’t a detailed bug report: I merely stumbled onto a solution after pulling all my hair out and trying something different.</p>
+
+<h1 id="the-issue">The issue</h1>
+
+<p>Now, I’ve done exactly what the good AngularJS folks <a href="http://docs.angularjs.org/guide/ie">told me to do</a>, but my scenario seemed unique. It turns out that if you use a custom directive from a partial in IE, it won’t be callable as an element (‘E’), but only as an attribute (‘A’), e.g. of a DIV.</p>
+
+<p>I explain via two examples <a href="/projects/angularjs-internet-explorer">over here</a>. If you are the lucky owner of a Windows box loaded with IE8 or smaller, please go and try it out and then lodge a proper bug report with the jQuery folks. Yes, yes — I know it sounds like this article is about AngularJS, but the real issue seemed to be with jQuery.</p>
+
+<p>Something to do with <code>target.appendChild(elem);</code> on line 6,050 of the <a href="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js">latest version of jQuery at the time of writing</a>.</p>
+
+<p>In the mean time, I hanker after my beloved Scala backend servers, where I get to choose exactly which platform and which flavour of VM I run on.</p>
+
+<p><img src="https://opyate.com/assets/photograms/original/2013-11-01-the-most-fun-i-had-all-week---.jpg" alt="AngularJS and Internet Exporer woes" /></p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2013/10/11/netaporter.html">&laquo; Net-A-Porter.com</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2013/11/02/dell-xps-13-linux-edition-makes-me-happy.html">Dell XPS 13 LE &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

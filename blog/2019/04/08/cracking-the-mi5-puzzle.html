@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/python" class="tag">python</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Cracking the MI5 puzzle.</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: python" href="/tags#python">python</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2019-04-08">
+        2019-04-08
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>Cleaning up hard-drive; found some old code.</p>
+
+<p>MI5 put this puzzle on their website. (It’s still <a href="https://www.mi5.gov.uk/careers/opportunities/technology">there</a> - just scroll down):</p>
+
+<p><img src="/assets/posts/2019-04-08-cracking-the-mi5-puzzle/puzzle.png" alt="MI5 puzzle" /></p>
+
+<p>The puzzle screams encoded message, because that’s not a picture of anything. I thought that perhaps this might be a ruse, and that something a bit more sophisticated is being used here, e.g. steganography.</p>
+
+<p>Looking at the bitmap data showed clean numbers, i.e. only 2 colours were used, not slightly different shades of two colours (which would hint at stego).</p>
+
+<p>I went back to the first idea, and lo and behold - it’s a recruitment drive!</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python main.py
+</code></pre></div></div>
+
+<blockquote>
+  <p>b’Congratulations, you solved the puzzle! Why don\x92t you apply to join our team? mi5.gov.uk/careers ‘</p>
+</blockquote>
+
+<p>Bit underwhelming. <span class="highlight">I fully expected a chopper to land outside in the garden the moment my Python script finished running.</span> A lady clad in black would kick my door down, run over to me, and say in a forceful yet husky voice “The Queen needs you.”</p>
+
+<p>Spoiler: Here’s the code, but please do try it yourself and experience your own Bond moment (yes, I know he’s MI6…):</p>
+
+<h2 id="mainpy">main.py</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from PIL import Image, ImageFont, ImageDraw
+import numpy as np
+
+# these values gleaned by looking at the bitmap.
+def bi(tup):
+    if tup[0] == 58:
+        return 1
+    elif tup[0] == 232:
+        return 0
+    else:
+        return -1
+
+def ribbon(file_location="puzzle.png"):
+    encoded_image = Image.open(file_location)
+    im = np.asarray(encoded_image, dtype=np.uint8)
+    binarised = [bi(im[i,j]) for i,j in np.ndindex(im.shape[:2])]
+
+    next = binarised[0]
+    count = 0
+    results = []
+    for i in binarised:
+        if next == i:
+            count = count + 1
+        else:
+            results.append(count)
+            count = 1
+        next = i
+    results.append(count)
+
+    strung = [(chr(i)) for i in results]
+    hex = ''.join(strung)
+    hex = hex.replace('-', '')
+
+    decoded = bytes.fromhex(hex)
+    print(decoded)
+
+if __name__ == "__main__":
+    ribbon()
+</code></pre></div></div>
+
+<h2 id="pipfile">Pipfile</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+Pillow = "*"
+numpy = "*"
+
+[requires]
+python_version = "3.7"
+</code></pre></div></div>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2019/04/05/a-code-doodle.html">&laquo; A code doodle.</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2019/04/12/im-making-a-picture-book.html">I'm making a picture book &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

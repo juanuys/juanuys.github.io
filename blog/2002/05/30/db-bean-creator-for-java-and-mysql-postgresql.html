@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/java" class="tag">java</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">DB Bean Creator for Java and MySQL/PostgresQL</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: java" href="/tags#java">java</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2002-05-30">
+        2002-05-30
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>I present the <a href="/projects/dbbeancreator">DB Bean Creator for Java and MySQL/PostgresQL</a>.</p>
+
+<p>When you have finished designing your database, you start to code the beans to interface with it. Making changes to the DB means making changes to the beans. This is time consuming and costly.</p>
+
+<p>The DB Bean Creator looks at your database (PostgresQL and MySQL are currently supported) and creates all the beans on the fly.</p>
+
+<h1 id="what-to-do">What to do</h1>
+
+<p>Basically, create an HTML page with the following <a href="/projects/dbbeancreator/dbbeancreator/form.html">form snippet</a>.</p>
+
+<p><a href="/projects/dbbeancreator/dbbeancreator/CreateDBBean.java">The servlet</a> should be compiled and put in a servlet container (like Tomcat).</p>
+
+<p>Also, put <a href="/projects/dbbeancreator/dbbeancreator/org.gjt.tw.dbobjects.tar.gz">this</a> into your app. It’s some oooold DB persistance stuff someone devved years ago. It hasn’t been updated since 2001, but I modified it a little to fit my script.</p>
+
+<p>When you submit the form, the servlet will spew out bean code, and/or create the sources as specified.</p>
+
+<h1 id="all-of-it">All of it</h1>
+
+<p><a href="/projects/dbbeancreator/dbbeancreator.tgz">dbbeancreator.tgz</a> (23,678 bytes)</p>
+
+<p>Happy coding. I hope this shaves hours off your dev time too :-) Now you can get the DB schema perfect, and adapt the code on the run.</p>
+
+<h1 id="future-developments">Future developments:</h1>
+
+<ul>
+  <li>Tag libraries to utilise the beans</li>
+  <li>JUnit test cases</li>
+  <li>Get the servlet to work with newer/better persistance libraries</li>
+</ul>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+
+    
+      <a class="pnbox next" href="/blog/2004/06/13/web-tv.html">Web TV &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

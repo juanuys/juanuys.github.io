@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/scala" class="tag">scala</a><a href="/tag/twilio" class="tag">twilio</a><a href="/tag/pollarize" class="tag">pollarize</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Adding SMS functionality with Twilio</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: scala" href="/tags#scala">scala</a></li>
+          
+            
+          
+          
+            <li><a title="tag: twilio" href="/tags#twilio">twilio</a></li>
+          
+            
+          
+          
+            <li><a title="tag: pollarize" href="/tags#pollarize">pollarize</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2012-10-15">
+        2012-10-15
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p><a href="http://pollarize.me">Pollarize</a> helps the world make up its mind via its beautiful, delightful suite of apps. However, not everyone owns a smartphone. Luckily, <a href="http://www.twilio.com/">Twilio</a> brings voice and messaging to web and mobile applications. Which means that Pollarize now allows our brick-lugging friends to compose polls via SMS.</p>
+
+<h1 id="how-we-built-it">How we built it</h1>
+
+<p>The usual Pollarize system constraints are the following:</p>
+
+<ul>
+  <li>poll question can not exceed 100 characters</li>
+  <li>options A and B can not exceed 100 characters each</li>
+</ul>
+
+<p>The requirements are the following:</p>
+
+<ul>
+  <li>a poll SMS should be in the format “Question text. A. First option B. Second option”</li>
+  <li>if either A or B is omitted, then default to “Yes” and “No” respectively</li>
+  <li>a poll SMS can exceed the 160 character limit, but not exceed 308 characters if we take into account the delimiters ” A. ” and ” B. “</li>
+</ul>
+
+<p>This meant that an entire poll can at least be described at least by one SMS, and at most by two, since 308 is less than 2 * 160, or two SMS fragments.</p>
+
+<h1 id="sms">SMS</h1>
+
+<p>Twilio seemingly don’t maintain any state on their side. I.e. if a user sends a large SMS, Twilio will not bundle the resulting SMS fragments up and send it to us in one piece. Instead, Twilio will send us the fragments one after the other as they become available from the mobile network.</p>
+
+<p>To illustrate this, here are the <code class="language-plaintext highlighter-rouge">application/form-url-encoded</code> payloads represented as Scala maps:</p>
+
+<p><a href="https://gist.github.com/opyate/3854971#TwilioSMSFirst.scala">https://gist.github.com/opyate/3854971#TwilioSMSFirst.scala</a></p>
+
+<p><a href="https://gist.github.com/opyate/3854971#TwilioSMSSecond.scala">https://gist.github.com/opyate/3854971#TwilioSMSSecond.scala</a></p>
+
+<h1 id="implementation-in-a-nutshell">Implementation in a nutshell</h1>
+
+<p>The trick here is to assemble the SMS text once we’ve received all the fragments. Since Twilio doesn’t tell us there’s a second fragment coming, we don’t create a poll immediately after an SMS is received. Instead, we dump the payloads into MongoDB as they are received. A background worker then scans all “unprocessed” SMSes and check if there were other SMSes <em>from the same phone number within the last 10 seconds</em>. Once we have all the SMSes, we combine the original SMS text into a single text, create the poll, and we mark the Mongo record as “processed”.</p>
+
+<p>The “<em>within the last 10 seconds</em>” bit only came after I discovered a massive bug. Let me explain…</p>
+
+<h1 id="the-poll-from-sms-scheduled-job">The Poll-from-SMS scheduled job</h1>
+
+<p>The background job server re-assembles the SMS fragments into a single SMS and checks if they’re poll-worthy.</p>
+
+<p>The first version of the SMSWorker accidentally did the following (using the data from the two Gists above):</p>
+
+<h2 id="poll-1">Poll #1</h2>
+
+<pre>
+Question: I don't have an iPhone, so I thought I'd build SMS functionality.
+Option A. Great, what about something that interprets smoke signals?
+Option B. Good, now get on with
+</pre>
+
+<h2 id="poll-2">Poll #2</h2>
+
+<pre>
+Question: the Android app already!
+Option A: Yes
+Option B: No
+</pre>
+
+<p>See what I did there? Option B got cut off due to the 160 character SMS limit, and we accidentally created a whole new, unintelligible poll. Not quite what I had in mind, as you can imagine. I had to start making some assumptions about the way Twilio and the mobile networks interact in light of the absence of an SLA from either.</p>
+
+<p>I assumed a maximum of 10 seconds between SMS fragments. A counter point to this is that we assume a user won’t create polls via SMS in quick succession.</p>
+
+<h1 id="the-poll-from-sms-scheduled-job-v2">The Poll-from-SMS scheduled job V2</h1>
+
+<p>The second version of the SMSWorker can be seen below.</p>
+
+<p><a href="https://gist.github.com/opyate/3854971#ScheduledPollFromSMSActor.scala">https://gist.github.com/opyate/3854971#ScheduledPollFromSMSActor.scala</a></p>
+
+<p>The value inProximity are the SMS fragments within a 10 second period. The SMS fragments belong to the same user, as obtained via the groupBycall on line 8.</p>
+
+<p>The SMSParser on line 19 is really nothing special, but from the test cases you’ll see that we’re catering for every eventuality:</p>
+
+<p><a href="https://gist.github.com/opyate/3854971#SMSParserSpec.scala">https://gist.github.com/opyate/3854971#SMSParserSpec.scala</a></p>
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>This was a fun little addition. Next up is voting via SMS.</p>
+
+<p>MongoDB allowed me to store the entire SMS payload and worry about the contents later. I didn’t create a model for the SMS payload, because it isn’t core to my domain. Also, the 10 second window seemed like a safe trade-off in light of being in the dark (huh?) with regards to mobile network SLAs. We’ll measure and adjust accordingly, of course.</p>
+
+<p>Twilio was easy to integrate with, and it all just works. Now I feel like SMS-enabling all my apps.</p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2012/07/31/semantic-web-deep-dive.html">&laquo; Semantic Web Deep Dive</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2012/11/20/pollarize-architecture-at-a-glance.html">Pollarize architecture at a glance &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

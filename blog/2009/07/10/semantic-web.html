@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/semweb" class="tag">semweb</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Semantic Web — exciting times!</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: semweb" href="/tags#semweb">semweb</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2009-07-10">
+        2009-07-10
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>Hi there,</p>
+
+<p>I’m Juan and I’m new to SW.</p>
+
+<p>I eagerly jumped into the deep end of the SW pool and wanted to create a “lists on the web” program, but 30 minutes into the whole ordeal I realised that</p>
+
+<ul>
+  <li>it’s going to be a gross duplication of (possibly existing) data.</li>
+  <li>there’s already a slew of tools I can utilise and improve.</li>
+  <li>I’m very naive, and this Semantic Web thing is a beast ;-)</li>
+</ul>
+
+<p>Here’s a post I left on the SW London Meetup.com group message board, to give you an idea of what I planned.</p>
+
+<blockquote>
+  <p>I’m going to run an idea by you and would like some input as to its feasibility/usefulness.</p>
+
+  <p>In an attempt to learn Scala I want to do a fun SW project. My inspiration is the Cloud, Lisp’s concept of lists, and my mate’s listing of DVD titles on some crummy web site. I wanted to create a web site that isn’t limited to just DVD titles. You could, for instance, have a list of favourite sci-fi novels (and have an ISBN plugin on top of it to add value) or have a list of friends (and have a FaceBook plugin… etc).</p>
+
+  <p>So, I guess, instead of having said plugins, you create RDF for your data:</p>
+
+</blockquote>
+<pre>
+my book has the identifier #isbn
+with:
+        subject = my book
+        predicate = has the identifier
+        object = some ISBN number
+</pre>
+<blockquote>
+
+  <p>The upper ontology can be “everything” (i.e. the root of all your lists), then you can start breaking it down: people (and in turn family and friends), books (and in turn novels, novellas, prose) etc.</p>
+
+  <p>This data, and the meta data that describes it can now obviously be used by other services: Amazon can send you recommendations based on your books list. Some chef can send you recipes based on your favourite recipes list. Etc.</p>
+
+  <p>And it’s all hosted in the cloud, or on your personal site, or on a site I’m going to create for this purpose (domain already purchased: listabl.es). I hope to develop a re-usable piece of free Open Source software which anybody can host anywhere, then the various instances can “talk” and/or provide a useful API to the outside world.</p>
+
+  <p>The main pull for this idea in a social sense is that people like to make lists of their favourite things and share it.</p>
+
+  <p>This message is by no means complete, but I’d like to discuss the idea further at the next meetup.</p>
+
+  <p>Juan</p>
+</blockquote>
+
+<p>And the initial github commit: <a href="http://listabl.es">listabl.es</a></p>
+
+<p>Since I’ve created this github project, I’ve started researching this weird and wonderful subject and came across things like FOAF, SKOS, etc. Presumably there’s a namespace somewhere in there which can be re-used to link individuals with their “lists of things”.</p>
+
+<p>Said “things” also shouldn’t need to be duplicated if they exist already. E.g. one of my favourite authors is already defined here: <a href="http://dbpedia.org/page/Greg_Egan">Greg Egan on dbpedia.org</a> and surely my FOAF profile can somehow define a “list of my favourite authors” which in turn points to this resource.</p>
+
+<p>Anyhoo, as you can see I’m keen to learn and keen to invest my time in SW. I’m very eager to work on something worthwhile, so please let me know where I can direct my attention to - perhaps an Open Source project? I’m a coder - not an editor/writer, but if you need me on documentation duty, I’ll gladly oblige.</p>
+
+<p>Thanks for reading, and please leave a comment below, or <a href="mailto:%6F%70%79%61%74%65%40%67%6D%61%69%6C%2E%63%6F%6D">contact me</a>.</p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2008/01/11/beatthatquote.html">&laquo; BeatThatQuote.com</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2010/04/05/clear-the-java-mucky-muck-from-ubuntu.html">Clear the Java mucky muck from Ubuntu. &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>

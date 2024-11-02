@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://juanuys.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://juanuys.com/" rel="alternate" type="text/html" /><updated>2024-11-02T10:54:32+00:00</updated><id>https://juanuys.com/feed.xml</id><title type="html">Juan Uys</title><subtitle>Juan's website</subtitle><entry><title type="html">Steam 🦊 Extension</title><link href="https://juanuys.com/blog/2023/11/24/steam-revenue-calculator-firefox-extension.html" rel="alternate" type="text/html" title="Steam 🦊 Extension" /><published>2023-11-24T00:00:00+00:00</published><updated>2023-11-24T00:00:00+00:00</updated><id>https://juanuys.com/blog/2023/11/24/steam-revenue-calculator-firefox-extension</id><content type="html" xml:base="https://juanuys.com/blog/2023/11/24/steam-revenue-calculator-firefox-extension.html">&lt;p&gt;I made a &lt;a href=&quot;https://addons.mozilla.org/en-GB/firefox/addon/steam-revenue-calculator/&quot;&gt;Steam Revenue Calculator Firefox Extension&lt;/a&gt;. It is a port (with permission of the original author) of the &lt;a href=&quot;https://chromewebstore.google.com/detail/steam-revenue-calculator/gjhejidajnchnadcangcodljgdmenipa&quot;&gt;Chrome Extension of the same name&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://github.com/opyate/steam-revenue-calculator-firefox-extension&quot;&gt;source code is here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If the numbers look off, please let me know. The Boxleiter/formulas do change from time to time to stay up-to-date with latest market behaviour.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2023-11-24-steam-revenue-calculator-firefox-extension/example.png&quot; alt=&quot;Example&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="imadeathing" /><category term="gamedev" /><category term="tools" /><summary type="html">I made a Steam Revenue Calculator Firefox Extension. It is a port (with permission of the original author) of the Chrome Extension of the same name.</summary></entry><entry><title type="html">QuickTextureButton for Godot</title><link href="https://juanuys.com/blog/2023/11/17/quicktexturebutton-for-godot.html" rel="alternate" type="text/html" title="QuickTextureButton for Godot" /><published>2023-11-17T00:00:00+00:00</published><updated>2023-11-17T00:00:00+00:00</updated><id>https://juanuys.com/blog/2023/11/17/quicktexturebutton-for-godot</id><content type="html" xml:base="https://juanuys.com/blog/2023/11/17/quicktexturebutton-for-godot.html">&lt;p&gt;I made a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;QuickTextureButton&lt;/code&gt; for Godot.&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&quot;https://gist.github.com/opyate/706c0c4f3c1322a44b09ea8a5e624edf&quot;&gt;source code&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;During gamedev I sometimes want to make UI buttons very quickly, without having to go and draw alternatives for hover/pressed/focused/disabled/etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2023-11-17-quicktexturebutton-for-godot/example.png&quot; alt=&quot;Example&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;1836&quot; height=&quot;799&quot; src=&quot;https://www.youtube.com/embed/gPY1Uj-yxag&quot; title=&quot;A quick TextureButton for Godot&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="blog" /><category term="imadeathing" /><category term="gamedev" /><category term="godot" /><category term="tools" /><summary type="html">I made a QuickTextureButton for Godot.</summary></entry><entry><title type="html">UberPath2D for Godot</title><link href="https://juanuys.com/blog/2023/11/06/uberpath2d-for-godot.html" rel="alternate" type="text/html" title="UberPath2D for Godot" /><published>2023-11-06T00:00:00+00:00</published><updated>2023-11-06T00:00:00+00:00</updated><id>https://juanuys.com/blog/2023/11/06/uberpath2d-for-godot</id><content type="html" xml:base="https://juanuys.com/blog/2023/11/06/uberpath2d-for-godot.html">&lt;p&gt;I made a Godot add-on for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Path2D&lt;/code&gt; called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;UberPath2D&lt;/code&gt;, which has smoothing, and also the ability to limit any drawn path to the boundaries of a rectangle.&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&quot;https://godotengine.org/asset-library/asset/2322&quot;&gt;asset lib&lt;/a&gt;, &lt;a href=&quot;https://github.com/opyate/godot-uberpath2d&quot;&gt;source code&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Here’s a demo:&lt;/p&gt;
+
+&lt;iframe width=&quot;1836&quot; height=&quot;799&quot; src=&quot;https://www.youtube.com/embed/sFDraUsjWuk&quot; title=&quot;UberPath2D for godot engine&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="blog" /><category term="imadeathing" /><category term="gamedev" /><category term="godot" /><category term="tools" /><summary type="html">I made a Godot add-on for Path2D called UberPath2D, which has smoothing, and also the ability to limit any drawn path to the boundaries of a rectangle.</summary></entry><entry><title type="html">Gamedev-friendly webserver</title><link href="https://juanuys.com/blog/2023/10/16/gamedev-friendly-webserver.html" rel="alternate" type="text/html" title="Gamedev-friendly webserver" /><published>2023-10-16T00:00:00+00:00</published><updated>2023-10-16T00:00:00+00:00</updated><id>https://juanuys.com/blog/2023/10/16/gamedev-friendly-webserver</id><content type="html" xml:base="https://juanuys.com/blog/2023/10/16/gamedev-friendly-webserver.html">&lt;p&gt;I made a gamedev-friendly web server (especially for Godot gamedevs) 👍&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&quot;https://gist.github.com/opyate/6e5fcabc6f41474d248613c027373856&quot;&gt;source code&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;When you test your Web build locally, you’ll sometimes see this error:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2023-10-16-gamedev-friendly-webserver/error.png&quot; alt=&quot;Error&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The web server fixes these errors by&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;setting the appropriate headers&lt;/li&gt;
+  &lt;li&gt;creating a self-signed SSL certificate on-the-fly (so you don’t have to)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="blog" /><category term="imadeathing" /><category term="gamedev" /><category term="godot" /><category term="tools" /><summary type="html">I made a gamedev-friendly web server (especially for Godot gamedevs) 👍</summary></entry><entry><title type="html">LLM inside Godot game</title><link href="https://juanuys.com/blog/2023/10/09/llm-inside-godot-game.html" rel="alternate" type="text/html" title="LLM inside Godot game" /><published>2023-10-09T00:00:00+00:00</published><updated>2023-10-09T00:00:00+00:00</updated><id>https://juanuys.com/blog/2023/10/09/llm-inside-godot-game</id><content type="html" xml:base="https://juanuys.com/blog/2023/10/09/llm-inside-godot-game.html">&lt;p&gt;I put an LLM inside a Godot game.&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&quot;https://github.com/opyate/godot-llm-experiment&quot;&gt;source code&lt;/a&gt;, &lt;a href=&quot;https://www.reddit.com/r/aigamedev/comments/173mwyz/llm_generating_random_conversation_from_within_a/&quot;&gt;Reddit thread&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;As I don’t know SCons (the build tool used by Godot for GDExtension), I got a &lt;a href=&quot;https://chat.openai.com/share/e93fbfe1-9069-49a6-8282-de7c9cad9093&quot;&gt;lot of help from ChatGPT&lt;/a&gt; with it. There are a few open issues to clean things up and add Windows support.&lt;/p&gt;
+
+&lt;p&gt;Here’s an experiment showing two agents having an eternal conversation. The use-case for this is to have NPCs do interesting background chatter in a game, like when entering a town square and seeing all these little interesting speech bubbles pop up above the heads of the NPCs.&lt;/p&gt;
+
+&lt;iframe width=&quot;1836&quot; height=&quot;799&quot; src=&quot;https://www.youtube.com/embed/qHVFi8tws7Q&quot; title=&quot;LLM generating random conversation from within Godot.&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="blog" /><category term="imadeathing" /><category term="gamedev" /><category term="godot" /><category term="llm" /><category term="ai" /><category term="ml" /><category term="deeplearning" /><category term="chatgpt" /><summary type="html">I put an LLM inside a Godot game.</summary></entry><entry><title type="html">A quick thought on AI and games</title><link href="https://juanuys.com/blog/2023/03/07/thoughts-on-ai-and-games.html" rel="alternate" type="text/html" title="A quick thought on AI and games" /><published>2023-03-07T00:00:00+00:00</published><updated>2023-03-07T00:00:00+00:00</updated><id>https://juanuys.com/blog/2023/03/07/thoughts-on-ai-and-games</id><content type="html" xml:base="https://juanuys.com/blog/2023/03/07/thoughts-on-ai-and-games.html">&lt;p&gt;&lt;em&gt;Tl;DR: AI is just a tool, and as a creative, you need to identify what these tools are, and start paying attention to them.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update 2024-07-05: Andrew Huang &lt;a href=&quot;https://youtu.be/FHOAeFkoVLw&quot;&gt;says everything I didn’t have the words for&lt;/a&gt; when I wrote this.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update 2023-11-24: Jonas Tyroller also has a &lt;a href=&quot;https://youtu.be/qOArU7hpHtw?si=w2IE6DhkM3pKxHqk&quot;&gt;sober view&lt;/a&gt; on all of this.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update 2023-03-10: don’t read my ramblings below; just watch &lt;a href=&quot;https://youtu.be/rswxcDyotXA&quot;&gt;this&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am a data/ML engineer by day, and an indie micro studio by night, so not only am I familiar with AI/ML and deep learning in my professional life, but I’m also fully aware of the advances being made in the creative industries using AI.&lt;/p&gt;
+
+&lt;p&gt;It’s not all positive, though. The big question on everyone’s mind is whether &lt;a href=&quot;https://duckduckgo.com/?q=will+ai+steal+my+job&quot;&gt;AI will steal your job&lt;/a&gt;. GPT made a big splash recently, and &lt;a href=&quot;https://www.vice.com/en/article/dy7b5y/artists-are-suing-over-stable-diffusion-stealing-their-work-for-ai-art&quot;&gt;artists aren’t happy&lt;/a&gt; that their art is being used for model training without their permission.&lt;/p&gt;
+
+&lt;p&gt;This made me think about where AI fits into a creative person’s life.&lt;/p&gt;
+
+&lt;h1 id=&quot;ai-in-use-in-game-dev-right-now&quot;&gt;AI in use in game dev right now&lt;/h1&gt;
+
+&lt;p&gt;First, an exploration of the tools that are out there, and where it is being used. There are plenty of examples in the wild, but I highlight just a few from recent memory below.&lt;/p&gt;
+
+&lt;p&gt;We’re seeing great advancements in AI content generation and process automation:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;image generation (e.g. &lt;a href=&quot;https://beta.dreamstudio.ai/&quot;&gt;stable diffusion&lt;/a&gt;, &lt;a href=&quot;https://midjourney.com/&quot;&gt;everyone’s favourite image-imagining Discord bot&lt;/a&gt;, &lt;a href=&quot;https://layer.ai/&quot;&gt;SD with in/out-painting&lt;/a&gt;, &lt;a href=&quot;https://www.scenario.gg/&quot;&gt;generation and training&lt;/a&gt;, &lt;a href=&quot;https://leonardo.ai/&quot;&gt;generation, training + in/out-painting&lt;/a&gt;, &lt;a href=&quot;https://runwayml.com/&quot;&gt;suites of tools&lt;/a&gt;, &lt;a href=&quot;https://www.bluewillow.ai/&quot;&gt;another Discord bot&lt;/a&gt;, and more)&lt;/li&gt;
+  &lt;li&gt;animation (e.g. &lt;a href=&quot;https://cascadeur.com/&quot;&gt;animation software&lt;/a&gt;, &lt;a href=&quot;https://ebsynth.com/&quot;&gt;paintings to video&lt;/a&gt;, &lt;a href=&quot;https://plask.ai/&quot;&gt;motion capture&lt;/a&gt;, &lt;a href=&quot;https://www.rokoko.com/products/video&quot;&gt;webcam to mocap&lt;/a&gt;, and more)&lt;/li&gt;
+  &lt;li&gt;automated QA (e.g. &lt;a href=&quot;https://modl.ai/&quot;&gt;modl&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;3D (e.g. &lt;a href=&quot;https://www.nasir.lol/clipmesh&quot;&gt;textured meshes from text prompts&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;audio (e.g. &lt;a href=&quot;https://google-research.github.io/seanet/musiclm/examples/&quot;&gt;music generation from text prompts&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;narrative (e.g. &lt;a href=&quot;https://chat.openai.com/&quot;&gt;let chatGPT help you write a story&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;many more&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And as such, more and more games being made with the assistance AI technology, e.g.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://echoesofsomewhere.com&quot;&gt;https://echoesofsomewhere.com&lt;/a&gt; - an experimental 2.5D point and click adventure game that “relies heavily on AI generated content”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.aidungeon.io/&quot;&gt;https://play.aidungeon.io/&lt;/a&gt; - text adventure game generator, released back in 2019&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;and the countless games popping up on itch which uses AI-generated content outright&lt;/p&gt;
+
+    &lt;p&gt;Looking at all these advances, it’s easy to feel&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;as the person who usually composes the music, MusicLM will take my job&lt;/li&gt;
+      &lt;li&gt;as the person who usually draws the art, Midjourney will take my job&lt;/li&gt;
+      &lt;li&gt;and so forth&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;where-does-ai-fit-into-my-future&quot;&gt;Where does AI fit into my future?&lt;/h1&gt;
+
+&lt;p&gt;I think AI is just a tool.&lt;/p&gt;
+
+&lt;p&gt;New tools have popped up in creatives’ lives throughout history. Photographers got digital cameras and Photoshop. We went from quills to pens to typewriters to PCs to laptops. The personal computer benefitted basically everyone. Those inventions didn’t take our jobs, it made us better at our jobs.&lt;/p&gt;
+
+&lt;p&gt;Anecdote: a friend studied photography back in 2002, and looked down on digital cameras: there was something about going through the slog of developing the prints in a dark room yourself that imparted more artistry on the photographs, and that anyone with a digital camera was “cheating”. Also, don’t even get him started on digital image manipulation. However, fast forward a couple of decades, and client work is being done purely digitally. It’s cheaper and more efficient.&lt;/p&gt;
+
+&lt;p&gt;Anecdote: a family member stopped working as a secretary in the 80s (typewriters, fax, photocopies) to spend more time with kids. She only tried to re-enter the job market in the mid-2000s out of necessity, but never re-skilled in the interim. Needless to say, the attempt was short-lived. It’s a sad case of “the world has gone me by”.&lt;/p&gt;
+
+&lt;p&gt;So, just like digital cameras, Photoshop, and laptops, AI is just a tool that won’t take your job, but it will make you better at it. However, you might lose your job or struggle at your job if you don’t keep abreast of the latest tools, of which AI is one.&lt;/p&gt;
+
+&lt;h1 id=&quot;a-day-in-the-life&quot;&gt;A day in the life&lt;/h1&gt;
+
+&lt;p&gt;When I work on art for a game, I spend a fair amount of time just doodling in a notebook. I’m “designing”, using colour, composition, and shape to communicate something through the piece of art. I think about The Message, the themes that underpin it.&lt;/p&gt;
+
+&lt;p&gt;Then comes the bit where I’m pushing a pen around on a Wacom tablet for a few hours. Then importing it into the game engine, where it becomes part of the scene.&lt;/p&gt;
+
+&lt;p&gt;What usually happens is that the ideating/designing phase takes about 10%, and the work/process/creation takes about 90%. (There might be some iteration going on to fine-tune the design.)&lt;/p&gt;
+
+&lt;p&gt;I think it’s that 90% that can be automated away, but the 10% that will remain a uniquely human skill.&lt;/p&gt;
+
+&lt;p&gt;Fundamentals in art, the ability to draw, knowing how to integrate art with the game engine: these are all just a means to an end, which is the product (the game; the thing that tells the story, that has the message).&lt;/p&gt;
+
+&lt;p&gt;However, the product can be the most beautiful thing in the world, but if it’s not well-designed (I’m &lt;em&gt;not&lt;/em&gt; saying well-drawn), then it will fall flat.&lt;/p&gt;
+
+&lt;h1 id=&quot;now-what&quot;&gt;Now what?&lt;/h1&gt;
+
+&lt;p&gt;You don’t have to go back to uni to study statistics and applied math, and learn everything from the basic &lt;a href=&quot;https://en.wikipedia.org/wiki/Artificial_neuron&quot;&gt;McCulloch-Pitts neuron&lt;/a&gt; all the way to the latest deep learning techniques.&lt;/p&gt;
+
+&lt;p&gt;However, do seek out the tools that are making a splash in your specific corner of the industry. Try it; play with it. See what it does. Maybe even incorporate it into your toolkit, and become an expert in it. (Because your colleagues will, and they’ll be better prepared tomorrow.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But, realise that there’s a fundamental part of being human that it will never replace (well, at least not yet 😉), and that’s your ability to dream and come up with unique solutions to problems.&lt;/strong&gt; You can still do things the Old Way, maybe in your spare time, for fun. But the New Way will get you to your goals more quickly, and let you focus on the important stuff which only a human brain (and heart!) can bring to the table.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS I would have liked to have written this on a typewriter, to hear the clickety clack of the keys, and to end up with a beautiful artifact which I can smell and hold in my hands. God forbid I need to do a search-and-replace, though…&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;extra-thoughts-2023-03-07&quot;&gt;Extra thoughts 2023-03-07&lt;/h1&gt;
+
+&lt;p&gt;(Extra thoughts I had after watching &lt;a href=&quot;https://www.youtube.com/watch?v=GOwxXj1EIXM&quot;&gt;this video&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;h2 id=&quot;im-not-devaluing-established-techniques&quot;&gt;I’m not devaluing established techniques&lt;/h2&gt;
+
+&lt;p&gt;Just some context: I’m just a guy with day job and family/kids who has almost no time for indie dev. I’m so-so on the illustration front. I also can’t afford any artists to help me with game art at the moment. So, I’m looking for tooling to help speed up my own processes.&lt;/p&gt;
+
+&lt;p&gt;I’m not devaluing anything any artist does using traditional/established techniques. I think our work with paintbrush on canvas, or stylus on tablet, or fingers on synthesiser/piano - it all springs from the heart, from a seed of inspiration, brought to fruition with honed craft and many years of training.&lt;/p&gt;
+
+&lt;p&gt;But these new AI tools are getting better, and will be more commonplace in the near future. You might as well embrace it.&lt;/p&gt;
+
+&lt;h2 id=&quot;theres-a-place-for-ai-generated-content&quot;&gt;There’s a place for AI-generated content&lt;/h2&gt;
+
+&lt;p&gt;Like I said, I’m an unknown indie gamedev with no means to employ dedicated craftspeople to do things for me. I, for one, would like more tools with which to get my message/idea out quicker.&lt;/p&gt;
+
+&lt;p&gt;And then one day, when I have more success, I’d love to involve more artists and musicians in my projects.&lt;/p&gt;
+
+&lt;p&gt;If you grep my blog for “collective” or even “&lt;a href=&quot;https://github.com/juanuys/juanuys.github.io/search?q=worker+collective&quot;&gt;worker collective&lt;/a&gt;” (especially &lt;a href=&quot;/blog/2021/08/03/week-10-more-industry-insights.html#worker-collectives&quot;&gt;this post&lt;/a&gt;), you’ll quickly see that I’m quite anti-corporate-greed. I would LOVE to start a worker collective one day, and share in the success equally.&lt;/p&gt;
+
+&lt;p&gt;So, in conclusion, AI-generated art might help the little guy get a leg up (just like they currently do with asset packs and royalty-free music) if we can figure out &lt;a href=&quot;https://arstechnica.com/information-technology/2023/02/us-copyright-office-withdraws-copyright-for-ai-generated-comic-artwork/&quot;&gt;AI copyright&lt;/a&gt;, but the large media houses are real scumbags if they think they can lay off their workforce and use AI-generated art instead, just so that they can make an extra buck.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="ai" /><category term="ml" /><category term="deeplearning" /><category term="gamedev" /><summary type="html">Tl;DR: AI is just a tool, and as a creative, you need to identify what these tools are, and start paying attention to them.</summary></entry><entry><title type="html">Shader fun.</title><link href="https://juanuys.com/blog/2023/02/22/shader-fun.html" rel="alternate" type="text/html" title="Shader fun." /><published>2023-02-22T00:00:00+00:00</published><updated>2023-02-22T00:00:00+00:00</updated><id>https://juanuys.com/blog/2023/02/22/shader-fun</id><content type="html" xml:base="https://juanuys.com/blog/2023/02/22/shader-fun.html">&lt;p&gt;Idea nicked from &lt;a href=&quot;https://airtight.cc/&quot;&gt;Felix Turner&lt;/a&gt; and image from &lt;a href=&quot;https://www.wallpaperflare.com/archetype-octopus-kraken-wallpaper-ybiep/download/1920x1080&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;script&gt;
+  var parentDiv = document.getElementsByClassName(&quot;all&quot;)[0];
+  var closeButton = document.createElement(&quot;input&quot;);
+  closeButton.classList.add(&quot;closeButton&quot;);
+  closeButton.value = &quot;X&quot;;
+  closeButton.onclick = function() {
+    parentDiv.remove();
+  };
+  parentDiv.insertBefore(closeButton, parentDiv.firstChild);
+
+  var canvasDiv = document.createElement('div');
+  canvasDiv.class = &quot;hero&quot;;
+  
+  var canvas = document.createElement('canvas');
+  canvas.id = 'hero-gl';
+  canvas.height = window.innerHeight;
+  //canvas.style.height = '100%';
+  canvas.style.position = 'absolute';
+  canvas.style.top = 0;
+  canvas.style.left = 0;
+  canvas.width = window.innerWidth;
+  //canvas.style.width = '100%';
+  canvasDiv.appendChild(canvas);
+
+  document.body.prepend(canvas);
+&lt;/script&gt;
+
+&lt;script src=&quot;/assets/posts/2023-02-22-shader-fun/app.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="blog" /><category term="imadeathing" /><category term="code" /><category term="art" /><category term="genart" /><category term="javascript" /><category term="canvas" /><category term="shader" /><category term="webgl" /><summary type="html">Idea nicked from Felix Turner and image from here.</summary></entry><entry><title type="html">A tale of two beverages</title><link href="https://juanuys.com/blog/2022/12/05/a-tale-of-two-beverages.html" rel="alternate" type="text/html" title="A tale of two beverages" /><published>2022-12-05T00:00:00+00:00</published><updated>2022-12-05T00:00:00+00:00</updated><id>https://juanuys.com/blog/2022/12/05/a-tale-of-two-beverages</id><content type="html" xml:base="https://juanuys.com/blog/2022/12/05/a-tale-of-two-beverages.html">&lt;p&gt;&lt;em&gt;Names of individuals were changed to protect the innocent, but the beverages remain true.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;weak-tea&quot;&gt;Weak tea&lt;/h1&gt;
+
+&lt;p&gt;About ten years ago, the UK government decided to fix its publishing, and the &lt;a href=&quot;https://www.gov.uk/government/organisations/government-digital-service&quot;&gt;Government Digital Service&lt;/a&gt; was born. It was the hot new job in town, and my agent got me an interview.&lt;/p&gt;
+
+&lt;p&gt;I rock up at &lt;a href=&quot;https://en.wikipedia.org/wiki/Aviation_House&quot;&gt;Aviation House&lt;/a&gt;, and G4S give me a fob, and some tidy young civil servant takes me up and through corridors plastered with Post-Its to meet my interviewer, Pete.&lt;/p&gt;
+
+&lt;p&gt;Introductions. Tour. “And this is the kitchen. Would you like some tea, BTW?” While I say uhm and think of a way to say no thanks I don’t really drink tea, Pete grabs a stained limestoned mug, plonks in a baglet of Yorkshire, and holds the mug under the hot water dispenser. He then splashes in about a gallon of 1% milk, and hands me the mug. “OK, let’s meet Mike and start the interview” and we set of to a side room.&lt;/p&gt;
+
+&lt;p&gt;A put the cold mug down on the table. The 1% cloud is sitting there with the corner of the teabag poking out. Mike arrives. Hello. Shall we start? Describe everything that happens the moment someone clicks on a URL.&lt;/p&gt;
+
+&lt;p&gt;I know this question. It’s open ended. It’s for them to gauge how much you know about the web in general, but also what interests you most about web technology. Not that I’m that interested in routers and switches, but I talk about routers and switches too. No-one folds their arms, so I’m doing OK. But Pete is looking at the mug next to me on the table.&lt;/p&gt;
+
+&lt;p&gt;A few more questions. Tell us about yourself. Blah blah, and I tell them about an up-coming interview I have with Yammer in San Francisco. They’re very impressed by this. I think their eyes light up a bit more, because I’m suddenly validated by &amp;lt;insert cool Silicon Valley corp here&amp;gt;, not that SF is &lt;em&gt;in&lt;/em&gt; the valley, but hey.&lt;/p&gt;
+
+&lt;p&gt;“Let’s introduce you to the team” says Pete. “Don’t forget your tea.” I look down at the mug. The 1% cloud is still sitting there, having now slightly entropied with the cold water around it. The teabag is holding onto its aromas and flavours for dear life, as nothing is seeping out. “I’m too ruddy cold!” the teabag shouts at me. A take the mug, and follow Pete and Mike out.&lt;/p&gt;
+
+&lt;p&gt;I get shown kanban boards, and hot desks. Excited young developers are pointing to user research and talking about graceful degradation. Pete’s eyes flicker from my face to the mug. I bring it up to my lips, but don’t take any of the cold swill into my mouth. Then I swallow nothing. Mmmhh yum, my face says. Nice tea.&lt;/p&gt;
+
+&lt;p&gt;More people, more yellow squares stuck to walls, more founts of knowledge about UX, automated build pipelines, and KPI dashboards. Interview over. “Be right back”, I say to Pete, over my shoulder with my body obscuring the mug in my hand. I seek out the kitchenette. Basin. Pour.&lt;/p&gt;
+
+&lt;p&gt;“What’s wrong with the tea?” Pete says from the doorway. Some terrible excuse comes forth. I don’t remember what I said, so I’ll make something up again: “uhm, I have to go, no time to finish it. Lovely few sips, though!” Pete looks disappointed.&lt;/p&gt;
+
+&lt;h1 id=&quot;strong-coffee&quot;&gt;Strong coffee&lt;/h1&gt;
+
+&lt;p&gt;I land at SFO, take the BART to downtown SF, find my hotel, drop my bag, then head out to find food. My day just got much longer, but it’s too early for bed. I find some supersized sushi somewhere. I would later learn that all food are bigger in America.&lt;/p&gt;
+
+&lt;p&gt;My alarm wakes me the next morning after a night of tossing and turning. A bit earlier, so I can squeeze in a walk, and see some sights before the big meeting. They’re paying for flight, hotel, and expenses, but bookended my trip to fit in just the interview. I eventually end up in the Mission District, feeling the heavy tendrils of jet lag tug at my brain flaps.&lt;/p&gt;
+
+&lt;p&gt;I find the office, but have 20 minutes to spare. A strapping young chap walks up the sidewalk, and I ask him where I can find some good coffee.&lt;/p&gt;
+
+&lt;p&gt;“Yo, my man. You have to try Phil’s Beans, yo! With a zed!” He points to a street corner, “Go down there, you can’t miss it.” I think I stumble upon a Philz Beanz, but can’t now remember if it had that many zeds. I walk in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2022-12-05-a-tale-of-two-beverages/yammer-to-philz.png&quot; alt=&quot;Yammer to Philz and back&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I ask for a normal black coffee. I get asked all sorts of questions about drip style, beans, whether I want it filtered through moon rock, and if I want my chakra rebalanced while I wait. (Half of that is true.) I eventually get handed a bucket of coffee (or, what would pass for a normal serving size over there, I guess, or perhaps I should finally learn what VENTI means so I can say no next time).&lt;/p&gt;
+
+&lt;p&gt;Sip, walk, cross the road, sip, sip, buzz, sip, “Come up, we’re on the second floor. Above TechCrunch.”, sip, up the stairs, sip, BUZZ. (That last buzz isn’t me pressing the buzzer, it’s me buzzing.) I get buzzed in, and enter an office where everyone is standing at their desks, with a dog at their feet.&lt;/p&gt;
+
+&lt;p&gt;At this point I’m thinking “oh, no”, not because I don’t like standing desks or dogs (I love dogs), but because it feels like something class A is coursing through my system (going by anecdotal descriptions of said class, of course).&lt;/p&gt;
+
+&lt;p&gt;From here on out the day can be divided into two parts:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The first part is my heart racing, and my eyelids twitching. My eyes are dry. My mouth is dry. This guy wants detail, but that guy wants broad strokes, and I’m somehow pissing both off, as I’m yammering (pun intended) away like a coke head on acid.&lt;/li&gt;
+  &lt;li&gt;The second part is the world coming down on me like a pile of bricks. I go from buzzy to fuzzy. I can’t think. My eyes are still dry. My mouth is still dry. My hand shakes as I draw on the whiteboard, trying to slowly and word-evadingly explain to the 7th interviewer for the 3rd time that day how I would design a fan-out architecture if I had to invent Twitter from scratch and “Justin Bieber follows back everyone so how would you show him new tweets”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Seven hours later, I’m utterly exhausted. I’m starving. I had a greasy breakfast, because for my tummy it wasn’t breakfast time yet after I woke up. It was dinner time. So, not the usual slow burn of oats, which means I had dinner for breakfast. And then my body wanted to go to bed for 8 hours, but that 20 ounce cup of Philz said no.&lt;/p&gt;
+
+&lt;p&gt;Remember what got you this interview, I say to myself. You made that kick-ass extension to &lt;a href=&quot;https://github.com/codahale/jerkson&quot;&gt;jerkson&lt;/a&gt; that everyone wanted, using Scala’s case class default parameters as default values for missing values in JSON payloads. (Yes, that made sense to me.) So, you’re not bad. They &lt;em&gt;flew&lt;/em&gt; you here to talk to you.&lt;/p&gt;
+
+&lt;p&gt;My heavy feet walk me back to the hotel to pick up my bag. Back to SFO. Night flight. And, of course, again I don’t sleep.&lt;/p&gt;
+
+&lt;h1 id=&quot;aftermath&quot;&gt;Aftermath&lt;/h1&gt;
+
+&lt;p&gt;So, here we are, ten years later, fondly remembering how two beverages completely scuppered two prestigious jobs for me.&lt;/p&gt;
+
+&lt;p&gt;Alas, memory is an unreliable foe. What really happened was that GDS had trouble sponsoring my visa (yes, a government thing couldn’t organise a government thing), and Yammer got bought by Microsoft shortly after, which changed their plans for opening a London office a bit.&lt;/p&gt;
+
+&lt;p&gt;But, I blame it on those two beverages.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS I would later get British citizenship and work on the second phase of GDS (transforming services) as a contractor, working alongside Pete and Mike. They’re nice guys, but they never offered to make me tea again.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="life" /><category term="coffee" /><category term="tea" /><category term="career" /><summary type="html">Names of individuals were changed to protect the innocent, but the beverages remain true.</summary></entry><entry><title type="html">Masters retrospective</title><link href="https://juanuys.com/blog/2022/11/21/masters-retrospective.html" rel="alternate" type="text/html" title="Masters retrospective" /><published>2022-11-21T00:00:00+00:00</published><updated>2022-11-21T00:00:00+00:00</updated><id>https://juanuys.com/blog/2022/11/21/masters-retrospective</id><content type="html" xml:base="https://juanuys.com/blog/2022/11/21/masters-retrospective.html">&lt;h1 id=&quot;masters-retrospective&quot;&gt;Masters retrospective&lt;/h1&gt;
+
+&lt;p&gt;I graduated in September, and waited a few months before leaving my review of the programme, so to speak.&lt;/p&gt;
+
+&lt;p&gt;TL;DR I was &lt;a href=&quot;/blog/2020/09/19/falmouth-masters-first-post.html&quot;&gt;very excited&lt;/a&gt; about the programme when I started just over 2 years ago, enjoyed it thoroughly throughout, and do think I’m better prepared for indiedev having done the programme.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://falmouth.akarisoftware.com/index.cfm/page/course/courseId/11516&quot;&gt;module breakdown&lt;/a&gt; is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://falmouth.akarisoftware.com/index.cfm/page/module/moduleId/95435&quot;&gt;GDO710&lt;/a&gt; Development Practice, and &lt;a href=&quot;/tags#gdd710&quot;&gt;blog posts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://falmouth.akarisoftware.com/index.cfm/page/module/moduleId/95436&quot;&gt;IGO720&lt;/a&gt; Game Development, and &lt;a href=&quot;/tags#igd720&quot;&gt;blog posts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://falmouth.akarisoftware.com/index.cfm/page/module/moduleId/95437&quot;&gt;GDO730&lt;/a&gt; Co-Creative Design &amp;amp; Development Practice, and &lt;a href=&quot;/tags#gdd730&quot;&gt;blog posts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://falmouth.akarisoftware.com/index.cfm/page/module/moduleId/95438&quot;&gt;IGO740&lt;/a&gt; Indie Game Start-Up, and &lt;a href=&quot;/tags#igd740&quot;&gt;blog posts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://falmouth.akarisoftware.com/index.cfm/page/module/moduleId/95875&quot;&gt;GDO750&lt;/a&gt; Major Project, and &lt;a href=&quot;/tags#gdo750&quot;&gt;blog posts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ll cover each of these in turn.&lt;/p&gt;
+
+&lt;h1 id=&quot;development-practice&quot;&gt;Development practice&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To deepen your sense of development practice through a focused personal case study.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This module was basically a “taster” and encouraged us to figure out what our development pipeline would look like (not just coding, but asset creation, etc), find gaps in our knowledge (e.g. “I don’t know source control”), figure out how to plug the gaps, and then also make a small artefact (e.g. a game) using any newly acquired skills.&lt;/p&gt;
+
+&lt;p&gt;We were also urged to start reflective practice, hence the blog posts. TBH, I usually end up writing in my pen-and-paper notebook, and sometimes write a few extra words in Google Docs and Trello when I’m designing or planning, so not everything ends up on the blog.&lt;/p&gt;
+
+&lt;p&gt;I’ve been making small games for a while now, and have been coding since the nineties, so did some more reading around art, cross-pollination of different media, and ethics. I identified a big gap in my toolchain: shaders.&lt;/p&gt;
+
+&lt;p&gt;I would go on to get more proficient with shaders, reaching a point in 2022 where I’m making shaders from scratch without having to resort to documentation (much). It feels good to visualise a VFX, and then be able to sketch it with GLSL code a few minutes later.&lt;/p&gt;
+
+&lt;h1 id=&quot;game-development&quot;&gt;Game Development&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To integrate skills across disciplinary boundaries to realise a small indie game as an individual creative practitioner&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now we’re talking. Here we get to cover all the “big” gamedev disciplines: narrative design, animation, level design, sound design, etc.&lt;/p&gt;
+
+&lt;p&gt;It’s during this module that I’m getting more convinced of narrative design. I previously thought I wouldn’t &lt;em&gt;need&lt;/em&gt; narrative, as I mostly make puzzle games, so no &lt;em&gt;story&lt;/em&gt; needed, right? But, narrative doesn’t just need to be words on the screen. It can encompass a player journey underpinned by genre and theme, even just using iconography.&lt;/p&gt;
+
+&lt;p&gt;During this module I’m also getting more convinced of market analysis and marketing, having always thought “I’ll make the game I want to play” and “The game will be so good, it will market itself”. Now, those strategies are fine if you’re a hobbyist gamedev, and you might even end up making a great game, and have that one initial tweet domino the game into a viral buzz.&lt;/p&gt;
+
+&lt;p&gt;But, those successes are few and far between. Career gamedevs can’t spend weeks polishing, and have to release something decent, but also spend some time telling folks about it. It’s about the trade-offs, looking at the market and deciding what to make, where to spend time polishing, and how to market effectively.&lt;/p&gt;
+
+&lt;h1 id=&quot;co-creative-design--development-practice&quot;&gt;Co-Creative Design &amp;amp; Development Practice&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To cultivate ways of collaborating and managing creative projects effectively in a distributed multidisciplinary context.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This one was all about the teamwork.&lt;/p&gt;
+
+&lt;p&gt;It’s no secret that teams do better work than individuals. Even lone geniuses outsource tasks that aren’t their core competencies. Even since our tribal days, the groups survived and the lone nomads didn’t (much).&lt;/p&gt;
+
+&lt;p&gt;I’ve spent years of my career as team lead, or senior dev, having to guide and tutor as I go along, but I thought that for this module I’d take a back seat and focus on observing teams. I put our youngest team mate forward for the leadership role (which I think put him in good stead for a role he got in the industry a bit later on).&lt;/p&gt;
+
+&lt;p&gt;People management is tricky, and it is hard to find experts in fields outside your own whom you can trust to get on with it. People are just people, with their own thoughts, feelings, and ways of working, so it takes a lot of communication with low noise to get ideas and points across.&lt;/p&gt;
+
+&lt;p&gt;I focused more on empathy, and finding shared values and goals, than the actual project itself. The project was a success in the end, too.&lt;/p&gt;
+
+&lt;h1 id=&quot;indie-game-start-up&quot;&gt;Indie Game Start-Up&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To design and prepare to launch a small business with a focus on indie game development.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This was my favourite module, because it dealt with the stuff that I knew least about, which was market analysis, marketing, pitching the game (to investors and publishers), and seeking funding.&lt;/p&gt;
+
+&lt;p&gt;My biggest insight was that, as a creator of experiences, I need to make every interaction with me and my studio “fun” (or at least, have good UX), not just my games. This goes for pitch decks, press kits, the way I market, my website(s), etc. I know that some things like pitch decks and press kits have a certain format, and an audience expect it to be a certain way, but one can still stay on-theme, or inject little moments of joy.&lt;/p&gt;
+
+&lt;p&gt;Most of all, us solo indies can’t afford not to stand out, so we have to be super creative when doing any of the above, not just with our games.&lt;/p&gt;
+
+&lt;h1 id=&quot;major-project&quot;&gt;Major Project&lt;/h1&gt;
+
+&lt;p&gt;What it says on the tin.&lt;/p&gt;
+
+&lt;p&gt;I identified a niche a few months earlier (the whole &lt;a href=&quot;https://howtomarketagame.com/2022/01/31/vampire-survivors-success-an-opportunity-in-the-steam-marketplace/&quot;&gt;survivors-like&lt;/a&gt; explosion), and my focus for the final project was to make a small, cheap survivors-like of my own.&lt;/p&gt;
+
+&lt;p&gt;We did, however, move house a few months ago, and my PC is bound to a desk at a co-working space, so I haven’t been able to work on it since graduation, but my new garden office is being built in January 2022, upon which the sparks will fly again. (I self-fund my gamedev at the moment, and do client work 4 days a week, but have gone up to full-time on client work, because we need some extra cash to pay for the garden office and other home extensions.)&lt;/p&gt;
+
+&lt;p&gt;The market is being flooded with survivors-likes, though, so I’ll have to spend some time next year to find a nice twist for the game if it’s going to have a fresh approach to that sub-genre.&lt;/p&gt;
+
+&lt;h1 id=&quot;other-highlights&quot;&gt;Other highlights&lt;/h1&gt;
+
+&lt;p&gt;The staff at Falmouth are super nice and very knowledgable. I particularly enjoyed my 6 months with our research supervisor, &lt;a href=&quot;https://www.falmouth.ac.uk/staff/dr-jeff-howard&quot;&gt;Dr Jeff Howard&lt;/a&gt;. He opened my eyes to having our games be &lt;em&gt;more&lt;/em&gt; than what you see on the outside, i.e. it can also have a thesis, and be about something more. This can be anything, like in my case, can I make a financially viable survivors-like, yet also have the medium be the message (about the climate crisis)?&lt;/p&gt;
+
+&lt;p&gt;I worked with &lt;a href=&quot;https://www.artstation.com/mattruszala&quot;&gt;Maciej&lt;/a&gt; on the first 4 modules, and it was super fun. He’s a very talented artist, and a super nice guy, and we promised we’ll work together again in the future. In fact, we floated the idea of starting a studio together in the form of a workers collective. (equal ownership and voting rights)&lt;/p&gt;
+
+&lt;p&gt;Failing that, I’m fully prepared now to embark on a solo indie dev career. I can easily walk into a dark room every morning, switch on the lamp, and just start being creative. For the low days, I’ve got a few prompts prepared, so at least I get started quickly with &lt;em&gt;something&lt;/em&gt; every day. (I’m lucky to have never had depression, or very low days. I’m mostly talking about those days where I come to work on a Monday having had a particularly busy weekend, or caught a bug. Knock on wood.)&lt;/p&gt;
+
+&lt;p&gt;I’m made a few friends along the way. Communities of practice, and all that. There are people like you, and people who complement you out there. Find them, and maintain mutually-beneficial connections. Treasure them.&lt;/p&gt;
+
+&lt;p&gt;The whole two years was totally worth it. I also got a distinction (and bought myself a Steam Deck as a reward, whoop!). But, it’s not important how well I did on the programme. What’s important is whether I can pull of a career as an indie game dev. Wish me luck!&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="ma" /><category term="falmouth" /><category term="retrospective" /><summary type="html">Masters retrospective</summary></entry><entry><title type="html">MVP and prototype progress</title><link href="https://juanuys.com/blog/2022/03/05/mvp-and-prototype-progress.html" rel="alternate" type="text/html" title="MVP and prototype progress" /><published>2022-03-05T00:00:00+00:00</published><updated>2022-03-05T00:00:00+00:00</updated><id>https://juanuys.com/blog/2022/03/05/mvp-and-prototype-progress</id><content type="html" xml:base="https://juanuys.com/blog/2022/03/05/mvp-and-prototype-progress.html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#proof-of-concept-1&quot;&gt;Proof of concept 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#proof-of-concept-2&quot;&gt;Proof of concept 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#extra-comments-from-the-surveys&quot;&gt;Extra comments from the surveys&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#other-proofs-of-concept&quot;&gt;Other proofs of concept&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#miro-board&quot;&gt;Miro board&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sketches&quot;&gt;Sketches&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-medium-is-the-message&quot;&gt;The medium is the message&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#steve-swinks-metaphor-metric&quot;&gt;Steve Swink’s metaphor metric&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#doris-ruschs-experiential-metaphor&quot;&gt;Doris Rusch’s experiential metaphor&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ian-bogosts-procedural-rhetoric&quot;&gt;Ian Bogost’s procedural rhetoric&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#bringing-it-together&quot;&gt;Bringing it together&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#homework-and-todo&quot;&gt;Homework and TODO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lessons-learned&quot;&gt;Lessons learned&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#prototype-vs-proof-of-concept-poc&quot;&gt;Prototype VS proof of concept (POC)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#pen--paper-vs-game-engine&quot;&gt;Pen &amp;amp; paper VS game engine&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bibliography&quot;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Welcome to week 6 of the module &lt;em&gt;final major project&lt;/em&gt;. This sprint we focus on proving out our concepts, with a view to start delivering a prototype during sprint 3, which starts next week.&lt;/p&gt;
+
+&lt;p&gt;​​Quick backstory of the game:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You’re a polar bear, on her sheet of ice, floating in the ocean. Problem is, it’s the last piece of ice left in the world, and everyone wants it. Fend off the hordes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;All prototypes and works-in-progress can be found here: &lt;a href=&quot;https://opyate.itch.io/polar&quot;&gt;https://opyate.itch.io/polar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I captured some play footage of the proofs-of-concept here: &lt;a href=&quot;https://www.youtube.com/watch?v=fuCIKDQB9xU&quot;&gt;https://www.youtube.com/watch?v=fuCIKDQB9xU&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;proof-of-concept-1&quot;&gt;Proof of concept 1&lt;/h1&gt;
+
+&lt;p&gt;With this POC, I wanted to gauge how player movement felt. E.g. it felt a bit stiff, or could benefit from acceleration/deceleration, or “it should feel like game X”, etc.&lt;/p&gt;
+
+&lt;p&gt;The survey I linked to the POC had some responses, and it boils down to the controls needing more “juice”. Usually “juice” goes beyond just controls, but details all those things supporting player movement, like audio feedback, visual cues like VFX, tight animation, and such &lt;a class=&quot;citation&quot; href=&quot;#dutch_game_garden_jan_2013&quot;&gt;(Dutch Game Garden 2013)&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#grapefrukt_juice_2012&quot;&gt;(grapefrukt 2012)&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#game_makers_toolkit_secrets_2015&quot;&gt;(Game Maker’s Toolkit 2015)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some even went as far as citing Super Mario Bros. 3 as an example of good controls to aim for. My take from this feedback is to incorporate more inertia, i.e. the player accelerates before reaching full speed, but also takes a few milliseconds to come to a full stop. The similarities probably stop here, as I’m not making a platformer with a wider range of movement types, like jumping.&lt;/p&gt;
+
+&lt;h1 id=&quot;proof-of-concept-2&quot;&gt;Proof of concept 2&lt;/h1&gt;
+
+&lt;p&gt;With the second proof of concept, I wanted to know: How did the player and NPC sizes feel? Unbalanced? Fair?&lt;/p&gt;
+
+&lt;p&gt;I’m thinking of adding a game mechanic where you can build up a flotilla using rubbish found in the sea (like driftwood, plastic, barrels, etc). This rubbish can be used to augment your weapons, and grow your floating base. A larger base would slow you down, but make your stronger.&lt;/p&gt;
+
+&lt;p&gt;From the survey, folks liked:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the idea of collecting sea rubbish, as it made them feel good about cleaning up the ocean&lt;/li&gt;
+  &lt;li&gt;the idea of building up a base in the sea (these folks might just be fans of the base-building genre)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For others, the game felt a lot harder. They didn’t feel as agile or nimble. The challenge here would be to scale up fire-power in tandem with player size.&lt;/p&gt;
+
+&lt;p&gt;A concern of my own was that the player character would feel sluggish, and loose the fast-paced excitement of the early game. As this is an abstract world anyway, I’m thinking of keeping the player movement speed and agility to keep the game fast an exciting. The growing of the base serves another purpose anyway, which is that there is strength in number. More on this later.&lt;/p&gt;
+
+&lt;h1 id=&quot;extra-comments-from-the-surveys&quot;&gt;Extra comments from the surveys&lt;/h1&gt;
+
+&lt;p&gt;The lovely folks I surveyed were kind enough to offer up extra suggestions and comments beyond those that I asked for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;they’d like to see the protagonist, finally. Everyone’s clamouring for the polar bear!&lt;/li&gt;
+  &lt;li&gt;the little red squares that gets dropped when enemies perish: those seem like a bad thing at first because of the colour red. (I chose red to make it stand out from the blue sea background, but will play with other colours)&lt;/li&gt;
+  &lt;li&gt;getting swarmed too quickly. (The game is not at all balanced right now, but I might pay some attention to this sooner rather than later.)&lt;/li&gt;
+  &lt;li&gt;the progress bars at the top are confusing. (I’ve since moved the health bar to the player, and will make it very clear that the top bar is for levelling up.)&lt;/li&gt;
+  &lt;li&gt;this game reminds them of other eco-critical games like Frostpunk, Endling, etc because of similar themes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;other-proofs-of-concept&quot;&gt;Other proofs of concept&lt;/h1&gt;
+
+&lt;p&gt;I have some miro boards and pen &amp;amp; paper sketches, to thrash out some ideas around art and look &amp;amp; feel, before I commit to making art electronically.&lt;/p&gt;
+
+&lt;h2 id=&quot;miro-board&quot;&gt;Miro board&lt;/h2&gt;
+
+&lt;p&gt;I’m inspired by &lt;a href=&quot;https://www.goodreads.com/book/show/68497.The_Scar&quot;&gt;China Miéville’s The Scar&lt;/a&gt;, not just the giant floating armada, but also the “new weird”-ness of it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2022-03-05-mvp-and-prototype-progress/miro.png&quot; alt=&quot;Miro board&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sketches&quot;&gt;Sketches&lt;/h2&gt;
+
+&lt;p&gt;Pen &amp;amp; paper helps me to visualise characters and settings and juxtapose them before committing to pixels.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/2022-03-05-mvp-and-prototype-progress/sketches.png&quot; alt=&quot;Pen &amp;amp; paper sketches&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;the-medium-is-the-message&quot;&gt;The medium is the message&lt;/h1&gt;
+
+&lt;p&gt;The game will have at its core an important message about climate change, and have various factors which will be in support of the message:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the polar bear is on a sheet of ice, and it’s the last sheet of ice in the world&lt;/li&gt;
+  &lt;li&gt;the sea is full of rubbish&lt;/li&gt;
+  &lt;li&gt;sea rubbish can be recycled to make new things (new weapons, ammunition, or extra parts for the flotilla)&lt;/li&gt;
+  &lt;li&gt;the enemies will be polluting, like noisy motorboats, drippy oil tankers, military (a known big polluter), etc&lt;/li&gt;
+  &lt;li&gt;extreme weather will threaten the raft and its crew, like heat waves (which also threatens the ice), tidal waves, storms, etc&lt;/li&gt;
+  &lt;li&gt;the raft will pick up other strays in search of a new icy home, and this will reinforce the message that there is strength in numbers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We don’t want an unsubtle, heavy-handed, didactic message.&lt;/p&gt;
+
+&lt;p&gt;The idea of “the mechanic/medium is the message” is further underpinned by ideas from literature:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ian Bogost’s procedural rhetoric&lt;/li&gt;
+  &lt;li&gt;Doris Rusch’s experiential metaphor&lt;/li&gt;
+  &lt;li&gt;Steve Swink’s metaphor metric&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’ll discuss each in turn, and then align them all at the end, with other supportive and counter-arguments.&lt;/p&gt;
+
+&lt;h2 id=&quot;steve-swinks-metaphor-metric&quot;&gt;Steve Swink’s metaphor metric&lt;/h2&gt;
+
+&lt;blockquote&gt;&lt;p&gt;As a component of a game feel system, metaphor has two aspects, **representation** and **treatment**.&lt;/p&gt;&lt;p&gt;**Representation** is the idea of the thing, or what it appears to be. [...] If you replace all the art, music and sound in a game with purely abstract shapes and colors, what you have removed is the **representation**.&lt;/p&gt;&lt;p&gt;Imagine the game Diablo with graphics by Jackson Pollack and sound by Steve Reich. The fundamen­tal functionality of the game is still intact, but the metaphorical **representation** is gone. While dribbles of paint and electronic pulses do not really represent anything, barbarians, buildings and cows give each object in the game some hook on which players can hang their conceptual hats.&lt;/p&gt;&lt;p&gt;**Treatment** is the cohesive whole formed by visual art, visual effects, sound effects, tactile effects and music. If you take away all the art, music and sound from the game but leave the core systems untouched, what you have removed is the **treatment**.&lt;/p&gt;&lt;p&gt;Imagine the game Diablo with every object - avatars, townsfolk, creatures, environment - replaced by flat gray boxes. The fundamental functionality of the game is still intact, but both treatment and representation are gone.&lt;/p&gt;&lt;cite&gt;&lt;a class=&quot;citation&quot; href=&quot;#swink_game_2009&quot;&gt;(Swink 2009)&lt;/a&gt;&lt;/cite&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;An example for the game:&lt;/em&gt; sea rubbish, even if it benefits the player when picking it up (for crafting weapons and a larger raft), has to look like sea rubbish. It can’t just be abstract gems or coins that make a counter go up.&lt;/p&gt;
+
+&lt;p&gt;To think about: What does the control scheme convey? How much does it sell, or communicate the experience that you’re this particular avatar.&lt;/p&gt;
+
+&lt;h2 id=&quot;doris-ruschs-experiential-metaphor&quot;&gt;Doris Rusch’s experiential metaphor&lt;/h2&gt;
+
+&lt;p&gt;Rusch introduces the term “experiential metaphor” for the phenomenon of understanding a gameplay experience as a physical visualisation of abstract ideas such as emotional processes or mental states. What the game feels like can provide an additional interpretative cue that helps game comprehension along (e.g. game feels like relationship, thus it might be about relationship).&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Games can evoke strong associations to experiences from real life along the lines of “oh my, this feels exactly like (insert appropriate experience here)!”.&lt;/p&gt;&lt;cite&gt;&lt;a class=&quot;citation&quot; href=&quot;#rusch_making_2017&quot;&gt;(Rusch 2017)&lt;/a&gt;&lt;/cite&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;An example for the game:&lt;/em&gt; feeling helplessness when the sea fills up with too many oil spills or rubbish. Feeling anger when the polluters come after you or your last piece of ice. And especially, the last piece of ice on earth is due to global warming, and this will make the player feel sad for the bear. But not just feeling feelings, but feeling like you’re in a battle to save Mother Earth.&lt;/p&gt;
+
+&lt;h2 id=&quot;ian-bogosts-procedural-rhetoric&quot;&gt;Ian Bogost’s procedural rhetoric&lt;/h2&gt;
+
+&lt;p&gt;According to Bogost &lt;a class=&quot;citation&quot; href=&quot;#bogost_persuasive_2007&quot;&gt;(2007)&lt;/a&gt;, &lt;em&gt;procedural rhetoric&lt;/em&gt; is interested in the ways that ethical, political and social arguments can be embedded in the rules of a game, and how the rules are communicated to, and understood by a player. Via their simulation rules, games present embedded values, and it is the players’ appropriation and understanding of that model that make a game have meaning &lt;a class=&quot;citation&quot; href=&quot;#zagar_procedural_2013&quot;&gt;(Zagar 2013)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;An example for the game:&lt;/em&gt; the player collects rubbish from the sea; the player stands up against polluting enemies.&lt;/p&gt;
+
+&lt;h2 id=&quot;bringing-it-together&quot;&gt;Bringing it together&lt;/h2&gt;
+
+&lt;p&gt;Ian Bogost’s procedural rhetoric, Doris Rusch’s experiential metaphor, and Steve Swink’s metaphor metric are all aligned toward the idea that “the mechanic is the message” or “the medium is the message”. If I want to communicate a message, it has got to be through a well-tuned mechanic, and appropriate aesthetics, all the while conveying a suitable set of emotions in the player to hopefully mobilise them to fight climate change.&lt;/p&gt;
+
+&lt;p&gt;Going beyond procedurality, Sicart argues that the designer should leave enough room for player appropriation and self-expression, and not force a viewpoint onto the player through the game’s procedurality:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Against the argument of efficiency and rationality, we should invoke the aesthetics of play, the ethics of expression, the myth in the machine. To surpass instrumental play and address that whatever games contribute with to our culture, play cannot be codified; it cannot be limited and bound to the processes delimited by arbitrarily created rules dictated by distant designers. Play belongs to players, and the games’ meaning resides in the actions of players.&lt;/p&gt;&lt;cite&gt;&lt;a class=&quot;citation&quot; href=&quot;#sicart_against_2011&quot;&gt;(Sicart 2011)&lt;/a&gt;&lt;/cite&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;An example for the game:&lt;/em&gt; the game can also offer choices: you can choose to fit more polluting weapons that are stronger against the enemy, but then you become a part of the polluting problem. (I would, however, be mindful of weaponry in the game, and not be labelled as inciting eco-terrorism like Thunderbird Strike was &lt;a class=&quot;citation&quot; href=&quot;#starkey_no_2017&quot;&gt;(Starkey 2017)&lt;/a&gt;, although any PR is good PR, I guess!)&lt;/p&gt;
+
+&lt;p&gt;Nelson offers a critique of Sicart’s paper, or perhaps an alternative-yet-complementing viewpoint, and says&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&quot;Meaningful games&quot; should not be modelled on rhetorical theory but on performance-art theory. Rather than attempting to convey meaning or persuade via representation of arguments in processes, one ought rather to design games aimed at setting up meaningful situations or effecting interventions.&lt;/p&gt;&lt;cite&gt;&lt;a class=&quot;citation&quot; href=&quot;#nelson_sicarts_2012&quot;&gt;(Nelson 2012)&lt;/a&gt;&lt;/cite&gt;&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;homework-and-todo&quot;&gt;Homework and TODO&lt;/h1&gt;
+
+&lt;p&gt;Apart from what I’ve done so far, there is still a lot more:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;be careful with the firing projectiles, and don’t get accused of ecoterrorism like the lady from &lt;a href=&quot;https://www.thunderbirdstrike.com/&quot;&gt;Thunderbird Strike&lt;/a&gt;. We might have to be very metaphorical about “weapons” in the game.&lt;/li&gt;
+  &lt;li&gt;Research climate change solutions. See if they can be used as “weapons” in the game.&lt;/li&gt;
+  &lt;li&gt;missing piece: the argument. What do I want to persuade people of? E.g. causes of the problem (causing the polar icecaps to melt, sea levels to rise), and then: here is a response to this problem (give the player a real solution to the problem; how can I mobilise players?)&lt;/li&gt;
+  &lt;li&gt;the notion of building is the opposite of melting - can this juxtaposition be used to full effect?&lt;/li&gt;
+  &lt;li&gt;Research: Find horde survival game that builds, or has building mechanic. (base building) The closest I’ve come to far are TD games (tower defence). But with TD, you’re not building a base, as such, but you’re adding towers to it along pre-determined paths.&lt;/li&gt;
+  &lt;li&gt;merry group of bandits: feels more like a united front, collective action, against climate change. Convey the idea that there is power in numbers.&lt;/li&gt;
+  &lt;li&gt;more sustainable ammunition: Boomerang, harpoons on ropes, perhaps large floaty boulders which can be collected again after it knocks an enemy out? As I’m inspired by the &lt;a href=&quot;https://en.wikipedia.org/wiki/New_weird&quot;&gt;New Weird&lt;/a&gt; of China Miéville, perhaps there can be some thaumaturgists onboard with special magical weapons.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In fact, I’ve put this up for discussion with my cohort:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ve thought about introducing sustainable weapons in the past, e.g. boomerangs (infinitely re-usable), or any weapon, really, which you don’t let go off (chain mace / flail, or other such medieval weapons you can think of), which ties into the don’t-pollute / recycle messaging.&lt;/p&gt;
+
+  &lt;p&gt;I had a thought that you can give the player the option to craft/pick-up “stronger” weapons, but the trade-off would be that they’re more polluting, so you become part of the problem. (Proper military weapons, explody things - we all know the military or war in general is one of the biggest polluters.)&lt;/p&gt;
+
+  &lt;p&gt;This ties into Miguel Sicart’s “against procedurality” (as in Bogost’s “procedural rhetoric”) of giving the player more options, and not shoe-horning them into the designer’s intended message with procedurality. Giving the player more agency to make their own choices, and all that. I.e. they don’t have to play like an eco warrior who recycles and don’t pollute; they can go all-out postal with nukes if they want.&lt;/p&gt;
+
+  &lt;p&gt;I’m still keeping Thunderbird Strike in the back of my mind, trying to be careful of the “inciting eco-terrorism” badge. (Although, that might be FABULOUS PR for me…)&lt;/p&gt;
+
+  &lt;p&gt;If a player plays more greenly, they can be appropriately rewarded for it.&lt;/p&gt;
+
+  &lt;p&gt;Meanwhile, I’m also trying to think really hard about not having weapons at all. E.g. bring in China Miéville’s “new weird”ness back into it, perhaps the polar bear can be a thaumaturgist who can magic up some blocks of ice around enemies, freezing them. Or she can summon tornadoes or tidal waves (extreme weather!) to float the enemies away. Or summon a Kraken which eats them (the Kraken is mad anyway at those bozos for polluting their watery home). Or if we have to use real weapons, perhaps having “soft” weapons that don’t kill, like whips.&lt;/p&gt;
+
+  &lt;p&gt;I’d miss having projectiles, though, as it’s so cool to see them flying across the screen…&lt;/p&gt;
+
+  &lt;p&gt;Sorry, I’m yammering! Let me know your thoughts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;lessons-learned&quot;&gt;Lessons learned&lt;/h1&gt;
+
+&lt;h2 id=&quot;prototype-vs-proof-of-concept-poc&quot;&gt;Prototype VS proof of concept (POC)&lt;/h2&gt;
+
+&lt;p&gt;I started off calling the proofs-of-concept prototypes, but they are different:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;POC shows that a product idea can be made, and the prototype shows how it’s made.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;pen--paper-vs-game-engine&quot;&gt;Pen &amp;amp; paper VS game engine&lt;/h2&gt;
+
+&lt;p&gt;We were urged to not use our final game engine of choice for the POCs, but I just jumped straight into Godot. TBH, the coding comes naturally, and with years of experience, I tend to structure my work well from the get-go, so I’m basically “sketching with code”. The engine doesn’t get in the way at all.&lt;/p&gt;
+
+&lt;p&gt;In future, I will consider using something other than a game engine for POCs, but for the two proofs-of-concept I discussed above, I still feel that using a game engine was the best choice, as especially the first POC deals with player movement in the game, and they can both be shared more easily electronically. Paper prototypes can be scanned and shown to folks electronically, but work better when a visual concept has to be communicated, not gameplay.&lt;/p&gt;
+
+&lt;h1 id=&quot;bibliography&quot;&gt;Bibliography&lt;/h1&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;bogost_persuasive_2007&quot;&gt;BOGOST, Ian. 2007. &lt;i&gt;Persuasive Games the Expressive Power of Videogames&lt;/i&gt;. Cambridge, MA: MIT Press. Available at: http://site.ebrary.com/id/10190451 [accessed 7 Mar 2022].&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;nelson_sicarts_2012&quot;&gt;NELSON, Mark J. 2012. “Sicart’s ’Against Procedurality’ \Textbar Mark J. Nelson.” &lt;i&gt;Mark J. Nelson&lt;/i&gt;. Available at: https://www.kmjn.org/notes/sicart_against_proceduralism.html [accessed 7 Mar 2022].&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;rusch_making_2017&quot;&gt;RUSCH, Doris C. 2017. &lt;i&gt;Making Deep Games: Designing Games with Meaning and Purpose&lt;/i&gt;. Boca Raton, FL: CRC Press, Taylor &amp;amp; Francis Group, an Informa business.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;sicart_against_2011&quot;&gt;SICART, Miguel. 2011. “Against Procedurality.” &lt;i&gt;Game Studies&lt;/i&gt; 11(3), [online]. Available at: http://gamestudies.org/1103/articles/sicart_ap/ [accessed 7 Mar 2022].&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;starkey_no_2017&quot;&gt;STARKEY, Daniel. 2017. “No, This Video Game Is Not ‘Eco-Terrorism.’” &lt;i&gt;The Verge&lt;/i&gt;. Available at: https://www.theverge.com/2017/11/1/16588166/game-ecoterrorism-politics-thunderbird [accessed 7 Mar 2022].&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;swink_game_2009&quot;&gt;SWINK, Steve. 2009. &lt;i&gt;Game Feel: a Game Designer’s Guide to Virtual Sensation&lt;/i&gt;. Amsterdam ; Boston: Morgan Kaufmann Publishers/Elsevier.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;zagar_procedural_2013&quot;&gt;ZAGAR, Catherine. 2013. “Procedural Rhetoric and Instrumental Play: Value and Meaning in Simulated City-Building.” &lt;i&gt;AMNESIALOG.&lt;/i&gt; Available at: https://amnesialog.wordpress.com/2013/01/14/procedural-rhetoric-and-instrumental-play-value-and-meaning-in-simulated-city-building/ [accessed 7 Mar 2022].&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;dutch_game_garden_jan_2013&quot;&gt;DUTCH GAME GARDEN. 2013. “Jan Willem Nijman - Vlambeer - ‘The Art of Screenshake’ at INDIGO Classes 2013.” Available at: https://www.youtube.com/watch?v=AJdEqssNZ-U [accessed 6 Mar 2022].&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;game_makers_toolkit_secrets_2015&quot;&gt;GAME MAKER’S TOOLKIT. 2015. “Secrets of Game Feel and Juice.” Available at: https://www.youtube.com/watch?v=216_5nu4aVQ [accessed 6 Mar 2022].&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;grapefrukt_juice_2012&quot;&gt;GRAPEFRUKT. 2012. “Juice It or Lose It - a Talk by Martin Jonasson &amp;amp; Petri Purho.” Available at: https://www.youtube.com/watch?v=Fy0aCDmgnxg [accessed 6 Mar 2022].&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name></name></author><category term="blog" /><category term="ma" /><category term="falmouth" /><category term="crj" /><category term="gdo750" /><category term="ma-final-major-project" /><category term="week6" /><category term="mvp" /><category term="prototype" /><summary type="html">Proof of concept 1 Proof of concept 2 Extra comments from the surveys Other proofs of concept Miro board Sketches The medium is the message Steve Swink’s metaphor metric Doris Rusch’s experiential metaphor Ian Bogost’s procedural rhetoric Bringing it together Homework and TODO Lessons learned Prototype VS proof of concept (POC) Pen &amp;amp; paper VS game engine Bibliography</summary></entry></feed>

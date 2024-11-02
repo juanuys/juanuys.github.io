@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-C41XWQXNNL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-C41XWQXNNL');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+
+
+  <link rel="me" href="https://mastodon.art/@uys">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#f6ffd3">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="alternate" type="application/rss+xml" title="Juan Uys"
+    href="/feed.xml">
+
+  
+  <meta name="robots" content="index, follow" />
+
+
+  <!-- Primary Meta Tags -->
+  <title>Juan Uys</title>
+  <meta name="title" content="Juan Uys">
+  <meta name="description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://juanuys.com/">
+  <meta property="og:title" content="Juan Uys">
+  <meta property="og:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="og:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://juanuys.com/">
+  <meta property="twitter:title" content="Juan Uys">
+  <meta property="twitter:description" content="Witness Juan Uys concerning himself with art, computer programming, and other frivolous endeavours.">
+  <meta property="twitter:image" content="https://juanuys.com/assets/about/juanuys.png">
+
+  <!-- indieweb -->
+  <a href="https://juanuys.com/" class="h-card" rel="me">Juan Uys</a>
+</head>
+
+
+  <body>
+
+    <div class="all">
+      <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    <a class="site-title" rel="author" href="/blog">
+      
+      <img src="/assets/index/pixelated.png" alt="Juan Uys" height="40"> /blog
+      
+    </a>
+          
+
+  </div>
+</header>
+
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          <div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            <a href="/tag/tech" class="tag">tech</a><a href="/tag/semweb" class="tag">semweb</a>
+        </p>
+    </div>
+    -->
+
+    <h1 class="title">Semantic Web Deep Dive</h1>
+
+    <div>      
+      
+
+      
+        <div style="float: left; padding-right: 20px;">tags:</div>
+
+        <div class="tags">
+          <ul>
+          
+          
+            <li><a title="tag: tech" href="/tags#tech">tech</a></li>
+          
+            
+          
+          
+            <li><a title="tag: semweb" href="/tags#semweb">semweb</a></li>
+          
+            
+          
+          </ul>
+        </div>
+      
+    </div>
+    
+
+    <info datetime="2012-07-31">
+        2012-07-31
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body"><p>Or, actually:</p>
+
+<h1 id="semantic-web-crash--burn">Semantic Web Crash &amp; Burn</h1>
+
+<p>I sent a <a href="/2009/07/10/semantic-web.html">very naïve open letter</a> to a few key players in the semweb space a few years ago. I got no responses, and hence thought that either my question was posed incorrectly, or the field is so new no-one can really answer me, or the race is on to lay the groundwork and therefore there’s no time to get a newbie up to speed, or X. (I don’t know what X is yet.)</p>
+
+<p>Fast-forward 3 years and I now have a project going which may or may not generate some valuable data soon. I want to store the data in a way that makes sense for humans and computers alike. I do not want to index everything, because being presented with a list of 10 close matches to what you want is so archaic. And since I’m a big fan of free PaaS hosting plans, the data needs to be stored very efficiently, and I should be able to operate on it every efficiently. Besides, <a href="http://www.information-management.com/blogs/big-data-size-mass-velocity-10022886-1.html">your Big Data is big enough</a>, so I should be OK.</p>
+
+<p>Without further ado, I’ve dedicated my evening to a Deep Dive of everything semweb.</p>
+
+<p>I love the web and I’m a web programmer. I also want to give meaning to my data, i.e. attach some sort of semantics. Roll on.</p>
+
+<h1 id="overview">Overview</h1>
+
+<p>I started this post at 7 and now it’s 11. I got stuck on a <a href="http://en.wikipedia.org/wiki/Linked_data">handful of Wikipedia articles</a> and <a href="http://www.w3.org/2001/sw/">W3C</a> recommendations and working groups. It all reminded me of this XKCD on standards:</p>
+
+<p><a href="http://xkcd.com/927/"><img alt="XKCD #927 (http://xkcd.com/927/)" src="http://imgs.xkcd.com/comics/standards.png" width="500" height="283" /></a></p>
+
+<p>After hours of randomly clicking and reading bits and pieces, I’ve managed to get a better overview of the state of semweb.</p>
+
+<h1 id="and-then-a-funny-thing-happened">And then a funny thing happened</h1>
+
+<p>This is where I was supposed to write about it all, dissect it, make sense of it and summarise it.</p>
+
+<p>I was going to give you a primer on simple terms like taxonomy, vocabulary and ontology. I was going to tell you how we’re still far away from data and still very much document-based, stuck in silos, and how traditional markup doesn’t cut it—how it does not describe what something means, how <a href="http://en.wikipedia.org/wiki/Microformat">microformats</a> is a web-based approach to semantic markup, and how this proliferation of formats can luckily be ground down into something coherent using <a href="http://en.wikipedia.org/wiki/GRDDL">GRDDL</a>. Most importantly, I was going to tell you about <a href="http://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning">knowledge representation</a> using OWL and RDF, and the software tools to peruse said formats.</p>
+
+<p>Then I realised: my brain is so crammed with 4 hours worth of reading all this stuff, that I need to find a way to do exactly that: <strong>a knowledge representation of what’s in my brain</strong>.</p>
+
+<p>Then something in my head went <em>snap</em>.</p>
+
+<p>I ended up on the floor in a spasmodic fit of hilarity, sucking my thumb. The confusion punctured my prefrontal cortex, and I now only speak to uppity wooden chairs. In reverse. My brain turned on itself in the most meta way possible. I had to stop.</p>
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>I don’t want to duplicate any knowledge here, so there will be no summaries. But, I’ve seen the suffering, and will leave with you the following tips:</p>
+
+<ul>
+  <li>if you ever publish anything, and it’s not data, please <a href="http://en.wikipedia.org/wiki/Embedded_RDF">annotate</a> it for <a href="http://en.wikipedia.org/wiki/Artificial_intelligence">generations to come</a>. The web is too noisy to scrape anything anymore and we’re too busy to build a spider to make sense of your mash of markup.</li>
+  <li>there are <a href="http://answers.semanticweb.com/">places</a> where you can ask questions if you get stuck.</li>
+  <li>don’t silo your data or think it belongs to you especially if your users created it (here’s looking at you, Facebook). <a href="http://vibrantdata.org/">It should be free.</a></li>
+  <li>don’t break the web by creating user profiles and not annotating it with <a href="http://microformats.org/wiki/hcard">hCard</a> at the very least. There’s also <a href="http://www.foaf-project.org/">FOAF</a> and <a href="http://en.wikipedia.org/wiki/XHTML_Friends_Network">XFN</a>.</li>
+  <li>don’t expect silver bullets. There are smart people doing good things to take this movement forward, like <a href="http://www.opencalais.com/">http://www.opencalais.com/</a> (even though OC are too focused on companies/mergers news)</li>
+  <li>there’s too much standards documentation for me to consume right now. <a href="http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/">Process can scare the most optimistic of us away</a>, but it seemed the folks at W3C managed to pull something wonderful together. I really do hope I can get through it all one day.</li>
+  <li>a few weeks after doing this 7-11 stint, I found a semweb on-line test, and memory served me well. I’ll consume you yet, semweb, just you wait.</li>
+</ul>
+
+<blockquote class="twitter-tweet"><p>Decided to learn a thing or 2 about RDF/OWL by throwing myself into the deep end with a test. <a href="https://twitter.com/search?q=%23semweb&amp;src=hash">#semweb</a> <a href="https://twitter.com/search?q=%23TabSwitchingFTW&amp;src=hash">#TabSwitchingFTW</a> <a href="http://t.co/lBydLQ6A">pic.twitter.com/lBydLQ6A</a></p>&mdash; opyate (@opyate) <a href="https://twitter.com/opyate/statuses/224227281810358273">July 14, 2012</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h1 id="and-then-some">And, then some…</h1>
+
+<p>…other things I wanted to write a few words about, but responsibilities beckon.</p>
+
+<h2 id="lod">LOD</h2>
+
+<p>This really excites me: http://www.w3.org/wiki/SweoIG/TaskForces/CommunityProjects/LinkingOpenData</p>
+
+<p>See FAQ #7: “Invent heuristics to auto-generate links between data items from different sources.”</p>
+
+<p>And then further down there is a list of passionate people telling the world how they could help.</p>
+
+<h2 id="mit-simile-project">MIT Simile project</h2>
+
+<p><a href="http://simile.mit.edu/">http://simile.mit.edu/</a></p>
+</div>
+
+
+  
+
+  <div class="previousnext">
+
+    
+      <a class="pnbox prev" href="/blog/2012/02/27/consistent-hashing-using-scala-and-gnuplot.html">&laquo; Consistent hashing with Scala</a>
+    
+
+    
+      <a class="pnbox next" href="/blog/2012/10/15/adding-sms-functionality-with-twilio.html">Adding SMS functionality with Twilio &raquo;</a>
+    
+
+  </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </main>
+
+      <span>
+    Copyright © 2002-2024 Juan Uys, <a href="https://github.com/juanuys/juanuys.github.io" alt="Github link to this website's source code.">(source code for this website)</a>.
+    Updates via <a href="/feed.xml">RSS</a>, <a href="https://mastodon.art/@uys">Mastodon</a> or <a href="/newsletter">newsletter 💌</a>.
+</span>
+
+    </div>
+
+  </body>
+
+</html>
