@@ -5,6 +5,8 @@ layout: home
 
 Hello, I'm <span title="pronounced like the French *Jean*">Juan</span> Uys, and welcome to my little corner on the Internet.
 
+When I'm not [helping clients with software](https://uys.io/cv), I fight hydras and crush rocks with my bare hands.
+
 - 🤸🏻 [about me](about)
 - 🕰️ [now](now)
 - 🕹️ [games](games)
